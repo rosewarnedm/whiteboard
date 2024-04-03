@@ -1,20 +1,20 @@
 ## Thursday 4 April
 
-DR AM: Dr Pang/Harminder Sensi/Dr Kurian
+### DR 
+AM: Dr Pang/Harminder Sensi/Dr Kurian
 
-DR PM: Dr Qaiyum/Jiju Zachariah/Dr Azam
+PM: Dr Qaiyum/Jiju Zachariah/Dr Azam
 
-On call: Dr D Lehru/Dr M Qaiyum
-
+### On call
+Dr D Lehru/Dr M Qaiyum
 
 ## Friday 5 April
+### DR 
+AM: Dr Agamy/Michael Hopkinson/Dr Khan
 
-DR AM: Dr Agamy/Michael Hopkinson/Dr Khan
+PM: Dr Vydianath/Jiju Zachariah/Dr Chaudhary
 
-DR PM: Dr Vydianath/Jiju Zachariah/Dr Chaudhary
-
-Weekend on call: 
-
+### Weekend on call: 
 Friday 5.00pm – 9.00pm	Dr V Popa-Nimigean/Dr A Bapusamy
 
 Friday 9.00pm – 09.00am	Dr S Somani/Dr A Bapusamy

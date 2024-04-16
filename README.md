@@ -79,25 +79,25 @@ Wednesday 27 November
 
 
 ## REALM meetings
+### 9.15 – 10.30
 
-Friday 26 April	9.15 – 10.30
+Friday 26 April
 
-Monday 20 May	9.15 – 10.30	
+Monday 20 May	
 
-Tuesday 25 June 9.15 – 10.30	
+Tuesday 25 June 	
 
-Wednesday 31 July 	9.15 – 10.30	
+Wednesday 31 July 	
 
-Thursday 29 August	9.15 – 10.30	
+Thursday 29 August	
 
-Friday 27 September	9.15 – 10.30	
+Friday 27 September
 
-Monday 28 October  9.15 – 10.30	
+Monday 28 October  
 
-Tuesday 26 November	9.15 – 10.30	
+Tuesday 26 November		
 
-Wed 18 December	9.15 – 10.30	
-
+Wed 18 December	
 
 
 

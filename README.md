@@ -1,64 +1,103 @@
-## Monday 8 April
+## Monday 15 April
 
 ### DR 
-AM: Dr Jain/Dhiraj Lehru/Dr Syed
+AM:Dr Syed/Dhiraj Lehru/Dr Vydianath
 
-PM: Dr Mahmood/Vladimir Popa-Nimigean/Dr Agamy
+PM: Dr Gupta/Vladimir Popa-Nimigean/Dr Li
 
 ### On call
-Dr D Lehru/Dr D Rosewarne
+Dr B Chow	Dr S Yahya
 
-## Tuesday 9 April
+## Tuesday 16 April
 
 ### DR 
-AM: Dr Blakeman/Dr Rafati
+AM: Dr Hedak/Hira Sami/All/Dr Gupta
 
-PM: Dr Rosewarne/Dr Li
+PM: Dr Vydianath/Sobia Khan/Dr Saha
 
 ### On call
-Dr V Popa-Nimigean	Dr P Li
+Dr M Hopkinson	Dr S Vydianath
 
-## Wednesday 10 April
+## Wednesday 17 April
 
 ### DR 
-AM: Dr Rafati/Dr Bapusamy
+AM: Dr Rafati/Harminder Sensi/Dr Chaudhary
 
-PM: Dr Gupta/Dr Pang
+PM: Dr Gupta/Dominic Catlow/Dr Thomas
 
 ### On call
-Dr H Sensi	Dr M Blakeman 
+Dr V Popa-Nimigean	Dr S Jain 
 
 
-## Thursday 11 April
+## Thursday 18 April
 
 ### DR 
-AM: Dr Kurian/Dr Mahmood
+AM: Dr Pang/Sobia Khan/Dr Kurian
 
-PM: Dr Azam/Dr Qaiyum
+PM: Dr Khan/Michael Hopkinson/Dr Jawad
 
 ### On call
-Dr M Hopkinson	Dr D Thomas
+Dr B Chow (L)	Dr F Rafati
 
 
-## Friday 12 April
+## Friday 19 April
 
 ### DR 
-AM: Dr Li/Dr Syed
+AM: Dr Li/Hira Sami/Dr Syed
 
-PM: Dr Yahya/Dr Rosewarne
+PM: Dr Thomas/Shradha Somani/Dr Jain
 
 ### On call
-Friday 5.00pm – 9.00pm	Dr D Lehru	Dr Pang
+Friday 5.00pm – 9.00pm	Dr S Somani	Dr F Syed
 
-Friday 9.00pm – 09.00am	Dr B Chow	Dr Pang
+Friday 9.00pm – 09.00am	Dr Q Afzaal	Dr F Syed
 
-Saturday 09.00am – 9.00pm	Dr H Sensi (L)	Dr Pang
+Saturday 09.00am – 9.00pm	Dr M Hopkinson (L)	Dr F Syed
 
-Saturday 9.00pm – 09.00am	Dr B Chow	Dr Pang
+Saturday 9.00pm – 09.00am	Dr Q Afzaal	Dr F Syed
 
-Sunday 09.00am – 9.00pm	Dr H Sami	Dr Pang
+Sunday 09.00am – 9.00pm	Dr S Somani (L)	Dr F Syed
 
-Sunday 9.00pm – 09.00am	Dr B Chow	Dr Pang	
+Sunday 9.00pm – 09.00am	Dr Q Afzaal	Dr F Syed
+
+## Directorate meetings
+
+Tuesday 23 April
+
+Wednesday 29 May
+
+Thursday 27 June
+
+Friday 26 July
+
+Monday 2 September
+
+Tuesday 8 October
+
+Wednesday 27 November
+
+
+## REALM meetings
+
+Friday 26 April	9.15 – 10.30
+
+Monday 20 May	9.15 – 10.30	
+
+Tuesday 25 June 9.15 – 10.30	
+
+Wednesday 31 July 	9.15 – 10.30	
+
+Thursday 29 August	9.15 – 10.30	
+
+Friday 27 September	9.15 – 10.30	
+
+Monday 28 October  9.15 – 10.30	
+
+Tuesday 26 November	9.15 – 10.30	
+
+Wed 18 December	9.15 – 10.30	
+
+
 
 
 

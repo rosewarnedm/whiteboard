@@ -60,7 +60,7 @@ Sunday 09.00am – 9.00pm	Dr S Somani (L)	Dr F Syed
 
 Sunday 9.00pm – 09.00am	Dr Q Afzaal	Dr F Syed
 
-## Directorate meetings
+## Directorate meetings  1pm Monday, 4pm other days
 
 Tuesday 23 April
 

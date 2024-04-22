@@ -27,7 +27,7 @@ Dr Dr S Somani	Dr T Au Yong
 ## Wednesday 24 April
 
 ### DR 
-AM: Dr Au Yong/TBC/Dr Bapusamy
+AM: Dr Au Yong/Khyle Cole/Dr Bapusamy
 
 PM: Dr Jawad/Qasim Afzaal/Dr Gupta
 
@@ -41,7 +41,7 @@ Dr B Chow	Dr Jawad
 ### DR 
 AM: Dr Kurian/Sobia Khan/Dr Mahmood
 
-PM: Dr Qaiyum/Maryam Paracha/Dr Collins
+PM: Dr Qaiyum/Maryam Paracha/TBC
 
 ### On call
 Dr S Khan	Dr S Vydianath

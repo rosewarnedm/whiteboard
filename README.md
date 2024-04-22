@@ -44,7 +44,7 @@ AM: Dr Kurian/Sobia Khan/Dr Mahmood
 PM: Dr Qaiyum/Maryam Paracha/TBC
 
 ### On call
-Dr S Khan	Dr S Vydianath
+Dr M Paracha	Dr A Gupta
 
 
 
@@ -58,6 +58,8 @@ AM: Dr Syed/Qasim Afzaal/Dr Li
 PM: Dr Rafati/Asif Sheikh/Dr Thomas
 
 ### On call
+5 pm - 9 pm:	Dr A Sheikh/Dr R Hedak
+9 pm - 9 am:	Dr B Chow/Dr R Hedak
 
 ## Weekend MRI rota
 

@@ -1,69 +1,119 @@
-## Monday 15 April
+## Monday 22 April
 
 ### DR 
-AM:Dr Syed/Dhiraj Lehru/Dr Vydianath
+AM: Dr Thomas/Binglung Chow/Dr Jawad
 
-PM: Dr Gupta/Vladimir Popa-Nimigean/Dr Li
+PM: Dr Saha/Vladimir Popa-Nimigean/Dr Au Yong
 
 ### On call
-Dr B Chow	Dr S Yahya
+Dr B Chow	Dr A Mahmood
 
-## Tuesday 16 April
+
+## Tuesday 23 April
 
 ### DR 
-AM: Dr Hedak/Hira Sami/All/Dr Gupta
+AM: Dr Azam/Asif Sheikh/Dr Blakeman
 
-PM: Dr Vydianath/Sobia Khan/Dr Saha
+PM: Dr Vydianath/Dhiraj Lehru/Dr Rosewarne
+
+### 4pm Directorate
 
 ### On call
-Dr M Hopkinson	Dr S Vydianath
+Dr Dr S Somani	Dr T Au Yong
 
-## Wednesday 17 April
+
+
+
+## Wednesday 24 April
 
 ### DR 
-AM: Dr Rafati/Harminder Sensi/Dr Chaudhary
+AM: Dr Au Yong/TBC/Dr Bapusamy
 
-PM: Dr Gupta/Dominic Catlow/Dr Thomas
+PM: Dr Jawad/Qasim Afzaal/Dr Gupta
 
 ### On call
-Dr V Popa-Nimigean	Dr S Jain 
+Dr B Chow	Dr Jawad 
 
 
-## Thursday 18 April
+
+## Thursday 25 April
 
 ### DR 
-AM: Dr Pang/Sobia Khan/Dr Kurian
+AM: Dr Kurian/Sobia Khan/Dr Mahmood
 
-PM: Dr Khan/Michael Hopkinson/Dr Jawad
+PM: Dr Qaiyum/Maryam Paracha/Dr Collins
 
 ### On call
-Dr B Chow (L)	Dr F Rafati
+Dr S Khan	Dr S Vydianath
 
 
-## Friday 19 April
+
+## Friday 26 April
+
+### 9.15am REALM
 
 ### DR 
-AM: Dr Li/Hira Sami/Dr Syed
+AM: Dr Syed/Qasim Afzaal/Dr Li
 
-PM: Dr Thomas/Shradha Somani/Dr Jain
+PM: Dr Rafati/Asif Sheikh/Dr Thomas
 
 ### On call
-Friday 5.00pm – 9.00pm	Dr S Somani	Dr F Syed
 
-Friday 9.00pm – 09.00am	Dr Q Afzaal	Dr F Syed
+## Weekend MRI rota
 
-Saturday 09.00am – 9.00pm	Dr M Hopkinson (L)	Dr F Syed
+### May 4 
 
-Saturday 9.00pm – 09.00am	Dr Q Afzaal	Dr F Syed
+Dr Kurian	(Brain/Spine)
 
-Sunday 09.00am – 9.00pm	Dr S Somani (L)	Dr F Syed
+### May 5
 
-Sunday 9.00pm – 09.00am	Dr Q Afzaal	Dr F Syed
+Dr Pang	(Brain/Spine/MRCP)
+		
+### May 11
+
+Dr Saha (Brain/Spine)
+
+### May 12
+
+Dr Khan	(Brain/Spine/MRCP)
+		
+### May 18
+
+Dr Bapusamy (Brain/Spine)
+
+### May 19
+
+Dr Li	(Brain/Spine/MRCP)
+		
+### May 25
+
+Dr Vydianath 	(Brain/Spine/MRCP)
+
+### May 26
+
+Dr Azam	(Brain/Spine)
+
+		
+### June 1
+
+Dr Qaiyum	"(Brain/Spine/MRCP)
+
+### June 2
+
+Dr Jawad	"(Brain/Spine)
+
+### June 8
+
+Dr Rosewarne	"(Brain/Spine)
+
+### June 9
+
+Dr Thomas	
+
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days
 
-Tuesday 23 April
 
 Wednesday 29 May
 
@@ -81,7 +131,6 @@ Wednesday 27 November
 ## REALM meetings
 ### 9.15 – 10.30
 
-Friday 26 April
 
 Monday 20 May	
 

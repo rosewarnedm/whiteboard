@@ -41,7 +41,7 @@ Dr S Somani	Dr Jawad
 ### DR 
 AM: Dr Kurian/Sobia Khan/Dr Mahmood
 
-PM: Dr Qaiyum/Maryam Paracha/TBC
+PM: Dr Qaiyum/Maryam Paracha/Dr Pang
 
 ### On call
 Dr M Paracha	Dr A Gupta

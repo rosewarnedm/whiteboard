@@ -98,19 +98,19 @@ Dr Azam	(Brain/Spine)
 		
 ### June 1
 
-Dr Qaiyum	"(Brain/Spine/MRCP)
+Dr Qaiyum	(Brain/Spine/MRCP)
 
 ### June 2
 
-Dr Jawad	"(Brain/Spine)
+Dr Jawad	(Brain/Spine)
 
 ### June 8
 
-Dr Rosewarne	"(Brain/Spine)
+Dr Rosewarne	(Brain/Spine)
 
 ### June 9
 
-Dr Thomas	
+Dr Thomas	(Brain/Spine/MRCP)
 
 
 ## Directorate meetings  

@@ -19,7 +19,7 @@ PM: Dr Vydianath/Dhiraj Lehru/Dr Rosewarne
 ### 4pm Directorate
 
 ### On call
-Dr Dr S Somani	Dr T Au Yong
+Dr Dr B Chow	Dr T Au Yong
 
 
 
@@ -32,7 +32,7 @@ AM: Dr Au Yong/Khyle Cole/Dr Bapusamy
 PM: Dr Jawad/Qasim Afzaal/Dr Gupta
 
 ### On call
-Dr B Chow	Dr Jawad 
+Dr S Somani	Dr Jawad 
 
 
 

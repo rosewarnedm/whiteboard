@@ -39,9 +39,9 @@ Dr S Somani	Dr Jawad
 ## Thursday 25 April
 
 ### DR 
-AM: Dr Kurian/Sobia Khan/Dr Mahmood
+AM: Dr Kurian/maryam paracha/Dr Mahmood
 
-PM: Dr Qaiyum/Maryam Paracha/Dr Pang
+PM: Dr Qaiyum/sobia khan/Dr Pang
 
 ### On call
 Dr M Paracha	Dr A Gupta

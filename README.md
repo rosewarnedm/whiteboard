@@ -58,9 +58,11 @@ AM: Dr Syed/Qasim Afzaal/Dr Li
 PM: Dr Rafati/Asif Sheikh/Dr Thomas
 
 ### On call
-5 pm - 9 pm:	Dr A Sheikh/Dr R Hedak
-9 pm - 9 am:	Dr B Chow/Dr R Hedak
-
+Friday 5 pm - 9 pm:	Dr A Sheikh/Dr I khan
+9 pm - 9 am:	Dr B Chow/Dr I khan
+Saturday 9 am to 9 pm Dr chaudhary
+Saturday 9 pm to 9 am Dr Vydianath 
+Sunday Dr thomas
 ## Weekend MRI rota
 
 ### May 4 

@@ -60,9 +60,10 @@ PM: Dr Rafati/Asif Sheikh/Dr Thomas
 ### On call
 Friday 5 pm - 9 pm:	Dr A Sheikh/Dr I khan
 9 pm - 9 am:	Dr B Chow/Dr I khan
-Saturday 9 am to 9 pm Dr chaudhary
-Saturday 9 pm to 9 am Dr Vydianath 
-Sunday Dr thomas
+Saturday 9 am to 9 pm Dr V Popa-Nimigean/dr chaudhary
+Saturday 9 pm to 9 am dr b Chow/Dr Vydianath 
+Sunday 9 am to 9 pm dr Popa-Nimigean/
+9 pm to 9 am dr Chow/Dr thomas
 ## Weekend MRI rota
 
 ### May 4 

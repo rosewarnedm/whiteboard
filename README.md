@@ -1,69 +1,29 @@
-## Monday 22 April
 
-### DR 
-AM: Dr Thomas/Binglung Chow/Dr Jawad
+Monday
+**DUTY**
+29
+am Dr Jawad/Maryam Paracha/Dr Syed
+pm Dr Saha/Hira Sami/Dr Jain
 
-PM: Dr Saha/Vladimir Popa-Nimigean/Dr Au Yong
+Tuesday
+30
+am Dr Blakeman/Mehvish Khatoon/Dr Khan
+pm Dr Rosewarne/Shradha Somani/Dr Azam
 
-### On call
-Dr B Chow	Dr A Mahmood
-
-
-## Tuesday 23 April
-
-### DR 
-AM: Dr Azam/Asif Sheikh/Dr Blakeman
-
-PM: Dr Vydianath/Dhiraj Lehru/Dr Rosewarne
-
-### 4pm Directorate
-
-### On call
-Dr Dr B Chow	Dr T Au Yong
+**ON-CALL**
+29	Monday	Dr Q Afzaal	Dr A Agamy
+30	Tuesday	Dr A Sheikh	Dr S Vydianath
 
 
 
 
-## Wednesday 24 April
-
-### DR 
-AM: Dr Au Yong/Khyle Cole/Dr Bapusamy
-
-PM: Dr Jawad/Qasim Afzaal/Dr Gupta
-
-### On call
-Dr S Somani	Dr Jawad 
 
 
 
-## Thursday 25 April
-
-### DR 
-AM: Dr Kurian/maryam paracha/Dr Mahmood
-
-PM: Dr Qaiyum/sobia khan/Dr Pang
-
-### On call
-Dr M Paracha	Dr A Gupta
 
 
 
-## Friday 26 April
 
-### 9.15am REALM
-
-### DR 
-AM: Dr Syed/Qasim Afzaal/Dr Li
-
-PM: Dr Rafati/Asif Sheikh/Dr Thomas
-
-### On call
-Friday 5 pm - 9 pm:	Dr A Sheikh/Dr I khan
-9 pm - 9 am:	Dr B Chow/Dr I khan
-Saturday 9 am to 9 pm Dr V Popa-Nimigean/dr chaudhary
-Saturday 9 pm to 9 am dr b Chow/Dr Vydianath 
-Sunday 9 am to 9 pm dr Popa-Nimigean/
-9 pm to 9 am dr Chow/Dr thomas
 ## Weekend MRI rota
 
 ### May 4 

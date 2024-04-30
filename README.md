@@ -1,17 +1,24 @@
 
-## Monday 29 April
 
 ### DUTY
-
-am Dr Jawad/Maryam Paracha/Dr Syed
-
-pm Dr Saha/Hira Sami/Dr Jain
-
 ## Tuesday 30 April
 
 am Dr Blakeman/Mehvish Khatoon/Dr Khan
-
 pm Dr Rosewarne/Shradha Somani/Dr Azam
+
+**May 2024**
+
+**Wednesday**
+am	Dr Chaudhary/Harminder Sensi/Dr Thomas	
+pm	Dr Gupta/Shradha Somani/Dr Rafati	
+
+**Thursday**
+am	Dr Kurian/Dhiraj Lehru/ Dr Mahmood	
+pm	Dr Qaiyum/Michael Hopkinson/Dr Pang	
+
+**Friday**
+am	Dr Khan/Asif Sheikh/Dr Jain
+pm	Dr Li/Qasim Afzaal/Dr Qaiyum
 
 ## ON-CALL
 
@@ -21,7 +28,7 @@ pm Dr Rosewarne/Shradha Somani/Dr Azam
 30	Tuesday		Dr A Sheikh	Dr S Vydianath
 
 **MAY**
-1	Wednesday	Dr S Somani	Dr W Pang
+1	Wednesday	Dr Q Afzaal	Dr W Pang
 2	Thursday	Dr B Chow	Dr F Rafati
 
 3	Friday 5.00pm – 9.00pm		Dr Q Afzaal	Dr P Li 
@@ -31,9 +38,9 @@ pm Dr Rosewarne/Shradha Somani/Dr Azam
 5	Sunday 09.00am – 9.00pm		Dr D Lehru	Dr P Li 
 	Sunday 9.00pm – 09.00am		Dr H Sensi	Dr P Li 
 
-6	Monday Bank Holiday		Dr B Chow	Dr M Qaiyum
-	Monday Bank Holiday		Dr J Zachariah	Dr M Qaiyum
-7	Tuesday				Dr Q Afzaal	Dr T Au Yong
+6	Monday Bank Holiday		Dr J Zachariah	Dr M Qaiyum
+	Monday Bank Holiday		Dr B Chow	Dr M Qaiyum
+7	Tuesday				Dr S Somani	Dr T Au Yong
 8	Wednesday			Dr A Sheikh	Dr R Kurian
 9	Thursday			Dr D Lehru	Dr H Azam
 
@@ -46,7 +53,7 @@ pm Dr Rosewarne/Shradha Somani/Dr Azam
  
 13	Monday				Dr M Paracha	Dr A Mahmood 
 14	Tuesday				Dr B Chow	Dr S Vydianath
-15	Wednesday			Dr Q Afzaal	Dr Jawad 
+15	Wednesday			Dr J Zachariah	Dr Jawad 
 16	Thursday			Dr S Somani	Dr A Bapusamy 
 
 17	Friday 5.00pm – 9.00pm		Dr M Khatoon	Dr S Jain 
@@ -63,9 +70,9 @@ pm Dr Rosewarne/Shradha Somani/Dr Azam
 
 24	Friday 5.00pm – 9.00pm		Dr J Zachariah	Dr A Gupta
 	Friday 9.00pm – 09.00am		Dr D Lehru (L)	Dr A Gupta
-25	Saturday 09.00am – 9.00pm	Dr Q Afzaal	Dr A Gupta
+25	Saturday 09.00am – 9.00pm	Dr J Zachariah	Dr A Gupta
 	Saturday 9.00pm – 09.00am	Dr M Khatoon (L)Dr A Gupta
-26	Sunday 09.00am – 9.00pm		Dr Q Afzaal	Dr A Gupta
+26	Sunday 09.00am – 9.00pm		Dr J Zachariah	Dr A Gupta
 	Sunday 9.00pm – 09.00am		Dr A Sheikh (L)	Dr A Gupta
 
 27	Bank holiday Monday		Dr H Sensi	Dr R Jawad

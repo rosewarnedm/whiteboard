@@ -1,19 +1,23 @@
 
-Monday
-**DUTY**
-29 APRIL 
+## Monday 29 April
+
+### DUTY
+
 am Dr Jawad/Maryam Paracha/Dr Syed
+
 pm Dr Saha/Hira Sami/Dr Jain
 
-Tuesday
-30 APRIL
+## Tuesday 30 April
+
 am Dr Blakeman/Mehvish Khatoon/Dr Khan
+
 pm Dr Rosewarne/Shradha Somani/Dr Azam
 
-**ON-CALL**
+## ON-CALL
 
-**APRIL**
+### APRIL
 29	Monday		Dr Q Afzaal	Dr A Agamy
+
 30	Tuesday		Dr A Sheikh	Dr S Vydianath
 
 **MAY**

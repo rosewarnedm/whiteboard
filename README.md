@@ -8,25 +8,32 @@ pm Dr Rosewarne/Shradha Somani/Dr Azam
 
 **May 2024**
 
+**Monday**
+am	Bank holiday
+pm	Bank holiday	
+
+**Tuesday**
+am	Dr Rosewarne, Vladmir Popa-Nimigean/Dr Blakeman	
+pm	Dr Au Yong, Hira Sami, Dr Gupta
+
 **Wednesday**
-am	Dr Chaudhary/Harminder Sensi/Dr Thomas	
-pm	Dr Gupta/Shradha Somani/Dr Rafati	
+am	Dr Chaudhary, George Macfarlane, Dr Rafati
+pm	Dr Thomas, Harminder Sensi, Dr Jawad
 
-**Thursday**
-am	Dr Kurian/Dhiraj Lehru/ Dr Mahmood	
-pm	Dr Qaiyum/Michael Hopkinson/Dr Pang	
+Thursday
 
-**Friday**
-am	Dr Khan/Asif Sheikh/Dr Jain
-pm	Dr Li/Qasim Afzaal/Dr Qaiyum
+am	Dr Saha, Dhiraj Lehru, Dr Collins
+pm 	Dr Pang, Vladimir Popa-Nimigean, Dr Jawad
+
+Friday
+
+am	Dr Khan, Hira Sami, Dr Syed
+pm	Dr Agamy, Binglun Chow, Dr Blakeman
+
 
 ## ON-CALL
 
-### APRIL
-29	Monday		Dr Q Afzaal	Dr A Agamy
-
-30	Tuesday		Dr A Sheikh	Dr S Vydianath
-
+### **MAY**
 **MAY**
 1	Wednesday	Dr Q Afzaal	Dr W Pang
 2	Thursday	Dr B Chow	Dr F Rafati
@@ -54,7 +61,7 @@ pm	Dr Li/Qasim Afzaal/Dr Qaiyum
 13	Monday				Dr M Paracha	Dr A Mahmood 
 14	Tuesday				Dr B Chow	Dr S Vydianath
 15	Wednesday			Dr J Zachariah	Dr Jawad 
-16	Thursday			Dr S Somani	Dr A Bapusamy 
+16	Thursday			Dr M Paracha	Dr A Bapusamy 
 
 17	Friday 5.00pm – 9.00pm		Dr M Khatoon	Dr S Jain 
 	Friday 9.00pm – 09.00am		Dr M Hopkinson	Dr S Jain 

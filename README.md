@@ -39,7 +39,7 @@ pm	Dr Agamy, Binglun Chow, Dr Blakeman
 2	Thursday	Dr B Chow	Dr F Rafati
 
 3	Friday 5.00pm – 9.00pm		Dr Q Afzaal	Dr P Li 
-	Friday 9.00pm – 09.00am		Dr M Paracha	Dr P Li 
+	Friday 9.00pm – 09.00am		Dr S Somani	Dr P Li 
 4	Saturday 09.00am – 9.00pm	Dr D Lehru	Dr P Li 
 	Saturday 9.00pm – 09.00am	Dr H Sensi	Dr P Li 
 5	Sunday 09.00am – 9.00pm		Dr D Lehru	Dr P Li 
@@ -47,7 +47,7 @@ pm	Dr Agamy, Binglun Chow, Dr Blakeman
 
 6	Monday Bank Holiday		Dr J Zachariah	Dr M Qaiyum
 	Monday Bank Holiday		Dr B Chow	Dr M Qaiyum
-7	Tuesday				Dr S Somani	Dr T Au Yong
+7	Tuesday				Dr M Paracha	Dr T Au Yong
 8	Wednesday			Dr A Sheikh	Dr R Kurian
 9	Thursday			Dr D Lehru	Dr H Azam
 

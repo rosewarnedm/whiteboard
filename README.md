@@ -1,10 +1,6 @@
 
 
 ### DUTY
-## Tuesday 30 April
-
-am Dr Blakeman/Mehvish Khatoon/Dr Khan
-pm Dr Rosewarne/Shradha Somani/Dr Azam
 
 **May 2024**
 
@@ -12,17 +8,13 @@ pm Dr Rosewarne/Shradha Somani/Dr Azam
 am	Bank holiday
 pm	Bank holiday	
 
-**Tuesday**
-am	Dr Rosewarne, Vladmir Popa-Nimigean/Dr Blakeman	
-pm	Dr Au Yong, Hira Sami, Dr Gupta
-
 **Wednesday**
 am	Dr Chaudhary, George Macfarlane, Dr Rafati
 pm	Dr Thomas, Harminder Sensi, Dr Jawad
 
 Thursday
 
-am	Dr Saha, Dhiraj Lehru, Dr Collins
+am	Dr Saha, Binglun Chow, Dr Collins
 pm 	Dr Pang, Vladimir Popa-Nimigean, Dr Jawad
 
 Friday

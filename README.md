@@ -4,23 +4,26 @@
 
 **May 2024**
 
-**Monday**
-am	Bank holiday
-pm	Bank holiday	
+**Monday 13th **
+Monday
+Dr Saha/Sobia Khan/Dr Thomas
+Dr Kurian/Dhiraj Lehur/Dr Li
 
-**Wednesday**
-am	Dr Chaudhary, George Macfarlane, Dr Rafati
-pm	Dr Thomas, Harminder Sensi, Dr Jawad
+Tuesday 14th
+Dr Blakeman/Asif Sheikh/Dr Qaiyum
+Rosewarne/Hira Sami/Dr Au Yong	
 
-Thursday
+Wednesday 15th
+Dr Rafati/Jiju Zachariah/Dr Agamy	
+Dr Jawad/Registrar/Dr Au Yong	
 
-am	Dr Saha, Binglun Chow, Dr Collins
-pm 	Dr Pang, Vladimir Popa-Nimigean, Dr Jawad
+Thursday 16th
+Dr Mahmood/Sobia Khan/Dr Kurian
+Dr Azam/Michael Hopkinaon/Dr Bapusamy
 
-Friday
-
-am	Dr Khan, Hira Sami, Dr Syed
-pm	Dr Agamy, Binglun Chow, Dr Blakeman
+Friday 17th
+Dr Li/Binglun Chow/Dr Blakeman
+Dr Rosewarne/Mehvish Khatoon/Dr Kha
 
 
 ## ON-CALL

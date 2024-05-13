@@ -42,11 +42,10 @@ Dr J Zachariah	Dr Jawad
 ### 16	Thursday			
 Dr M Paracha	Dr A Bapusamy 
 
-### 17	Friday 5.00pm – 9.00pm		
-Dr M Khatoon	Dr S Jain 
+### 17	Friday 
+5.00pm – 9.00pm  Dr M Khatoon	Dr S Jain 
 
-### Friday 9.00pm – 09.00am		
-Dr M Hopkinson	Dr S Jain 
+Friday 9.00pm – 09.00am		Dr M Hopkinson	Dr S Jain 
  
 ### 18	Saturday 09.00am – 9.00pm	
 Dr A Sheikh	Dr S Jain 
@@ -54,25 +53,27 @@ Dr A Sheikh	Dr S Jain
 ### Saturday 9.00pm – 09.00am	
 Dr M Hopkinson	Dr S Jain 
  
-### 19	Sunday 09.00am – 9.00pm		
-Dr A Sheikh	Dr S Jain
+### 19	Sunday 
+09.00am – 9.00pm  Dr A Sheikh	Dr S Jain
 
-### Sunday 9.00pm – 09.00am		
-Dr M Hopkinson	Dr S Jain 
+9.00pm – 09.00am Dr M Hopkinson	Dr S Jain 
  
 ### 20	Monday				
 Dr J Zachariah	Dr S Yahya
 
-### 21	Tuesday				Dr M Khatoon	Dr I Khan
+### 21	Tuesday				
+Dr M Khatoon	Dr I Khan
 
-### 22	Wednesday			Dr B Chow	Dr F Syed
+### 22	Wednesday			
+Dr B Chow	Dr F Syed
 
-### 23	Thursday			Dr A Sheikh	Dr S Saha 
+### 23	Thursday			
+Dr A Sheikh	Dr S Saha 
 
 ### 24	Friday 
 5.00pm – 9.00pm		Dr J Zachariah	Dr A Gupta
 
-9.00pm – 09.00am		Dr D Lehru (L)	Dr A Gupta
+9.00pm – 09.00am	Dr D Lehru (L)	Dr A Gupta
  
 ### 25	Saturday 
 09.00am – 9.00pm	Dr J Zachariah	Dr A Gupta
@@ -80,9 +81,9 @@ Dr J Zachariah	Dr S Yahya
 9.00pm – 09.00am	Dr M Khatoon (L)Dr A Gupta
  
 ### 26	Sunday 
-09.00am – 9.00pm		Dr J Zachariah	Dr A Gupta
+09.00am – 9.00pm	Dr J Zachariah	Dr A Gupta
 
-9.00pm – 09.00am		Dr A Sheikh (L)	Dr A Gupta
+9.00pm – 09.00am	Dr A Sheikh (L)	Dr A Gupta
 
 ### 27	Bank holiday Monday		
 Dr H Sensi	Dr R Jawad
@@ -98,11 +99,10 @@ Dr H Sensi	Dr D Rosewarne
 ### 30	Thursday			
 Dr Q Afzaal	Dr D Thomas
 
-### 31	Friday 5.00pm – 9.00pm		
-Dr H Sensi (L)	Dr M Blakeman
+### 31	Friday 
+5.00pm – 9.00pm	Dr H Sensi (L)	Dr M Blakeman
 
-### Friday 9.00pm – 09.00am		
-Dr M Khatoon	Dr M Blakeman
+9.00pm – 09.00am Dr M Khatoon	Dr M Blakeman
 
 
 ## Weekend MRI rota

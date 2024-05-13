@@ -1,35 +1,34 @@
 
 
-### DUTY
+### DUTY May 2024
 
-**May 2024**
-
-**Monday 13th **
-Monday
+### Monday 13th
 Dr Saha/Sobia Khan/Dr Thomas
+
 Dr Kurian/Dhiraj Lehur/Dr Li
 
-Tuesday 14th
+### Tuesday 14th
 Dr Blakeman/Asif Sheikh/Dr Qaiyum
+
 Rosewarne/Hira Sami/Dr Au Yong	
 
-Wednesday 15th
-Dr Rafati/Jiju Zachariah/Dr Agamy	
+### Wednesday 15th
+Dr Rafati/Jiju Zachariah/Dr Agamy
+
 Dr Jawad/Registrar/Dr Au Yong	
 
-Thursday 16th
+### Thursday 16th
 Dr Mahmood/Sobia Khan/Dr Kurian
+
 Dr Azam/Michael Hopkinaon/Dr Bapusamy
 
-Friday 17th
+### Friday 17th
 Dr Li/Binglun Chow/Dr Blakeman
 Dr Rosewarne/Mehvish Khatoon/Dr Kha
 
 
-## ON-CALL
+## May 2024 ON-CALL
 
-### **MAY**
-**MAY**
 1	Wednesday	Dr Q Afzaal	Dr W Pang
 2	Thursday	Dr B Chow	Dr F Rafati
 

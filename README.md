@@ -15,7 +15,7 @@ Rosewarne/Hira Sami/Dr Au Yong
 ### Wednesday 15th
 Dr Rafati/Jiju Zachariah/Dr Agamy
 
-Dr Jawad/Registrar/Dr Au Yong	
+Dr Jawad/Hira Farooq/Dr Au Yong	
 
 ### Thursday 16th
 Dr Mahmood/Sobia Khan/Dr Kurian

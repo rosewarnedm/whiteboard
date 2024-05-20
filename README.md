@@ -152,8 +152,6 @@ Wednesday 27 November
 ### 9.15 – 10.30
 
 
-Monday 20 May	
-
 Tuesday 25 June 	
 
 Wednesday 31 July 	

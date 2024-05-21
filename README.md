@@ -39,7 +39,7 @@ Dr J Zachariah	Dr S Yahya
 Dr A Sheikh	Dr I Khan
 
 ### 22	Wednesday			
-Dr B Chow	Dr F Syed
+Dr B Chow	Dr D Rosewarne
 
 ### 23	Thursday			
 Dr A Sheikh	Dr S Saha 
@@ -68,7 +68,7 @@ Dr B Chow (L)	Dr R Jawad
 Dr J Zachariah	Dr A Agamy
 
 ### 29	Wednesday			
-Dr H Sensi	Dr D Rosewarne
+Dr H Sensi	Dr F Syed
 
 ### 30	Thursday			
 Dr Q Afzaal	Dr D Thomas

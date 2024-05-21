@@ -10,7 +10,7 @@ Dr Saha/Dhiraj Lehru/Dr Yahya
 ### Tuesday 21nd
 Dr Au Yong/Vladimir Popa/Nimigean/Dr Azam
 
-Dr Vydianath/Harminder Sensi/Dr Chaudhary
+Dr Vydianath/Hira Sami/Dr Chaudhary
 
 ### Wednesday 22nd
 Dr Thomas/Registrar/Dr Rafati
@@ -45,19 +45,19 @@ Dr B Chow	Dr F Syed
 Dr A Sheikh	Dr S Saha 
 
 ### 24	Friday 
-5.00pm – 9.00pm		Dr J Zachariah	Dr A Gupta
+5.00pm – 9.00pm		Dr J Zachariah	Dr A Agamy
 
-9.00pm – 09.00am	Dr D Lehru (L)	Dr A Gupta
+9.00pm – 09.00am	Dr D Lehru (L)	Dr A Agamy
  
 ### 25	Saturday 
-09.00am – 9.00pm	Dr J Zachariah	Dr A Gupta
+09.00am – 9.00pm	Dr J Zachariah	Dr A Agamy
 
-9.00pm – 09.00am	Dr M Khatoon (L)Dr A Gupta
+9.00pm – 09.00am	Dr M Khatoon (L)Dr A Agamy
  
 ### 26	Sunday 
-09.00am – 9.00pm	Dr J Zachariah	Dr A Gupta
+09.00am – 9.00pm	Dr J Zachariah	Dr A Agamy
 
-9.00pm – 09.00am	Dr A Sheikh (L)	Dr A Gupta
+9.00pm – 09.00am	Dr A Sheikh (L)	Dr A Agamy
 
 ### 27	Bank holiday Monday		
 Dr H Sensi	Dr R Jawad

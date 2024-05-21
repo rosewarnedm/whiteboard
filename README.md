@@ -80,30 +80,6 @@ Dr Q Afzaal	Dr D Thomas
 
 
 ## Weekend MRI rota
-
-### May 4 
-
-Dr Kurian	(Brain/Spine)
-
-### May 5
-
-Dr Pang	(Brain/Spine/MRCP)
-		
-### May 11
-
-Dr Saha (Brain/Spine)
-
-### May 12
-
-Dr Khan	(Brain/Spine/MRCP)
-		
-### May 18
-
-Dr Bapusamy (Brain/Spine)
-
-### May 19
-
-Dr Li	(Brain/Spine/MRCP)
 		
 ### May 25
 

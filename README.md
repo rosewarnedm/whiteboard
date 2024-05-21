@@ -13,7 +13,7 @@ Dr Au Yong/Vladimir Popa/Nimigean/Dr Azam
 Dr Vydianath/Hira Sami/Dr Chaudhary
 
 ### Wednesday 22nd
-Dr Thomas/Registrar/Dr Rafati
+Dr Thomas/Maryam Paracha/Dr Rafati
 
 Dr Gupta/Jiju Zachariah/Dr Kurian
 
@@ -24,9 +24,9 @@ Dr Qaiyum/Michael Hopkinson/Dr Bapusamy
 
 
 ### Friday 24th
-TBC
+Dr Khan/Hira Sami/Dr Vydianath
 
-TBC
+Dr Au Yong/Dr Jiju Zachariah/Dr Jain
 
 
 ## May 2024 ON-CALL

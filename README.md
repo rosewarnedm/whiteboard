@@ -36,7 +36,7 @@ Dr Au Yong/Dr Jiju Zachariah/Dr Jain
 Dr J Zachariah	Dr S Yahya
 
 ### 21	Tuesday				
-Dr M Khatoon	Dr I Khan
+Dr A Sheikh	Dr I Khan
 
 ### 22	Wednesday			
 Dr B Chow	Dr F Syed

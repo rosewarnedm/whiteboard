@@ -18,9 +18,9 @@ Dr Thomas/Maryam Paracha/Dr Rafati
 Dr Gupta/Jiju Zachariah/Dr Kurian
 
 ### Thursday 23rd
-Dr Mahmood/Jiju Zachariah/Dr Gupta
+Dr Mahmood/Michael Hopkinson/Dr Gupta
 
-Dr Qaiyum/Michael Hopkinson/Dr Bapusamy
+Dr Qaiyum/Jiju Zachariah/Dr Bapusamy
 
 
 ### Friday 24th

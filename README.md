@@ -13,7 +13,7 @@ Dr Chaudhary, Asif Sheikh, Dr Rosewarne
 ### Wednesday 29th
 Dr Bapusamy, Harminder Sensi, Dr Kurian
 
-Dr Khan, George Macfarlane/Dominic Catlow, ? All/?Dr Pang
+Dr Khan, Registrar, ? All/?Dr Pang
 
 ### Thursday 30th
 Dr Saha, Binglun Chow, Dr Chaudhary

@@ -2,31 +2,29 @@
 
 ### DUTY May 2024
 
-### Monday 20th
-Dr Jawad/Mehvish Khatoon/Dr Syed
+### Monday 27th
+Bank Holiday
 
-Dr Saha/Dhiraj Lehru/Dr Yahya
+### Tuesday 28th
+Dr Blakeman, Maryam Paracha, Dr Azam
 
-### Tuesday 21nd
-Dr Au Yong/Vladimir Popa/Nimigean/Dr Azam
+Dr Chaudhary, Asif Sheikh, Dr Rosewarne
 
-Dr Vydianath/Hira Sami/Dr Chaudhary
+### Wednesday 29th
+Dr Bapusamy, Harminder Sensi, Dr Kurian
 
-### Wednesday 22nd
-Dr Thomas/Maryam Paracha/Dr Rafati
+Dr Khan, Shradha Somani, ? All/?Dr Pang
 
-Dr Gupta/Jiju Zachariah/Dr Kurian
+### Thursday 30th
+Dr Saha, Binglun Chow, Dr Chaudhary
 
-### Thursday 23rd
-Dr Mahmood/Michael Hopkinson/Dr Gupta
-
-Dr Qaiyum/Jiju Zachariah/Dr Bapusamy
+Dr Azam, Qasim Afzaal, Dr Bapusamy
 
 
-### Friday 24th
-Dr Khan/Hira Sami/Dr Vydianath
+### Friday 31st
+Dr Agamy, Registrar, Dr Thomas
 
-Dr Au Yong/Dr Jiju Zachariah/Dr Jain
+Dr Azam, Dr Sensi, Dr Khan
 
 
 ## May 2024 ON-CALL

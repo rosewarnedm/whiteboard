@@ -13,7 +13,7 @@ Dr Chaudhary, Asif Sheikh, Dr Rosewarne
 ### Wednesday 29th
 Dr Bapusamy, Harminder Sensi, Dr Kurian
 
-Dr Khan, Registrar, ? All/?Dr Pang
+Dr Khan, Hira Farooq, ? All/?Dr Pang
 
 ### Thursday 30th
 Dr Saha, Binglun Chow, Dr Chaudhary
@@ -22,7 +22,7 @@ Dr Azam, Qasim Afzaal, Dr Bapusamy
 
 
 ### Friday 31st
-Dr Agamy, Registrar, Dr Thomas
+Dr Agamy, Asif Sheikh, Dr Thomas
 
 Dr Azam, Dr Sensi, Dr Khan
 

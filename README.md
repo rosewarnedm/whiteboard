@@ -29,38 +29,6 @@ Dr Azam, Dr Sensi, Dr Khan
 
 ## May 2024 ON-CALL
 
- 
-### 20	Monday				
-Dr J Zachariah	Dr S Yahya
-
-### 21	Tuesday				
-Dr A Sheikh	Dr I Khan
-
-### 22	Wednesday			
-Dr B Chow	Dr D Rosewarne
-
-### 23	Thursday			
-Dr A Sheikh	Dr S Saha 
-
-### 24	Friday 
-5.00pm – 9.00pm		Dr J Zachariah	Dr A Agamy
-
-9.00pm – 09.00am	Dr D Lehru (L)	Dr A Agamy
- 
-### 25	Saturday 
-09.00am – 9.00pm	Dr J Zachariah	Dr A Agamy
-
-9.00pm – 09.00am	Dr M Khatoon (L)Dr A Agamy
- 
-### 26	Sunday 
-09.00am – 9.00pm	Dr J Zachariah	Dr A Agamy
-
-9.00pm – 09.00am	Dr A Sheikh (L)	Dr A Agamy
-
-### 27	Bank holiday Monday		
-Dr H Sensi	Dr R Jawad
-
-Dr B Chow (L)	Dr R Jawad
 
 ### 28	Tuesday				
 Dr J Zachariah	Dr A Agamy
@@ -79,14 +47,6 @@ Dr Q Afzaal	Dr D Thomas
 
 ## Weekend MRI rota
 		
-### May 25
-
-Dr Vydianath 	(Brain/Spine/MRCP)
-
-### May 26
-
-Dr Azam	(Brain/Spine)
-
 		
 ### June 1
 

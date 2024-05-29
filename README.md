@@ -22,7 +22,7 @@ Dr Azam, Qasim Afzaal, Dr Bapusamy
 
 
 ### Friday 31st
-Dr Agamy, Asif Sheikh, Dr Thomas
+Dr Agamy, Michael Hopkinson, Dr Thomas
 
 Dr Azam, Dr Sensi, Dr Khan
 

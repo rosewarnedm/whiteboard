@@ -58,14 +58,6 @@ Sunday 9 pm - 9 am	Dr Paracha/Dr Gupta
 
 ## Weekend MRI rota
 		
-		
-### June 1
-
-Dr Qaiyum	(Brain/Spine/MRCP)
-
-### June 2
-
-Dr Jawad	(Brain/Spine)
 
 ### June 8
 
@@ -79,8 +71,6 @@ Dr Thomas	(Brain/Spine/MRCP)
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days
 
-
-Wednesday 29 May
 
 Thursday 27 June
 

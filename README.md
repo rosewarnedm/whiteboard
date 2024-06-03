@@ -1,48 +1,59 @@
 
 
-### DUTY May 2024
+### DUTY June 2024
 
-### Monday 27th
-Bank Holiday
+### Monday 3rd
+Dr Rosewarne, Hira Sami, Dr Jawad
+Dr Saha, Harminder Sensi, Dr Li
 
-### Tuesday 28th
-Dr Blakeman, Maryam Paracha, Dr Azam
+### Tuesday 4th
+Dr Blakeman, Hira Sami, Dr Azam
 
-Dr Chaudhary, Asif Sheikh, Dr Rosewarne
+Dr Gupta, Asif Sheikha, Dr Saha
 
-### Wednesday 29th
-Dr Bapusamy, Harminder Sensi, Dr Kurian
+### Wednesday 5th
+Dr Khan, Jiju Zachariah, Dr Rafati
 
-Dr Khan, Hira Farooq, Dr Pang
+Dr Jawad, Qasim Afzaal, Dr Gupta
 
-### Thursday 30th
-Dr Saha, Binglun Chow, Dr Chaudhary
+### Thursday 6th
+Dr Mahmood, Michael Hopkinson, Dr Pang
 
-Dr Azam, Qasim Afzaal, Dr Bapusamy
-
-
-### Friday 31st
-Dr Agamy, Michael Hopkinson, Dr Thomas
-
-Dr Azam, Dr Sensi, Dr Khan
+Dr Qaiyum, Vladimir Popa-Nimigean, Dr Khan
 
 
-## May 2024 ON-CALL
+### Friday 7th
+Dr Syed, Marayam Paracha, Dr Jain
+
+Dr Pang, Dhiraj Lehru, Dr Saha
 
 
-### 28	Tuesday				
-Dr J Zachariah	Dr A Agamy
 
-### 29	Wednesday			
-Dr H Sensi	Dr F Syed
+## June 2024 ON-CALL
 
-### 30	Thursday			
-Dr Q Afzaal	Dr D Thomas
 
-### 31	Friday 
-5.00pm – 9.00pm	Dr H Sensi (L)	Dr M Blakeman
+### 3 Monday				
+Dr Hopkinson	Dr Azam
 
-9.00pm – 09.00am Dr M Khatoon	Dr M Blakeman
+### 4	Tuesday			
+Dr Farooq	Dr Bapusamy
+
+### 5	Wednesday			
+Dr Zachariah	Dr Gupta
+
+### 6	Thursday 
+Dr Chow		Dr Qaiyum
+
+### 7	Friday - Sunday
+5 pm - 9 pm	Dr Lehru/Dr Gupta
+9 pm - 9 am	TBC/Dr Gupta
+
+Saturday 9 am - 9 pm	Dr Sami/Dr Gupta
+Saturday 9 pm - 9 am 	TBC/Dr Gupta
+
+Sunday 9 am - 9 pm	Dr Sensi/Dr Gupta
+Sunday 9 pm - 9 am	Dr Paracha/Dr Gupta
+
 
 
 ## Weekend MRI rota

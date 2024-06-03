@@ -23,9 +23,9 @@ Dr Qaiyum, Vladimir Popa-Nimigean, Dr Khan
 
 
 ### Friday 7th
-Dr Syed, Marayam Paracha, Dr Jain
+Dr Syed, Marayam Paracha, Dr Saha
 
-Dr Pang, Dhiraj Lehru, Dr Saha
+Dr Pang, Dhiraj Lehru, Dr Jain
 
 
 

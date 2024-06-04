@@ -60,7 +60,7 @@ Saturday 9 pm - 9 am 	TBC/Dr Gupta
 Sunday 9 am - 9 pm	Dr Sensi/Dr Gupta
 Sunday 9 pm - 9 am	Dr Paracha/Dr Gupta
 
-### June 10	
+###  10	Monday
 Monday	Dr H Sami	Dr A Mahmood
 
 

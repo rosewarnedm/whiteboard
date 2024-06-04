@@ -29,7 +29,7 @@ Dr Syed, Marayam Paracha, Dr Saha
 Dr Pang, Dhiraj Lehru, Dr Jain
 
 ### Monday 10th
-Dr Thomas/Asif Sheikh/Dr Vydianath
+Dr Thomas Asif Sheikh Dr Vydianath
 
 Dr Yahya/Qasim Afzaal/Dr Syed
 

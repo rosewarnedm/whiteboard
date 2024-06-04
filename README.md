@@ -28,6 +28,11 @@ Dr Syed, Marayam Paracha, Dr Saha
 
 Dr Pang, Dhiraj Lehru, Dr Jain
 
+### Monday 10th
+Dr Thomas/Asif Sheikh/Dr Vydianath
+
+Dr Yahya/Qasim Afzaal/Dr Syed
+
 
 
 ## June 2024 ON-CALL
@@ -67,6 +72,9 @@ Dr Rosewarne	(Brain/Spine)
 ### June 9
 
 Dr Thomas	(Brain/Spine/MRCP)
+
+### June 10	
+Monday	Dr H Sami	Dr A Mahmood
 
 
 ## Directorate meetings  

@@ -60,6 +60,9 @@ Saturday 9 pm - 9 am 	TBC/Dr Gupta
 Sunday 9 am - 9 pm	Dr Sensi/Dr Gupta
 Sunday 9 pm - 9 am	Dr Paracha/Dr Gupta
 
+### June 10	
+Monday	Dr H Sami	Dr A Mahmood
+
 
 
 ## Weekend MRI rota
@@ -73,8 +76,7 @@ Dr Rosewarne	(Brain/Spine)
 
 Dr Thomas	(Brain/Spine/MRCP)
 
-### June 10	
-Monday	Dr H Sami	Dr A Mahmood
+
 
 
 ## Directorate meetings  

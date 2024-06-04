@@ -50,7 +50,7 @@ Dr Zachariah	Dr Gupta
 ### 6	Thursday 
 Dr Chow		Dr Qaiyum
 
-### 7	Friday - Sunday
+### 7	Friday - 9 Sunday
 5 pm - 9 pm	Dr Lehru/Dr Gupta
 9 pm - 9 am	TBC/Dr Gupta
 

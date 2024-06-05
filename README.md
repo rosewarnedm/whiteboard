@@ -52,10 +52,10 @@ Dr Chow		Dr Qaiyum
 
 ### 7	Friday - 9 Sunday
 5 pm - 9 pm	Dr Lehru/Dr Gupta
-9 pm - 9 am	TBC/Dr Gupta
+9 pm - 9 am	Dr Zachariah/Dr Gupta
 
 Saturday 9 am - 9 pm	Dr Sami/Dr Gupta
-Saturday 9 pm - 9 am 	TBC/Dr Gupta
+Saturday 9 pm - 9 am 	Dr Paracha/Dr Gupta
 
 Sunday 9 am - 9 pm	Dr Sensi/Dr Gupta
 Sunday 9 pm - 9 am	Dr Paracha/Dr Gupta

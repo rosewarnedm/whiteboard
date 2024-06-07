@@ -51,7 +51,7 @@ Dr Zachariah	Dr Gupta
 Dr Chow		Dr Qaiyum
 
 ### 7	Friday - 9 Sunday
-5 pm - 9 pm	Dr Lehru/Dr Gupta
+5 pm - 9 pm	Dr Popa-Nimigean/Dr Gupta
 9 pm - 9 am	Dr Zachariah/Dr Gupta
 
 Saturday 9 am - 9 pm	Dr Sami/Dr Gupta

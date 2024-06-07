@@ -12,25 +12,35 @@ Dr Thomas Asif Sheikh Dr Vydianath
 
 Dr Yahya Qasim Afzaal Dr Syed
 
+Vascular: Dr Dyer
+
 ### Tuesday 11th
 Dr Khan/Sobia Khan/Dr Blakeman
 
 Dr Au Yong/Vladimir Popa-Nimigean/Dr Chaudhary
+
+Vascular: Dr Rangarajan
 
 ### Wednesday 12th
 Dr Chaudhary/Dr Sensi/Dr Rafati
 
 Dr Pang/Hira Farooq/Dr Bapusamy
 
+Vascular: Dr Rangarajan
+
 ### Thursday 13th
 Dr Qaiyum/Sobia Khan/Dr Chaudhary
 
 Dr Azam/Michael Hopkinson/Dr Pang
 
+Vascular: Dr Dyer
+
 ### Friday 14th
 Dr Li/Qasim Afzaal/Dr Agamy
 
 Dr Gupta/Maryam Paracha/Dr Thomas
+
+Vascular: Dr Nikkar
 
 
 

@@ -2,27 +2,6 @@
 
 ### DUTY June 2024
 
-### Monday 3rd
-Dr Rosewarne, Hira Sami, Dr Jawad
-
-Dr Saha, Harminder Sensi, Dr Li
-
-### Tuesday 4th
-Dr Blakeman, Hira Sami, Dr Azam
-
-Dr Gupta, Asif Sheikha, Dr Saha
-
-### Wednesday 5th
-Dr Khan, Jiju Zachariah, Dr Rafati
-
-Dr Jawad, Qasim Afzaal, Dr Gupta
-
-### Thursday 6th
-Dr Mahmood, Michael Hopkinson, Dr Pang
-
-Dr Qaiyum, Vladimir Popa-Nimigean, Dr Khan
-
-
 ### Friday 7th
 Dr Saha, Marayam Paracha, All
 
@@ -33,22 +12,29 @@ Dr Thomas Asif Sheikh Dr Vydianath
 
 Dr Yahya Qasim Afzaal Dr Syed
 
+### Tuesday 11th
+Dr Khan/Sobia Khan/Dr Blakeman
+
+Dr Au Yong/Vladimir Popa-Nimigean/Dr Chaudhary
+
+### Wednesday 12th
+Dr Chaudhary/Dr Sensi/Dr Rafati
+
+Dr Pang/Hira Farooq/Dr Bapusamy
+
+### Thursday 13th
+Dr Qaiyum/Sobia Khan/Dr Chaudhary
+
+Dr Azam/Michael Hopkinson/Dr Pang
+
+### Friday 14th
+Dr Li/Qasim Afzaal/Dr Agamy
+
+Dr Gupta/Maryam Paracha/Dr Thomas
+
 
 
 ## June 2024 ON-CALL
-
-
-### 3 Monday				
-Dr Hopkinson	Dr Azam
-
-### 4	Tuesday			
-Dr Farooq	Dr Bapusamy
-
-### 5	Wednesday			
-Dr Zachariah	Dr Gupta
-
-### 6	Thursday 
-Dr Chow		Dr Qaiyum
 
 ### 7	Friday - 9 Sunday
 5 pm - 9 pm	Dr Popa-Nimigean/Dr Gupta
@@ -60,14 +46,30 @@ Saturday 9 pm - 9 am 	Dr Paracha/Dr Gupta
 Sunday 9 am - 9 pm	Dr Sensi/Dr Gupta
 Sunday 9 pm - 9 am	Dr Paracha/Dr Gupta
 
-###  10	Monday
-Monday	Dr H Sami	Dr A Mahmood
+### 10 Monday				
+Dr H Sami	Dr A Mahmood
 
+### 11	Tuesday			
+Dr Hopkinson	Dr R Hedak
 
+### 12	Wednesday			
+Dr Sheikh	Dr D Rosewarne
+
+### 13	Thursday 
+Dr Farooq	Dr Thomas
+
+###  14	Friday - 16 Sunday
+Friday 5 pm - 9 pm	Dr Paracha		Dr Jawad
+Friday 9 pm - 7 am	Dr Popa-Nimigean	Dr Jawad
+
+Saturday 9 am - 9 pm	Dr Afzaal		Dr Jawad
+Saturday 9 pm - 9 am	Dr Popa-Nimigean	Dr Jawad
+
+Sunday 9 am - 9 pm	Dr Afzaal		Dr Kurian
+Sunday 9 pm - 9 am 	Dr Popa-Nimigean	Dr Kurian
 
 ## Weekend MRI rota
 		
-
 ### June 8
 
 Dr Rosewarne	(Brain/Spine)

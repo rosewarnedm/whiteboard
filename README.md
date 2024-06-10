@@ -10,7 +10,7 @@ Dr Pang, Vladimir Popa-Nimigean, Dr Jain
 ### Monday 10th
 Dr Thomas Asif Sheikh Dr Vydianath
 
-Dr Yahya Qasim Afzaal Dr Syed
+Dr Yahya Qasim Afzaal Dr Au Yong
 
 Vascular: Dr Dyer
 

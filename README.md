@@ -60,7 +60,7 @@ Sunday 9 pm - 9 am	Dr Paracha/Dr Gupta
 Dr H Sami	Dr A Mahmood
 
 ### 11	Tuesday			
-Dr Hopkinson	Dr R Hedak
+Dr Hopkinson	Dr D Thomas
 
 ### 12	Wednesday			
 Dr Sheikh	Dr D Rosewarne

@@ -50,24 +50,7 @@ Vascular: Dr Nikkar
 
 ## June 2024 ON-CALL
 
-### 7	Friday - 9 Sunday
-5 pm - 9 pm	Dr Popa-Nimigean/Dr Gupta
-9 pm - 9 am	Dr Zachariah/Dr Gupta
 
-Saturday 9 am - 9 pm	Dr Sami/Dr Gupta
-Saturday 9 pm - 9 am 	Dr Paracha/Dr Gupta
-
-Sunday 9 am - 9 pm	Dr Sensi/Dr Gupta
-Sunday 9 pm - 9 am	Dr Paracha/Dr Gupta
-
-### 10 Monday				
-Dr H Sami	Dr A Mahmood
-
-### 11	Tuesday			
-Dr Hopkinson	Dr D Thomas
-
-### 12	Wednesday			
-Dr Sheikh	Dr D Rosewarne
 
 ### 13	Thursday 
 Dr Farooq	Dr Thomas
@@ -82,15 +65,6 @@ Saturday 9 pm - 9 am	Dr Popa-Nimigean	Dr Jawad
 Sunday 9 am - 9 pm	Dr Afzaal		Dr Kurian
 Sunday 9 pm - 9 am 	Dr Popa-Nimigean	Dr Kurian
 
-## Weekend MRI rota
-		
-### June 8
-
-Dr Rosewarne	(Brain/Spine)
-
-### June 9
-
-Dr Thomas	(Brain/Spine/MRCP)
 
 
 

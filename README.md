@@ -35,6 +35,10 @@ Dr Azam/Michael Hopkinson/Dr Pang
 
 Vascular: Dr Dyer
 
+CPD 13:00-13:30 - Dr Rosewarne
+
+Automated CTPA audit and clinical risk scoring 
+
 ### Friday 14th
 Dr Li/Qasim Afzaal/Dr Agamy
 

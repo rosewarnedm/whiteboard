@@ -2,68 +2,67 @@
 
 ### DUTY June 2024
 
-### Friday 7th
-Dr Saha, Marayam Paracha, All
+### Monday 17
+Dr Vydianath/Sobia Khan/Dr Syed
 
-Dr Pang, Vladimir Popa-Nimigean, Dr Jain
+Dr Au Yong, Binglun Chow, Dr Yahya
 
-### Monday 10th
-Dr Thomas Asif Sheikh Dr Vydianath
+Vascular:
 
-Dr Yahya Qasim Afzaal Dr Au Yong
+### Tuesday 18
+Dr Agamy, Sobia Khan, Dr Khan
 
-Vascular: Dr Dyer
+Dr Li, Dhiraj Lehru, Dr Saha
 
-### Tuesday 11th
-Dr Khan/Sobia Khan/Dr Blakeman
+Vascular: 
 
-Dr Au Yong/Vladimir Popa-Nimigean/Dr Chaudhary
+### Wednesday 19 
+Dr Rafati, Northando Meck, Dr Agamy
 
-Vascular: Dr Rangarajan
+Dr Jawad, Dr Farooq, Dr Gupta
 
-### Wednesday 12th
-Dr Chaudhary/Dr Sensi/Dr Rafati
+Vascular:
 
-Dr Pang/Hira Farooq/Dr Bapusamy
+### Thursday 20
+Dr Kurian, Binglun Chow, Dr Chaudhary
 
-Vascular: Dr Rangarajan
+Dr Pang/Asif Sheikh, Dr Mahmood
 
-### Thursday 13th
-Dr Qaiyum/Sobia Khan/Dr Chaudhary
+Vascular:
 
-Dr Azam/Michael Hopkinson/Dr Pang
+### Friday 21
+Dr Li, Asma Jebril, Dr Collins
 
-Vascular: Dr Dyer
+Dr Bapusamy, Harminder Sensi, Dr Mahmood
 
-#### CPD 13:00-13:30 - Dr Rosewarne
+Vascular: 
 
-Automated CTPA audit and clinical risk scoring 
+### 
 
-### Friday 14th
-Dr Li/Qasim Afzaal/Dr Agamy
-
-Dr Gupta/Maryam Paracha/Dr Thomas
-
-Vascular: Dr Nikkar
+Vascular:
 
 
 
 ## June 2024 ON-CALL
 
+### 17	Monday 
 
 
-### 13	Thursday 
-Dr Farooq	Dr Thomas
+###  18	Tuesday
 
-###  14	Friday - 16 Sunday
-Friday 5 pm - 9 pm	Dr Paracha		Dr Jawad
-Friday 9 pm - 7 am	Dr Popa-Nimigean	Dr Jawad
 
-Saturday 9 am - 9 pm	Dr Afzaal		Dr Jawad
-Saturday 9 pm - 9 am	Dr Popa-Nimigean	Dr Jawad
 
-Sunday 9 am - 9 pm	Dr Afzaal		Dr Kurian
-Sunday 9 pm - 9 am 	Dr Popa-Nimigean	Dr Kurian
+###  19	Wednesday
+
+
+###  20 Thursday
+
+###  21	Friday
+
+###  22 - 24 - Saturday - Sunday
+
+
+
 
 
 

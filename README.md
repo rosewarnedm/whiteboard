@@ -46,27 +46,26 @@ Vascular:
 ## June 2024 ON-CALL
 
 ### 17	Monday 
-
+Dr Hopkinson/Dr Yahya
 
 ###  18	Tuesday
-
-
+Dr Farooq/Dr Pang
 
 ###  19	Wednesday
-
+Dr Hopkinson/Dr Syed
 
 ###  20 Thursday
+Dr Afzaal/Dr Saha
 
 ###  21	Friday
+5.00pm – 9.00pm	Dr H Sensi	Dr F Rafati
+9.00pm- 09.00am	Dr D Lehru	Dr F Rafati
 
 ###  22 - 24 - Saturday - Sunday
-
-
-
-
-
-
-
+Saturday 09.00am – 9.00pm	Dr H Sensi	Dr F Rafati
+Saturday 9.00pm – 09.00am	Dr D Lehru	Dr F Rafati
+Sunday 09.00am – 9.00pm	Dr B Chow (L)	Dr F Rafati
+Sunday 9.00pm – 09.00am	Dr D Lehru	Dr F Rafati
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days

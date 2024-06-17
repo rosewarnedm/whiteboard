@@ -19,7 +19,7 @@ Vascular:
 ### Wednesday 19 
 Dr Rafati, Northando Meck, Dr Agamy
 
-Dr Jawad, Dr Farooq, Dr Gupta
+Dr Jawad, Dhiraj Lehru, Dr Gupta
 
 Vascular:
 

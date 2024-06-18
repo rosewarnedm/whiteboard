@@ -17,7 +17,7 @@ Dr Li, Dhiraj Lehru, Dr Saha
 Vascular: 
 
 ### Wednesday 19 
-Dr Rafati, Northando Meck, Dr Agamy
+Dr Agamy, Northando Meck, Dr Rafati
 
 Dr Jawad, Dhiraj Lehru, Dr Gupta
 
@@ -52,7 +52,7 @@ Dr Hopkinson/Dr Yahya
 Dr Farooq/Dr Pang
 
 ###  19	Wednesday
-Dr Hopkinson/Dr Syed
+Dr Hopkinson/Dr Li
 
 ###  20 Thursday
 Dr Afzaal/Dr Saha

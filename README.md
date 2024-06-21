@@ -71,9 +71,7 @@ Sunday 9.00pm – 09.00am	Dr D Lehru	Dr F Rafati
 ### 1pm Monday, 4pm other days
 
 
-Thursday 27 June
-
-Friday 26 July
+Thursday 18 July
 
 Monday 2 September
 

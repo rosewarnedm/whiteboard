@@ -81,12 +81,13 @@ Dr Bapusamy/Mehvish Khatoon/Dr Rafati
 Dr Gupta/Qasim Afzaal/Dr Khan
 
 
-
 ### Thursday	18
 
 Dr Mahmood/Sobia Khan/Dr Agamy
 
 Dr Pang/Asif Sheikh/Dr Qaiyum	
+
+#### Directorate 4pm
 
 ### Friday 19
 
@@ -137,6 +138,8 @@ Dr Khan/Nothando Meck/Dr Azam
 Dr Rosewarne/Maryam Paracha/Dr Saha
 
 ### Wednesday	31	
+
+#### REALM 9:15
 
 Dr Bapusamy/Harminder Sensi/Dr Au Yong		
 
@@ -235,9 +238,6 @@ Sunday 9.00pm – 09.00am	Dr Q Afzaal (L)	Dr D Rosewarne
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days
 
-
-Thursday 18 July
-
 Monday 2 September
 
 Tuesday 8 October
@@ -249,7 +249,7 @@ Wednesday 27 November
 ### 9.15 – 10.30
 
 
-Wednesday 31 July 	
+
 
 Thursday 29 August	
 

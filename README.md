@@ -32,6 +32,23 @@ Dr Agamy/Asma Jebril/Dr Syed
 
 Dr Qaiyum/Qasim Afzaal/Dr Li
 
+Monday	Tuesday	Wednesday	Thursday	Friday
+8	9	10	11	12
+Dr Jain/Sobia Khan/Dr Syed	Dr Blakeman/Vladimir Popa-Nimigean/Dr Kurian	Dr Rafati/Jiju Zachariah/Dr Bapusamy	Dr Pang/Asma Jebril/Dr Kurian	Dr Syed/Vladimir Popa-Nimigean/Dr Vydianath
+Dr Mahmood/Hira Sami/Dr Azam	Dr Vydianath/Hira Sami/Dr Saha	Dr Gupta/Hira Farooq/Dr Thomas	Dr Bapusamy/Dhiraj Lehru/Dr Agamy	Dr Khan/Hira Sami/Dr Blakeman
+Monday	Tuesday	Wednesday	Thursday	Friday
+15	16	17	18	19
+Dr Syed/Dhiraj Lehru/Dr Gupta	Dr Rosewarne/Sobia Khan/Dr Khan	Dr Bapusamy/Mehvish Khatoon/Dr Rafati	Dr Mahmood/Sobia Khan/Dr Agamy	Dr Syed/Hira Sami/Dr Rosewarne
+Dr Yahya/Michael Hopkinson/Dr Au Yong	Dr Au Yong/Jiju Zachariah/Dr Gupta	Dr Gupta/Qasim Afzaal/Dr Khan	Dr Pang/Asif Sheikh/Dr Qaiyum	Dr Jawad/Asif Sheikh/Dr Jain
+Monday	Tuesday	Wednesday	Thursday	Friday
+22	23	24	25	26
+Dr Thomas/Asif Sheikh/Dr Rosewarne	Dr Blakeman/Nothando Meck/Dr Khan	Dr Rafati/Binglun Chow/Dr Bapusamy	Dr Pang/Binglun Chow/Dr Thomas	Dr Vydianath/Asma Jebril/Dr Jain
+Dr Li/Qasim Afzaal/Dr Pang	Dr Azam/Maryam Paracha/Dr Rafati	Dr Thomas/Mehvish Khatoon/Dr Jawad	Dr Qaiyum/Nothando Meck/Dr Collins	Dr Khan/Michael Hopkinson/Dr Mahmood
+Monday	Tuesday	Wednesday		
+29	30	31		
+Dr Au Yong/Michael Hopkinson/Dr Vydianath	Dr Khan/Nothando Meck/Dr Azam	Dr Bapusamy/Harminder Sensi/Dr Au Yong		
+Dr Azam/Binglun Chow/Dr Li	Dr Rosewarne/Maryam Paracha/Dr Saha	Dr Thomas/Qasim Afzaal/Dr Jawad		
+
 
 ## July 2024 ON-CALL
 

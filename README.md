@@ -14,9 +14,23 @@ Dr Agamy/Hira Farooq/Dr Blakeman
 
 Dr Au Yong/Maryam Paracha/Dr Saha
 
+### Wednesday	3 
 
+Dr Rafati/Harminder Sensi/Dr Bapusamy
 
+Dr Jawad/Dhiraj Lehru/Dr Thomas
 
+### Thursday	4 
+
+Dr Kurian/Dhiraj Lehru/Dr Mahmood
+
+Dr Azam/Vladimir Popa-Nimigean/Dr Qaiyum	
+
+### Friday 5
+
+Dr Agamy/Asma Jebril/Dr Syed
+
+Dr Qaiyum/Qasim Afzaal/Dr Li
 
 
 ## July 2024 ON-CALL

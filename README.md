@@ -55,15 +55,15 @@ Vascular:
 
 5	Friday 5.00pm – 9.00pm	Dr Q Afzaal	Dr M Qaiyum
 
-	Friday 9.00pm – 09.00am	Dr A Sheikh	Dr M Qaiyum	
+Friday 9.00pm – 09.00am	Dr A Sheikh	Dr M Qaiyum	
  
 6	Saturday 09.00am – 9.00pm	Locum	Dr M Qaiyum	
 
-	Saturday 9.00pm – 09.00am	Dr A Sheikh	Dr M Qaiyum
+Saturday 9.00pm – 09.00am	Dr A Sheikh	Dr M Qaiyum
  
 7	Sunday 09.00am – 9.00pm	Dr M Paracha	Dr M Qaiyum
 
-	Sunday 9.00pm – 09.00am	Dr A Sheikh	Dr M Qaiyum
+Sunday 9.00pm – 09.00am	Dr A Sheikh	Dr M Qaiyum
  
 8	Monday	Dr J Zachariah (L)	Dr A Mahmood
 
@@ -75,15 +75,15 @@ Vascular:
 
 12	Friday 5.00pm – 9.00pm	Dr H Sami (L)	Dr T Au Yong
 
-	Friday 9.00pm – 09.00am	Dr Q Afzaal	Dr T Au Yong
+Friday 9.00pm – 09.00am	Dr Q Afzaal	Dr T Au Yong
  
 13	Saturday 09.00am – 9.00pm	Locum	Dr T Au Yong
 
-	Saturday 9.00pm – 09.00am	Dr Q Afzaal	Dr T Au Yong
+Saturday 9.00pm – 09.00am	Dr Q Afzaal	Dr T Au Yong
  
 14	Sunday 09.00am – 9.00pm	Dr A Sheikh (L)	Dr T Au Yong
 
-	Sunday 9.00pm – 09.00am	Dr Q Afzaal	Dr T Au Yong
+Sunday 9.00pm – 09.00am	Dr Q Afzaal	Dr T Au Yong
  
 15	Monday	Dr A Sheikh	Dr S Yahya
 
@@ -95,15 +95,15 @@ Vascular:
 
 19	Friday 5.00pm – 9.00pm	Dr A Sheikh	Dr S Saha
 
-	Friday 9.00pm – 09.00am	Dr M Hopkinson	Dr S Saha	
+Friday 9.00pm – 09.00am	Dr M Hopkinson	Dr S Saha	
  
 20	Saturday 09.00am – 9.00pm	Dr V Popa-Nimigean	Dr S Saha	
 
-	Saturday 9.00pm – 09.00am	Dr M Hopkinson	Dr S Saha	
+Saturday 9.00pm – 09.00am	Dr M Hopkinson	Dr S Saha	
  
 21	Sunday 09.00am – 9.00pm	Dr V Popa-Nimigean	Dr S Saha
 
-	Sunday 9.00pm – 09.00am	Dr M Hopkinson	Dr S Saha
+Sunday 9.00pm – 09.00am	Dr M Hopkinson	Dr S Saha
  
 22	Monday	Dr Q Afzaal	Dr M Blakeman
 
@@ -115,15 +115,15 @@ Vascular:
 
 26	Friday 5.00pm – 9.00pm	Dr M Hopkinson	Dr D Rosewarne
 
-	Friday 9.00pm – 09.00am	Dr M Khatoon	Dr D Rosewarne
+Friday 9.00pm – 09.00am	Dr M Khatoon	Dr D Rosewarne
  
 27	Saturday 09.00am – 9.00pm	Dr D Lehru	Dr D Rosewarne
 
-	Saturday 9.00pm – 09.00am	Dr M Khatoon	Dr D Rosewarne
+Saturday 9.00pm – 09.00am	Dr M Khatoon	Dr D Rosewarne
  
 28	Sunday 09.00am – 9.00pm	Dr D Lehru	Dr D Rosewarne
 
-	Sunday 9.00pm – 09.00am	Dr Q Afzaal (L)	Dr D Rosewarne
+Sunday 9.00pm – 09.00am	Dr Q Afzaal (L)	Dr D Rosewarne
  
 29	Monday	Dr A Sheikh	Dr A Bapusamy	
 

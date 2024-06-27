@@ -1,45 +1,21 @@
 
 
-### DUTY June 2024
+### DUTY July 2024
 
-### Monday 17
-Dr Vydianath/Sobia Khan/Dr Syed
+### Monday 1
 
-Dr Au Yong, Binglun Chow, Dr Yahya
+Dr Vydianath/Binglun Chow/Dr Jawad
 
-Vascular:
+Dr Saha/Asif Sheikh/Dr Azam
 
-### Tuesday 18
-Dr Agamy, Sobia Khan, Dr Khan
+### Tuesday 2
 
-Dr Li, Dhiraj Lehru, Dr Saha
+Dr Agamy/Hira Farooq/Dr Blakeman
 
-Vascular: 
+Dr Au Yong/Maryam Paracha/Dr Saha
 
-### Wednesday 19 
-Dr Agamy, Northando Meck, Dr Rafati
 
-Dr Jawad, Dhiraj Lehru, Dr Gupta
 
-Vascular:
-
-### Thursday 20
-Dr Kurian, Binglun Chow, Dr Chaudhary
-
-Dr Pang/Asif Sheikh, Dr Mahmood
-
-Vascular:
-
-### Friday 21
-Dr Li, Asma Jebril, Dr Collins
-
-Dr Bapusamy, Harminder Sensi, Dr Mahmood
-
-Vascular: 
-
-### 
-
-Vascular:
 
 
 

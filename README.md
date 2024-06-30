@@ -4,7 +4,7 @@
 
 ### Monday 1
 
-Dr Vydianath/Binglun Chow/Dr Jawad
+Dr Vydianath/Binglun Chow/Dr Rosewarne
 
 Dr Saha/Asif Sheikh/Dr Azam
 
@@ -97,7 +97,7 @@ Dr Jawad/Asif Sheikh/Dr Jain
 
 ### Monday	22
 
-Dr Thomas/Asif Sheikh/Dr Rosewarne
+Dr Thomas/Asif Sheikh/Dr Jawad
 
 Dr Li/Qasim Afzaal/Dr Pang
 

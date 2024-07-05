@@ -2,35 +2,35 @@
 
 ### DUTY July 2024
 
-### Monday 1
+### Monday 8
 
-Dr Vydianath/Binglun Chow/Dr Rosewarne
+Dr Jain/Sobia Khan/Dr Syed
 
-Dr Saha/Asif Sheikh/Dr Azam
+Dr Mahmood/Hira Sami/Dr Azam
 
-### Tuesday 2
+### Tuesday 9
 
-Dr Agamy/Hira Farooq/Dr Blakeman
+Dr Blakeman/Vladimir Popa-Nimigean/Dr Kurian
 
-Dr Au Yong/Maryam Paracha/Dr Saha
+Dr Vydianath/Hira Sami/Dr Saha
 
-### Wednesday	3 
+### Wednesday	10 
 
-Dr Rafati/Harminder Sensi/Dr Bapusamy
+Dr Rafati/Jiju Zachariah/Dr Bapusamy
 
-Dr Jawad/Dhiraj Lehru/Dr Thomas
+Dr Gupta/Hira Farooq/Dr Thomas
 
-### Thursday	4 
+### Thursday	11 
 
-Dr Kurian/Dhiraj Lehru/Dr Mahmood
+Dr Pang/Asma Jebril/Dr Kurian
 
-Dr Azam/Vladimir Popa-Nimigean/Dr Qaiyum	
+Dr Bapusamy/Dhiraj Lehru/Dr Agamy	
 
-### Friday 5
+### Friday 12
 
-Dr Agamy/Asma Jebril/Dr Syed
+Dr Syed/Vladimir Popa-Nimigean/Dr Vydianath
 
-Dr Qaiyum/Qasim Afzaal/Dr Li
+Dr Khan/Hira Sami/Dr Blakeman
 
 ### Monday	8
 
@@ -91,7 +91,7 @@ Dr Pang/Asif Sheikh/Dr Qaiyum
 
 ### Friday 19
 
-Dr Syed/Hira Sami/Dr Rosewarne
+Dr Syed/????/?????
 
 Dr Jawad/Asif Sheikh/Dr Jain
 
@@ -105,7 +105,7 @@ Dr Li/Qasim Afzaal/Dr Pang
 
 Dr Blakeman/Nothando Meck/Dr Khan	
 
-Dr Azam/Maryam Paracha/Dr Rafati
+Dr Azam/Maryam Paracha/???????
 
 ### Wednesday	24
 
@@ -160,11 +160,11 @@ Dr Thomas/Qasim Afzaal/Dr Jawad
 
 Friday 9.00pm – 09.00am	Dr A Sheikh	Dr M Qaiyum	
  
-6	Saturday 09.00am – 9.00pm	Locum	Dr M Qaiyum	
+6	Saturday 09.00am – 9.00pm	Dr A Farooq	Dr M Qaiyum	
 
 Saturday 9.00pm – 09.00am	Dr A Sheikh	Dr M Qaiyum
  
-7	Sunday 09.00am – 9.00pm	Dr M Paracha	Dr M Qaiyum
+7	Sunday 09.00am – 9.00pm	Dr H Farooq	Dr M Qaiyum
 
 Sunday 9.00pm – 09.00am	Dr A Sheikh	Dr M Qaiyum
  
@@ -180,7 +180,7 @@ Sunday 9.00pm – 09.00am	Dr A Sheikh	Dr M Qaiyum
 
 Friday 9.00pm – 09.00am	Dr Q Afzaal	Dr T Au Yong
  
-13	Saturday 09.00am – 9.00pm	Locum	Dr T Au Yong
+13	Saturday 09.00am – 9.00pm	Dr Zachariah	Dr T Au Yong
 
 Saturday 9.00pm – 09.00am	Dr Q Afzaal	Dr T Au Yong
  
@@ -238,6 +238,8 @@ Sunday 9.00pm – 09.00am	Dr Q Afzaal (L)	Dr D Rosewarne
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days
 
+Thursday 18 July 
+
 Monday 2 September
 
 Tuesday 8 October
@@ -249,7 +251,7 @@ Wednesday 27 November
 ### 9.15 – 10.30
 
 
-
+Wednesday 31 July
 
 Thursday 29 August	
 

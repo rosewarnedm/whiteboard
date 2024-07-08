@@ -209,7 +209,6 @@ Sunday 9.00pm – 09.00am	Dr Q Afzaal (L)	Dr D Rosewarne
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days
 
-Thursday 18 July 
 
 Monday 2 September
 
@@ -221,8 +220,6 @@ Wednesday 27 November
 ## REALM meetings
 ### 9.15 – 10.30
 
-
-Wednesday 31 July
 
 Thursday 29 August	
 

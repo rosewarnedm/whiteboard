@@ -2,35 +2,6 @@
 
 ### DUTY July 2024
 
-### Monday 8
-
-Dr Jain/Sobia Khan/Dr Syed
-
-Dr Mahmood/Hira Sami/Dr Azam
-
-### Tuesday 9
-
-Dr Blakeman/Vladimir Popa-Nimigean/Dr Kurian
-
-Dr Vydianath/Hira Sami/Dr Saha
-
-### Wednesday	10 
-
-Dr Rafati/Jiju Zachariah/Dr Bapusamy
-
-Dr Gupta/Hira Farooq/Dr Thomas
-
-### Thursday	11 
-
-Dr Pang/Asma Jebril/Dr Kurian
-
-Dr Bapusamy/Dhiraj Lehru/Dr Agamy	
-
-### Friday 12
-
-Dr Syed/Vladimir Popa-Nimigean/Dr Vydianath
-
-Dr Khan/Hira Sami/Dr Blakeman
 
 ### Monday	8
 

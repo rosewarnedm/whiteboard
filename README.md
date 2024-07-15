@@ -88,46 +88,6 @@ Dr Thomas/Qasim Afzaal/Dr Jawad
 
 
 ## July 2024 ON-CALL
-
-1	Monday	Dr D Lehru	Dr H Azam
-
-2	Tuesday	Dr V Popa-Nimigean	Dr A Agamy
-
-3	Wednesday	Dr M Paracha	Dr R Kurian
-
-4	Thursday	Dr B Chow (L)	Dr I Khan (L)
-
-5	Friday 5.00pm – 9.00pm	Dr Q Afzaal	Dr M Qaiyum
-
-Friday 9.00pm – 09.00am	Dr A Sheikh	Dr M Qaiyum	
- 
-6	Saturday 09.00am – 9.00pm	Dr A Farooq	Dr M Qaiyum	
-
-Saturday 9.00pm – 09.00am	Dr A Sheikh	Dr M Qaiyum
- 
-7	Sunday 09.00am – 9.00pm	Dr H Farooq	Dr M Qaiyum
-
-Sunday 9.00pm – 09.00am	Dr A Sheikh	Dr M Qaiyum
- 
-8	Monday	Dr J Zachariah (L)	Dr A Mahmood
-
-9	Tuesday	Dr D Lehru	Dr S Vydianath
-
-10	Wednesday	Dr V Popa-Nimigean	Dr S Jain
-
-11	Thursday	Dr M Khatoon	Dr D Thomas
-
-12	Friday 5.00pm – 9.00pm	Dr H Sami (L)	Dr T Au Yong
-
-Friday 9.00pm – 09.00am	Dr Q Afzaal	Dr T Au Yong
- 
-13	Saturday 09.00am – 9.00pm	Dr Zachariah	Dr T Au Yong
-
-Saturday 9.00pm – 09.00am	Dr Q Afzaal	Dr T Au Yong
- 
-14	Sunday 09.00am – 9.00pm	Dr A Sheikh (L)	Dr T Au Yong
-
-Sunday 9.00pm – 09.00am	Dr Q Afzaal	Dr T Au Yong
  
 15	Monday	Dr A Sheikh	Dr S Yahya
 

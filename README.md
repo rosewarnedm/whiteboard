@@ -46,7 +46,7 @@ Dr Li/Qasim Afzaal/Dr Pang
 
 Dr Blakeman/Nothando Meck/Dr Khan	
 
-Dr Azam/Maryam Paracha/? Dr Rafati
+Dr Azam/Maryam Paracha/Dr Vydianath
 
 ### Wednesday	24
 
@@ -62,7 +62,7 @@ Dr Qaiyum/Nothando Meck/Dr Collins
 
 ### Friday 26
 
-Dr Vydianath/Asma Jebril/Dr Jain
+Dr Vydianath/Asma Jebril/All
 
 Dr Khan/Michael Hopkinson/Dr Mahmood
 

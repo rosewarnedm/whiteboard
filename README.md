@@ -1,140 +1,168 @@
 
 
-### DUTY July 2024
+### DUTY August 2024
 
 
-### Monday	15
+### Thrusday 1 
 
-Dr Syed/Dhiraj Lehru/Dr Gupta
+Dr Rosewarne/Michael Hopkinson/Dr Collins
 
-Dr Yahya/Michael Hopkinson/Dr Au Yong
+Dr Qaiyum/Tony Kam/Dr Azam
 
-### Tuesday	16
+### Friday 2
 
-Dr Rosewarne/Sobia Khan/Dr Khan
+Dr Li/Vladmir Popa-Nimigean/All
 
-Dr Au Yong/Jiju Zachariah/Dr Gupta
+Dr Qaiyum/Qasim Afzaal/Dr Rosewarne
 
-### Wednesday	17
+### Monday 5
 
-Dr Bapusamy/Mehvish Khatoon/Dr Rafati
+Dr Rosewarne/Harminder Sensi/Dr Gupta
 
-Dr Gupta/Qasim Afzaal/Dr Khan
+Dr Saha/Qasim Afzaal/Dr Thomas
 
-### Thursday	18
+### Tuesday 6 
 
-Dr Mahmood/Dr Khan/Dr Agamy
+Dr Au Yong/Hasan Bilal/Dr Khan
 
-Dr Pang/Asif Sheikh/Dr Qaiyum
+Dr Vydianath/Dhiraj Lehru/Dr Qaiyum
 
-4 pm - Directorate Meeting
+### Wednesday 7
 
-### Friday 19
+Dr Thomas/Mehvish Khatoon/Dr Chaudhary
 
-Dr Syed/Hira Sami/Dr Blakeman
+Dr Jawad/Harminder Sensi/Dr Au Yong
 
-Dr Jawad/Asif Sheikh/Dr Jain
+### Thursday 8
+
+Dr Kurian/Tony Kam/Dr Pang
+
+Dr Asam/Asma Jebril/Dr Qaiyum
+
+### Friday 9
+
+Dr Khan/Asma Jebril/Dr Li
+
+Dr Mahmood/Hira Sami/Dr Thomas
+
+### Monday 12
+
+Dr Gupta/Jiju Zachariah/Dr Jawad
+
+Dr Yahya/Vladimir Popa-Nimigean/Dr Mahmood
+
+### Tuesday 13
+
+Dr Rosewarne/Mehvish Khatoon/Dr Blakeman
+
+Dr Azam/Dhiraj Lehru/Dr Vydianath
+
+### Wednesday 14
+
+Dr Rafati/Nothando Meck/Dr Chaudhary
+
+Dr Jawad/Tony Kam/Dr Gupta
+
+###  Thursday 15
+
+Dr Pang/Binglun Chow/Dr Chaudhary
+
+Dr Kurian/Maryam Paracha/Dr Collins
+
+### Friday 16
+
+Dr Agamy/Asma Jebril/Dr Li	
+
+Dr Rafati/Jiju Zachariah/Dr Syed
+
+### Monday 19
+
+Dr Saha/Harminder Sensi/Dr Syed
+
+Dr Mahmood/Vladimir Popa-Nimigean/Dr Yahya
+
+#### Tuesday 20
+
+Dr Blakeman/Jiju Zachariah/Dr Agamy	
+
+Dr Rosewarne/Michael Hopkinson/Dr Li
 
 
-### Monday	22
-
-Dr Thomas/Asif Sheikh/Dr Jawad
-
-Dr Li/Qasim Afzaal/Dr Pang
-
-### Tuesday	23
-
-Dr Blakeman/Nothando Meck/Dr Khan	
-
-Dr Azam/Maryam Paracha/Dr Vydianath
-
-### Wednesday	24
-
-Dr Rafati/Binglun Chow/Dr Bapusamy
-
-Dr Thomas/Mehvish Khatoon/Dr Jawad	
-
-### Thursday	25
-
-Dr Pang/Binglun Chow/Dr Thomas
-
-Dr Qaiyum/Nothando Meck/Dr Collins
-
-### Friday 26
-
-Dr Vydianath/Asma Jebril/All
-
-Dr Khan/Michael Hopkinson/Dr Mahmood
-
-###  Monday	29
-
-Dr Au Yong/Michael Hopkinson/Dr Vydianath
-
-Dr Azam/Binglun Chow/Dr Li	
-
-### Tuesday	30
-
-Dr Khan/Nothando Meck/Dr Azam	
-
-Dr Rosewarne/Maryam Paracha/Dr Saha
-
-### Wednesday	31	
-
-#### REALM 9:15
-
-Dr Bapusamy/Harminder Sensi/Dr Au Yong		
-
-Dr Thomas/Qasim Afzaal/Dr Jawad		
 
 
-## July 2024 ON-CALL
+## August 2024 ON-CALL
  
-15	Monday	Dr A Sheikh	Dr S Yahya
+01	Thursday	Dr D Lehru Dr M Qaiyum
 
-16	Tuesday	Dr V Popa-Nimigean	Dr T Au Yong
+02	Friday	5 pm - 9 pm Dr Q Afzaal Dr Vydianath
 
-17	Wednesday	Dr D Lehru	Dr F Syed	
+Friday 9 pm - 9 am Dr J Zachariah Dr Vydianath	
 
-18	Thursday	Dr M Khatoon	Dr F Rafati	
+03 Saturday 9 am - 9 pm Dr H Sensi Dr Vydianath	
 
-19	Friday 5.00pm – 9.00pm	Dr A Sheikh	Dr S Saha
+Saturday 9 pm - 9 am Dr J Zachariah Dr Vydianath
 
-Friday 9.00pm – 09.00am	Dr M Hopkinson	Dr S Saha	
+04 Sunday 9 am - 9 pm Dr M Paracha Dr Vydianath
  
-20	Saturday 09.00am – 9.00pm	Dr V Popa-Nimigean	Dr S Saha	
+Sunday 9 pm - 9 am Dr J Zachariah Dr Vydianath
 
-Saturday 9.00pm – 09.00am	Dr M Hopkinson	Dr S Saha	
+05 Monday Dr H Sami Dr M Blakeman
  
-21	Sunday 09.00am – 9.00pm	Dr V Popa-Nimigean	Dr S Saha
+06 Tuesday Dr D Lehru Dr Gupta
 
-Sunday 9.00pm – 09.00am	Dr M Hopkinson	Dr S Saha
+07 Wednesday Dr Q Afzaal Dr Li
  
-22	Monday	Dr Q Afzaal	Dr M Blakeman
+08	Thursday	Dr J Zachariah Dr I Khan
 
-23	Tuesday	Dr A Sheikh	Dr P Li
+09	Friday	5 pm - 9 pm
 
-24	Wednesday	Dr M Paracha (L)	Dr I Khan
+Friday 9 pm - 9 am
 
-25	Thursday	Dr M Hopkinson	Dr W Pang
+10	Saturday 09.00am – 9.00pm	
 
-26	Friday 5.00pm – 9.00pm	Dr M Hopkinson	Dr D Rosewarne
-
-Friday 9.00pm – 09.00am	Dr M Khatoon	Dr D Rosewarne
+Saturday 9.00pm – 09.00am	
  
-27	Saturday 09.00am – 9.00pm	Dr D Lehru	Dr D Rosewarne
-
-Saturday 9.00pm – 09.00am	Dr M Khatoon	Dr D Rosewarne
- 
-28	Sunday 09.00am – 9.00pm	Dr D Lehru	Dr D Rosewarne
+11	Sunday 09.00am – 9.00pm	
 
 Sunday 9.00pm – 09.00am	Dr Q Afzaal (L)	Dr D Rosewarne
  
-29	Monday	Dr A Sheikh	Dr A Bapusamy	
+12	Monday	
 
-30	Tuesday	Dr Q Afzaal	Dr H Azam	
+13	Tuesday	
 
-31	Wednesday	Dr A Sheikh	Dr A Gupta	
+14	Wednesday	
 
+15 Thursday
+
+16 Friday
+
+17 Saturday
+
+18 Sunday
+
+19 Monday
+
+20 Tuesday
+
+21 Wednesday
+
+22 Thursday
+
+23 Friday
+
+24 Saturday
+
+25 Sunday
+
+26 Monday Bank Holiday
+
+27 Tuesday
+
+28 Wednesday
+
+29 Thursday
+
+30 Friday
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days

@@ -25,7 +25,7 @@ Dr Saha/Qasim Afzaal/Dr Thomas
 
 Dr Au Yong/Hasan Bilal/Dr Khan
 
-Dr Vydianath/Dhiraj Lehru/Dr Qaiyum
+Dr Vydianath/Asma Jebril/Dr Qaiyum
 
 ### Wednesday 7
 

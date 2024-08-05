@@ -106,7 +106,7 @@ Saturday 9 pm - 9 am Dr J Zachariah Dr Vydianath
  
 Sunday 9 pm - 9 am Dr J Zachariah Dr Vydianath
 
-05 Monday Dr H Sami Dr M Blakeman
+05 Monday Dr M Paracha Dr M Blakeman
  
 06 Tuesday Dr D Lehru Dr Gupta
 

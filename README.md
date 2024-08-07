@@ -37,7 +37,7 @@ Dr Jawad/Harminder Sensi/Dr Au Yong
 
 Dr Kurian/Tony Kam/Dr Pang
 
-Dr Asam/Asma Jebril/Dr Qaiyum
+Dr Asam (from home)/Asma Jebril/Dr Qaiyum
 
 ### Friday 9
 
@@ -110,7 +110,7 @@ Sunday 9 pm - 9 am Dr J Zachariah Dr Vydianath
  
 06 Tuesday Dr D Lehru Dr Gupta
 
-07 Wednesday Dr Q Afzaal Dr Li
+07 Wednesday Dr Q Afzaal Dr Jawad
  
 08	Thursday	Dr J Zachariah Dr I Khan
 

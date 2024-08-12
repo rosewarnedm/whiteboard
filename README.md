@@ -47,7 +47,7 @@ Dr Mahmood/Hira Sami/Dr Thomas
 
 ### Monday 12
 
-Dr Gupta/Jiju Zachariah/Dr Jawad
+Dr Jawad/Jiju Zachariah/All
 
 Dr Yahya/Vladimir Popa-Nimigean/Dr Mahmood
 
@@ -71,7 +71,7 @@ Dr Kurian/Maryam Paracha/Dr Collins
 
 ### Friday 16
 
-Dr Agamy/Asma Jebril/Dr Li	
+Dr Agamy/Dhiraj Lehru/Dr Li	
 
 Dr Rafati/Jiju Zachariah/Dr Syed
 

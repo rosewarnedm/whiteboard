@@ -180,11 +180,15 @@ Sunday 9.00pm – 09.00am	Dr D Lehru (L)	Dr D Thomas
 
 16 Friday 5 pm - 9 pm Dr J Zachariah Dr H Azam
 
-17 Saturday 9 am to 9 pm  Dr Q Afzaal Dr H Azam
+9 pm - 9 am Dr H Sheikh Dr H Azam
 
-Saturday 9 pm - 9 am Dr H Sheikh Dr H Azam
+17 Saturday 9 am to 9 pm Dr Q Afzaal Dr H Azam
+
+9 pm to 9 am Dr A Sheikh Dr H Azam
 
 18 Sunday 9 am - 9 pm Dr Q Afzaal Dr H Azam
+
+9 pm to 9 am Dr A Sheikh Dr H Azam
 
 19 Monday Dr M Khatoon Dr S Yahya
 
@@ -194,7 +198,7 @@ Saturday 9 pm - 9 am Dr H Sheikh Dr H Azam
 
 22 Thursday Dr Q Afzaal Dr W Pang
 
-23 Friday 5 pm - 9 pm Locume Dr G Chaudhary
+23 Friday 5 pm - 9 pm Locum Dr G Chaudhary
 
 9 pm - 9 am Dr H Sami Dr G Chaudhary
 

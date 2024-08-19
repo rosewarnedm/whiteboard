@@ -101,7 +101,7 @@ Dr Pang/Dhiraj Lehru/Dr Bapusamy
 
 #### Friday 23
 
-Sick Leave/Tony Kam/Dr Blakeman
+Dr Agamy/Tony Kam/Dr Blakeman
 
 Dr Kurian/Qasim Afzaal/Dr Jain
 

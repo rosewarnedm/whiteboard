@@ -103,7 +103,7 @@ Dr Pang/Dhiraj Lehru/Dr Bapusamy
 
 Dr Agamy/Tony Kam/Dr Blakeman
 
-Dr Kurian/???????/Dr Jain
+Dr Kurian/Nothando Meck/Dr Jain
 
 #### Monday 26
 
@@ -198,15 +198,15 @@ Sunday 9.00pm – 09.00am	Dr D Lehru (L)	Dr D Thomas
 
 22 Thursday Dr Q Afzaal Dr W Pang
 
-23 Friday 5 pm - 9 pm Locum Dr G Chaudhary
+23 Friday 5 pm - 9 pm Dr M Qaiyum Dr G Chaudhary
 
 9 pm - 9 am Dr H Sami Dr G Chaudhary
 
-24 Saturday 9 am to 9 pm Dr B Chow Dr G Chaudhary 
+24 Saturday 9 am to 9 pm Dr Q Afzaal Dr G Chaudhary 
 
 9 pm to 9 am Dr M Khatoon Dr G Chaudhary
 
-25 Sunday 9 am to 9 pm Dr B Chow Dr G Chaudhary
+25 Sunday 9 am to 9 pm Locum Dr G Chaudhary
 
 9 pm to 9 am Dr A Sheikh Dr G Chaudhary
 

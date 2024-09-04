@@ -1,237 +1,213 @@
 
 
-### DUTY August 2024
+### DUTY September 2024
 
 
-### Thrusday 1 
+### Monday 2 September  
 
-Dr Rosewarne/Michael Hopkinson/Dr Collins
+Dr Thomas, Nothando Meck, All
 
-Dr Qaiyum/Tony Kam/Dr Azam
+Dr Yahya, Mahreen Butt, Dr Agamy
 
-### Friday 2
+### Tuesday 3
 
-Dr Li/Vladmir Popa-Nimigean/All
+Dr Agamy/Dhiraj Lehru/Dr Khan
 
-Dr Qaiyum/Qasim Afzaal/Dr Rosewarne
+Dr Au Yong/Dhiraj Lehru/Dr Vydianath
 
-### Monday 5
+### Wednesday 4
 
-Dr Rosewarne/Harminder Sensi/Dr Gupta
+Dr Chaudhary/Dhiraj Lehru/Dr Rafati
 
-Dr Saha/Qasim Afzaal/Dr Thomas
+Dr Gupta/Qasim Wadood/Dr Pang
 
-### Tuesday 6 
+### Thursday 5
 
-Dr Au Yong/Hasan Bilal/Dr Khan
+Dr Azam/Asif Sheikh/Dr Gupta
 
-Dr Vydianath/Asma Jebril/Dr Qaiyum
+Dr Khan/Asif Sheikh/Dr Collins
 
-### Wednesday 7
+### Friday 6
 
-Dr Thomas/Mehvish Khatoon/Dr Chaudhary
+Dr Li/Ashif Sheikh/Dr Khan
 
-Dr Jawad/Harminder Sensi/Dr Au Yong
+Dr Thomas/Asma Jebril/Dr Jain
 
-### Thursday 8
+### Monday 9
 
-Dr Kurian/Tony Kam/Dr Pang
+Dr Jain/Vladimir Popa-Nimigean/Dr Yahya
 
-Dr Asam (from home)/Asma Jebril/Dr Qaiyum
+Dr Mahmood/Jiju Zachariah/Dr Li
 
-### Friday 9
+### Tuesday 10
 
-Dr Khan/Asma Jebril/Dr Li
+Dr Au Yong/Fahad Zamen/Dr Blakeman
 
-Dr Mahmood/Hira Sami/Dr Thomas
+Dr Vydianath/Nirbhaibir Singh/Dr Saha
 
-### Monday 12
+### Wednesday 11
 
-Dr Jawad/Jiju Zachariah/All
+Dr Rafati/Nothando Meck/Dr Bapusamy
 
-Dr Yahya/Vladimir Popa-Nimigean/Dr Mahmood
+Dr Kurian/Hasan Bilal/Dr Au Yong
 
-### Tuesday 13
+### Thursday 12
 
-Dr Rosewarne/Mehvish Khatoon/Dr Blakeman
+Dr Pang/Nothando Meck/Dr Kurian
 
-Dr Azam/Dhiraj Lehru/Dr Vydianath
+Dr Qaiyum/Vladimir Popa-Nimagean/Dr Collins
 
-### Wednesday 14
+### Friday 13
 
-Dr Rafati/Nothando Meck/Dr Chaudhary
+Dr Blakeman/Maryam Paracha/Dr Jain
 
-Dr Jawad/Tony Kam/Dr Gupta
+Dr Vydianath/Asma Jebril/Dr Mahmood
 
-###  Thursday 15
+###  Monday 16
 
-Dr Pang/Binglun Chow/Dr Chaudhary
 
-Dr Kurian/Maryam Paracha/Dr Collins
 
-### Friday 16
+### Tuesday 17
 
-Dr Agamy/Dhiraj Lehru/Dr Li	
 
-Dr Rafati/Jiju Zachariah/Dr Syed
 
-### Monday 19
 
-Dr Saha/Harminder Sensi/Dr Pang
 
-Dr Mahmood/Vladimir Popa-Nimigean/Dr Yahya
+### Wednesday 18
 
-#### Tuesday 20
 
-Dr Blakeman/Jiju Zachariah/Dr Agamy	
 
-Dr Rosewarne/Michael Hopkinson/Dr Li
 
-#### Wednesday 21
 
-Dr Chaudhary/Mehvish Khatoon/Dr Rafati
+#### Thursday 19
 
-Dr Gupta/Hasan Bilal/Dr Pang
 
-#### Thursday 22
 
-Dr Agamy/Mahreen Butt/Dr Kurian
 
-Dr Pang/Dhiraj Lehru/Dr Bapusamy
 
-#### Friday 23
+#### Friday 20
 
-Dr Agamy/Tony Kam/Dr Blakeman
 
-Dr Kurian/Nothando Meck/Dr Jain
 
-#### Monday 26
 
-Bank Holiday
 
-#### Tuesday 27
+#### Monday 23
 
-Dr Azam/Hasan Bilal/Dr Chaudhary
 
-Dr Gupta/Tony Kam/Dr Yahya
 
-#### Wednesday 28
 
-Dr Chaudhary/Jiju Zachariah/Dr Bapusamy
 
-Dr Kurian/Maryam Paracha/Dr Pang
+#### Tuesday 24
 
-#### Thursday 29
 
-Dr Bapusamy/Sobia Khan/Dr Saha
 
-Dr Pang/Hasan Bilal/Dr Collins
 
-#### Friday 30
 
-??????/Asif Sheikh/Dr Vydianath
+#### Wednesday 25
 
-Dr Saha/Michael Hopkinson/Dr Chaudhary
 
 
-## August 2024 ON-CALL
+#### Thursday 26
+
+
+
+
+#### Friday 27
+
+
+
+
+
+#### Monday 30
+
+
+
+
+
+## September 2024 ON-CALL
  
-01	Thursday	Dr D Lehru Dr M Qaiyum
+01 Sunday 9 am - 9.15 pm Dr M Khatoon Dr Bapusamy
+ Sunday 9 pm - 9.15 am Dr D Lehru Dr Bapusamy
 
-02	Friday	5 pm - 9 pm Dr Q Afzaal Dr Vydianath
+02 Monday 5 pm - 9 pm Dr N Meck Dr Agamy
+Monday 9.00 pm - 9.15 am Dr Popa-Nimigean Dr Agamy
 
-Friday 9 pm - 9 am Dr J Zachariah Dr Vydianath	
+03 Tuesday 5 pm - 9 pm Dr N Meck Dr Gupta
+Tuesday 9 pm - 9.15 am Dr Popa-Nimigean Dr Gupta
 
-03 Saturday 9 am - 9 pm Dr H Sensi Dr Vydianath	
-
-Saturday 9 pm - 9 am Dr J Zachariah Dr Vydianath
-
-04 Sunday 9 am - 9 pm Dr M Paracha Dr Vydianath
+04 Wednesday 5 pm - 9 pm Dr A Jebril Dr S Jain
+9 pm - 9.15 am Dr A Jebril Dr S Jain
  
-Sunday 9 pm - 9 am Dr J Zachariah Dr Vydianath
+05	Thursday	5 pm - 9 pm Dr A Jebril Dr D Thomas
+9 pm - 9.15 am Dr Popa-Nimigean Dr Thomas
 
-05 Monday Dr M Paracha Dr M Blakeman
+06	Friday	5 pm - 9 pm Dr H Bilas Dr W Pang
+Friday 9 pm - 9.15 am Dr D Lehru Dr Pang
+
+07	Saturday 09.00am – 9.15 pm	Dr M Butt Dr Pang
+Saturday 9.00pm – 09.15am	Dr D Lehru Dr Pang
  
-06 Tuesday Dr D Lehru Dr Gupta
-
-07 Wednesday Dr Q Afzaal Dr Jawad
+08	Sunday 09.00am – 9.15pm	Dr Zachariah Dr Pang
+Sunday 9.00pm – 09.15am	Dr D Lehru Dr Pang
  
-08	Thursday	Dr J Zachariah Dr I Khan
+09	Monday	5 pm - 9 pm Dr T Kam Dr Kurian
+9 pm - 9.15 am Dr M Rai Dr Kurian
 
-09	Friday	5 pm - 9 pm Dr H Sami Dr D Thomas
+10	Tuesday	5 pm - 9 pm Dr H Bilas Dr Au Yong
+9 pm - 9.15 am Dr M Rai Dr Au Yong
 
-Friday 9 pm - 9 am Dr J Zachariah Dr D Thomas
+11	Wednesday	5 pm - 9 pm Dr N Meck Dr I Khan
+9 pm - 9.15 am Mr M Rai Dr M Khan
 
-10	Saturday 09.00am – 9.00pm	Dr A Sheikh Dr D Thomas
+12 Thursday 5 pm - 9 pm Dr N Meck Dr M Qaiyum
+9 pm - 9.15 am Dr M Rai Dr M Qaiyum
 
-Saturday 9.00pm – 09.00am	Dr M Paracha Dr D Thomas
- 
-11	Sunday 09.00am – 9.00pm	Dr A Sheikh Dr D Thomas
+13 Friday 5 pm - 9 pm Dr A Jebril Dr Syed
+9 pm - 9.15 am Dr A Sheikh Dr F Syed
 
-Sunday 9.00pm – 09.00am	Dr D Lehru (L)	Dr D Thomas
- 
-12	Monday	Dr M Paracha Dr A Mahmood
+14 Saturday 9 am to 9.15 pm Dr J Zachrariah Dr Syed
+9 pm to 9.15 am Dr A Sheikh Dr Syed
 
-13	Tuesday	Dr M Paracha Dr G Chaudhary
+15 Sunday 9 am - 9 pm Dr M Butt Dr Syed
+9 pm to 9.15 am Dr A Sheikh Dr Syed
 
-14	Wednesday	Dr D Lehru Dr P Li
+16 Monday 
 
-15 Thursday Dr A Sheikh Dr F Rafati
+17 Tuesday 
 
-16 Friday 5 pm - 9 pm Dr J Zachariah Dr H Azam
+18 Wednesday 
 
-9 pm - 9 am Dr H Sheikh Dr H Azam
+19 Thursday 
 
-17 Saturday 9 am to 9 pm Dr Q Afzaal Dr H Azam
+20 Friday 5 pm - 9 pm 
+9 pm - 9 am 
 
-9 pm to 9 am Dr A Sheikh Dr H Azam
+21 Saturday 9 am to 9 pm 
+9 pm to 9 am 
 
-18 Sunday 9 am - 9 pm Dr Q Afzaal Dr H Azam
+22 Sunday 9 am to 9 pm 
+9 pm to 9 am 
 
-9 pm to 9 am Dr A Sheikh Dr H Azam
+23 Monday 5 pm - 9 pm
+9 pm to 9 am
 
-19 Monday Dr M Khatoon Dr S Yahya
+22 Tuesday 
 
-20 Tuesday Dr J Zachariah Dr A Agamy
+23 Wednesday
 
-21 Wednesday Dr H Sami Dr R Kurian
+24 Thursday 
 
-22 Thursday Dr Q Afzaal Dr W Pang
+25 Friday 5 pm to 9 pm 
+9 pm to 9 am 
 
-23 Friday 5 pm - 9 pm Dr M Qaiyum Dr G Chaudhary
+26 Saturday 9 am to 9 pm 
 
-9 pm - 9 am Dr H Sami Dr G Chaudhary
-
-24 Saturday 9 am to 9 pm Dr Q Afzaal Dr G Chaudhary 
-
-9 pm to 9 am Dr M Khatoon Dr G Chaudhary
-
-25 Sunday 9 am to 9 pm Locum Dr G Chaudhary
-
-9 pm to 9 am Dr A Sheikh Dr G Chaudhary
-
-26 Monday Bank Holiday 9 am to 9 pm Dr H Sami Dr D Rosewarne
-
-9 pm to 9 am Dr M Hopkinson Dr D Rosewarne
-
-27 Tuesday Dr M Hopkinson Dr R Kurian
-
-28 Wednesday Dr J Zachariah Dr F Syed
-
-29 Thursday Dr V Popa-Nimigean Dr S Saha
-
-30 Friday 5 pm to 9 pm Dr M Hopkinson Dr A Bapusamy
-
-9 pm to 9 am Dr H Sami Dr A Bapusamy
-
-31 Saturday 9 am to 9 pm Dr M Paracha Dr A Bapusamy
-
-9 pm to 9 am Dr A Sheikh Dr A Bapusamy
+9 pm to 9 am 
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days
 
-Monday 2 September
+Monday 2 September - cancelled
 
 Tuesday 8 October
 
@@ -240,7 +216,7 @@ Wednesday 27 November
 ## REALM meetings
 ### 9.15 – 10.30
 
-Thursday 29 August	
+Thursday 29 August	- cancelled
 
 Friday 27 September
 

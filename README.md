@@ -157,19 +157,19 @@ Sunday 9.00pm – 09.15am	Dr D Lehru Dr Pang
 9 pm - 9.15 am Dr M Rai Dr Au Yong
 
 11	Wednesday	5 pm - 9 pm Dr N Meck Dr I Khan
-9 pm - 9.15 am Mr M Rai Dr M Khan
+9 pm - 9.15 am Dr M Butt Dr M Khan
 
 12 Thursday 5 pm - 9 pm Dr N Meck Dr M Qaiyum
-9 pm - 9.15 am Dr M Rai Dr M Qaiyum
+9 pm - 9.15 am Dr M Butt Dr M Qaiyum
 
-13 Friday 5 pm - 9 pm Dr A Jebril Dr Syed
-9 pm - 9.15 am Dr A Sheikh Dr F Syed
+13 Friday 5 pm - 9 pm Dr A Jebril Dr Thomas
+9 pm - 9.15 am Dr A Sheikh Dr Thomas
 
 14 Saturday 9 am to 9.15 pm Dr J Zachrariah Dr Syed
 9 pm to 9.15 am Dr A Sheikh Dr Syed
 
 15 Sunday 9 am - 9 pm Dr M Butt Dr Syed
-9 pm to 9.15 am Dr A Sheikh Dr Syed
+9 pm to 9.15 am Dr A Sheikh Dr Vydianath
 
 16 Monday 
 

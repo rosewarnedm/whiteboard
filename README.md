@@ -65,69 +65,75 @@ Dr Vydianath/Asma Jebril/Dr Mahmood
 
 ###  Monday 16
 
+Dr R Jawad/Hasan Bilal/Dr Syed
 
+Dr Mahmood/Mahreen Butt/Dr Agamy
 
 ### Tuesday 17
 
+Dr Blakeman/Vladimir Popa-Nimigean/Dr Saha
 
-
-
+Dr Li/Qasim Wadood/Dr Qaiyum
 
 ### Wednesday 18
 
+Dr Rafati/Nirbhairbir Singh/Dr Agamy
 
-
-
+Dr Bapusamy/Hasan Bilal/Dr Au Yong
 
 #### Thursday 19
 
+Dr Qaiyum/Mahreen Butt/Dr Kurian
 
-
-
+Dr Khan/Asma Jebril/Dr Rosewarne
 
 #### Friday 20
 
+Dr Jain/Manvir Rai/Dr Blakeman
 
-
-
+Dr Blakeman/Tony Kam/Dr Li
 
 #### Monday 23
 
+Dr Yahya/Mahreen Butt/Dr Thomas
 
-
-
+Dr Saha/Jiju Zachariah/Dr Mahmood
 
 #### Tuesday 24
 
+Dr Blakeman/Dhiraj Lehru/Dr Saha
 
-
-
+Dr Azam/Jiju Zachariah/Dr Vydianath
 
 #### Wednesday 25
 
+Dr Chaudhary/Hasan Bilal/Dr Agamy
 
+Dr Thomas/Dr Kam/Dr Gupta
 
 #### Thursday 26
 
+Dr Kurian/Manvir Rai/Dr Yahya
 
-
+Dr Khan/Vladimir Popa-Nimagean/Dr Qaiyum
 
 #### Friday 27
 
+Dr Agamy/Dr Jiju Zachariah/Dr Jain
 
-
-
+Dr Syed/Dr Kam/Dr Mahmood
 
 #### Monday 30
 
+Dr Au Yong/Fahad Zamen/Dr Saha
 
-
+Dr Mahmood/Manvir Rai/Dr Li
 
 
 ## September 2024 ON-CALL
  
 01 Sunday 9 am - 9.15 pm Dr M Khatoon Dr Bapusamy
- Sunday 9 pm - 9.15 am Dr D Lehru Dr Bapusamy
+Sunday 9 pm - 9.15 am Dr D Lehru Dr Bapusamy
 
 02 Monday 5 pm - 9 pm Dr N Meck Dr Agamy
 Monday 9.00 pm - 9.15 am Dr Popa-Nimigean Dr Agamy
@@ -171,38 +177,50 @@ Sunday 9.00pm – 09.15am	Dr D Lehru Dr Pang
 15 Sunday 9 am - 9 pm Dr M Butt Dr Syed
 9 pm to 9.15 am Dr A Sheikh Dr Vydianath
 
-16 Monday 
+16 Monday 5 pm - 9 pm Dr M Butt Dr M Blakeman
+9 pm - 9.15 am Dr M Paracha Dr M Blakeman
 
-17 Tuesday 
+17 Tuesday 5 pm - 9 pm Dr M Butt Dr S Yahya
+9 pm - 9.15 am Dr Y Na Dr S Yahya
 
-18 Wednesday 
+18 Wednesday 5 pm - 9 pm Dr D Lehru Dr P Li
+9 pm - 9.15 am Dr Y Na, Dr P Li
 
-19 Thursday 
+19 Thursday 5 pm - 9 pm Dr D Lehru Dr F Rafati
+9 pm - 9.15 am Dr M Paracha Dr F Rafati
 
-20 Friday 5 pm - 9 pm 
-9 pm - 9 am 
+20 Friday 5 pm - 9 pm Dr N Meck Dr A Mahmood
+9 pm - 9.15 am Dr V Popa-Nimagean Dr A Mahmood
 
-21 Saturday 9 am to 9 pm 
-9 pm to 9 am 
+21 Saturday 9 am to 9.15 pm Dr A Sheikh Dr Mahmood 
+9 pm to 9.15 am Dr Popa-Nimagean Dr A Mahmood 
 
-22 Sunday 9 am to 9 pm 
-9 pm to 9 am 
+22 Sunday 9 am to 9.15 pm Dr A Sheikh Dr A Mahmood 
+9 pm to 9.15 am Dr V Popa-Nimigean Dr A Mahmood 
 
-23 Monday 5 pm - 9 pm
-9 pm to 9 am
+23 Monday 5 pm - 9 pm Dr J Zachariah, Dr S Yahya
+9 pm to 9.15 am Dr F Zamen/Dr El Nigoumi, Dr S Yahya
 
-22 Tuesday 
+24 Tuesday 5 pm - 9 pm  Dr J Zachariah Dr S Vydianath
+9 pm - 9.15 am Dr F Zamen/Dr El Nigoumi, Dr S Vydianath
 
-23 Wednesday
+25 Wednesday 5 pm - 9 pm Dr M Butt, Dr D Rosewarne
+9 pm - 9.15 am Dr F Zamen/Dr El Nigoumi, Dr D Rosewarne
 
-24 Thursday 
+26 Thursday 5 pm - 9 pm Dr M Butt Dr G Chaudhary
+9 pm - 9.15 am Dr F Zamen/Dr Eli Nigoumi, Dr G Chaudhary
 
-25 Friday 5 pm to 9 pm 
-9 pm to 9 am 
+27 Friday 5 pm to 9 pm Dr H Bilal, Dr I Khan 
+9 pm to 9.15 am Dr J Zachariah Dr I Khan 
 
-26 Saturday 9 am to 9 pm 
+28 Saturday 9 am to 9.15 pm Dr N Singh Dr I Khan 
+9 pm to 9.15 am Dr J Zachariah Dr I Khan 
 
-9 pm to 9 am 
+29 Sunday 9 am to 9.15 pm Dr N Singh Dr I Khan
+9 pm - 9.15 am Dr J Zachariah Dr I Khan
+
+30 Monday 5 pm - 9 pm Dr A Sheikh Dr S Saha
+9 pm - 9.15 am Dr D Lehru Dr S Saha
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days

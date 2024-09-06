@@ -157,7 +157,7 @@ Saturday 9.00pm – 09.15am	Dr D Lehru Dr Pang
 Sunday 9.00pm – 09.15am	Dr D Lehru Dr Pang
  
 09	Monday	5 pm - 9 pm Dr T Kam Dr Kurian
-9 pm - 9.15 am Dr M Rai Dr Kurian
+9 pm - 9.15 am Dr M Paracha Dr Kurian
 
 10	Tuesday	5 pm - 9 pm Dr H Bilas Dr Au Yong
 9 pm - 9.15 am Dr M Rai Dr Au Yong
@@ -187,7 +187,7 @@ Sunday 9.00pm – 09.15am	Dr D Lehru Dr Pang
 9 pm - 9.15 am Dr Y Na, Dr P Li
 
 19 Thursday 5 pm - 9 pm Dr D Lehru Dr F Rafati
-9 pm - 9.15 am Dr M Paracha Dr F Rafati
+9 pm - 9.15 am Dr M Rai Dr F Rafati
 
 20 Friday 5 pm - 9 pm Dr N Meck Dr A Mahmood
 9 pm - 9.15 am Dr V Popa-Nimagean Dr A Mahmood

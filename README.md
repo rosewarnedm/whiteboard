@@ -59,9 +59,9 @@ Dr Qaiyum/Vladimir Popa-Nimagean/Dr Collins
 
 ### Friday 13
 
-Dr Blakeman/Maryam Paracha/Dr Jain
+Dr Blakeman/Maryam Paracha/Dr Mahmood
 
-Dr Vydianath/Asma Jebril/Dr Mahmood
+Dr Vydianath/Asma Jebril/Dr Jain
 
 ###  Monday 16
 
@@ -89,7 +89,7 @@ Dr Khan/Asma Jebril/Dr Rosewarne
 
 #### Friday 20
 
-Dr Jain/Manvir Rai/Dr Blakeman
+Dr Syed/Manvir Rai/Dr Blakeman
 
 Dr Blakeman/Tony Kam/Dr Li
 
@@ -109,7 +109,7 @@ Dr Azam/Jiju Zachariah/Dr Vydianath
 
 Dr Chaudhary/Hasan Bilal/Dr Agamy
 
-Dr Thomas/Dr Kam/Dr Gupta
+Dr Thomas/Dr Kam/Dr Pang
 
 #### Thursday 26
 

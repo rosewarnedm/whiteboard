@@ -172,9 +172,9 @@ Sunday 9.00pm – 09.15am	Dr D Lehru Dr Pang
 9 pm - 9.15 am Dr A Sheikh Dr Thomas
 
 14 Saturday 9 am to 9.15 pm Dr J Zachrariah Dr Thomas
-9 pm to 9.15 am Dr A Sheikh Dr Syed
+9 pm to 9.15 am Dr A Sheikh Dr Qaiyum
 
-15 Sunday 9 am - 9 pm Dr M Butt Dr Syed
+15 Sunday 9 am - 9 pm Dr M Butt Dr Agamy
 9 pm to 9.15 am Dr A Sheikh Dr Vydianath
 
 16 Monday 5 pm - 9 pm Dr M Butt Dr M Blakeman

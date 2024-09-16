@@ -71,9 +71,9 @@ Dr Mahmood/Mahreen Butt/Dr Agamy
 
 ### Tuesday 17
 
-Dr Blakeman/Vladimir Popa-Nimigean/Dr Saha
+Dr Blakeman/Qasim Wadood/Dr Saha
 
-Dr Li/Qasim Wadood/Dr Qaiyum
+Dr Li/Vladimir Popa-Nimagean/Dr Qaiyum
 
 ### Wednesday 18
 

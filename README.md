@@ -79,7 +79,7 @@ Dr Li/Vladimir Popa-Nimagean/Dr Qaiyum
 
 Dr Rafati/Nirbhairbir Singh/Dr Agamy
 
-Dr Bapusamy/Hasan Bilal/Dr Au Yong
+Dr Thomas/Hasan Bilal/Dr Au Yong
 
 #### Thursday 19
 
@@ -109,7 +109,7 @@ Dr Azam/Jiju Zachariah/Dr Vydianath
 
 Dr Chaudhary/Hasan Bilal/Dr Agamy
 
-Dr Thomas/Dr Kam/Dr Pang
+Dr Bapusamy/Dr Kam/Dr Pang
 
 #### Thursday 26
 

@@ -50,8 +50,8 @@ Dr Mahmood/Manvir Rai/Dr Li
 25 Wednesday 5 pm - 9 pm Dr M Butt, Dr D Rosewarne
 9 pm - 9.15 am Dr F Zamen/Dr D Rosewarne
 
-26 Thursday 5 pm - 9 pm Dr M Butt Dr G Chaudhary
-9 pm - 9.15 am Dr F Zamen/Dr G Chaudhary
+26 Thursday 5 pm - 9 pm Dr M Butt Dr S Yahya
+9 pm - 9.15 am Dr F Zamen/Dr S Yahya
 
 27 Friday 5 pm to 9 pm Dr H Bilal, Dr I Khan 
 9 pm to 9.15 am Dr J Zachariah Dr I Khan 

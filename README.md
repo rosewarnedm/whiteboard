@@ -59,7 +59,7 @@ Dr Mahmood/Manvir Rai/Dr Li
 28 Saturday 9 am to 9.15 pm Dr N Singh Dr I Khan 
 9 pm to 9.15 am Dr J Zachariah Dr I Khan 
 
-29 Sunday 9 am to 9.15 pm Dr N Singh Dr I Khan
+29 Sunday 9 am to 9.15 pm Dr M Rai Dr I Khan
 9 pm - 9.15 am Dr J Zachariah Dr I Khan
 
 30 Monday 5 pm - 9 pm Dr A Sheikh Dr S Saha

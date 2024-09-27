@@ -28,15 +28,15 @@ Dr Khan/Vladimir Popa-Nimagean/Dr Qaiyum
 
 #### Friday 27
 
-Dr Agamy/Dr Jiju Zachariah/Dr Jain
+Dr Agamy/Mahreen Butt/Dr Jain
 
-Dr Syed/Dr Kam/Dr Mahmood
+Dr Mahmood/Dr Kam/Dr Rosewarne
 
 #### Monday 30
 
 Dr Au Yong/Fahad Zamen/Dr Saha
 
-Dr Mahmood/Manvir Rai/Dr Li
+Dr Mahmood/Vladimir Popa-Nimigean/Dr Li
 
 
 ## September 2024 ON-CALL

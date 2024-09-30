@@ -1,69 +1,193 @@
 
 
-### DUTY September 2024
+### DUTY October 2024
 
-#### Monday 23
+#### Tuesday 1
+Dr Blakeman/Fahad Zaman/Dr Qaiyum
+Dr Rosewarne/Asif Sheikh/Dr Agamy
 
-Dr Yahya/Mahreen Butt/Dr Thomas
+#### Wednesday 2
+Dr Rafati/Nothando Meck/Dr Khan
+Dr Gupta/Jiju Zachariah/Dr Au Yong
 
-Dr Saha/Jiju Zachariah/Dr Mahmood
+#### Thursday 3
+Dr Azam/Vladimir Popa-Nimigean/Dr Kurian
+Dr Bapusamy/Jiju Zachariah/Dr Collins
 
-#### Tuesday 24
+#### Friday 4
+Dr Vydianath/Ahmed Elnigoumi/Dr Blakeman
+Dr Agamy/Tony Kam/Dr Thomas
 
-Dr Blakeman/Dhiraj Lehru/Dr Saha
+#### Monday 7
+Dr Yahya/Dhiraj Lehru/Dr Jawad
+Dr Saha/Hasan Bilal/Dr Mahmood
 
-Dr Azam/Jiju Zachariah/Dr Vydianath
+#### Tuesday 8
+Dr Khan/Dhiraj Lehru/Dr Rosewarne
+Dr Vydianath/Vladimir Popa-Nimigean/Dr Saha
 
-#### Wednesday 25
+#### Wednesday 9
+Dr Rafati/Nothando Meck/Dr Chaudhary
+Dr Jawad/Nothando Meck/Dr Au Yong
 
-Dr Agamy/Hasan Bilal/All
+#### Thursday 10
+Dr Mahmood/Asif Sheikh/Dr Pang
+Dr Khan/Manvir Rai/Dr Jain
 
-Dr Bapusamy/Dr Kam/Dr Pang
+#### Friday 11
+Dr Li/Nirbhaibir Singh/Dr Vydianath
+Dr Azam/Jiju Zachariah/Dr Syed
 
-#### Thursday 26
+#### Monday 14
+Dr Thomas/Ahmed Elnigoumi/Dr Jawad
+Dr Yahya/Hasan Bilal/Dr Li
 
-Dr Kurian/Manvir Rai/Dr Yahya
+#### Tuesday 15
+Dr Blakeman/Fahad Zaman/Dr Khan
+Dr Azam/Manvir Rai/Dr Rosewarne
 
-Dr Khan/Vladimir Popa-Nimagean/Dr Qaiyum
+#### Tuesday 16
+Dr Bapusamy/Asma Jebril/Dr Rafati
+Dr Jawad/Tony Kam/Dr Gupta
 
-#### Friday 27
+#### Thursday 17
+Dr Mahmood/Mahreen Butt/Dr Kurian
+Dr Qaiyum/Asma Jebril/Dr Collins
 
-Dr Agamy/Mahreen Butt/Dr Jain
+#### Friday 18
+Dr Li/Mahreen Butt/Dr Thomas
+Dr Bapusamy/Tony Kam/Dr Blakeman
 
-Dr Mahmood/Dr Kam/Dr Rosewarne
+#### Monday 21
+Dr Au Yong/Mahreen Butt/Dr Rosewarne
+Dr Saha/Asma Jebril/Dr Mahmood
 
-#### Monday 30
+#### Tuesday 22
+Dr Khan/Mahreen Butt/Dr Agamy
+Dr Gupta/Dhiraj Lehru/Dr Azam
 
-Dr Au Yong/Asif Sheikh/Dr Saha
+#### Wednesday 23
+Dr Kurian/Mahreen Butt/Dr Rafati
+Dr Thomas/Hasan Bilal/Dr Gupta
 
-Dr Mahmood/Vladimir Popa-Nimigean/Dr Li
+#### Thursday 24
+Dr Kurian/Fahad Zaman/Dr Yahya
+Dr Qaiyum/Manvir Rai/Dr Pang
 
+#### Friday 25
+Dr Syed/Nirbhaibir Singh/Dr Li
+Dr Syed/Nirbhaibir Singh/Dr Li
 
-## September 2024 ON-CALL
+#### Monday 28
+Dr Jain/Nirbhaibir Singh/Dr Rosewarne
+Dr Yahya/Qasim WadoodDr Saha
 
-23 Monday 5 pm - 9 pm Dr J Zachariah, Dr S Yahya
-9 pm to 9.15 am Dr F Zamen/Dr S Yahya
+#### Tuesday 29
+Dr Blakeman/Qasim Wadood/Dr Qaiyum
+Dr Au Yong/Reg TBA/Dr Azam
 
-24 Tuesday 5 pm - 9 pm  Dr J Zachariah Dr S Vydianath
-9 pm - 9.15 am Dr F Zamen/Dr S Vydianath
+#### Wednesday 30
+Dr Chaudhary/Yuki Na/Dr Agamy
+Dr Gupta/Yuki Na/Dr Au Yong
 
-25 Wednesday 5 pm - 9 pm Dr M Butt, Dr D Rosewarne
-9 pm - 9.15 am Dr F Zamen/Dr D Rosewarne
+#### Thursday 31
+Dr Bapusamy/Reg TBA/Dr Collins
+Dr Pang/Qasim Wadood/Dr Jain
 
-26 Thursday 5 pm - 9 pm Dr M Butt Dr S Yahya
-9 pm - 9.15 am Dr F Zamen/Dr S Yahya
+## October 2024 ON-CALL
 
-27 Friday 5 pm to 9 pm Dr H Bilal, Dr I Khan 
-9 pm to 9.15 am Dr J Zachariah Dr I Khan 
+01 Tuesday 5 pm - 9 pm 
+9 pm to 9.15 am 
 
-28 Saturday 9 am to 9.15 pm Dr N Singh Dr I Khan 
-9 pm to 9.15 am Dr J Zachariah Dr I Khan 
+02 Wednesday 5 pm - 9 pm 
+9 pm - 9.15 am 
 
-29 Sunday 9 am to 9.15 pm Dr M Rai Dr I Khan
-9 pm - 9.15 am Dr J Zachariah Dr I Khan
+03 Thursday 5 pm - 9 pm 
+9 pm - 9.15 am
 
-30 Monday 5 pm - 9 pm Dr A Sheikh Dr S Saha
-9 pm - 9.15 am Dr D Lehru Dr S Saha
+04 Friday 5 pm to 9 pm 
+9 pm to 9.15 am 
+
+05 Saturday 9 am to 9.15 pm 
+9 pm to 9.15 am 
+
+06 Sunday 9 am to 9.15 pm 
+9 pm - 9.15 am 
+
+07 Monday 5 pm - 9 pm 
+9 pm - 9.15 am 
+
+08 Tuesday 5 pm - 9 pm 
+9 pm to 9.15 am 
+
+09 Wednesday 5 pm - 9 pm 
+9 pm - 9.15 am 
+
+10 Thursday 5 pm - 9 pm 
+9 pm - 9.15 am
+
+11 Friday 5 pm to 9 pm 
+9 pm to 9.15 am 
+
+12 Saturday 9 am to 9.15 pm 
+9 pm to 9.15 am 
+
+13 Sunday 9 am to 9.15 pm 
+9 pm - 9.15 am 
+
+14 Monday 5 pm to 9 pm
+9 pm - 9.15 am
+
+15 Tuesday 5 pm - 9 pm 
+9 pm to 9.15 am 
+
+16 Wednesday 5 pm - 9 pm 
+9 pm - 9.15 am 
+
+17 Thursday 5 pm - 9 pm 
+9 pm - 9.15 am
+
+18 Friday 5 pm to 9 pm 
+9 pm to 9.15 am 
+
+19 Saturday 9 am to 9.15 pm 
+9 pm to 9.15 am 
+
+20 Sunday 9 am to 9.15 pm 
+9 pm - 9.15 am 
+
+21 Monday 5 pm to 9 pm
+9 pm - 9.15 am
+
+22 Tuesday 5 pm - 9 pm 
+9 pm to 9.15 am 
+
+23 Wednesday 5 pm - 9 pm 
+9 pm - 9.15 am 
+
+24 Thursday 5 pm - 9 pm 
+9 pm - 9.15 am
+
+25 Friday 5 pm to 9 pm 
+9 pm to 9.15 am 
+
+26 Saturday 9 am to 9.15 pm 
+9 pm to 9.15 am 
+
+27 Sunday 9 am to 9.15 pm 
+9 pm - 9.15 am 
+
+28 Monday 5 pm to 9 pm
+9 pm - 9.15 am
+
+29 Tuesday 5 pm - 9 pm 
+9 pm to 9.15 am 
+
+30 Wednesday 5 pm - 9 pm 
+9 pm - 9.15 am 
+
+31 Thursday 5 pm - 9 pm 
+9 pm - 9.15 am
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days

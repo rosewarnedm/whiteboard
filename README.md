@@ -96,98 +96,98 @@ Dr Pang/Qasim Wadood/Dr Jain
 
 ## October 2024 ON-CALL
 
-01 Tuesday 5 pm - 9 pm 
-9 pm to 9.15 am 
-
-02 Wednesday 5 pm - 9 pm 
-9 pm - 9.15 am 
-
-03 Thursday 5 pm - 9 pm 
-9 pm - 9.15 am
-
-04 Friday 5 pm to 9 pm 
-9 pm to 9.15 am 
-
-05 Saturday 9 am to 9.15 pm 
-9 pm to 9.15 am 
-
-06 Sunday 9 am to 9.15 pm 
-9 pm - 9.15 am 
-
-07 Monday 5 pm - 9 pm 
-9 pm - 9.15 am 
-
-08 Tuesday 5 pm - 9 pm 
-9 pm to 9.15 am 
-
-09 Wednesday 5 pm - 9 pm 
-9 pm - 9.15 am 
-
-10 Thursday 5 pm - 9 pm 
-9 pm - 9.15 am
-
-11 Friday 5 pm to 9 pm 
-9 pm to 9.15 am 
-
-12 Saturday 9 am to 9.15 pm 
-9 pm to 9.15 am 
-
-13 Sunday 9 am to 9.15 pm 
-9 pm - 9.15 am 
-
-14 Monday 5 pm to 9 pm
-9 pm - 9.15 am
-
-15 Tuesday 5 pm - 9 pm 
-9 pm to 9.15 am 
-
-16 Wednesday 5 pm - 9 pm 
-9 pm - 9.15 am 
-
-17 Thursday 5 pm - 9 pm 
-9 pm - 9.15 am
-
-18 Friday 5 pm to 9 pm 
-9 pm to 9.15 am 
-
-19 Saturday 9 am to 9.15 pm 
-9 pm to 9.15 am 
-
-20 Sunday 9 am to 9.15 pm 
-9 pm - 9.15 am 
-
-21 Monday 5 pm to 9 pm
-9 pm - 9.15 am
-
-22 Tuesday 5 pm - 9 pm 
-9 pm to 9.15 am 
-
-23 Wednesday 5 pm - 9 pm 
-9 pm - 9.15 am 
-
-24 Thursday 5 pm - 9 pm 
-9 pm - 9.15 am
-
-25 Friday 5 pm to 9 pm 
-9 pm to 9.15 am 
-
-26 Saturday 9 am to 9.15 pm 
-9 pm to 9.15 am 
-
-27 Sunday 9 am to 9.15 pm 
-9 pm - 9.15 am 
-
-28 Monday 5 pm to 9 pm
-9 pm - 9.15 am
-
-29 Tuesday 5 pm - 9 pm 
-9 pm to 9.15 am 
-
-30 Wednesday 5 pm - 9 pm 
-9 pm - 9.15 am 
-
-31 Thursday 5 pm - 9 pm 
-9 pm - 9.15 am
+1	Tuesday 5.00pm – 9.00pm	Dr A Sheikh 	Dr R Kurian	
+	Tuesday 9.00pm – 09.15am	Dr D Lehru	Dr R Kurian	
+ 
+2	Wednesday 5.00pm – 9.00pm	Dr J Zachariah	Dr D Rosewarne	
+	Wednesday 9.00pm – 09.15am	Dr D Lehru	Dr D Rosewarne	
+ 
+3	Thursday 5.00pm – 9.00pm	Dr J Zachariah	Dr I Khan	
+	Thursday 9.00pm – 09.15am	Dr D Lehru	Dr I Khan	
+ 
+4	Friday 5.00pm – 9.00pm	Dr M Butt	Dr P Li 	
+	Friday 9.00pm – 09.15am	Dr A Jebril	Dr P Li	
+ 
+5	Saturday 09.00am – 9.15pm	Dr M Rai	Dr P Li	
+	Saturday 9.00pm – 09.15am	Dr A Jebril	Dr P Li	
+ 
+6	Sunday 09.00am – 9.15pm	Dr N Singh	Dr P Li	
+	Sunday 9.00pm – 09.15am	Dr A Jebril	Dr P Li	
+ 
+7	Monday 5.00pm – 9.00pm	Dr N Singh	Dr H Azam	
+	Monday 9.00pm – 09.15am	Dr M Butt 	Dr H Azam	
+ 
+8	Tuesday 5.00pm – 9.00pm	Dr N Singh	Dr S Vydianath	
+	Tuesday 9.00pm – 09.15am	Dr M Butt 	Dr S Vydianath	
+ 
+9	Wednesday 5.00pm – 9.00pm	Dr F Zaman	Dr R Jawad 	
+	Wednesday 9.00pm – 09.15am	Dr M Butt 	Dr R Jawad	
+ 
+10	Thursday 5.00pm – 9.00pm	Dr F Zaman 	Dr F Rafati	
+	Thursday 9.00pm – 09.15am	Dr M Butt 	Dr F Rafati	
+ 
+11	Friday 5.00pm – 9.00pm	Dr J Zachariah	Dr S Jain 	
+	Friday 9.00pm – 09.15am	Dr N Meck	Dr S Jain	
+ 
+12	Saturday 9.00am – 09.15pm	Dr Y Na	Dr S Jain	
+	Saturday 9.00pm – 09.15am	Dr N Meck	Dr S Jain	
+ 
+13	Saturday 9.00am – 09.15pm	Dr M Paracha	Dr S Jain	
+	Saturday 9.00pm – 09.15am	Dr N Meck	Dr S Jain	
+ 
+14	Monday 5.00pm – 9.00pm	Dr M Rai	Dr T Au Yong	
+	Monday 9.00pm – 09.15am	Dr N Singh	Dr T Au Yong	
+ 
+15	Tuesday 5.00pm – 9.00pm	Dr M Rai	Dr T Au Yong	
+	Tuesday 9.00pm – 09.15am	Dr N Singh	Dr T Au Yong	
+ 
+16	Wednesday 5.00pm – 9.00pm	Dr M Paracha	Dr F Syed	
+	Wednesday 9.00pm – 09.15am	Dr N Singh	Dr F Syed	
+ 
+17	Thursday 5.00pm – 9.00pm	Dr M Paracha	Dr M Qaiyum	
+	Thursday 9.00pm – 09.15am	Dr N Singh	Dr M Qaiyum	
+ 
+18	Friday 5.00pm – 9.00pm	Dr M Rai 	Dr A Agamy 	
+	Friday 9.00pm – 09.15am	Dr H Bilal	Dr A Agamy	
+ 
+19	Saturday 09.00am – 9.15pm	Dr El-Nigoumi/Dr F Zaman	Dr A Agamy	
+	Saturday 9.00pm – 09.15am	Dr H Bilal	Dr A Agamy	
+ 
+20	Sunday 09.00am – 9.15pm	Dr El-Nigoumi/Dr F Zaman	Dr A Agamy 	
+	Sunday 9.00pm – 09.15am	Dr H Bilal	Dr A Agamy	
+ 
+21	Monday 5.00pm – 9.00pm	Dr N Singh	Dr H Azam	
+	Monday 9.00pm – 09.15am	Dr T Kam	Dr H Azam	
+ 
+22	Tuesday 5.00pm – 9.00pm	Dr D Lehru	Dr G Chaudhary	
+	Tuesday 9.00pm – 09.15am	Dr T Kam	Dr G Chaudhary	
+ 
+23	Wednesday 5.00pm – 9.00pm	Dr M Rai	Dr D Thomas	
+	Wednesday 9.00pm – 09.15am	Dr T Kam	Dr D Thomas	
+ 
+24	Thursday 5.00pm – 9.00pm	Dr M Rai	Dr A Mahmood	
+	Thursday 9.00pm – 09.15am	Dr T Kam	Dr A Mahmood	
+ 
+25	Friday 5.00pm – 9.00pm	Dr N Singh	Dr M Blakeman 	
+	Friday 9.00pm – 09.15am	Dr M Butt	Dr M Blakeman	
+ 
+26	Saturday 09.00am – 9.15pm	Dr T Kam 	Dr M Blakeman	
+	Saturday 9.00pm – 09.15am	Dr M Butt	Dr M Blakeman	
+ 
+27	Sunday 09.00am – 9.15pm	Dr T Kam 	Dr M Blakeman	
+	Sunday 9.00pm – 09.15am	Dr M Butt	Dr M Blakeman	
+ 
+28	Monday 5.00pm – 9.00pm	Dr Q Wadood	Dr S Saha	
+	Monday 9.00pm – 09.15am	Dr A Jebril	Dr S Saha	
+ 
+29	Tuesday 5.00pm – 9.00pm	Dr Q Wadood	Dr W Pang	
+	Tuesday 9.00pm – 09.15am	Dr A Jebril	Dr W Pang	
+ 
+30	Wednesday 5.00pm – 9.00pm	Dr Y Na	Dr D Rosewarne	
+	Wednesday 9.00pm – 09.15am	Dr A Jebril	Dr D Rosewarne
+ 
+31	Thursday 5.00pm – 9.00pm	Dr N Singh	Dr A Bapusamy	
+	Thursday 9.00pm – 09.15am	Dr A Jebril	Dr A Bapusamy	
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days

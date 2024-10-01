@@ -114,16 +114,16 @@ Dr Pang/Qasim Wadood/Dr Jain
 6	Sunday 09.00am – 9.15pm	Dr N Singh	Dr P Li	
 	Sunday 9.00pm – 09.15am	Dr A Jebril	Dr P Li	
  
-7	Monday 5.00pm – 9.00pm	Dr N Singh	Dr H Azam	
-	Monday 9.00pm – 09.15am	Dr M Butt 	Dr H Azam	
+7	Monday 5.00pm – 9.00pm		Dr F Zaman	Dr H Azam	
+	Monday 9.00pm – 09.15am		Dr M Butt 	Dr H Azam	
  
-8	Tuesday 5.00pm – 9.00pm	Dr N Singh	Dr S Vydianath	
+8	Tuesday 5.00pm – 9.00pm		Dr F Zaman	Dr S Vydianath	
 	Tuesday 9.00pm – 09.15am	Dr M Butt 	Dr S Vydianath	
  
-9	Wednesday 5.00pm – 9.00pm	Dr F Zaman	Dr R Jawad 	
+9	Wednesday 5.00pm – 9.00pm	Dr N Singh	Dr R Jawad 	
 	Wednesday 9.00pm – 09.15am	Dr M Butt 	Dr R Jawad	
  
-10	Thursday 5.00pm – 9.00pm	Dr F Zaman 	Dr F Rafati	
+10	Thursday 5.00pm – 9.00pm	Dr N Singh 	Dr F Rafati	
 	Thursday 9.00pm – 09.15am	Dr M Butt 	Dr F Rafati	
  
 11	Friday 5.00pm – 9.00pm	Dr J Zachariah	Dr S Jain 	

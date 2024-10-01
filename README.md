@@ -96,8 +96,8 @@ Dr Pang/Qasim Wadood/Dr Jain
 
 ## October 2024 ON-CALL
 
-1	Tuesday 5.00pm – 9.00pm	Dr A Sheikh 	Dr R Kurian	
-	Tuesday 9.00pm – 09.15am	Dr D Lehru	Dr R Kurian	
+1	Tuesday 5.00pm – 9.00pm		Dr A Sheikh 	Dr T Au Yong	
+	Tuesday 9.00pm – 09.15am	Dr D Lehru	Dr T Au Yong	
  
 2	Wednesday 5.00pm – 9.00pm	Dr J Zachariah	Dr D Rosewarne	
 	Wednesday 9.00pm – 09.15am	Dr D Lehru	Dr D Rosewarne	

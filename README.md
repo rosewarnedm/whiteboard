@@ -23,8 +23,8 @@ Dr Yahya/Dhiraj Lehru/Dr Jawad
 Dr Saha/Hasan Bilal/Dr Mahmood
 
 #### Tuesday 8
-Dr Khan/Dhiraj Lehru/Dr Rosewarne
-Dr Vydianath/Vladimir Popa-Nimigean/Dr Saha
+Dr Khan/Dhiraj Lehru/Dr Au Yong
+Dr Rosewarne/Vladimir Popa-Nimigean/Dr Saha
 
 #### Wednesday 9
 Dr Rafati/Nothando Meck/Dr Chaudhary
@@ -32,7 +32,7 @@ Dr Jawad/Nothando Meck/Dr Au Yong
 
 #### Thursday 10
 Dr Mahmood/Asif Sheikh/Dr Pang
-Dr Khan/Manvir Rai/Dr Jain
+Dr Qaiyum/Manvir Rai/Dr Jain
 
 #### Friday 11
 Dr Li/Nirbhaibir Singh/Dr Vydianath
@@ -72,7 +72,7 @@ Dr Thomas/Hasan Bilal/Dr Gupta
 
 #### Thursday 24
 Dr Kurian/Fahad Zaman/Dr Yahya
-Dr Qaiyum/Manvir Rai/Dr Pang
+??????/Manvir Rai/Dr Pang
 
 #### Friday 25
 Dr Syed/Nirbhaibir Singh/Dr Li

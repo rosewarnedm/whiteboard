@@ -27,7 +27,7 @@ Dr Khan/Dhiraj Lehru/Dr Au Yong
 Dr Rosewarne/Vladimir Popa-Nimigean/Dr Saha
 
 #### Wednesday 9
-Dr Rafati/Nothando Meck/Dr Chaudhary
+Dr Rafati/Nothando Meck/Dr Khan
 Dr Jawad/Nothando Meck/Dr Au Yong
 
 #### Thursday 10

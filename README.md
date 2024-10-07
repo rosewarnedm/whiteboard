@@ -117,8 +117,8 @@ Dr Pang/Qasim Wadood/Dr Jain
 7	Monday 5.00pm – 9.00pm		Dr F Zaman	Dr H Azam	
 	Monday 9.00pm – 09.15am		Dr M Butt 	Dr H Azam	
  
-8	Tuesday 5.00pm – 9.00pm		Dr F Zaman	Dr S Vydianath	
-	Tuesday 9.00pm – 09.15am	Dr M Butt 	Dr S Vydianath	
+8	Tuesday 5.00pm – 9.00pm		Dr F Zaman	Dr A Bapusamy
+	Tuesday 9.00pm – 09.15am	Dr M Butt 	Dr A Bapusamy
  
 9	Wednesday 5.00pm – 9.00pm	Dr N Singh	Dr R Jawad 	
 	Wednesday 9.00pm – 09.15am	Dr M Butt 	Dr R Jawad	

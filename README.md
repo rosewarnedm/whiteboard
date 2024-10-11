@@ -63,7 +63,7 @@ Dr Au Yong/Mahreen Butt/Dr Rosewarne
 Dr Saha/Asma Jebril/Dr Mahmood
 
 #### Tuesday 22
-Dr Khan/Mahreen Butt/Dr Agamy
+Dr Khan/TBA/Dr Agamy
 Dr Gupta/Dhiraj Lehru/Dr Azam
 
 #### Wednesday 23
@@ -72,15 +72,15 @@ Dr Thomas/Hasan Bilal/Dr Gupta
 
 #### Thursday 24
 Dr Kurian/Fahad Zaman/Dr Yahya
-??????/Manvir Rai/Dr Pang
+Dr Azam/Manvir Rai/Dr Pang
 
 #### Friday 25
 Dr Syed/Nirbhaibir Singh/Dr Li
-Dr Syed/Nirbhaibir Singh/Dr Li
+Dr Blakeman/Asma Jebril/Dr Kurian
 
 #### Monday 28
 Dr Jain/Nirbhaibir Singh/Dr Rosewarne
-Dr Yahya/Qasim WadoodDr Saha
+Dr Yahya/Qasim Wadood/Dr Saha
 
 #### Tuesday 29
 Dr Blakeman/Qasim Wadood/Dr Qaiyum
@@ -91,7 +91,7 @@ Dr Chaudhary/Yuki Na/Dr Agamy
 Dr Gupta/Yuki Na/Dr Au Yong
 
 #### Thursday 31
-Dr Bapusamy/Reg TBA/Dr Collins
+Dr Bapusamy/Mahreen Butt/Dr Collins
 Dr Pang/Qasim Wadood/Dr Jain
 
 ## October 2024 ON-CALL
@@ -126,40 +126,40 @@ Dr Pang/Qasim Wadood/Dr Jain
 10	Thursday 5.00pm – 9.00pm	Dr N Singh 	Dr F Rafati	
 	Thursday 9.00pm – 09.15am	Dr M Butt 	Dr F Rafati	
  
-11	Friday 5.00pm – 9.00pm	Dr J Zachariah	Dr S Jain 	
-	Friday 9.00pm – 09.15am	Dr N Meck	Dr S Jain	
+11	Friday 5.00pm – 9.00pm		Dr J Zachariah	Dr S Jain 	
+	Friday 9.00pm – 09.15am		Dr N Meck	Dr S Jain	
  
-12	Saturday 9.00am – 09.15pm	Dr Y Na	Dr S Jain	
+12	Saturday 9.00am – 09.15pm	Dr Y Na		Dr S Jain	
 	Saturday 9.00pm – 09.15am	Dr N Meck	Dr S Jain	
  
-13	Saturday 9.00am – 09.15pm	Dr M Paracha	Dr S Jain	
-	Saturday 9.00pm – 09.15am	Dr N Meck	Dr S Jain	
+13	Sunday 9.00am – 09.15pm		Dr Y Na		Dr S Jain	
+	Sunday 9.00pm – 09.15am		Dr N Meck	Dr S Jain	
  
-14	Monday 5.00pm – 9.00pm	Dr M Rai	Dr T Au Yong	
-	Monday 9.00pm – 09.15am	Dr N Singh	Dr T Au Yong	
+14	Monday 5.00pm – 9.00pm		Dr M Rai	Dr R Kurian	
+	Monday 9.00pm – 09.15am		Dr N Singh	Dr R Kurian	
  
-15	Tuesday 5.00pm – 9.00pm	Dr M Rai	Dr T Au Yong	
+15	Tuesday 5.00pm – 9.00pm		Dr M Rai	Dr T Au Yong	
 	Tuesday 9.00pm – 09.15am	Dr N Singh	Dr T Au Yong	
  
-16	Wednesday 5.00pm – 9.00pm	Dr M Paracha	Dr F Syed	
+16	Wednesday 5.00pm – 9.00pm	Dr Y Na		Dr F Syed	
 	Wednesday 9.00pm – 09.15am	Dr N Singh	Dr F Syed	
  
-17	Thursday 5.00pm – 9.00pm	Dr M Paracha	Dr M Qaiyum	
+17	Thursday 5.00pm – 9.00pm	Dr A Wadood	Dr M Qaiyum	
 	Thursday 9.00pm – 09.15am	Dr N Singh	Dr M Qaiyum	
  
-18	Friday 5.00pm – 9.00pm	Dr M Rai 	Dr A Agamy 	
-	Friday 9.00pm – 09.15am	Dr H Bilal	Dr A Agamy	
+18	Friday 5.00pm – 9.00pm		Dr M Rai 	Dr A Agamy 	
+	Friday 9.00pm – 09.15am		Dr H Bilal	Dr A Agamy	
  
-19	Saturday 09.00am – 9.15pm	Dr El-Nigoumi/Dr F Zaman	Dr A Agamy	
+19	Saturday 09.00am – 9.15pm	Dr A Jebril/Dr F Zaman	Dr A Agamy	
 	Saturday 9.00pm – 09.15am	Dr H Bilal	Dr A Agamy	
  
-20	Sunday 09.00am – 9.15pm	Dr El-Nigoumi/Dr F Zaman	Dr A Agamy 	
-	Sunday 9.00pm – 09.15am	Dr H Bilal	Dr A Agamy	
+20	Sunday 09.00am – 9.15pm		Dr A Jebril/Dr F Zaman	Dr A Agamy 	
+	Sunday 9.00pm – 09.15am		Dr H Bilal	Dr A Agamy	
  
-21	Monday 5.00pm – 9.00pm	Dr N Singh	Dr H Azam	
-	Monday 9.00pm – 09.15am	Dr T Kam	Dr H Azam	
+21	Monday 5.00pm – 9.00pm		Dr N Singh	Dr H Azam	
+	Monday 9.00pm – 09.15am		Dr T Kam	Dr H Azam	
  
-22	Tuesday 5.00pm – 9.00pm	Dr D Lehru	Dr G Chaudhary	
+22	Tuesday 5.00pm – 9.00pm		Dr D Lehru	Dr G Chaudhary	
 	Tuesday 9.00pm – 09.15am	Dr T Kam	Dr G Chaudhary	
  
 23	Wednesday 5.00pm – 9.00pm	Dr M Rai	Dr D Thomas	
@@ -168,22 +168,22 @@ Dr Pang/Qasim Wadood/Dr Jain
 24	Thursday 5.00pm – 9.00pm	Dr M Rai	Dr A Mahmood	
 	Thursday 9.00pm – 09.15am	Dr T Kam	Dr A Mahmood	
  
-25	Friday 5.00pm – 9.00pm	Dr N Singh	Dr M Blakeman 	
-	Friday 9.00pm – 09.15am	Dr M Butt	Dr M Blakeman	
+25	Friday 5.00pm – 9.00pm		Dr N Singh	Dr M Blakeman 	
+	Friday 9.00pm – 09.15am		Dr M Butt	Dr M Blakeman	
  
 26	Saturday 09.00am – 9.15pm	Dr T Kam 	Dr M Blakeman	
 	Saturday 9.00pm – 09.15am	Dr M Butt	Dr M Blakeman	
  
-27	Sunday 09.00am – 9.15pm	Dr T Kam 	Dr M Blakeman	
-	Sunday 9.00pm – 09.15am	Dr M Butt	Dr M Blakeman	
+27	Sunday 09.00am – 9.15pm		Dr T Kam 	Dr M Blakeman	
+	Sunday 9.00pm – 09.15am		Dr M Butt	Dr M Blakeman	
  
-28	Monday 5.00pm – 9.00pm	Dr Q Wadood	Dr S Saha	
-	Monday 9.00pm – 09.15am	Dr A Jebril	Dr S Saha	
+28	Monday 5.00pm – 9.00pm		Dr Q Wadood	Dr S Saha	
+	Monday 9.00pm – 09.15am		Dr A Jebril	Dr S Saha	
  
-29	Tuesday 5.00pm – 9.00pm	Dr Q Wadood	Dr W Pang	
+29	Tuesday 5.00pm – 9.00pm		Dr Q Wadood	Dr W Pang	
 	Tuesday 9.00pm – 09.15am	Dr A Jebril	Dr W Pang	
  
-30	Wednesday 5.00pm – 9.00pm	Dr Y Na	Dr D Rosewarne	
+30	Wednesday 5.00pm – 9.00pm	Dr Y Na		Dr D Rosewarne	
 	Wednesday 9.00pm – 09.15am	Dr A Jebril	Dr D Rosewarne
  
 31	Thursday 5.00pm – 9.00pm	Dr N Singh	Dr A Bapusamy	
@@ -194,7 +194,7 @@ Dr Pang/Qasim Wadood/Dr Jain
 
 Monday 2 September - cancelled
 
-Tuesday 8 October
+Wednesday 30 October 12 noon to 2 pm 
 
 Wednesday 27 November
 

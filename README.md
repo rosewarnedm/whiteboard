@@ -144,7 +144,7 @@ Dr Pang/Qasim Wadood/Dr Jain
 16	Wednesday 5.00pm – 9.00pm	Dr Y Na		Dr F Syed	
 	Wednesday 9.00pm – 09.15am	Dr N Singh	Dr F Syed	
  
-17	Thursday 5.00pm – 9.00pm	Dr A Wadood	Dr M Qaiyum	
+17	Thursday 5.00pm – 9.00pm	Dr H Bilal	Dr M Qaiyum	
 	Thursday 9.00pm – 09.15am	Dr N Singh	Dr M Qaiyum	
  
 18	Friday 5.00pm – 9.00pm		Dr M Rai 	Dr A Agamy 	

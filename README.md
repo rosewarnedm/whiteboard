@@ -174,7 +174,7 @@ Dr Pang/Qasim Wadood/Dr Jain
 26	Saturday 09.00am – 9.15pm	Dr T Kam/Dr F Zaman	Dr M Blakeman	
 	Saturday 9.00pm – 09.15am	Dr M Butt	Dr M Blakeman	
  
-27	Sunday 09.00am – 9.15pm		Dr T Kam 	Dr M Blakeman	
+27	Sunday 09.00am – 9.15pm		Dr T Kam/Dr F Zaman 	Dr M Blakeman	
 	Sunday 9.00pm – 09.15am		Dr M Butt	Dr M Blakeman	
  
 28	Monday 5.00pm – 9.00pm		Dr Q Wadood	Dr S Saha	

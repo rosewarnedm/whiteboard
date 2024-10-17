@@ -159,8 +159,8 @@ Dr Pang/Qasim Wadood/Dr Jain
 21	Monday 5.00pm – 9.00pm		Dr N Singh	Dr H Azam	
 	Monday 9.00pm – 09.15am		Dr T Kam	Dr H Azam	
  
-22	Tuesday 5.00pm – 9.00pm		Dr D Lehru	Dr G Chaudhary	
-	Tuesday 9.00pm – 09.15am	Dr T Kam	Dr G Chaudhary	
+22	Tuesday 5.00pm – 9.00pm		Dr D Lehru	Dr F Syed 	
+	Tuesday 9.00pm – 09.15am	Dr T Kam	Dr F Syed	
  
 23	Wednesday 5.00pm – 9.00pm	Dr M Rai	Dr D Thomas	
 	Wednesday 9.00pm – 09.15am	Dr T Kam	Dr D Thomas	

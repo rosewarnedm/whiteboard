@@ -150,10 +150,10 @@ Dr Pang/Qasim Wadood/Dr Jain
 18	Friday 5.00pm – 9.00pm		Dr M Rai 	Dr A Agamy 	
 	Friday 9.00pm – 09.15am		Dr H Bilal	Dr A Agamy	
  
-19	Saturday 09.00am – 9.15pm	Dr A Jebril/Dr F Zaman	Dr A Agamy	
+19	Saturday 09.00am – 9.15pm	Dr A Jebril	Dr A Agamy	
 	Saturday 9.00pm – 09.15am	Dr H Bilal	Dr A Agamy	
  
-20	Sunday 09.00am – 9.15pm		Dr A Jebril/Dr F Zaman	Dr A Agamy 	
+20	Sunday 09.00am – 9.15pm		Dr A Jebril	Dr A Agamy 	
 	Sunday 9.00pm – 09.15am		Dr H Bilal	Dr A Agamy	
  
 21	Monday 5.00pm – 9.00pm		Dr N Singh	Dr H Azam	
@@ -171,7 +171,7 @@ Dr Pang/Qasim Wadood/Dr Jain
 25	Friday 5.00pm – 9.00pm		Dr N Singh	Dr M Blakeman 	
 	Friday 9.00pm – 09.15am		Dr M Butt	Dr M Blakeman	
  
-26	Saturday 09.00am – 9.15pm	Dr T Kam 	Dr M Blakeman	
+26	Saturday 09.00am – 9.15pm	Dr T Kam/Dr F Zaman	Dr M Blakeman	
 	Saturday 9.00pm – 09.15am	Dr M Butt	Dr M Blakeman	
  
 27	Sunday 09.00am – 9.15pm		Dr T Kam 	Dr M Blakeman	

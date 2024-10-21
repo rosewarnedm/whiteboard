@@ -60,7 +60,7 @@ Dr Bapusamy/Tony Kam/Dr Blakeman
 
 #### Monday 21
 Dr Au Yong/Mahreen Butt/Dr Rosewarne
-Dr Saha/Asma Jebril/Dr Mahmood
+Dr Saha/Qasim Wadood/Dr Mahmood
 
 #### Tuesday 22
 Dr Khan/TBA/Dr Agamy

@@ -63,7 +63,7 @@ Dr Au Yong/Mahreen Butt/Dr Rosewarne
 Dr Saha/Qasim Wadood/Dr Mahmood
 
 #### Tuesday 22
-Dr Khan/TBA/Dr Agamy
+Dr Khan/Dr Q Wadood/Dr Agamy
 Dr Gupta/Dhiraj Lehru/Dr Azam
 
 #### Wednesday 23
@@ -162,7 +162,7 @@ Dr Pang/Qasim Wadood/Dr Jain
 22	Tuesday 5.00pm – 9.00pm		Dr D Lehru	Dr F Syed 	
 	Tuesday 9.00pm – 09.15am	Dr T Kam	Dr F Syed	
  
-23	Wednesday 5.00pm – 9.00pm	Dr M Rai	Dr D Thomas	
+23	Wednesday 5.00pm – 9.00pm	Dr N Singh	Dr D Thomas	
 	Wednesday 9.00pm – 09.15am	Dr T Kam	Dr D Thomas	
  
 24	Thursday 5.00pm – 9.00pm	Dr M Rai	Dr A Mahmood	
@@ -180,14 +180,14 @@ Dr Pang/Qasim Wadood/Dr Jain
 28	Monday 5.00pm – 9.00pm		Dr Q Wadood	Dr S Saha	
 	Monday 9.00pm – 09.15am		Dr A Jebril	Dr S Saha	
  
-29	Tuesday 5.00pm – 9.00pm		Dr Q Wadood	Dr W Pang	
-	Tuesday 9.00pm – 09.15am	Dr A Jebril	Dr W Pang	
+29	Tuesday 5.00pm – 9.00pm		Dr Q Wadood	Dr A Bapusamy	
+	Tuesday 9.00pm – 09.15am	Dr A Jebril	Dr A Bapusamy	
  
 30	Wednesday 5.00pm – 9.00pm	Dr Y Na		Dr D Rosewarne	
 	Wednesday 9.00pm – 09.15am	Dr A Jebril	Dr D Rosewarne
  
-31	Thursday 5.00pm – 9.00pm	Dr N Singh	Dr A Bapusamy	
-	Thursday 9.00pm – 09.15am	Dr A Jebril	Dr A Bapusamy	
+31	Thursday 5.00pm – 9.00pm	Dr N Singh	Dr W Pang	
+	Thursday 9.00pm – 09.15am	Dr A Jebril	Dr W Pang	
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days

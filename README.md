@@ -76,7 +76,7 @@ Dr Azam/Manvir Rai/Dr Pang
 
 #### Friday 25
 Dr Syed/Nirbhaibir Singh/Dr Li
-Dr Blakeman/Asma Jebril/Dr Kurian
+Dr Blakeman/Nothando Meck/Dr Kurian
 
 #### Monday 28
 Dr Jain/Nirbhaibir Singh/Dr Rosewarne
@@ -171,10 +171,10 @@ Dr Pang/Qasim Wadood/Dr Jain
 25	Friday 5.00pm – 9.00pm		Dr N Singh	Dr M Blakeman 	
 	Friday 9.00pm – 09.15am		Dr M Butt	Dr M Blakeman	
  
-26	Saturday 09.00am – 9.15pm	Dr T Kam/Dr F Zaman	Dr M Blakeman	
+26	Saturday 09.00am – 9.15pm	Dr F Zaman	Dr M Blakeman	
 	Saturday 9.00pm – 09.15am	Dr M Butt	Dr M Blakeman	
  
-27	Sunday 09.00am – 9.15pm		Dr T Kam/Dr F Zaman 	Dr M Blakeman	
+27	Sunday 09.00am – 9.15pm		Dr F Zaman 	Dr M Blakeman	
 	Sunday 9.00pm – 09.15am		Dr M Butt	Dr M Blakeman	
  
 28	Monday 5.00pm – 9.00pm		Dr Q Wadood	Dr S Saha	

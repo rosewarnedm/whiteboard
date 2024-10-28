@@ -84,7 +84,7 @@ Dr Yahya/Qasim Wadood/Dr Saha
 
 #### Tuesday 29
 Dr Blakeman/Qasim Wadood/Dr Qaiyum
-Dr Au Yong/Reg TBA/Dr Azam
+Dr Au Yong/Qasim Wadood/Dr Azam
 
 #### Wednesday 30
 Dr Chaudhary/Yuki Na/Dr Agamy

@@ -92,7 +92,7 @@ Dr Gupta/Yuki Na/Dr Au Yong
 
 #### Thursday 31
 Dr Bapusamy/Mahreen Butt/Dr Collins
-Dr Pang/Qasim Wadood/Dr Jain
+Dr Pang/Qasim Wadood/Dr Kurian
 
 ## October 2024 ON-CALL
 
@@ -180,7 +180,7 @@ Dr Pang/Qasim Wadood/Dr Jain
 28	Monday 5.00pm – 9.00pm		Dr Q Wadood	Dr S Saha	
 	Monday 9.00pm – 09.15am		Dr A Jebril	Dr S Saha	
  
-29	Tuesday 5.00pm – 9.00pm		Dr Q Wadood	Dr A Bapusamy	
+29	Tuesday 5.00pm – 9.00pm		Dr N Singh	Dr A Bapusamy	
 	Tuesday 9.00pm – 09.15am	Dr A Jebril	Dr A Bapusamy	
  
 30	Wednesday 5.00pm – 9.00pm	Dr Y Na		Dr D Rosewarne	
@@ -194,7 +194,7 @@ Dr Pang/Qasim Wadood/Dr Jain
 
 Monday 2 September - cancelled
 
-Wednesday 30 October 12 noon to 2 pm 
+Wednesday 30 October 12 noon to 2 pm - cancelled
 
 Wednesday 27 November
 

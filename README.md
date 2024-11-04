@@ -101,8 +101,8 @@ Dr Li/Manvir Rai/Dr Jain
 4	Monday 5.00pm – 9.00pm		Dr H Bilal	Dr A Agamy 	
 	Monday 9.00pm – 09.15am		Dr N Meck	Dr A Agamy	
  
-5	Tuesday 5 pm – 9 pm		Dr F Zaman	Dr H Azam	
-	Tuesday 9.00pm – 09.15am	Dr N Meck	Dr H Azam	
+5	Tuesday 5 pm – 9 pm		Dr F Zaman	Dr S Yahya	
+	Tuesday 9.00pm – 09.15am	Dr N Meck	Dr S Yahya	
  
 6	Wednesday 5 pm – 9 pm		Dr Elnigoumi/Dr H Bilal		Dr G Chaudhary	
 	Wednesday 9 pm - 9.15 am	Dr N Meck	Dr G Chaudhary	

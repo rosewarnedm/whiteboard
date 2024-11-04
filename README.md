@@ -7,8 +7,8 @@ Dr Agamy/Nirbhaibir Singh/Dr Blakeman
 Dr Kurian/Hasan Bilal/Dr Rosewarne
 
 #### Monday 4
-Dr Pang/Hasan Bilal/Dr li
-Dr Saha/Nirbhaibir Singh/Dr Rafati
+Dr Pang/Nirbhaibir Singh/Dr li
+Dr Saha/Hasan Bilal/All
 
 #### Tuesday 5
 Dr Agamy/Fahad Zaman/Dr Blakeman

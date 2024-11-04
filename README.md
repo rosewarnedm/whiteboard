@@ -12,7 +12,7 @@ Dr Saha/Hasan Bilal/All
 
 #### Tuesday 5
 Dr Agamy/Fahad Zaman/Dr Blakeman
-Dr Rosewarne/Qasim Wadood/Dr Qaiyum
+Dr Rosewarne/Hasan Bilal/Dr Qaiyum
 
 #### Wednesday 6
 Dr Au Yong/Mahreen Butt/Dr Bapusamy

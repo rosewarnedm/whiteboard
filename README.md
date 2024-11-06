@@ -19,7 +19,7 @@ Dr Au Yong/Mahreen Butt/Dr Bapusamy
 Dr Thomas/Fahad Zaman/Dr Jawad
 
 #### Thursday 7
-Dr Mahmood/Mahreen Butt/Dr Gupta
+Dr Mahmood/Asif Sheikh/Dr Gupta
 Dr Qaiyum/Dhiraj Lehru/Dr Rosewarne
 
 #### Friday 8
@@ -71,7 +71,7 @@ Dr Rosewarne/Asif Sheikh/Dr Li
 Dr Saha/Asif Sheikh/Dr Yahya
 
 #### Tuesday 26
-Dr Blakeman/Asif Sheikh/DrRafati
+Dr Blakeman/Mahreen Butt/DrRafati
 Dr Li/Nirbhaibir Singh/Dr Au Yong
 
 #### Wednesday 27

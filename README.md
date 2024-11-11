@@ -31,7 +31,7 @@ Dr Thomas/Manvir Rai/Dr Jawad
 Dr Kurian/Asma Jebril/Dr Pang
 
 #### Tuesday 12
-Dr Yahya/Ahmed Elnigoumi/ALL
+Dr Yahya/Ahmed Elnigoumi/Dr Blakeman
 Dr Rosewarne/Manvir Rai/Dr Saha
 
 #### Wednesday 13

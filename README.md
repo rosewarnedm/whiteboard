@@ -31,11 +31,11 @@ Dr Thomas/Manvir Rai/Dr Jawad
 Dr Kurian/Asma Jebril/Dr Pang
 
 #### Tuesday 12
-Dr Azam/Ahmed Elnigoumi/Dr Yahya
+?????/Ahmed Elnigoumi/Dr Yahya
 Dr Rosewarne/Manvir Rai/Dr Saha
 
 #### Wednesday 13
-Dr Rafati/Nothando Meck/Dr Thomas
+Dr Rafati/Nothando Meck/Dr Chaudhary
 Dr Jawad/Nothando Meck/Dr Au Yong
 
 #### Thursday 14
@@ -55,7 +55,7 @@ Dr Blakeman/Jiju Zachariah/Dr Khan
 Dr Chaudhary/Qasim Wadood/Dr Qaiyum
 
 #### Wednesday 20
-Dr Rafati/Yuuki Na/Dr Chaudhary
+Dr Rafati/Yuuki Na/Dr Thomas
 Dr Bapusamy/Yuuki Na/Dr Jawad
 
 #### Thursday 21
@@ -122,14 +122,14 @@ Dr Li/Manvir Rai/Dr Jain
 11	Monday 5.00pm – 9.00pm		Dr A Sheikh	Dr A Bapusamy 	
 	Monday 9.00pm – 09.15am		Dr H Bilal	Dr A Bapusamy	
  
-12	Tuesday 5pm – 9 pm 		Dr A Sheikh	Dr R Kurian	
-	Tuesday 9.00pm – 09.15am	Dr H Bilal	Dr R Kurian	
+12	Tuesday 5pm – 9 pm 		Dr A Sheikh	Dr D Thomas	
+	Tuesday 9.00pm – 09.15am	Dr H Bilal	Dr D Thomas	
  
 13	Wednesday 5pm – 9pm		Dr D Lehru	Dr R Jawad	
 	Wednesday 9.00pm – 09.15am	Dr H Bilal	Dr R Jawad	
  
-14	Thursday 5.00pm – 9.00pm	Dr D Lehru	Dr D Thomas	
-	Thursday 9.00pm – 09.15am	Dr H Bilal	Dr D Thomas	
+14	Thursday 5.00pm – 9.00pm	Dr D Lehru	Dr R Kurian	
+	Thursday 9.00pm – 09.15am	Dr H Bilal	Dr R Kurian	
  
 15	Friday 5.00pm – 9.00pm		Dr Elnigoumi/Dr F Zaman		Dr T Au Yong	
 	Friday 9.00pm – 09.15am		Dr N Singh			Dr T Au Yong	

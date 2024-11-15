@@ -131,8 +131,8 @@ Dr Li/Manvir Rai/Dr Jain
 14	Thursday 5.00pm – 9.00pm	Dr D Lehru	Dr R Kurian	
 	Thursday 9.00pm – 09.15am	Dr H Bilal	Dr R Kurian	
  
-15	Friday 5.00pm – 9.00pm		Dr Elnigoumi/Dr F Zaman		Dr T Au Yong	
-	Friday 9.00pm – 09.15am		Dr N Singh			Dr T Au Yong	
+15	Friday 5.00pm – 9.00pm		Dr Elnigoumi	Dr T Au Yong	
+	Friday 9.00pm – 09.15am		Dr N Singh	Dr T Au Yong	
  
 16	Saturday 9am – 9.15pm		Dr D Lehru	Dr T Au Yong	
 	Saturday 9.00pm – 09.15am	Dr N Singh	Dr T Au Yong	
@@ -164,13 +164,13 @@ Dr Li/Manvir Rai/Dr Jain
 25	Monday 5.00pm – 9.00pm		Dr T Kam	Dr S Yahya 	
 	Monday 9.00pm – 09.15am		Dr J Zachariah	Dr S Yahya	
  
-26	Tuesday 5pm – 9pm		Dr T Kam	Dr F Rafati (L)	
+26	Tuesday 5pm – 9pm		Dr V Popa-Nimigean 	Dr F Rafati (L)	
 	Tuesday 9.00pm – 09.15am	Dr J Zachariah	Dr F Rafati (L)	
  
 27	Wednesday 5pm – 9pm		Dr V Popa-Nimigean 	Dr F Syed	
 	Wednesday 9.00pm – 09.15am	Dr J Zachariah		Dr F Syed	
  
-28	Thursday 5.00pm – 9.00pm	Dr V Popa-Nimigean	Dr A Mahmood	
+28	Thursday 5.00pm – 9.00pm	Dr T Kam		Dr A Mahmood	
 	Thursday 9.00pm – 09.15am	Dr J Zachariah		Dr A Mahmood	
  
 29	Friday 5.00pm – 9.00pm		Dr A Sheikh	Dr S Saha	

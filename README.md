@@ -1,207 +1,205 @@
 
 
-### DUTY November 2024
+### DUTY January 2025
 
-#### Friday 1
-Dr Agamy/Nirbhaibir Singh/Dr Blakeman
-Dr Kurian/Hasan Bilal/Dr Rosewarne
+#### Thursday 2 
+Dr Mahmood, Fahad Zaman, All
+Dr Qaiyum, Fahad Zaman, Dr Jain
 
-#### Monday 4
-Dr Pang/Nirbhaibir Singh/Dr li
-Dr Saha/Hasan Bilal/All
+#### Friday 3
+Dr Agamy, Hasan Bilal, Dr Collins
+Dr Pang, Hasan Bilal, Dr Khan
 
-#### Tuesday 5
+#### Monday 6
 Dr Agamy/Fahad Zaman/Dr Blakeman
 Dr Rosewarne/Hasan Bilal/Dr Qaiyum
 
 #### Wednesday 6
-Dr Au Yong/Mahreen Butt/Dr Bapusamy
-Dr Thomas/Fahad Zaman/Dr Jawad
+Dr Thomas, Vladimir Popa-Nimigean, Dr Pang
+Dr Yahya, Qasim Wadood, Dr Agamy
 
-#### Thursday 7
-Dr Mahmood/Asif Sheikh/Dr Gupta
-Dr Qaiyum/Dhiraj Lehru/Dr Rosewarne
+#### Tuesday 7
+Dr Khan, Manvir Rai, Dr Qaiyum
+Dr Li, Rob Molloy, Dr Qaiyum
 
-#### Friday 8
-Dr Syed/Dhiraj Lehru/Dr Li
-Dr Gupta/Tony Kam/Dr Jain
+#### Wednesday 8
+Dr Chaudhary, Yuuki Na, Dr Rafati
+Dr Gupta, Yuuki Na, Dr Kurian
 
-#### Monday 11
-Dr Thomas/Manvir Rai/Dr Jawad
-Dr Kurian/Asma Jebril/Dr Pang
+#### Thursday 9
+Dr Kurian, Vladimir Popa-Nimigean/ Dr Agamy
+Dr Qaiyum, Nothando Meck, Dr Mahmood
 
-#### Tuesday 12
-Dr Yahya/Ahmed Elnigoumi/Dr Blakeman
-Dr Rosewarne/Manvir Rai/Dr Saha
+#### Friday 10
+Dr Syed, Hasan Bilal, Dr Thomas
+Dr Bapusamy, Mahreen Butt, Dr Collins
 
-#### Wednesday 13
-Dr Rafati/Nothando Meck/Dr Chaudhary
-Dr Jawad/Nothando Meck/Dr Au Yong
+#### Monday 13
+Dr Vydianath, Nothando Meck, Dr Jawad
+Dr Au Yong, Nothando Meck, Dr Saha
 
-#### Thursday 14
-Dr Gupta/Nothando Meck/Dr Chaudhary
-Dr Kurian/Dhiraj Lehru/Dr Bapusamy
+#### Tuesday 14
+Dr Pang, Hasan Bilal, Dr Khan
+Dr Bapusamy, Ahmed Elnigoumi, Dr Rosewarne
 
-#### Friday 15
-Dr Li/Vladimir Popa-Nimigean/Dr Syed
-Dr Chaudhary/Tony Kam/Dr Mahmood
+#### Wednesday 15
+Dr Rafati, Qasim Wadood, Dr Thomas
+Dr Jawad, Mahreen Butt, Dr Gupta
 
-#### Monday 18
-Dr Gupta/Vladimir Popa-Nimigean/Dr Syed
-Dr Yahya/Asma Jebril/ALL
+#### Thursday 16
+Dr Mahmood, Manvir Rai, Dr Pang
+Dr Pang, Nirbhaibir Singh, Dr Bapusamy
 
-#### Tuesday 19
-Dr Blakeman/Jiju Zachariah/Dr Khan
-Dr Chaudhary/Qasim Wadood/Dr Qaiyum
+#### Friday 17
+Dr Li, Rob Molloy, Dr Syed
+Dr Rosewarne, Jiju Zachariah, Dr Mahmood
 
-#### Wednesday 20
-Dr Rafati/Yuuki Na/Dr Thomas
-Dr Bapusamy/Yuuki Na/Dr Jawad
+#### Monday 20
+Dr Saha, Asma Jebril, Dr Jawad
+Dr Yahya, Nirbhaibir, Dr Au Yong
 
-#### Thursday 21
-Dr Mahmood/Jiju Zachariah/Dr Saha
-Dr Pang/Ahmed Elnigoumi/Dr Kurian
+#### Tuesday 21
+Dr Azam, Nirbhaibir Singh, Dr Blakeman
+Dr Rosewarne, Qasim Wadood, Dr Vydianath
 
-#### Friday 22
-Dr Syed/Jiju Zachiriah/Dr Khan
-Dr Jain/Tony Kam/Dr Blakeman
+#### Wednesday 22
+Dr Rafati, Ahmed Elnigoumi, Dr Au Yong
+Dr Jawad, Dr Blakeman, Dr Gupta
 
-#### Monday 25
-Dr Rosewarne/Asif Sheikh/Dr Li
-Dr Saha/Asif Sheikh/Dr Yahya
+#### Thursday 23
+Dr Rosewarne, Asma Jebril, Dr Bapusamy
+Dr Kurian, Tony Kam, All
 
-#### Tuesday 26
-Dr Blakeman/Mahreen Butt/DrRafati
-Dr Li/Nirbhaibir Singh/Dr Au Yong
+#### Friday 24
+Dr Syed, Tony Kam, Dr Li
+Dr Kurian, Tony Kam, Dr Mahmood
 
-#### Wednesday 27
-Dr Chaudhary/Asma Jebril/Dr Au Yong
-Dr Bapusamy/Vladimir Popa-Nimigean/Dr Rafati
+#### Monday 27
+Dr Jain, Asma Jebril, Dr Yahya
+Dr Rosewarne, Ahmed Elnigoumi, Dr Yahya
 
-#### Thursday 28
-Dr Pang/Ahmed Elnigoumi/Dr Chaudhary
-Dr Qaiyum/Mahreen Butt/Dr Rosewarne
+#### Tuesday 28
+Dr Khan, Rob Molloy, Dr Rosewarne
+Dr Gupta, Ahmed Elnigoumi, Dr Azam (after 2.30 pm)
 
-#### Friday 29
-Dr Khan/Vladimir Popa-Nimigean/Dr Syed
-Dr Li/Manvir Rai/Dr Jain
+#### Wednesday 29
+Dr Dr Chaudhary, Jiju Zachariah, Dr Kurian
+Dr Gupta, Qasim Wadood, All
 
+#### Thursday 30
+Dr Saha, Vladimir Popa-Nimigean, Dr Rafati
+Dr Khan, Jiju Zachariah, Dr Li
 
-## November 2024 ON-CALL
+#### Friday 31
+Dr Li, Rob Molloy, Dr Syed
+Dr Jain, Nirbhaibir, Dr Chaudhary
 
-1	Friday 5.00pm – 9.00pm		Dr Q Wadood 	Dr A Gupta	
-	Friday 9.00pm – 09.15am		Dr T Kam	Dr A Gupta	
+## January 2025 ON-CALL
+
+1	Wednesday 5.00pm – 9.00pm	Dr M Butt	Dr C Chaudhary	
+	Wednesday 9.00pm – 09.15am	Dr Q Wadood	Dr Chaudhary	
+
+2	Thursday 5.00pm – 9.00pm	Dr M Butt 	Dr R Kurian	
+	Thursday 9.00pm – 09.15am	Dr Q Wadood	Dr R Kurian
  
-2	Saturday 9.00am – 09.15pm	Dr Q Wadood	Dr A Gupta	
-	Saturday 9.00pm – 09.15am	Dr T Kam	Dr A Gupta	
+3	Friday 5.00 pm - 9.00 pm 	Dr H Bilal	Dr W Pang	
+	Friday 9.00pm – 09.15am		Dr T Kam	Dr W Pang
+
+4	Saturday 9am – 9.15pm		Dr N Singh	Dr W Pang	
+	Saturday 9.00pm – 09.15am	Dr T Kam 	Dr W Pang	
+  
+5	Sunday 9.00 am – 9.15 pm	Dr N Singh	Dr W Pang	
+	Sunday 9.00pm – 09.15am		Dr T Kam	Dr W Pang	
  
-3	Sunday 9.00 am – 9.15 pm	Dr Q Wadood	Dr A Gupta	
-	Sunday 9.00pm – 09.15am		Dr T Kam	Dr A Gupta	
+6	Monday 5.00pm – 9.00pm		Dr Q Wadood	Dr A Gupta	
+	Monday 9.00pm – 09.15am		Dr A Elnigoumi	Dr A Gupta	
  
-4	Monday 5.00pm – 9.00pm		Dr H Bilal	Dr A Agamy 	
-	Monday 9.00pm – 09.15am		Dr N Meck	Dr A Agamy	
+7	Tuesday 5 pm – 9 pm		Dr Q Wadood	Dr T Au Yong	
+	Tuesday 9.00pm – 09.15am	Dr A Elnigoumi	Dr T Au Yong	
  
-5	Tuesday 5 pm – 9 pm		Dr F Zaman	Dr S Yahya	
-	Tuesday 9.00pm – 09.15am	Dr N Meck	Dr S Yahya	
+8	Wednesday 5 pm – 9 pm		Dr M Rai	Dr S Jain
+	Wednesday 9 pm - 9.15 am	Dr A Elnigoumi	Dr S Jain	
  
-6	Wednesday 5 pm – 9 pm		Dr Elnigoumi/Dr H Bilal		Dr G Chaudhary	
-	Wednesday 9 pm - 9.15 am	Dr N Meck	Dr G Chaudhary	
+9	Thursday 5.00pm – 9.00pm	Dr M Rai	Dr S Vydianath	
+	Thursday 9.00pm – 09.15am	Dr A Elnigoumi	Dr S Vydianath	
  
-7	Thursday 5.00pm – 9.00pm	Dr Elnigoumi/Dr Zaman	Dr I Khan	
-	Thursday 9.00pm – 09.15am	Dr N Meck 		Dr I Khan	
+10	Friday 5.00pm – 9.00pm		Dr M Butt	Dr S Yahya
+	Friday 9.00pm – 09.15am		Dr A Jebril	Dr S Yahya
  
-8	Friday 5.00pm – 9.00pm		Dr Y Na		Dr M Qaiyum
-	Friday 9.00pm – 09.15am		Dr Q Wadood 	Dr M Qaiyum
+11	Saturday 9am – 9.15pm		Dr M Rai	Dr S Yahya	
+	Saturday 9.00pm – 09.15am	Dr A Jebril	Dr S Yahya	
  
-9	Saturday 9am – 9.15pm		Dr V Popa-Nimigean	Dr M Qaiyum 	
-	Saturday 9.00pm – 09.15am	Dr Q Wadood 		Dr M Qaiyum	
+12	Sunday 9am – 9.15pm		Dr M Rai	Dr S Yahya	
+	Sunday 9.00pm – 09.15am		Dr A Jebril	Dr S Yahya	
  
-10	Sunday 9am – 9.15pm		Dr V Popa-Nimigean 	Dr M Qaiyum	
-	Sunday 9.00pm – 09.15am		Dr Q Wadood 		Dr M Qaiyum	
+13	Monday 5.00pm – 9.00pm		Dr S Bilal	Dr A Gupta 	
+	Monday 9.00pm – 09.15am		Dr Y Na		Dr A Gupta	
  
-11	Monday 5.00pm – 9.00pm		Dr A Sheikh	Dr A Bapusamy 	
-	Monday 9.00pm – 09.15am		Dr H Bilal	Dr A Bapusamy	
+14	Tuesday 5pm – 9 pm 		Dr Q Wadood	Dr T Au Yong	
+	Tuesday 9.00pm – 09.15am	Dr Y Na		Dr T Au Yong	
  
-12	Tuesday 5pm – 9 pm 		Dr A Sheikh	Dr D Thomas	
-	Tuesday 9.00pm – 09.15am	Dr H Bilal	Dr D Thomas	
+15	Wednesday 5pm – 9pm		Dr Q Wadood	Dr P Li	
+	Wednesday 9.00pm – 09.15am	Dr Y Na		Dr P Li	
  
-13	Wednesday 5pm – 9pm		Dr D Lehru	Dr R Jawad	
-	Wednesday 9.00pm – 09.15am	Dr H Bilal	Dr R Jawad	
+16	Thursday 5.00pm – 9.00pm	Dr Q Wadood	Dr A Bapusamy	
+	Thursday 9.00pm – 09.15am	Dr J Zachariah	Dr A Bapusamy	
  
-14	Thursday 5.00pm – 9.00pm	Dr D Lehru	Dr R Kurian	
-	Thursday 9.00pm – 09.15am	Dr H Bilal	Dr R Kurian	
+17	Friday 5.00pm – 9.00pm		Dr J Zachariah	Dr D Thomas	
+	Friday 9.00pm – 09.15am		Dr N Meck	Dr D Thomas	
  
-15	Friday 5.00pm – 9.00pm		Dr Elnigoumi	Dr T Au Yong	
-	Friday 9.00pm – 09.15am		Dr N Singh	Dr T Au Yong	
+18	Saturday 9am – 9.15pm		Dr R Molloy	Dr D Thomas	
+	Saturday 9.00pm – 09.15am	Dr N Meck	Dr D Thomas	
  
-16	Saturday 9am – 9.15pm		Dr D Lehru	Dr T Au Yong	
-	Saturday 9.00pm – 09.15am	Dr N Singh	Dr T Au Yong	
+19	Sunday 9 am – 9.15pm		Dr R Molloy	Dr D Thomas	
+	Sunday 9.00pm – 09.15am		Dr N Meck	Dr D Thomas	
  
-17	Sunday 9 am – 9.15pm		Dr D Lehru	Dr T Au Yong	
-	Sunday 9.00pm – 09.15am		Dr N Singh	Dr T Au Yong	
+20	Monday 5.00pm – 9.00pm		Dr M Rai		Dr R Kurian	
+	Monday 9.00pm – 09.15am		Dr V Popa-Nimigean	Dr R Kurian
  
-18	Monday 5.00pm – 9.00pm		Dr V Popa-Nimigean 	Dr M Blakeman 	
-	Monday 9.00pm – 09.15am		Dr A Sheikh		Dr M Blakeman
+21	Tuesday 5pm – 9pm		Dr M Rai		Dr I Khan	
+	Tuesday 9.00pm – 09.15am	Dr V Popa-Nimigean	Dr I Khan
  
-19	Tuesday 5pm – 9pm		Dr V Popa-Nimigean	Dr P Li	
-	Tuesday 9.00pm – 09.15am	Dr A Sheikh		Dr P Li	
+22	Wednesday 5pm - 9 pm		Dr M Rai		Dr R Jawad	
+	Wednesday 9.00pm – 09.15am	Dr V Popa-Nimigean	Dr R Jawad	
  
-20	Wednesday 5pm - 9 pm		Dr Q Wadood	Dr S Jain 	
-	Wednesday 9.00pm – 09.15am	Dr A Sheikh	Dr S Jain	
+23	Thursday 5.00pm – 9.00pm	Dr N Singh		Dr F Rafati	
+	Thursday 9.00pm – 09.15am	Dr V Popa-Nimigeal	Dr F Rafati	
  
-21	Thursday 5.00pm – 9.00pm	Dr Q Wadood	Dr W Pang	
-	Thursday 9.00pm – 09.15am	Dr A Sheikh	Dr W Pang	
+24	Friday 5.00pm – 9.00pm		Dr Q Wadood	Dr F Syed	
+	Friday 9.00pm – 09.15am		Dr H Bilal	Dr F Syed	
  
-22	Friday 5.00pm – 9.00pm		Dr D Lehru	Dr F Rafati 	
-	Friday 9.00pm – 09.15am		Dr M Rai	Dr F Rafati	
+25	Saturday 9am - 9.15pm		Dr F Zaman	Dr F Syed	
+	Saturday 9.00pm – 09.15am	Dr H Bilal	Dr F Syed	
  
-23	Saturday 9am - 9.15pm		Dr Elnigoumi	Dr F Rafati	
-	Saturday 9.00pm – 09.15am	Dr M Rai	Dr F Rafati	
+26	Sunday 9.00am - 9.15 pm		Dr F Zaman	Dr F Syed	
+	Sunday 9.00pm – 09.15am		Dr H Bilal	Dr F Syed	
  
-24	Sunday 9.00am - 9.15 pm		Dr Elnigoumi	Dr F Rafati	
-	Sunday 9.00pm – 09.15am		Dr M Rai	Dr F Rafati	
+27	Monday 5.00pm – 9.00pm		Dr Y Na		Dr S Saha	
+	Monday 9.00pm – 09.15am		Dr T Kam	Dr S Saha	
  
-25	Monday 5.00pm – 9.00pm		Dr T Kam	Dr S Yahya 	
-	Monday 9.00pm – 09.15am		Dr J Zachariah	Dr S Yahya	
+28	Tuesday 5pm – 9pm		Dr R Molloy	Dr G Chaudhary
+	Tuesday 9.00pm – 09.15am	Dr T Kam	Dr G Chaudhary
  
-26	Tuesday 5pm – 9pm		Dr V Popa-Nimigean 	Dr F Rafati (L)	
-	Tuesday 9.00pm – 09.15am	Dr J Zachariah	Dr F Rafati (L)	
+29	Wednesday 5pm – 9pm		Dr J Zachariah	Dr D Rosewarne	
+	Wednesday 9.00pm – 09.15am	Dr T Kam	Dr D Rosewarne
  
-27	Wednesday 5pm – 9pm		Dr V Popa-Nimigean 	Dr F Syed	
-	Wednesday 9.00pm – 09.15am	Dr J Zachariah		Dr F Syed	
+30	Thursday 5.00pm – 9.00pm	Dr J Zachariah	Dr A Mahmood	
+	Thursday 9.00pm – 09.15am	Dr T Kam	Dr A Mahmood	
  
-28	Thursday 5.00pm – 9.00pm	Dr T Kam		Dr A Mahmood	
-	Thursday 9.00pm – 09.15am	Dr J Zachariah		Dr A Mahmood	
- 
-29	Friday 5.00pm – 9.00pm		Dr A Sheikh	Dr S Saha	
-	Friday 9.00pm – 09.15am		Dr M Paracha	Dr S Saha	
- 
-30	Saturday 9 am – 9.15pm		Dr N Meck	Dr S Saha	
-	Saturday 9.00pm – 09.15am	Dr M Paracha	Dr S Saha
+31	Friday 5.00pm – 9.00pm		Dr N Singh	Dr H Azam	
+	Friday 9.00pm – 09.15am		Dr M Butt	Dr H Azam	
  
 
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days
 
-Monday 2 September - cancelled
-
-Wednesday 30 October 12 noon to 2 pm - cancelled
-
-Wednesday 27 November
+TBA
 
 ## REALM meetings
 ### 9.15 – 10.30
 
-Thursday 29 August	- cancelled
-
-Friday 27 September
-
-Monday 28 October  
-
-Tuesday 26 November		
-
-Wed 18 December	
+Thursday 23 January 2025	Dr Rafati to Chair
 
 
 

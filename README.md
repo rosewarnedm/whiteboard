@@ -64,11 +64,11 @@ Dr Rosewarne, Qasim Wadood, Dr Vydianath
 
 #### Wednesday 22
 Dr Rafati, Ahmed Elnigoumi, Dr Au Yong
-Dr Jawad, Dr Blakeman, Dr Gupta
+Dr Jawad, Mahreen Butt, Dr Gupta
 
 #### Thursday 23
 Dr Rosewarne, Asma Jebril, Dr Bapusamy
-Dr Kurian, Tony Kam, All
+Dr Kurian, Tony Kam, Dr Rafati
 
 #### Friday 24
 Dr Syed, Tony Kam, Dr Li
@@ -76,23 +76,23 @@ Dr Kurian, Tony Kam, Dr Mahmood
 
 #### Monday 27
 Dr Jain, Asma Jebril, Dr Yahya
-Dr Rosewarne, Ahmed Elnigoumi, Dr Yahya
+Dr Rosewarne, Ahmed Elnigoumi, Dr Saha
 
 #### Tuesday 28
-Dr Khan, Rob Molloy, Dr Rosewarne
+Dr Khan, Rob Molloy, Dr Collins
 Dr Gupta, Ahmed Elnigoumi, Dr Azam (after 2.30 pm)
 
 #### Wednesday 29
 Dr Dr Chaudhary, Jiju Zachariah, Dr Kurian
-Dr Gupta, Qasim Wadood, All
+Dr Gupta, Qasim Wadood, Dr Khan
 
 #### Thursday 30
-Dr Saha, Vladimir Popa-Nimigean, Dr Rafati
+Dr Saha, Vladimir Popa-Nimigean, Dr Rosewarne
 Dr Khan, Jiju Zachariah, Dr Li
 
 #### Friday 31
 Dr Li, Rob Molloy, Dr Syed
-Dr Jain, Nirbhaibir, Dr Chaudhary
+Dr Jain, Nirbhaibir Singh, Dr Chaudhary
 
 ## January 2025 ON-CALL
 

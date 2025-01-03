@@ -16,7 +16,7 @@ Dr Rosewarne/Hasan Bilal/Dr Qaiyum
 
 #### Wednesday 6
 Dr Thomas, Vladimir Popa-Nimigean, Dr Pang
-Dr Yahya, Qasim Wadood, Dr Agamy
+Dr Yahya, TBA, Dr Agamy
 
 #### Tuesday 7
 Dr Khan, Manvir Rai, Dr Qaiyum
@@ -43,8 +43,8 @@ Dr Pang, Hasan Bilal, Dr Khan
 Dr Bapusamy, Ahmed Elnigoumi, Dr Rosewarne
 
 #### Wednesday 15
-Dr Rafati, Qasim Wadood, Dr Thomas
-Dr Jawad, Mahreen Butt, Dr Gupta
+Dr Rafati, Mahreen Butt, Dr Thomas
+Dr Jawad, Qasim Wadood, Dr Gupta
 
 #### Thursday 16
 Dr Mahmood, Manvir Rai, Dr Pang
@@ -55,8 +55,8 @@ Dr Li, Rob Molloy, Dr Syed
 Dr Rosewarne, Jiju Zachariah, Dr Mahmood
 
 #### Monday 20
-Dr Saha, Asma Jebril, Dr Jawad
-Dr Yahya, Nirbhaibir, Dr Au Yong
+Dr Saha, Qasim Wadood, Dr Jawad
+Dr Yahya, Nirbhaibir Singh, Dr Au Yong
 
 #### Tuesday 21
 Dr Azam, Nirbhaibir Singh, Dr Blakeman
@@ -84,7 +84,7 @@ Dr Gupta, Ahmed Elnigoumi, Dr Azam (after 2.30 pm)
 
 #### Wednesday 29
 Dr Dr Chaudhary, Jiju Zachariah, Dr Kurian
-Dr Gupta, Qasim Wadood, Dr Khan
+Dr Gupta, Asma Jebril, Dr Khan
 
 #### Thursday 30
 Dr Saha, Vladimir Popa-Nimigean, Dr Rosewarne

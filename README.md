@@ -16,7 +16,7 @@ Dr Rosewarne/Hasan Bilal/Dr Qaiyum
 
 #### Wednesday 6
 Dr Thomas, Vladimir Popa-Nimigean, Dr Pang
-Dr Yahya, TBA, Dr Agamy
+Dr Yahya, Vladimir Popa-Nimigean 1-2 pm, Mahreen Butt from 2 pm, Dr Agamy
 
 #### Tuesday 7
 Dr Khan, Manvir Rai, Dr Qaiyum

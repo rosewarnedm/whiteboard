@@ -114,10 +114,10 @@ Dr Jain, Nirbhaibir Singh, Dr Chaudhary
 6	Monday 5.00pm – 9.00pm		Dr Q Wadood	Dr A Gupta	
 	Monday 9.00pm – 09.15am		Dr A Elnigoumi	Dr A Gupta	
  
-7	Tuesday 5 pm – 9 pm		Dr Q Wadood	Dr T Au Yong	
+7	Tuesday 5 pm – 9 pm		Dr M Rai	Dr T Au Yong	
 	Tuesday 9.00pm – 09.15am	Dr A Elnigoumi	Dr T Au Yong	
  
-8	Wednesday 5 pm – 9 pm		Dr M Rai	Dr S Jain
+8	Wednesday 5 pm – 9 pm		Dr Q Wadood	Dr S Jain
 	Wednesday 9 pm - 9.15 am	Dr A Elnigoumi	Dr S Jain	
  
 9	Thursday 5.00pm – 9.00pm	Dr M Rai	Dr S Vydianath	

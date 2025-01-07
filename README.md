@@ -162,7 +162,7 @@ Dr Jain, Nirbhaibir Singh, Dr Chaudhary
 22	Wednesday 5pm - 9 pm		Dr M Rai		Dr R Jawad	
 	Wednesday 9.00pm – 09.15am	Dr V Popa-Nimigean	Dr R Jawad	
  
-23	Thursday 5.00pm – 9.00pm	Dr N Singh		Dr F Rafati	
+23	Thursday 5.00pm – 9.00pm	Dr M Butt		Dr F Rafati	
 	Thursday 9.00pm – 09.15am	Dr V Popa-Nimigeal	Dr F Rafati	
  
 24	Friday 5.00pm – 9.00pm		Dr Q Wadood	Dr F Syed	

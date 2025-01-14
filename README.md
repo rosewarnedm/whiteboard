@@ -44,22 +44,22 @@ Dr Bapusamy, Ahmed Elnigoumi, Dr Rosewarne
 
 #### Wednesday 15
 Dr Rafati, Mahreen Butt, Dr Thomas
-Dr Jawad, Qasim Wadood, Dr Gupta
+Dr Jawad, Nirbhaibir Singh, Dr Gupta
 
 #### Thursday 16
 Dr Mahmood, Manvir Rai, Dr Pang
-Dr Pang, Nirbhaibir Singh, Dr Bapusamy
+Dr Pang, Hasan Bilal, Dr Bapusamy
 
 #### Friday 17
 Dr Li, Rob Molloy, Dr Syed
-Dr Rosewarne, Jiju Zachariah, Dr Mahmood
+Dr Kurian, Jiju Zachariah, Dr Mahmood
 
 #### Monday 20
-Dr Saha, Qasim Wadood, Dr Jawad
-Dr Yahya, Nirbhaibir Singh, Dr Au Yong
+Dr Saha, Asma Jebril, Dr Jawad
+Dr Yahya, Manvir Rai, Dr Au Yong
 
 #### Tuesday 21
-Dr Azam, Nirbhaibir Singh, Dr Blakeman
+Dr Azam, Mahreen Butt, Dr Blakeman
 Dr Rosewarne, Qasim Wadood, Dr Vydianath
 
 #### Wednesday 22
@@ -67,12 +67,12 @@ Dr Rafati, Ahmed Elnigoumi, Dr Au Yong
 Dr Jawad, Mahreen Butt, Dr Gupta
 
 #### Thursday 23
-Dr Rosewarne, Asma Jebril, Dr Bapusamy
-Dr Kurian, Tony Kam, Dr Rafati
+Dr Rosewarne, Asma Jebril, Dr Gupta
+Dr Kurian, Tony Kam, Dr Bapusamy
 
 #### Friday 24
 Dr Syed, Tony Kam, Dr Li
-Dr Kurian, Tony Kam, Dr Mahmood
+Dr Rosewarne, Tony Kam, Dr Mahmood
 
 #### Monday 27
 Dr Jain, Asma Jebril, Dr Yahya
@@ -84,7 +84,7 @@ Dr Gupta, Ahmed Elnigoumi, Dr Azam (after 2.30 pm)
 
 #### Wednesday 29
 Dr Dr Chaudhary, Jiju Zachariah, Dr Kurian
-Dr Gupta, Asma Jebril, Dr Khan
+Dr Gupta, Qasim Wadood, Dr Khan
 
 #### Thursday 30
 Dr Saha, Vladimir Popa-Nimigean, Dr Rosewarne

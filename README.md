@@ -136,10 +136,10 @@ Dr Jain, Nirbhaibir Singh, Dr Chaudhary
 	Monday 9.00pm – 09.15am		Dr Y Na		Dr A Gupta	
  
 14	Tuesday 5pm – 9 pm 		Dr Q Wadood	Dr T Au Yong	
-	Tuesday 9.00pm – 09.15am	Dr Y Na		Dr T Au Yong	
+	Tuesday 9.00pm – 09.15am	Dr A Jebril	Dr T Au Yong	
  
 15	Wednesday 5pm – 9pm		Dr Q Wadood	Dr P Li	
-	Wednesday 9.00pm – 09.15am	Dr Y Na		Dr P Li	
+	Wednesday 9.00pm – 09.15am	Dr J Zarchariah	Dr P Li	
  
 16	Thursday 5.00pm – 9.00pm	Dr Q Wadood	Dr A Bapusamy	
 	Thursday 9.00pm – 09.15am	Dr J Zachariah	Dr A Bapusamy	

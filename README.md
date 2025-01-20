@@ -64,7 +64,7 @@ Dr Rosewarne, Qasim Wadood, Dr Vydianath
 
 #### Wednesday 22
 Dr Rafati, Ahmed Elnigoumi, Dr Au Yong
-Dr Jawad, Mahreen Butt, Dr Gupta
+Dr Jawad, Qasim Wadood, Dr Gupta
 
 #### Thursday 23
 Dr Rosewarne, Asma Jebril, Dr Gupta
@@ -84,7 +84,7 @@ Dr Gupta, Ahmed Elnigoumi, Dr Azam (after 2.30 pm)
 
 #### Wednesday 29
 Dr Dr Chaudhary, Jiju Zachariah, Dr Kurian
-Dr Gupta, Qasim Wadood, Dr Khan
+Dr Gupta, Mahreen Butt, Dr Khan
 
 #### Thursday 30
 Dr Saha, Vladimir Popa-Nimigean, Dr Rosewarne

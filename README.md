@@ -60,7 +60,7 @@ Dr Yahya, Manvir Rai, Dr Au Yong
 
 #### Tuesday 21
 Dr Azam, Mahreen Butt, Dr Blakeman
-Dr Rosewarne, Qasim Wadood, Dr Vydianath
+Dr Rosewarne, Qasim Wadood, Dr Li (from 2 pm)
 
 #### Wednesday 22
 Dr Rafati, Ahmed Elnigoumi, Dr Au Yong
@@ -75,7 +75,7 @@ Dr Syed, Tony Kam, Dr Li
 Dr Rosewarne, Tony Kam, Dr Mahmood
 
 #### Monday 27
-Dr Jain, Asma Jebril, Dr Yahya
+Dr Yahya, Asma Jebril, All
 Dr Rosewarne, Ahmed Elnigoumi, Dr Saha
 
 #### Tuesday 28

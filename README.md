@@ -71,7 +71,7 @@ Dr Rosewarne, Asma Jebril, Dr Gupta
 Dr Kurian, Tony Kam, Dr Bapusamy
 
 #### Friday 24
-Dr Syed, Tony Kam, Dr Li
+Dr Li, Tony Kam, Dr Syed
 Dr Rosewarne, Tony Kam, Dr Mahmood
 
 #### Monday 27

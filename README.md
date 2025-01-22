@@ -168,10 +168,10 @@ Dr Jain, Nirbhaibir Singh, Dr Chaudhary
 24	Friday 5.00pm – 9.00pm		Dr Q Wadood	Dr F Syed	
 	Friday 9.00pm – 09.15am		Dr H Bilal	Dr F Syed	
  
-25	Saturday 9am - 9.15pm		Dr F Zaman	Dr F Syed	
+25	Saturday 9am - 9.15pm		Dr Y Na		Dr F Syed	
 	Saturday 9.00pm – 09.15am	Dr H Bilal	Dr F Syed	
  
-26	Sunday 9.00am - 9.15 pm		Dr F Zaman	Dr F Syed	
+26	Sunday 9.00am - 9.15 pm		Dr Y Na		Dr F Syed	
 	Sunday 9.00pm – 09.15am		Dr H Bilal	Dr F Syed	
  
 27	Monday 5.00pm – 9.00pm		Dr Y Na		Dr S Saha	

@@ -165,7 +165,7 @@ Dr Jain, Nirbhaibir Singh, Dr Chaudhary
 23	Thursday 5.00pm – 9.00pm	Dr M Butt		Dr F Rafati	
 	Thursday 9.00pm – 09.15am	Dr V Popa-Nimigeal	Dr F Rafati	
  
-24	Friday 5.00pm – 9.00pm		Dr Q Wadood	Dr F Syed	
+24	Friday 5.00pm – 9.00pm		Dr J Zachariah	Dr F Syed	
 	Friday 9.00pm – 09.15am		Dr H Bilal	Dr F Syed	
  
 25	Saturday 9am - 9.15pm		Dr Y Na		Dr F Syed	

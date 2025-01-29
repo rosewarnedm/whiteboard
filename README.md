@@ -91,8 +91,8 @@ Dr Saha, Vladimir Popa-Nimigean, Dr Rosewarne
 Dr Khan, Jiju Zachariah, Dr Li
 
 #### Friday 31
-Dr Li, Rob Molloy, Dr Syed
-Dr Jain, Nirbhaibir Singh, Dr Chaudhary
+Dr Li, Nirbhaibir Singh, Dr Syed
+Dr Jain, Rob Molloy, Dr Chaudhary
 
 ## January 2025 ON-CALL
 

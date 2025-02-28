@@ -89,92 +89,92 @@ Dr Au Yong/Nirbhabir Singh/Dr Pang
 
 ## March 2025 ON-CALL
 
-3	Monday 	 5.00pm – 9.00pm	
-	Monday	 9.00pm – 09.15am		
+3	Monday 	 5.00pm – 9.00pm	Dr Afzaal/Dr Bapusamy	
+	Monday	 9.00pm – 09.15am	Dr Zachariah/Dr Bapusamy	
 
-4	Tuesday	 5.00pm – 9.00pm	
-	Tuesday  9.00pm – 09.15am	
+4	Tuesday	 5.00pm – 9.00pm	Dr Afzaal/Dr Kurian
+	Tuesday  9.00pm – 09.15am	Dr Zachariah/Dr Kurian
  
-5	Wednesday  5.00 pm - 9.00 pm 		
-	Wednesday  9.00pm – 09.15am	
+5	Wednesday  5.00 pm - 9.00 pm 	Dr Popa-Nimigean/Dr Jain	
+	Wednesday  9.00pm – 09.15am	Dr Zachariah/Dr Jain	
 
-6	Thursday   5.00 pm - 9.00 pm	
-	Thursday   9 pm - 9.15 am 	
+6	Thursday   5.00 pm - 9.00 pm	Dr Popa-Nimigean/Dr Chaudhary
+	Thursday   9 pm - 9.15 am 	Dr Zachariah/Dr Chaudhary	
 
-7	Friday    5 pm - 9 pm 		
-	Friday 	  9 pm - 9.15 am	
+7	Friday    5 pm - 9 pm 		Dr Hanif/Dr Khan
+	Friday 	  9 pm - 9.15 am	Dr Molloy/Dr Khan	
 
-8	Saturday 9am – 9.15pm			
-	Saturday 9.00pm – 09.15am		
+8	Saturday 9am – 9.15pm		Dr Afzaal/Dr Khan	
+	Saturday 9.00pm – 09.15am	Dr Molloy/Dr Khan	
   
-9	Sunday 9.00 am – 9.15 pm	
-	Sunday 9.00pm – 09.15am		
+9	Sunday 9.00 am – 9.15 pm	Locum/Dr Khan
+	Sunday 9.00pm – 09.15am		Dr Molloy/Dr Khan
  
-10	Monday 5.00pm – 9.00pm		
-	Monday 9.00pm – 09.15am		
+10	Monday 5.00pm – 9.00pm		Dr Ahmed/Dr Yahya
+	Monday 9.00pm – 09.15am		Dr Rai/Dr Yahya
  
-11	Tuesday 5 pm – 9 pm		
-	Tuesday 9.00pm – 09.15am	
+11	Tuesday 5 pm – 9 pm		Dr Ahmed/Dr Pang
+	Tuesday 9.00pm – 09.15am	Dr Singh/Dr Pang
  
-12	Wednesday 5 pm – 9 pm		
-	Wednesday 9 pm - 9.15 am		
+12	Wednesday 5 pm – 9 pm		Dr Afzaal/Dr Azam
+	Wednesday 9 pm - 9.15 am	Dr Singh/Dr Azam	
  
-13	Thursday 5.00pm – 9.00pm		
-	Thursday 9.00pm – 09.15am		
+13	Thursday 5.00pm – 9.00pm	Dr Afzaal/Dr Rafati	
+	Thursday 9.00pm – 09.15am	Dr Singh/Dr Rafati	
  
-14	Friday 5.00pm – 9.00pm		
-	Friday 9.00pm – 09.15am		
+14	Friday 5.00pm – 9.00pm		Dr Popa-Nimigean/Dr Mahmood
+	Friday 9.00pm – 09.15am		Dr Na/Dr Mahmood
  
-15	Saturday 9am – 9.15pm		
-	Saturday 9.00pm – 09.15am		
+15	Saturday 9am – 9.15pm		Dr Peddenti/Dr Mahmood
+	Saturday 9.00pm – 09.15am	Dr Zaman/Dr Mahmood	
  
-16	Sunday 9am – 9.15pm			
-	Sunday 9.00pm – 09.15am			
+16	Sunday 9am – 9.15pm		Dr Peddenti/Dr Mahmood	
+	Sunday 9.00pm – 09.15am		Dr Zaman/Dr Mahmood	
  
-17	Monday 5.00pm – 9.00pm		 	
-	Monday 9.00pm – 09.15am			
+17	Monday 5.00pm – 9.00pm		Dr Khan/Dr Bapusamy	
+	Monday 9.00pm – 09.15am		Dr Butt/Dr Bapusamy	
  
-18	Tuesday 5pm – 9 pm 		
-	Tuesday 9.00pm – 09.15am		
+18	Tuesday 5pm – 9 pm 		Dr Khan/Dr Vydianath
+	Tuesday 9.00pm – 09.15am	Dr Butt/Dr Vydianath	
  
-19	Wednesday 5pm – 9pm		
-	Wednesday 9.00pm – 09.15am	
+19	Wednesday 5pm – 9pm		Dr Ahmed/Dr Gupta
+	Wednesday 9.00pm – 09.15am	Dr Butt/Dr Gupta
  
-20 	Thursday 5.00pm – 9.00pm	
-	Thursday 9.00pm – 09.15am		
+20 	Thursday 5.00pm – 9.00pm	Dr Ahmed/Dr Saha
+	Thursday 9.00pm – 09.15am	Dr Butt/Dr Saha	
  
-21	Friday 5.00pm – 9.00pm		
-	Friday 9.00pm – 09.15am			
+21	Friday 5.00pm – 9.00pm		Dr Afzaal/Dr Jain
+	Friday 9.00pm – 09.15am		Dr El-Nigoumi/Dr Jain	
  
-22	Saturday 9am – 9.15pm			
-	Saturday 9.00pm – 09.15am	
+22	Saturday 9am – 9.15pm		Dr Zachariah/Dr Jain	
+	Saturday 9.00pm – 09.15am	Dr Elnigoumi/Dr Jain
  
-23	Sunday 9 am – 9.15pm			
-	Sunday 9.00pm – 09.15am		
+23	Sunday 9 am – 9.15pm		Dr Zachariah/Dr Jain	
+	Sunday 9.00pm – 09.15am		Dr Hanif/Dr Jain
  
-24	Monday 5.00pm – 9.00pm			
-	Monday 9.00pm – 09.15am		
+24	Monday 5.00pm – 9.00pm		Dr Peddinti/Dr Pang	
+	Monday 9.00pm – 09.15am		Dr Rai/Dr Pang
  
-25	Tuesday 5pm – 9pm			
-	Tuesday 9.00pm – 09.15am	
+25	Tuesday 5pm – 9pm		Dr Peddinti/Dr Agamy	
+	Tuesday 9.00pm – 09.15am	Dr Khan/Dr Agamy
  
-26	Wednesday 5pm - 9 pm			
-	Wednesday 9.00pm – 09.15am		
+26	Wednesday 5pm - 9 pm		Dr Khan/Dr Rosewarne	
+	Wednesday 9.00pm – 09.15am	Dr Khan/Dr Rosewarne	
  
-27	Thursday 5.00pm – 9.00pm		
-	Thursday 9.00pm – 09.15am		
+27	Thursday 5.00pm – 9.00pm	Dr Khan/Dr Rafati	
+	Thursday 9.00pm – 09.15am	Dr Khan/Dr Rafati	
  
-28	Friday 5.00pm – 9.00pm		
-	Friday 9.00pm – 09.15am		
+28	Friday 5.00pm – 9.00pm		Dr Ahmed/Dr Au Yong
+	Friday 9.00pm – 09.15am		Dr Peddenti/Dr Au Yong		
 
-29	Saturday 9am – 9.15pm			
-	Saturday 9.00pm – 09.15am	
+29	Saturday 9am – 9.15pm		Dr Zachariah/Dr Au Yong	
+	Saturday 9.00pm – 09.15am	Dr Peddenti/Dr Au Yong
  
-30	Sunday 9 am – 9.15pm			
-	Sunday 9.00pm – 09.15am	
+30	Sunday 9 am – 9.15pm		Dr Zachariah/Dr Au Yong	
+	Sunday 9.00pm – 09.15am		Dr Peddenti/Dr Au Yong
 
-31	Monday 5 pm to 9 am
-	Monday 9 pm to 9.15 am
+31	Monday 5 pm to 9 am		Dr Butt/Dr Thomas
+	Monday 9 pm to 9.15 am		Dr Na/Dr Thomas
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days

@@ -101,7 +101,7 @@ Dr Au Yong/Nirbhabir Singh/Dr Pang
 6	Thursday   5.00 pm - 9.00 pm	Dr Popa-Nimigean/Dr Chaudhary
 	Thursday   9 pm - 9.15 am 	Dr Zachariah/Dr Chaudhary	
 
-7	Friday    5 pm - 9 pm 		Dr Hanif/Dr Khan
+7	Friday    5 pm - 9 pm 		Dr Singh/Dr Khan
 	Friday 	  9 pm - 9.15 am	Dr Molloy/Dr Khan	
 
 8	Saturday 9am – 9.15pm		Dr Afzaal/Dr Khan	

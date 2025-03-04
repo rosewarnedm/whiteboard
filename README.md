@@ -11,7 +11,7 @@ Dr Khan/Mahreen Butt/Dr Rafati
 Dr Chaudhary/Fahad Zaman/Dr Au Yong from 2.30 pm
 
 #### Wednesday 5
-Dr Agamy/Qasim Wadood/Dr Chaudhary
+Dr Agamy/Nirbhaibir Singh/Dr Chaudhary
 Dr Bapusamy/Vladimir Popa-Nimigean/Dr Gupta
 
 #### Thursday 6
@@ -68,7 +68,7 @@ Dr Rosewarne/Nirbhaibir Singh/Dr Pang
 
 #### Tuesday 25
 Dr Azam/Rob Molloy/Dr Blakeman
-Dr Li/Nirbhaibir Singh/Dr Rafati
+Dr Li/Qasim Wadood/Dr Rafati
 
 #### Wednesday 26
 Dr Bapusamy/Mahreen Butt/Dr Au Yong

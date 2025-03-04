@@ -140,7 +140,7 @@ Dr Au Yong/Nirbhabir Singh/Dr Pang
 19	Wednesday 5pm – 9pm		Dr Ahmed/Dr Gupta
 	Wednesday 9.00pm – 09.15am	Dr Butt/Dr Gupta
  
-20 	Thursday 5.00pm – 9.00pm	Dr Ahmed/Dr Saha
+20 	Thursday 5.00pm – 9.00pm	Locum/Dr Saha
 	Thursday 9.00pm – 09.15am	Dr Butt/Dr Saha	
  
 21	Friday 5.00pm – 9.00pm		Dr Afzaal/Dr Jain
@@ -167,10 +167,10 @@ Dr Au Yong/Nirbhabir Singh/Dr Pang
 28	Friday 5.00pm – 9.00pm		Dr Ahmed/Dr Au Yong
 	Friday 9.00pm – 09.15am		Dr Peddenti/Dr Au Yong		
 
-29	Saturday 9am – 9.15pm		Dr Zachariah/Dr Au Yong	
+29	Saturday 9am – 9.15pm		Dr Popa Nimigean/Dr Au Yong	
 	Saturday 9.00pm – 09.15am	Dr Peddenti/Dr Au Yong
  
-30	Sunday 9 am – 9.15pm		Dr Zachariah/Dr Au Yong	
+30	Sunday 9 am – 9.15pm		Dr Popa-Nimigean /Dr Au Yong	
 	Sunday 9.00pm – 09.15am		Dr Peddenti/Dr Au Yong
 
 31	Monday 5 pm to 9 am		Dr Butt/Dr Thomas

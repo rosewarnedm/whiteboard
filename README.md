@@ -28,10 +28,10 @@ Dr Yahya/Fahad Zaman/Dr Mahmood
 
 #### Tuesday 11
 Dr Qaiyum/Jiju Zachariah/Dr Blakeman
-Dr Vydianath/Mahreen Butt/Dr Au Yong
+Dr Vydianath/Prithvi Peddinti/Dr Au Yong
 
 #### Wednesday 12
-Dr Rafati/Jiju Zachariah/Dr Agamy
+Dr Rafati/Jiju Zachariah/Dr Yahya
 Dr Au Yong/Fahad Zaman/Dr Gupta
 
 #### Thursday 13
@@ -51,11 +51,11 @@ Dr Azam/Yuuki Na/Dr Jawad
 Dr Vydianath/Maham Khan/Dr Au Yong from 2.30 pm
 
 #### Wednesday 19
-Dr Bapusamy/TBA/Dr Agamy
+Dr Bapusamy/Ahmed Elnigoumi/Dr Kurian
 Dr Gupta/Qasim Afzaal/Dr Rosewarne
 
 #### Thursday 20
-Dr Mahmood/Rob Molloy/Dr Kurian
+Dr Mahmood/Rob Molloy/Dr Agamy
 Dr Pang/Rohan Ahmed/Dr Bapusamy
 
 #### Friday 21
@@ -63,7 +63,7 @@ Dr Thomas/Prithvi Peddenti/Dr Syed
 Dr Agamy/Qasim Afzaal/Dr Rosewarne
 
 #### Monday 24
-Dr Au Yong/TBA/Dr Syed
+Dr Au Yong/Rohan Ahmed/Dr Syed
 Dr Rosewarne/Nirbhaibir Singh/Dr Pang
 
 #### Tuesday 25
@@ -72,7 +72,7 @@ Dr Li/Nirbhaibir Singh/Dr Rafati
 
 #### Wednesday 26
 Dr Bapusamy/Mahreen Butt/Dr Au Yong
-Dr Rafati/TBA/Dr Khan
+Dr Rafati/Maham Khan/Dr Khan
 
 #### Thursday 27
 Dr Mahmood/Qasim Afzaal/Dr Saha
@@ -80,10 +80,10 @@ Dr Qaiyum/Umar Hanif/Dr Collins
 
 #### Friday 28
 Dr Khan/Prithvi Peddenti/Dr Agamy
-Dr Azam/Prithvi Peddenti/Dr Collins
+Dr Azam/Mahreen Butt/Dr Thomas
 
 #### Monday 31
-Dr Thomas/TBA/Dr Azam
+Dr Thomas/Maham Khan/Dr Azam
 Dr Au Yong/Nirbhabir Singh/Dr Pang
 
 

@@ -68,19 +68,19 @@ Dr Rosewarne/Nirbhaibir Singh/Dr Pang
 
 #### Tuesday 25
 Dr Azam/Rob Molloy/Dr Blakeman
-Dr Li/Qasim Wadood/Dr Rafati
+TBA/Qasim Wadood/Dr Rafati
 
 #### Wednesday 26
-Dr Bapusamy/Mahreen Butt/Dr Au Yong
-Dr Rafati/Maham Khan/Dr Khan
+Dr Rafati/Mahreen Butt/Dr Au Yong
+Dr Bapusamy/Qasim Afzaal/Dr Khan
 
 #### Thursday 27
-Dr Mahmood/Qasim Afzaal/Dr Saha
+Dr Mahmood/Mahreen Butt/Dr Saha
 Dr Qaiyum/Umar Hanif/Dr Collins
 
 #### Friday 28
 Dr Khan/Prithvi Peddenti/Dr Agamy
-Dr Azam/Mahreen Butt/Dr Thomas
+Dr Azam/TBA/Dr Thomas
 
 #### Monday 31
 Dr Thomas/Maham Khan/Dr Azam
@@ -113,7 +113,7 @@ Dr Au Yong/Nirbhabir Singh/Dr Pang
 10	Monday 5.00pm – 9.00pm		Dr Ahmed/Dr Yahya
 	Monday 9.00pm – 09.15am		Dr Rai/Dr Yahya
  
-11	Tuesday 5 pm – 9 pm		Dr Ahmed/Dr Pang
+11	Tuesday 5 pm – 9 pm		Dr Hanif/Dr Pang
 	Tuesday 9.00pm – 09.15am	Dr Singh/Dr Pang
  
 12	Wednesday 5 pm – 9 pm		Dr Afzaal/Dr Azam
@@ -140,7 +140,7 @@ Dr Au Yong/Nirbhabir Singh/Dr Pang
 19	Wednesday 5pm – 9pm		Dr Ahmed/Dr Gupta
 	Wednesday 9.00pm – 09.15am	Dr Butt/Dr Gupta
  
-20 	Thursday 5.00pm – 9.00pm	Locum/Dr Saha
+20 	Thursday 5.00pm – 9.00pm	Dr Peddinti/Dr Saha
 	Thursday 9.00pm – 09.15am	Dr Butt/Dr Saha	
  
 21	Friday 5.00pm – 9.00pm		Dr Afzaal/Dr Jain

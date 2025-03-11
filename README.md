@@ -64,11 +64,11 @@ Dr Agamy/Qasim Afzaal/Dr Rosewarne
 
 #### Monday 24
 Dr Au Yong/Rohan Ahmed/Dr Syed
-Dr Rosewarne/Nirbhaibir Singh/Dr Pang
+TBA/Nirbhaibir Singh/Dr Pang
 
 #### Tuesday 25
 Dr Azam/Rob Molloy/Dr Blakeman
-TBA/Qasim Wadood/Dr Rafati
+Dr Rosewarne/Qasim Wadood/Dr Rafati
 
 #### Wednesday 26
 Dr Rafati/Mahreen Butt/Dr Au Yong

@@ -156,10 +156,10 @@ Dr Au Yong/Nirbhabir Singh/Dr Pang
 	Monday 9.00pm – 09.15am		Dr Rai/Dr Pang
  
 25	Tuesday 5pm – 9pm		Dr Peddinti/Dr Agamy	
-	Tuesday 9.00pm – 09.15am	Dr Khan/Dr Agamy
+	Tuesday 9.00pm – 09.15am	Dr Singh/Dr Agamy
  
-26	Wednesday 5pm - 9 pm		Dr Khan/Dr Rosewarne	
-	Wednesday 9.00pm – 09.15am	Dr Khan/Dr Rosewarne	
+26	Wednesday 5pm - 9 pm		Dr Popa-Nimigean/Dr Rosewarne	
+	Wednesday 9.00pm – 09.15am	Dr M Butt/Dr Rosewarne	
  
 27	Thursday 5.00pm – 9.00pm	Dr Khan/Dr Rafati	
 	Thursday 9.00pm – 09.15am	Dr Khan/Dr Rafati	

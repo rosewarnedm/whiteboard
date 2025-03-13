@@ -131,7 +131,7 @@ Dr Au Yong/Nirbhabir Singh/Dr Pang
 16	Sunday 9am – 9.15pm		Dr Peddenti/Dr Mahmood	
 	Sunday 9.00pm – 09.15am		Dr Zaman/Dr Mahmood	
  
-17	Monday 5.00pm – 9.00pm		Dr Khan/Dr Bapusamy	
+17	Monday 5.00pm – 9.00pm		Dr Singh/Dr Bapusamy	
 	Monday 9.00pm – 09.15am		Dr Butt/Dr Bapusamy	
  
 18	Tuesday 5pm – 9 pm 		Dr Khan/Dr Vydianath

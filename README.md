@@ -56,7 +56,7 @@ Dr Gupta/Qasim Afzaal/Dr Rosewarne
 
 #### Thursday 20
 Dr Mahmood/Rob Molloy/Dr Agamy
-Dr Pang/Rohan Ahmed/Dr Bapusamy
+Dr Pang/Prithvi Peddinti/Dr Bapusamy
 
 #### Friday 21
 Dr Thomas/Prithvi Peddenti/Dr Syed
@@ -64,10 +64,10 @@ Dr Agamy/Qasim Afzaal/Dr Rosewarne
 
 #### Monday 24
 Dr Au Yong/Rohan Ahmed/Dr Syed
-TBA/Nirbhaibir Singh/Dr Pang
+Dr Li/Nirbhaibir Singh/Dr Pang
 
 #### Tuesday 25
-Dr Azam/Rob Molloy/Dr Blakeman
+Dr Azam/Mahreen Butt/Dr Blakeman
 Dr Rosewarne/Qasim Wadood/Dr Rafati
 
 #### Wednesday 26
@@ -75,7 +75,7 @@ Dr Rafati/Mahreen Butt/Dr Au Yong
 Dr Bapusamy/Qasim Afzaal/Dr Khan
 
 #### Thursday 27
-Dr Mahmood/Mahreen Butt/Dr Saha
+Dr Mahmood/Rob Molloy/Dr Saha
 Dr Qaiyum/Umar Hanif/Dr Collins
 
 #### Friday 28
@@ -83,7 +83,7 @@ Dr Khan/Prithvi Peddenti/Dr Agamy
 Dr Azam/TBA/Dr Thomas
 
 #### Monday 31
-Dr Thomas/Maham Khan/Dr Azam
+Dr Thomas/Maham Khan/Dr Rosewarne
 Dr Au Yong/Nirbhabir Singh/Dr Pang
 
 

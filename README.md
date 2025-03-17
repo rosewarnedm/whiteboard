@@ -134,7 +134,7 @@ Dr Au Yong/Nirbhabir Singh/Dr Pang
 17	Monday 5.00pm – 9.00pm		Dr Singh/Dr Bapusamy	
 	Monday 9.00pm – 09.15am		Dr Butt/Dr Bapusamy	
  
-18	Tuesday 5pm – 9 pm 		Dr Khan/Dr Vydianath
+18	Tuesday 5pm – 9 pm 		Dr Afzaal/Dr Vydianath
 	Tuesday 9.00pm – 09.15am	Dr Butt/Dr Vydianath	
  
 19	Wednesday 5pm – 9pm		Dr Ahmed/Dr Gupta

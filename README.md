@@ -186,7 +186,7 @@ TBA
 
 Thursday 23 January 2025	Dr Rafati to Chair
 Monday 24 February 2025		Dr Syed to Chair
-Wedbesday 19 March 2025		Dr Vydianath to Chair
+Wedbesday 19 March 2025		Dr Vydianath to Chair - CANCELLED 
 Thursday 24 April 2025		Dr Pang to Chair
 Friday 23 May 2025		Dr Bapusamy to Chair
 

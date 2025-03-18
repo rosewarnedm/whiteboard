@@ -68,7 +68,7 @@ Dr Li/Nirbhaibir Singh/Dr Pang
 
 #### Tuesday 25
 Dr Azam/Mahreen Butt/Dr Blakeman
-Dr Rosewarne/Qasim Wadood/Dr Rafati
+Dr Rosewarne/Prithvi Peddinti/Dr Rafati
 
 #### Wednesday 26
 Dr Rafati/Mahreen Butt/Dr Au Yong
@@ -79,8 +79,8 @@ Dr Mahmood/Rob Molloy/Dr Saha
 Dr Qaiyum/Umar Hanif/Dr Collins
 
 #### Friday 28
-Dr Khan/Prithvi Peddenti/Dr Agamy
-Dr Azam/TBA/Dr Thomas
+Dr Khan/Qasim Wadood/Dr Agamy
+Dr Azam/Rohan Ahmed/Dr Thomas
 
 #### Monday 31
 Dr Thomas/Maham Khan/Dr Rosewarne

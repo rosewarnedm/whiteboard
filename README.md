@@ -189,7 +189,10 @@ Monday 24 February 2025		Dr Syed to Chair
 Wedbesday 19 March 2025		Dr Vydianath to Chair - CANCELLED 
 Thursday 24 April 2025		Dr Pang to Chair
 Friday 23 May 2025		Dr Bapusamy to Chair
-
-
-
-
+Monday 23 June 2025		Dr Yahya to Chair
+Tuesday 22 July 2025		Dr Rosewarne to Chair
+Wednesday 20 August 2025	Dr Li to Chair
+Thursday 18 September		Dr Kurian
+Friday 31 October		Dr S Jain
+Monday 24 November		Dr T Au Yong
+Tuesday 16 December		Dr H Azam

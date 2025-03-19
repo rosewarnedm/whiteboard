@@ -161,7 +161,7 @@ Dr Li/Nirbhabir Singh/Dr Pang
 26	Wednesday 5pm - 9 pm		Dr Popa-Nimigean/Dr Rosewarne	
 	Wednesday 9.00pm – 09.15am	Dr M Butt/Dr Rosewarne	
  
-27	Thursday 5.00pm – 9.00pm	Dr Khan/Dr Rafati	
+27	Thursday 5.00pm – 9.00pm	Dr Afzaal/Dr Rafati	
 	Thursday 9.00pm – 09.15am	Dr Khan/Dr Rafati	
  
 28	Friday 5.00pm – 9.00pm		Dr Ahmed/Dr Au Yong

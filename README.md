@@ -138,7 +138,7 @@ Dr Jawad/Dr Wadood/Dr Thomas
 16	Wednesday 5pm – 9pm		Dr Singh/Dr Rosewarne
 	Wednesday 9.00pm – 09.15am	Dr Singh/Dr Rosewarne
  
-17	Thursday 5.00pm – 9.00pm	Dr Jiju Zachariah/Dr Pang
+17	Thursday 5.00pm – 9.00pm	Dr Mahreen Butt/Dr Pang
 	Thursday 9.00pm – 09.15am	Dr Hanif/Dr Pang
  
 18	Friday 5.00pm – 9.00pm		Dr Butt/Dr Agamy

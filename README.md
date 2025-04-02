@@ -8,7 +8,7 @@ Dr Vydianath/Mahreen Butt/Dr Li
 
 #### Wednesday 2
 Dr Chaudhary/Ahmed Elnigoumi/Dr Bapusamy
-Dr Thomas/Qasim Wadood/Dr Kurian
+Dr Thomas/Nirbhaibir Singh/Dr Kurian
 
 #### Thursday 3
 Dr Pang/Fahad Zaman/Dr Agamy

@@ -16,10 +16,10 @@ Dr Qaiyum/Prithvi Peddenti/Dr Azam
 
 #### Friday 4
 Dr Syed/Jiju Zachariah/Dr Li
-Dr Vydianath/Rohan Ahmed/Dr Rosewarne
+Dr Vydianath/Hina Khan/Dr Rosewarne
 
 #### Monday 7
-Dr Syed/Manvir Rai/Dr Jawad
+Dr Syed/TBA/Dr Jawad
 Dr Saha/Fahad Zaman/Dr Pang
 
 #### Tuesday 8

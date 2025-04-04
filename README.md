@@ -19,7 +19,7 @@ Dr Syed/Jiju Zachariah/Dr Li
 Dr Vydianath/Hina Khan/Dr Rosewarne
 
 #### Monday 7
-Dr Syed/TBA/Dr Jawad
+Dr Syed/Prithvi Peddinti/Dr Jawad
 Dr Saha/Fahad Zaman/Dr Pang
 
 #### Tuesday 8

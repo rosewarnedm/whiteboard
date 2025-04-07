@@ -31,7 +31,7 @@ Dr Rafati/Mahreen Butt/Dr Gupta
 Dr Jawad/Qasim Wadood/Dr Kurian
 
 #### Thursday 10
-Dr Kurian/Maham Khan/Dr Saha
+Dr Kurian/Hina Khan/Dr Saha
 Dr Mahmood/Rob Molloy/Dr Qaiyum
 
 #### Friday 11

@@ -141,7 +141,7 @@ Dr Jawad/Dr Wadood/Dr Thomas
 17	Thursday 5.00pm – 9.00pm	Dr Mahreen Butt/Dr Pang
 	Thursday 9.00pm – 09.15am	Dr Hanif/Dr Pang
  
-18	Friday 5.00pm – 9.00pm		Dr Butt/Dr Vydianath
+18	Friday 9 am – 9.00pm		Dr Butt/Dr Vydianath
 	Friday 9.00pm – 09.15am		Dr Ahmed/Dr Vydianath	
  
 19	Saturday 9am – 9.15pm		Dr Wadood/Dr Agamy	
@@ -150,7 +150,7 @@ Dr Jawad/Dr Wadood/Dr Thomas
 20	Sunday 9 am – 9.15pm		Dr Wadood/Dr Agamy	
 	Sunday 9.00pm – 09.15am		Dr Ahmed/Dr Agamy
  
-21	Monday 5.00pm – 9.00pm		Dr Wadood/Dr Agamy	
+21	Monday 9 am – 9.00pm		Dr Wadood/Dr Agamy	
 	Monday 9.00pm – 09.15am		Dr Hanif/Dr Agamy
  
 22	Tuesday 5pm – 9pm		Dr Singh/Dr Khan	

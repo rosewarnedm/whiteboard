@@ -47,7 +47,7 @@ Dr Chaudhary/Hina Khan/Dr Blakeman
 Dr Bapusamy/Vladimir Popa-Nimigean/Dr Vydianath
 
 #### Wednesday 16
-Dr Agamy/Nirbhaibir Singh/Dr Bapusamy
+Dr Agamy/Qasim Wadood/Dr Bapusamy
 Dr Gupta/Qasim Afzaal/Dr Thomas
 
 #### Thursday 17
@@ -73,15 +73,15 @@ Dr Pang/Vladimir Popa-Nimigean/Dr Saha
 Dr Qaiyum/Vladimir Popa-Nimigean/Dr Vydianath
 
 #### Friday 25
-Dr Agamy, Dr Khan, Dr Bapusamy
+Dr Agamy, Hina Khan, Dr Bapusamy
 Dr Rosewarne/Rohan Ahmed/Dr Chaudhary
 
 #### Monday 28
-Dr Thomas/Maham Khan/Dr Rosewarne
-Dr Li/Nirbhabir Singh/Dr Pang
+Dr Saha/Manvir Rai/Dr Jawad
+Dr Yahya/Yuuki Na/Dr Mahmood
 
 #### Tuesday 29
-Dr Saha/Manvir Rai/Dr Jawad
+Dr Bapusamy/Umar Hanif/Dr Rafati
 Dr Li/Manvir Rai/Dr Au Yong
 
 #### Wednesday 30

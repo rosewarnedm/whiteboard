@@ -52,7 +52,7 @@ Dr Gupta/Qasim Afzaal/Dr Thomas
 
 #### Thursday 17
 Dr Kurian/Rob Molloy/Dr Qaiyum
-Dr Azam/Prithvi Peddinti/Dr Mahmood
+Dr Azam/Fahad Zaman/Dr Mahmood
 
 #### Friday 18
 BANK HOLIDAY
@@ -114,7 +114,7 @@ Dr Jawad/Dr Wadood/Dr Thomas
 8	Tuesday 5 pm – 9 pm		Dr Zachariah/Dr Gupta
 	Tuesday 9.00pm – 09.15am	Dr Zaman/Dr Gupta
  
-9	Wednesday 5 pm – 9 pm		Dr Butt/Dr Jain
+9	Wednesday 5 pm – 9 pm		Dr Yahya/Dr Jain
 	Wednesday 9 pm - 9.15 am	Dr Zaman/Dr Jain	
  
 10	Thursday 5.00pm – 9.00pm	Dr Butt/Dr Rafati	

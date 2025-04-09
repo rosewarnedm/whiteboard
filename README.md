@@ -130,13 +130,13 @@ Dr Jawad/Dr Wadood/Dr Thomas
 	Sunday 9.00pm – 09.15am		Dr Afzaal/Dr Saha	
  
 14	Monday 5.00pm – 9.00pm		Dr Wadood/Dr Thomas	
-	Monday 9.00pm – 09.15am		Dr Peddinti/Dr Thomas
+	Monday 9.00pm – 09.15am		Dr Singh/Dr Thomas
  
 15	Tuesday 5pm – 9 pm 		Dr Wadood/Dr Chaudhary
 	Tuesday 9.00pm – 09.15am	Dr Peddinti/Dr Chaudhary	
  
 16	Wednesday 5pm – 9pm		Dr Singh/Dr Rosewarne
-	Wednesday 9.00pm – 09.15am	Dr Singh/Dr Rosewarne
+	Wednesday 9.00pm – 09.15am	Dr Peddinti/Dr Rosewarne
  
 17	Thursday 5.00pm – 9.00pm	Dr Mahreen Butt/Dr Pang
 	Thursday 9.00pm – 09.15am	Dr Hanif/Dr Pang
@@ -172,7 +172,7 @@ Dr Jawad/Dr Wadood/Dr Thomas
 	Sunday 9.00pm – 09.15am		Dr Singh/Dr Bapusamy
 
 28	Monday 5 pm to 9 am		Dr Rai/Dr Yahya
-	Monday 9 pm to 9.15 am		Dr Rai/Dr Yahya
+	Monday 9 pm to 9.15 am		Dr Popa-Nimigean/Dr Yahya
 
 29	Tuesday 5 pm to 9 pm		Dr Rai/Dr Au Yong
 	Tuesday 9 pm to 9.15 am		Dr Popa-Nimigean/Dr Au Yong

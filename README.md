@@ -27,7 +27,7 @@ Dr Au Yong/Hina Khan/Dr Khan
 Dr Azam/Nirbhaibir Singh/Dr Li
 
 #### Wednesday 9
-Dr Rafati/Mahreen Butt/Dr Gupta
+Dr Rafati/Nirbhaibir Singh/Dr Gupta
 Dr Jawad/Qasim Wadood/Dr Kurian
 
 #### Thursday 10
@@ -40,7 +40,7 @@ Dr Au Yong/Mahreen Butt/Dr Rosewarne
 
 #### Monday 14
 Dr Jawad/Prithvi Peddinti/Dr Jain
-Dr Mahmood/TBA/Dr Yahya
+Dr Mahmood/Fahad Zaman/Dr Yahya
 
 #### Tuesday 15
 Dr Chaudhary/Hina Khan/Dr Blakeman

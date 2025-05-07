@@ -1,184 +1,185 @@
 
 
-### DUTY April 2025
+### DUTY MAY 2025
 
-#### Tuesday 1
-Dr Chaudhary/Nirbhaibir Singh/Dr Blakeman
-Dr Vydianath/Mahreen Butt/Dr Li
+#### Thursday 1
+Dr Kurian/Rob Molloy/Dr Pang
+Dr Khan, Fahad Zamam/Dr Pang
 
-#### Wednesday 2
-Dr Chaudhary/Ahmed Elnigoumi/Dr Bapusamy
-Dr Thomas/Nirbhaibir Singh/Dr Kurian
+#### Friday 2
+Dr Syed/Prithvi Peddinti/Dr Agamy
+Dr Rosewarne/Qasim Wadood/Dr Thomas
 
-#### Thursday 3
-Dr Pang/Fahad Zaman/Dr Agamy
-Dr Qaiyum/Prithvi Peddenti/Dr Azam
-
-#### Friday 4
-Dr Syed/Jiju Zachariah/Dr Li
-Dr Vydianath/Hina Khan/Dr Rosewarne
-
-#### Monday 7
-Dr Syed/Prithvi Peddinti/Dr Jawad
-Dr Saha/Fahad Zaman/Dr Pang
-
-#### Tuesday 8
-Dr Au Yong/Hina Khan/Dr Khan
-Dr Azam/Nirbhaibir Singh/Dr Li
-
-#### Wednesday 9
-Dr Rafati/Nirbhaibir Singh/Dr Gupta
-Dr Jawad/Qasim Wadood/Dr Kurian
-
-#### Thursday 10
-Dr Kurian/Hina Khan/Dr Saha
-Dr Mahmood/Rob Molloy/Dr Qaiyum
-
-#### Friday 11
-Dr Li/Mahreen Butt/Dr Vydianath
-Dr Au Yong/Mahreen Butt/Dr Rosewarne
-
-#### Monday 14
-Dr Jawad/Prithvi Peddinti/Dr Jain
-Dr Mahmood/Fahad Zaman/Dr Yahya
-
-#### Tuesday 15
-Dr Chaudhary/Hina Khan/Dr Blakeman
-Dr Bapusamy/Vladimir Popa-Nimigean/Dr Vydianath
-
-#### Wednesday 16
-Dr Agamy/Qasim Wadood/Dr Bapusamy
-Dr Gupta/Qasim Afzaal/Dr Thomas
-
-#### Thursday 17
-Dr Kurian/Rob Molloy/Dr Qaiyum
-Dr Azam/Fahad Zaman/Dr Mahmood
-
-#### Friday 18
+#### Monday 5
+BANK HOLIDAY
 BANK HOLIDAY
 
-#### Monday 21
+#### Tuesday 6
+Dr Khan/Rohan Ahmed/Dr Agamy
+Dr Au Yong/Manvir Rai/Dr Li
+
+#### Wednesday 7
+Dr Rafati/Umair Hanif/Dr Chaudhary
+Dr Gupta/Yuuki Na/Dr Pang
+
+#### Thursday 8
+Dr Mahmood/Vladimir Popa-Nimagean/Dr Rafati
+Dr Qaiyum/Prithvi Peddinti/Dr Au Yong
+
+#### Friday 9
+Dr Agamy/Prithvi Peddinti/Dr Vydianath
+Dr Thomas/Rohan Ahmed/Dr Rosewarne
+
+#### Monday 12
+Dr Jain/Nirbhairbir Singh/Dr Thomas
+Dr Azam/Vladimir Popa-Nimigegan/Dr Kurian
+
+#### Tuesday 13
+Dr Yahya/Gaurav Bhalla/Dr Azam
+Dr Vydianath/Amandeep Pahal/Dr Saha
+
+#### Wednesday 14
+Dr Kurian/Rob Molloy/Dr Chaudhary
+Dr Rosewarne/Qasim Afzaal/Dr Gupta
+
+#### Thursday 15
+Dr Li/Dr Khan/Dr Bapusamy
+Dr Qaiyum/Amandeep Pahal/Dr Khan
+
+#### Friday 16
+Dr Syed/Gaurav Bhalla/Dr Li
+Dr Jain/Mahreen Butt/Dr Mahmood
+
+#### Monday 19
+Dr Au Yong/Fahad Zaman/Dr Jawad
+Dr Azam/Manvir Rai/Dr Kurian
+
+#### Tuesday 20
+Dr Khan/Hina Khan/Dr Blakeman
+Dr Li/Nirbhaibir/Dr Au Yong
+
+#### Wednesday 21
+Dr Rafati/Rob Molloy/Dr Chaudhary
+Dr Jawad/Mahreen Butt/Dr Au Yong
+
+#### Thursday 22
+Dr Saha/Umar Hanif/Dr Qaiyum
+Dr Bapusamy/Fahad Zaman/Dr Mahmood
+
+#### Friday 23
+Dr Syed/Nirbhaibir Singh/Dr Jain
+Dr Rafati/Mahreen Butt/Dr Thomas
+
+#### Monday 26
+BANK HOLIDAY
 BANK HOLIDAY
 
-#### Tuesday 22
-Dr Chaudhary/Yuuki Na/Dr Rafati
-Dr Vydianath/Yuuki Na/Dr Li
+#### Tuesday 27
+Dr Chaudhary/Rob Molloy, Dr Qaiyum
+Dr Vydianath/Hina Khan/Dr Saha
 
-#### Wednesday 23
-Dr Rafati/TBA/Dr Bapusamy
-Dr Gupta/Qasim Afzaal/Dr Kurian
+#### Wednesday 28
+Dr Agamy/Amandeep Pahal/Dr Bapusamy
+Dr Thomas/Qasim Afzaal/Dr Azam
 
-#### Thursday 24
-Dr Pang/Vladimir Popa-Nimigean/Dr Saha
-Dr Qaiyum/Vladimir Popa-Nimigean/Dr Vydianath
+#### Thursday 29
+Dr Saha/Amandeep Pahal/Dr Agamy
+Dr Pang/TBA/Dr Rafati
 
-#### Friday 25
-Dr Agamy, Hina Khan, Dr Bapusamy
-Dr Rosewarne/Rohan Ahmed/Dr Chaudhary
+#### Friday 30
+Dr Khan/Mahreen Butt/Dr Collins
+Dr Pang/Qasim Wadood/Dr Jain
 
-#### Monday 28
-Dr Saha/Manvir Rai/Dr Jawad
-Dr Yahya/Yuuki Na/Dr Mahmood
+## MAY 2025 ON-CALL
 
-#### Tuesday 29
-Dr Bapusamy/Umar Hanif/Dr Rafati
-Dr Li/Manvir Rai/Dr Au Yong
-
-#### Wednesday 30
-Dr Agamy/Umar Hanif/Dr Rafati
-Dr Jawad/Dr Wadood/Dr Thomas
-
-## APRIL 2025 ON-CALL
-
-1	Tuesday	 5.00pm – 9.00pm	Dr Butt/Dr Vydianath
-	Tuesday  9.00pm – 09.15am	Dr Ya/Dr Vydianath
+1	Tuesday		5.00pm – 9.00pm	
+	Tuesday  	9.00pm – 09.15am	
  
-2	Wednesday  5.00 pm - 9.00 pm 	Dr Peddinit/Dr Syed	
-	Wednesday  9.00pm – 09.15am	Dr Molloy/Dr Syed
+2	Wednesday  5.00 pm - 9.00 pm 	
+	Wednesday  9.00pm – 09.15am	
 
-3	Thursday   5.00 pm - 9.00 pm	Dr Peddinti/Dr Rosewarne
-	Thursday   9 pm - 9.15 am 	Dr Molloy/Dr Rosewarne	
+3	Thursday   5.00 pm - 9.00 pm	
+	Thursday   9 pm - 9.15 am 	
 
-4	Friday    5 pm - 9 pm 		Dr Khan/Dr Kurian
-	Friday 	  9 pm - 9.15 am	Dr Popa-Nimigeal/Dr Kurian	
+4	Friday    5 pm - 9 pm 		
+	Friday 	  9 pm - 9.15 am	
 
-5	Saturday 9am – 9.15pm		Dr Singh/Dr Kurian	
-	Saturday 9.00pm – 09.15am	Dr Popa-Nimigean/Dr Kurian	
+5	Saturday 9am – 9.15pm		
+	Saturday 9.00pm – 09.15am	
   
-6	Sunday 9.00 am – 9.15 pm	Dr Singh/Dr Kurian
-	Sunday 9.00pm – 09.15am		Dr Popa-Nimigean/Dr Kurian
+6	Sunday 9.00 am – 9.15 pm	
+	Sunday 9.00pm – 09.15am		
  
-7	Monday 5.00pm – 9.00pm		Dr Zachariah/Dr Azam
-	Monday 9.00pm – 09.15am		Dr Zaman/Dr Azam
+7	Monday 5.00pm – 9.00pm		
+	Monday 9.00pm – 09.15am		
  
-8	Tuesday 5 pm – 9 pm		Dr Zachariah/Dr Gupta
-	Tuesday 9.00pm – 09.15am	Dr Zaman/Dr Gupta
+8	Tuesday 5 pm – 9 pm		
+	Tuesday 9.00pm – 09.15am	
  
-9	Wednesday 5 pm – 9 pm		Dr Yahya/Dr Jain
-	Wednesday 9 pm - 9.15 am	Dr Zaman/Dr Jain	
+9	Wednesday 5 pm – 9 pm		
+	Wednesday 9 pm - 9.15 am	
  
-10	Thursday 5.00pm – 9.00pm	Dr Butt/Dr Rafati	
-	Thursday 9.00pm – 09.15am	Dr Zaman/Dr Rafati	
+10	Thursday 5.00pm – 9.00pm	
+	Thursday 9.00pm – 09.15am	
+11	Friday 5.00pm – 9.00pm		
+	Friday 9.00pm – 09.15am		
  
-11	Friday 5.00pm – 9.00pm		Dr Peddenti/Dr Saha
-	Friday 9.00pm – 09.15am		Dr Afzaal/Dr Saha
+12	Saturday 9am – 9.15pm		
+	Saturday 9.00pm – 09.15am	
  
-12	Saturday 9am – 9.15pm		Dr Wadood/Dr Saha
-	Saturday 9.00pm – 09.15am	Dr Afzal/Dr Saha	
+13	Sunday 9am – 9.15pm			
+	Sunday 9.00pm – 09.15am		
  
-13	Sunday 9am – 9.15pm		Dr Wadood/Dr Saha	
-	Sunday 9.00pm – 09.15am		Dr Afzaal/Dr Saha	
+14	Monday 5.00pm – 9.00pm		
+	Monday 9.00pm – 09.15am		
  
-14	Monday 5.00pm – 9.00pm		Dr Wadood/Dr Thomas	
-	Monday 9.00pm – 09.15am		Dr Singh/Dr Thomas
+15	Tuesday 5pm – 9 pm 		
+	Tuesday 9.00pm – 09.15am	
  
-15	Tuesday 5pm – 9 pm 		Dr Wadood/Dr Chaudhary
-	Tuesday 9.00pm – 09.15am	Dr Peddinti/Dr Chaudhary	
+16	Wednesday 5pm – 9pm		
+	Wednesday 9.00pm – 09.15am	
  
-16	Wednesday 5pm – 9pm		Dr Singh/Dr Rosewarne
-	Wednesday 9.00pm – 09.15am	Dr Peddinti/Dr Rosewarne
+17	Thursday 5.00pm – 9.00pm	
+	Thursday 9.00pm – 09.15am	
  
-17	Thursday 5.00pm – 9.00pm	Dr Mahreen Butt/Dr Pang
-	Thursday 9.00pm – 09.15am	Dr Hanif/Dr Pang
+18	Friday 9 am – 9.00pm		
+	Friday 9.00pm – 09.15am		
  
-18	Friday 9 am – 9.00pm		Dr Butt/Dr Vydianath
-	Friday 9.00pm – 09.15am		Dr Ahmed/Dr Vydianath	
+19	Saturday 9am – 9.15pm		
+	Saturday 9.00pm – 09.15am	
  
-19	Saturday 9am – 9.15pm		Dr Wadood/Dr Agamy	
-	Saturday 9.00pm – 09.15am	Dr Ahmed/Dr Agamy
+20	Sunday 9 am – 9.15pm		
+	Sunday 9.00pm – 09.15am		
  
-20	Sunday 9 am – 9.15pm		Dr Wadood/Dr Agamy	
-	Sunday 9.00pm – 09.15am		Dr Ahmed/Dr Agamy
+21	Monday 9 am – 9.00pm		
+	Monday 9.00pm – 09.15am		
  
-21	Monday 9 am – 9.00pm		Dr Wadood/Dr Agamy	
-	Monday 9.00pm – 09.15am		Dr Hanif/Dr Agamy
+22	Tuesday 5pm – 9pm		
+	Tuesday 9.00pm – 09.15am	
  
-22	Tuesday 5pm – 9pm		Dr Singh/Dr Khan	
-	Tuesday 9.00pm – 09.15am	Dr Hanif/Dr Khan
+23	Wednesday 5pm - 9 pm			
+	Wednesday 9.00pm – 09.15am	
  
-23	Wednesday 5pm - 9 pm		Dr Wadood/Dr Syed	
-	Wednesday 9.00pm – 09.15am	Dr Hanif/Dr Syed
+24	Thursday 5.00pm – 9.00pm	
+	Thursday 9.00pm – 09.15am	
  
-24	Thursday 5.00pm – 9.00pm	Dr Wadood/Dr Mahmood	
-	Thursday 9.00pm – 09.15am	Dr Afzaal/Dr Mahmood	
- 
-25	Friday 5.00pm – 9.00pm		Dr Wadood/Dr Bapusamy
-	Friday 9.00pm – 09.15am		Dr Wadood/Dr Bapusamy		
+25	Friday 5.00pm – 9.00pm		
+	Friday 9.00pm – 09.15am				
 
-26	Saturday 9am – 9.15pm		Dr Molloy/Dr Bapusamy	
-	Saturday 9.00pm – 09.15am	Dr Wadood/Dr Bapusamy
+26	Saturday 9am – 9.15pm		
+	Saturday 9.00pm – 09.15am	
  
-27	Sunday 9 am – 9.15pm		Dr Molloy/Dr Bapusamy	
-	Sunday 9.00pm – 09.15am		Dr Singh/Dr Bapusamy
+27	Sunday 9 am – 9.15pm		
+	Sunday 9.00pm – 09.15am		
 
-28	Monday 5 pm to 9 am		Dr Rai/Dr Yahya
-	Monday 9 pm to 9.15 am		Dr Popa-Nimigean/Dr Yahya
+28	Monday 5 pm to 9 am		
+	Monday 9 pm to 9.15 am		
 
-29	Tuesday 5 pm to 9 pm		Dr Rai/Dr Au Yong
-	Tuesday 9 pm to 9.15 am		Dr Popa-Nimigean/Dr Au Yong
+29	Tuesday 5 pm to 9 pm		
+	Tuesday 9 pm to 9.15 am		
 
-30	Wednesday 5 pm to 9 pm		Dr Singh/Dr Jawad
-	Tuesday 9 pm to 9.15 am		Dr Popa-Nimigean/Dr Jawad
+30	Wednesday 5 pm to 9 pm		
+	Tuesday 9 pm to 9.15 am		
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days

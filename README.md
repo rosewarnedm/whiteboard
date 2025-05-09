@@ -28,7 +28,7 @@ Dr Qaiyum/Prithvi Peddinti/Dr Au Yong
 
 #### Friday 9
 Dr Agamy/Prithvi Peddinti/Dr Vydianath
-Dr Thomas/Rohan Ahmed/Dr Rosewarne
+Dr Thomas/Nirbhaibir Singh/Dr Rosewarne
 
 #### Monday 12
 Dr Jain/Nirbhairbir Singh/Dr Thomas

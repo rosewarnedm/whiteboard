@@ -32,7 +32,7 @@ Dr Thomas/Nirbhaibir Singh/Dr Rosewarne
 
 #### Monday 12
 Dr Jain/Nirbhairbir Singh/Dr Thomas
-Dr Azam/Vladimir Popa-Nimigegan/Dr Kurian
+Dr Azam/Vladimir Popa-Nimigegan/Dr Agamy
 
 #### Tuesday 13
 Dr Yahya/Gaurav Bhalla/Dr Azam

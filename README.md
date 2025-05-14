@@ -43,7 +43,7 @@ Dr Kurian/Rob Molloy/Dr Chaudhary
 Dr Rosewarne/Qasim Afzaal/Dr Gupta
 
 #### Thursday 15
-Dr Li/TBA/Dr Bapusamy
+Dr Li/Fahad Zaman/Dr Bapusamy
 Dr Qaiyum/Amandeep Pahal/Dr Khan
 
 #### Friday 16

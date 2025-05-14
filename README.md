@@ -43,12 +43,12 @@ Dr Kurian/Rob Molloy/Dr Chaudhary
 Dr Rosewarne/Qasim Afzaal/Dr Gupta
 
 #### Thursday 15
-Dr Li/Dr Khan/Dr Bapusamy
+Dr Li/TBA/Dr Bapusamy
 Dr Qaiyum/Amandeep Pahal/Dr Khan
 
 #### Friday 16
-Dr Syed/Gaurav Bhalla/Dr Li
-Dr Jain/Mahreen Butt/Dr Mahmood
+Dr Syed/Mahreen Butt/Dr Li
+Dr Jain/Gaurav Bhalla/Dr Mahmood
 
 #### Monday 19
 Dr Au Yong/Fahad Zaman/Dr Jawad
@@ -67,7 +67,7 @@ Dr Saha/Umar Hanif/Dr Qaiyum
 Dr Bapusamy/Fahad Zaman/Dr Mahmood
 
 #### Friday 23
-Dr Syed/Nirbhaibir Singh/Dr Jain
+Dr Syed/Rob Molloy/Dr Jain
 Dr Rafati/Mahreen Butt/Dr Thomas
 
 #### Monday 26
@@ -75,7 +75,7 @@ BANK HOLIDAY
 BANK HOLIDAY
 
 #### Tuesday 27
-Dr Chaudhary/Rob Molloy, Dr Qaiyum
+Dr Chaudhary/Nirbhaibir Singh, Dr Qaiyum
 Dr Vydianath/Hina Khan/Dr Saha
 
 #### Wednesday 28
@@ -84,7 +84,7 @@ Dr Thomas/Qasim Afzaal/Dr Azam
 
 #### Thursday 29
 Dr Saha/Amandeep Pahal/Dr Agamy
-Dr Pang/TBA/Dr Rafati
+Dr Pang/Fahad Zaman/Dr Rafati
 
 #### Friday 30
 Dr Khan/Mahreen Butt/Dr Collins

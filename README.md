@@ -56,14 +56,14 @@ Dr Azam/Manvir Rai/Dr Kurian
 
 #### Tuesday 20
 Dr Khan/Hina Khan/Dr Blakeman
-Dr Li/Nirbhaibir/Dr Au Yong
+Dr Li/Qasim Wadood/Dr Au Yong
 
 #### Wednesday 21
 Dr Rafati/Rob Molloy/Dr Chaudhary
 Dr Jawad/Mahreen Butt/Dr Au Yong
 
 #### Thursday 22
-Dr Saha/Umar Hanif/Dr Qaiyum
+Dr Saha/Mahreen Butt/Dr Qaiyum
 Dr Bapusamy/Fahad Zaman/Dr Mahmood
 
 #### Friday 23
@@ -87,8 +87,8 @@ Dr Saha/Amandeep Pahal/Dr Agamy
 Dr Pang/Fahad Zaman/Dr Rafati
 
 #### Friday 30
-Dr Khan/Mahreen Butt/Dr Collins
-Dr Pang/Qasim Wadood/Dr Jain
+Dr Khan/Umar Hanif/Dr Collins
+Dr Pang/Nirbhaibir Singh/Dr Jain
 
 ## MAY 2025 ON-CALL
 

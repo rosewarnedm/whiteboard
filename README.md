@@ -76,7 +76,7 @@ BANK HOLIDAY
 
 #### Tuesday 27
 Dr Chaudhary/Nirbhaibir Singh, Dr Qaiyum
-Dr Vydianath/Hina Khan/Dr Saha
+Dr Vydianath/Umar Hanif/Dr Saha
 
 #### Wednesday 28
 Dr Agamy/Amandeep Pahal/Dr Bapusamy
@@ -87,7 +87,7 @@ Dr Saha/Amandeep Pahal/Dr Agamy
 Dr Pang/Fahad Zaman/Dr Rafati
 
 #### Friday 30
-Dr Khan/Umar Hanif/Dr Collins
+Dr Khan/Hina Khan/Dr Collins
 Dr Pang/Nirbhaibir Singh/Dr Jain
 
 ## MAY 2025 ON-CALL

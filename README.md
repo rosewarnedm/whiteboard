@@ -83,8 +83,8 @@ Dr Agamy/Amandeep Pahal/Dr Bapusamy
 Dr Thomas/Qasim Afzaal/Dr Azam
 
 #### Thursday 29
-Dr Saha/Amandeep Pahal/Dr Agamy
-Dr Pang/Fahad Zaman/Dr Rafati
+Dr Saha/Amandeep Pahal/Dr Rafati
+Dr Pang/Fahad Zaman/Dr Khan
 
 #### Friday 30
 Dr Khan/Hina Khan/Dr Collins

@@ -88,7 +88,7 @@ Dr Pang/Fahad Zaman/Dr Khan
 
 #### Friday 30
 Dr Khan/Hina Khan/Dr Collins
-Dr Pang/Nirbhaibir Singh/Dr Jain
+Dr Pang/Umar Hanif/Dr Jain
 
 ## MAY 2025 ON-CALL
 

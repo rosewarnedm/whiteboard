@@ -1,6 +1,6 @@
 
 
-### DUTY MAY 2025
+### DUTY JUNE 2025
 
 #### Monday 2
 Dr Gupta, Prithvi Peddinti/Dr Saha

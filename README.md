@@ -2,95 +2,93 @@
 
 ### DUTY MAY 2025
 
-#### Thursday 1
-Dr Kurian/Rob Molloy/Dr Pang
-Dr Khan, Fahad Zamam/Dr Pang
+#### Monday 2
+Dr Gupta, Prithvi Peddinti/Dr Saha
+Dr Azam, Hina Khan, Dr Pang
 
-#### Friday 2
-Dr Syed/Prithvi Peddinti/Dr Agamy
-Dr Rosewarne/Qasim Wadood/Dr Thomas
+#### Tuesday 3
+Dr Yahya, Vladimir Popa-Nimigean/Dr Blakeman
+Dr Au Yong/Prithvi Peddinti/Dr Vydianath
 
-#### Monday 5
-BANK HOLIDAY
-BANK HOLIDAY
+#### Wednesday 4
+Dr Agamy, Rob Molloy/Dr Bapusamy
+Dr Jawad/Qasim Afzaal, Dr Gupta
 
-#### Tuesday 6
-Dr Khan/Rohan Ahmed/Dr Agamy
-Dr Au Yong/Manvir Rai/Dr Li
+#### Thursday 5
+Dr Thomas, Mahreen Butt, Dr Agamy
+Dr Bapusamy, Hina Khan, Dr Khan
 
-#### Wednesday 7
-Dr Rafati/Umair Hanif/Dr Chaudhary
-Dr Gupta/Yuuki Na/Dr Pang
+#### Friday 6
+Dr Vydianath/Rohan Ahmed/Dr Li
+Dr Qaiyum/Jiju Zachariah/Dr Collins
 
-#### Thursday 8
-Dr Mahmood/Vladimir Popa-Nimagean/Dr Rafati
-Dr Qaiyum/Prithvi Peddinti/Dr Au Yong
+#### Monday 9
+Dr Saha, Umar Hanif, Dr Jawad
+Dr Rosewarne, Mahreen Butt, Dr Mahmood
 
-#### Friday 9
-Dr Agamy/Prithvi Peddinti/Dr Vydianath
-Dr Thomas/Nirbhaibir Singh/Dr Rosewarne
+#### Tuesday 10
+Dr Chaudhary, Umar Hanif, Dr Agamy
+Dr Kurian, Qasim Wadood, Dr Chaudhary
 
-#### Monday 12
-Dr Jain/Nirbhairbir Singh/Dr Thomas
-Dr Azam/Vladimir Popa-Nimigegan/Dr Agamy
+#### Wednesday 11
+Dr Rafati, Jiju Zachariah, Dr Khan
+Dr Gupta, Fahad Zaman, Dr Kurian
 
-#### Tuesday 13
-Dr Yahya/Gaurav Bhalla/Dr Azam
-Dr Vydianath/Amandeep Pahal/Dr Saha
+#### Thursday 12
+Dr Pang, Rob Molloy, Dr Gupta
+Dr Kurian, Maham Khan, Dr Jain
 
-#### Wednesday 14
-Dr Kurian/Rob Molloy/Dr Chaudhary
-Dr Rosewarne/Qasim Afzaal/Dr Gupta
+#### Friday 13
+Dr Syed, Nirbhaibir Singh, Dr Agamy
+Dr Rosewarne, Manvir Rai, Dr Mahmood
 
-#### Thursday 15
-Dr Li/Fahad Zaman/Dr Bapusamy
-Dr Qaiyum/Amandeep Pahal/Dr Khan
+#### Monday 16
+Dr Au Yong, Manvir Rai, Dr Thomas
+Dr Saha, Fahad Zaman, Dr Mahmood
 
-#### Friday 16
-Dr Syed/Mahreen Butt/Dr Li
-Dr Jain/Gaurav Bhalla/Dr Mahmood
+#### Tuesday 17
+Dr Khan, Nirbhaibir Singh, Dr Qaiyum
+Dr Vydianath, Ahmed El-Nigoumi, Dr Au Yong
 
-#### Monday 19
-Dr Au Yong/Fahad Zaman/Dr Jawad
-Dr Azam/Manvir Rai/Dr Kurian
+#### Wednesday 18
+Dr Chaudhary, Umar Hanif, Dr Rafati
+Dr Jawad, Yogeshwar Gohil, Dr Gupta
 
-#### Tuesday 20
-Dr Khan/Hina Khan/Dr Blakeman
-Dr Li/Qasim Wadood/Dr Au Yong
+#### Thursday 19
+Dr Mahmood, Ahmed Elnigoumi, Dr Saha
+Dr Qaiyum, Hina Khan, Dr Khan
 
-#### Wednesday 21
-Dr Rafati/Rob Molloy/Dr Chaudhary
-Dr Jawad/Mahreen Butt/Dr Au Yong
+#### Friday 20
+Dr Syed, Rob Molloy, Dr Li
+Dr Mahmood, Ayesha Khan, Dr Rosewarne
 
-#### Thursday 22
-Dr Saha/Mahreen Butt/Dr Qaiyum
-Dr Bapusamy/Fahad Zaman/Dr Mahmood
+#### Monday 23
+Dr Jawad 9 - 11, Dr Jain 11 am, Yuuki Na, Dr Jawad
+Dr Mahmood, Yuuki Na, Dr Azam
 
-#### Friday 23
-Dr Syed/Rob Molloy/Dr Jain
-Dr Rafati/Mahreen Butt/Dr Thomas
+#### Tuesday 24
+Dr Yahya, Rohan Ahmed, Dr Blakeman
+Dr Azam, Ahmed Elnigoumi, Dr Au Yong
 
-#### Monday 26
-BANK HOLIDAY
-BANK HOLIDAY
+#### Wednesday 25
+Dr Agamy, Mahreen Butt, Dr Bapusamy
+Dr Gupta, Qasim Wadood, Dr Kurian
 
-#### Tuesday 27
-Dr Chaudhary/Nirbhaibir Singh, Dr Qaiyum
-Dr Vydianath/Umar Hanif/Dr Saha
+#### Thursday 26
+Dr Li, Rob Molloy, Dr Rafati
+Dr Bapusamy, Yogeshwar Gohil, Dr Qaiyum
 
-#### Wednesday 28
-Dr Agamy/Amandeep Pahal/Dr Bapusamy
-Dr Thomas/Qasim Afzaal/Dr Azam
+#### Friday 27
+Dr Syed, Hina Khan, Dr Li
+Dr Khan, Ayesha Khan/Dr Collins
 
-#### Thursday 29
-Dr Saha/Amandeep Pahal/Dr Rafati
-Dr Pang/Fahad Zaman/Dr Khan
+#### Monday 30
+Dr Thomas, Vladimir Popa-Nimigean/Dr Jain
+Dr Kurian, Yogeshwar Gohil, Dr Pang
 
-#### Friday 30
-Dr Khan/Hina Khan/Dr Collins
-Dr Pang/Umar Hanif/Dr Jain
 
-## MAY 2025 ON-CALL
+
+## JUNE 2025 ON-CALL
 
 1	Tuesday		5.00pm – 9.00pm	
 	Tuesday  	9.00pm – 09.15am	

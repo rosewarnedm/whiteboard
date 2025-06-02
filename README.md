@@ -8,14 +8,14 @@ Dr Azam, Hina Khan, Dr Pang
 
 #### Tuesday 3
 Dr Yahya, Vladimir Popa-Nimigean/Dr Blakeman
-Dr Au Yong/Prithvi Peddinti/Dr Vydianath
+Dr Au Yong/Qasim Wadood/Dr Vydianath
 
 #### Wednesday 4
 Dr Agamy, Rob Molloy/Dr Bapusamy
 Dr Jawad/Qasim Afzaal, Dr Gupta
 
 #### Thursday 5
-Dr Thomas, Mahreen Butt, Dr Agamy
+Dr Thomas, Nirbhaibir Singh, Dr Agamy
 Dr Bapusamy, Hina Khan, Dr Khan
 
 #### Friday 6

@@ -31,7 +31,7 @@ Dr Chaudhary, Umar Hanif, Dr Agamy
 Dr Kurian, Qasim Wadood, Dr Chaudhary
 
 #### Wednesday 11
-Dr Rafati, Jiju Zachariah, Dr Khan
+Dr Rafati, Rob Molloy, Dr Khan
 Dr Gupta, Fahad Zaman, Dr Kurian
 
 #### Thursday 12

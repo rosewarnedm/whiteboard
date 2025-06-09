@@ -23,8 +23,8 @@ Dr Vydianath/Rohan Ahmed/Dr Li
 Dr Qaiyum/Jiju Zachariah/Dr Collins
 
 #### Monday 9
-Dr Saha, Umar Hanif, Dr Jawad
-Dr Rosewarne, Mahreen Butt, Dr Mahmood
+Dr Saha, Mahreen Butt, Dr Jawad
+Dr Rosewarne, Umar Hanif, Dr Mahmood
 
 #### Tuesday 10
 Dr Chaudhary, Umar Hanif, Dr Agamy

@@ -39,20 +39,20 @@ Dr Pang, Rob Molloy, Dr Gupta
 Dr Kurian, Maham Khan, Dr Jain
 
 #### Friday 13
-Dr Syed, Nirbhaibir Singh, Dr Agamy
-Dr Rosewarne, Manvir Rai, Dr Mahmood
+Dr Syed, Yogeshwar Gohil, Dr Agamy
+Dr Rosewarne, Rohan Ahmed, Dr Chaudhary
 
 #### Monday 16
 Dr Au Yong, Manvir Rai, Dr Thomas
 Dr Saha, Fahad Zaman, Dr Mahmood
 
 #### Tuesday 17
-Dr Khan, Nirbhaibir Singh, Dr Qaiyum
+Dr Khan, Mahreen Butt, Dr Qaiyum
 Dr Vydianath, Ahmed El-Nigoumi, Dr Au Yong
 
 #### Wednesday 18
 Dr Chaudhary, Umar Hanif, Dr Rafati
-Dr Jawad, Yogeshwar Gohil, Dr Gupta
+Dr Jawad, Nirbaibir Singh, Dr Gupta
 
 #### Thursday 19
 Dr Mahmood, Ahmed Elnigoumi, Dr Saha
@@ -67,12 +67,12 @@ Dr Jawad 9 - 11, Dr Jain 11 am, Yuuki Na, Dr Jawad
 Dr Mahmood, Yuuki Na, Dr Azam
 
 #### Tuesday 24
-Dr Yahya, Rohan Ahmed, Dr Blakeman
+Dr Yahya, Manvir Rai, Dr Blakeman
 Dr Azam, Ahmed Elnigoumi, Dr Au Yong
 
 #### Wednesday 25
 Dr Agamy, Mahreen Butt, Dr Bapusamy
-Dr Gupta, Qasim Wadood, Dr Kurian
+Dr Gupta, Nirbhaibir Singh, Dr Kurian
 
 #### Thursday 26
 Dr Li, Rob Molloy, Dr Rafati

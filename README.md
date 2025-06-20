@@ -63,7 +63,7 @@ Dr Syed, Rob Molloy, Dr Li
 Dr Mahmood, Ayesha Khan, Dr Rosewarne
 
 #### Monday 23
-Dr Jawad 9 - 11, Dr Jain 11 am, Yuuki Na, Dr Jawad
+Dr Thomas, Yuuki Na, Dr Jawad
 Dr Mahmood, Yuuki Na, Dr Pang
 
 #### Tuesday 24
@@ -83,7 +83,7 @@ Dr Syed, Hina Khan, Dr Li
 Dr Khan, Ayesha Khan/Dr Collins
 
 #### Monday 30
-Dr Thomas, Vladimir Popa-Nimigean/Dr Jain
+Dr Thomas, Vladimir Popa-Nimigean/Dr Gupta
 Dr Kurian, Yogeshwar Gohil, Dr Azam
 
 

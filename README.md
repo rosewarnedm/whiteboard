@@ -80,7 +80,7 @@ Dr Bapusamy, Yogeshwar Gohil, Dr Qaiyum
 
 #### Friday 27
 Dr Syed, Hina Khan, Dr Li
-Dr Khan, Ayesha Khan/Dr Collins
+Dr Gupta, Ayesha Khan/Dr Collins
 
 #### Monday 30
 Dr Thomas, Vladimir Popa-Nimigean/Dr Gupta

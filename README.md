@@ -72,7 +72,7 @@ Dr Azam, Ahmed Elnigoumi, Dr Au Yong
 
 #### Wednesday 25
 Dr Agamy, Mahreen Butt, Dr Bapusamy
-Dr Gupta, Nirbhaibir Singh, Dr Kurian
+Dr Gupta, Yogeshwar Gohil, Dr Kurian
 
 #### Thursday 26
 Dr Li, Rob Molloy, Dr Rafati

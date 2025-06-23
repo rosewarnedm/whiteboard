@@ -71,7 +71,7 @@ Dr Yahya, Manvir Rai, Dr Blakeman
 Dr Azam, Ahmed Elnigoumi, Dr Au Yong
 
 #### Wednesday 25
-Dr Agamy, Mahreen Butt, Dr Bapusamy
+Dr Rafati, Mahreen Butt, Dr Bapusamy
 Dr Gupta, Yogeshwar Gohil, Dr Kurian
 
 #### Thursday 26

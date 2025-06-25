@@ -76,7 +76,7 @@ Dr Gupta, Yogeshwar Gohil, Dr Kurian
 
 #### Thursday 26
 Dr Li, Rob Molloy, Dr Rafati
-Dr Bapusamy, Yogeshwar Gohil, Dr Qaiyum
+Dr Bapusamy, Fahad Zaman, Dr Qaiyum
 
 #### Friday 27
 9 am to 10 am Dr Vydianath/Dr Syed, Hina Khan, Dr Li

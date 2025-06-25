@@ -79,7 +79,7 @@ Dr Li, Rob Molloy, Dr Rafati
 Dr Bapusamy, Yogeshwar Gohil, Dr Qaiyum
 
 #### Friday 27
-Dr Syed, Hina Khan, Dr Li
+9 am to 10 am Dr Vydianath/Dr Syed, Hina Khan, Dr Li
 Dr Gupta, Ayesha Khan/Dr Collins
 
 #### Monday 30

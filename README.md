@@ -46,7 +46,7 @@ D
 
 
 #### Friday 18
-Dr Syed 9 am to 11.30 am/Dr Gupta 11.30 am to 2 pm/Dr Molloy/Dr Vydianath
+Dr Syed/Dr Molloy/Dr Vydianath
 Dr Li/Manvir Rai/Dr Rosewarne
 
 #### Monday 21

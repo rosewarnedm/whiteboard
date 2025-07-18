@@ -46,23 +46,44 @@ D
 
 
 #### Friday 18
-
+Dr Syed 9 am to 11.30 am/Dr Gupta 11.30 am to 2 pm/Dr Molloy/Dr Vydianath
+Dr Li/Manvir Rai/Dr Rosewarne
 
 #### Monday 21
+Dr Vydianath/Hina Khan/Dr Syed
+Dr Mahmood/Ahmed Elnigoumi/Dr Azam
 
 #### Tuesday 222
-
+Dr Chaudhary/Yogeshwar Gohil/Dr Blakeman
+Dr Azam/Fahad Zaman/Dr Yahya
 
 #### Wednesday 23
+Dr Bapusamy/Qasim Wadood/TBA
+Dr Gupta/Qasim Afzaal/Dr Kurian
 
 #### Thursday 24
+Dr Kurian/Vladimir Popa-Nimigean/Dr Rafati
+Dr Pang/Nirbhaibir Singh/Dr Jain
 
 #### Friday 25
-
+Dr Jawad/Yogeshwar Gohil/Dr Vydianath
+Dr Rosewarne/Mahreen Butt/Dr Mahmood
 
 #### Monday 28
+Dr Gupta/Hina Khan/Dr Jawad/
+Dr Kurianh/Manvir Rai/Dr Au Yong
 
+#### Tuesday 29
+Dr Khan/Rob Molloy/Dr Jawad
+Dr Vydianath/Fahad Zaman/Dr Au Yong
 
+#### Wednesday 30
+Dr Rafati/Mahreen Butt/Dr Thomas
+Dr Jawad/Ahmed Elnigoumi/Dr Gupta
+
+#### Thursday 31
+Dr Kurian/Dr Wadood/Dr Bapusamy
+Dr Qaiyum/Yogeshwar Gohil/Dr Pang
 
 ## JULY 2025 ON-CALL
 

@@ -53,12 +53,12 @@ Dr Li/Manvir Rai/Dr Rosewarne
 Dr Vydianath/Hina Khan/Dr Syed
 Dr Mahmood/Ahmed Elnigoumi/Dr Azam
 
-#### Tuesday 222
+#### Tuesday 22
 Dr Chaudhary/Yogeshwar Gohil/Dr Blakeman
 Dr Azam/Fahad Zaman/Dr Yahya
 
 #### Wednesday 23
-Dr Bapusamy/Qasim Wadood/TBA
+Dr Bapusamy/Qasim Wadood/Dr Au Yong
 Dr Gupta/Qasim Afzaal/Dr Kurian
 
 #### Thursday 24

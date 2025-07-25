@@ -71,15 +71,15 @@ Dr Rosewarne/Mahreen Butt/Dr Mahmood
 
 #### Monday 28
 Dr Gupta/Hina Khan/Dr Jawad/
-Dr Kurianh/Manvir Rai/Dr Au Yong
+Dr Kurian/Manvir Rai/Dr Au Yong
 
 #### Tuesday 29
 Dr Khan/Rob Molloy/Dr Jawad
 Dr Vydianath/Fahad Zaman/Dr Au Yong
 
 #### Wednesday 30
-Dr Rafati/Mahreen Butt/Dr Thomas
-Dr Jawad/Ahmed Elnigoumi/Dr Gupta
+Dr Rafati/Hina Khan/Dr Thomas
+Dr Jawad/TBA/Dr Gupta
 
 #### Thursday 31
 Dr Kurian/Dr Wadood/Dr Bapusamy

@@ -79,7 +79,7 @@ Dr Vydianath/Fahad Zaman/Dr Au Yong
 
 #### Wednesday 30
 Dr Rafati/Hina Khan/Dr Thomas
-Dr Jawad/TBA/Dr Gupta
+Dr Jawad/Rob Molloy/Dr Gupta
 
 #### Thursday 31
 Dr Kurian/Dr Wadood/Dr Bapusamy

@@ -1,91 +1,94 @@
 
 
-### DUTY JULY 2025
+### DUTY AUGUST 2025
 
-#### Tuesday 1
-Dr Au Yong, Fahad Zaman, Dr Qaiyum
-Dr Chaudhary, Yogeshwar Gohil, Dr Qaiyum
+#### Friday 1
+Dr Li, Yogeshwar Gohil, Dr Thomas
+Dr Azam, Vladimir Popa-Nimigean/Dr Rosewarne
 
-#### Wednesday 2
-Dr Rafati, Ayesha Khan, Dr Bapusamy
-Dr Gupta, Qasim Afzaal, Dr Thomas
+#### Monday 4
+Dr Thomas, Ayesha Khan, Dr Au Yong
+Dr Kurian, Manvir Rai, Dr Jain
 
-#### Thursday 3
-Dr Qaiyum/Vladimir Popa-Nimigean, Dr Pang
-Dr Khan/Ayesha Khan/Haroon Azam
+#### Tuesday 5
+Dr Khan, Hina Khan, Dr Blakeman
+Dr Vydianath, Umar Hanif, Dr Saha
 
-#### Friday 4
-Dr Syed, Yogeshwar Gohil, Dr Khan
-Dr Bapusamy, Nirbhaibir Singh, Dr Chaudhary
+#### Wednesday 6
+Dr Au Yong, Mahreen Butt, Dr Kurian
+Dr Jawad, Qasim Afzaal, Dr Gupta
 
-#### Monday 7
-Dr Saha, Umar Hanif, Dr Thomas
-Dr Kurian, Yuuki Na, Dr Jain
+#### Thursday 7
+Dr Pang, Umar Hanif, Dr Chaudhary
+Dr Khan, Nirbhaibir Singh, Dr Jain
 
-#### Tuesday 8
-Dr Khan, Yogeshwar Gohil, Dr Yahya
-Dr Rosewarne, Yuuki Na, Dr Saha
+#### Friday 8
+Dr Li, Mahreen Butt, Dr Thomas
+Dr Kurian, Manvir Rai, Dr Rosewarne
 
-#### Wednesday 9
-Dr Chaudhary, Ayesha Khan, Dr Bapusamy
-Dr Thomas, Vladimir Popa-Nimigean, Dr Gupta
+#### Monday 11
+Dr Jain, Rohan Ahmned, Dr Jawad
+Dr Mahmood, Fahad Zaman, Dr Pang
 
-#### Thursday 10
+#### Tuesday 12
+Dr Khan, Maham Khan, Dr Blakeman
+Dr Azam, TBA, Dr Saha
 
-#### Friday 11
-D
-#### Monday 14
+#### Wednesday 13
+Dr Thomas, Nirbhaibir Singh, Dr Chaudhary
+Dr Jawad, Yuuki Na, Dr Bapusamy
 
-#### Tuesday 15
+#### Thursday 14
+Dr Gupta, Hina Khan, Dr Qaiyum
+Dr Kurian, Nirbhaibir Singh, Dr Collins
+
+#### Friday 15
+Dr Li, Ayesha Khan, Dr Jawad
+Dr Rosewarne, Prithvi Peddinti, Dr Chaudhary
+
+#### Monday 18
+Dr Saha, Qasim Afzaal, Dr Jawad
+Dr Mahmood, Dr Zaman, Dr Syed
+
+#### Tuesday 19
+Dr Yahya, Hina Khan, Dr Rafati
+Dr Chaudhary, Maham Khan, Dr Qaiyum
+
+#### Wednesday 20
+Dr Rafati, Rob Molloy, Dr Pang
+Dr Kurian, Nirbhaibir Singh, Dr Gupta
+
+#### Thursday 21
+Dr Bapusamy, Ayesha Khan, Dr Chaudhary
+Dr Qaiyum, TBA, Dr Pang
+
+#### Friday 22
+Dr Li/Yogeshwar Gohil/Dr Vydianath
+Dr Yahya, Prithvi Peddinti/Dr Rosewarne
+
+#### Monday 25
+Bank Holiday
+Bank Holiday
+
+#### Tuesday 26
+Dr Yahya/TBA/Dr Blakeman
+Dr Vydianath/Ahmed Elnigoumi/Dr Saha
+
+#### Wednesday 27
+Dr Agamy, Vladimir Popa-Nimigean, Dr Rafati
+Dr Gupta, TBA, Dr Kurian
+
+#### Thursday 28
+Dr Saha, TBA, Dr Mahmood
+Dr Pang, Ahmed Elnigoumi, Dr Azam
+
+#### Friday 29
+Dr Syed/Rob Molloy/Dr Agamy
+Dr Rosewarne, Rohan Ahmed, Dr Collins
 
 
-#### Wednesday 16
 
-
-#### Thursday 17
-
-
-#### Friday 18
-Dr Syed/Dr Molloy/Dr Vydianath
-Dr Li/Manvir Rai/Dr Rosewarne
-
-#### Monday 21
-Dr Vydianath/Hina Khan/Dr Syed
-Dr Mahmood/Ahmed Elnigoumi/Dr Azam
-
-#### Tuesday 22
-Dr Chaudhary/Yogeshwar Gohil/Dr Blakeman
-Dr Azam/Fahad Zaman/Dr Yahya
-
-#### Wednesday 23
-Dr Bapusamy/Qasim Wadood/Dr Au Yong
-Dr Gupta/Qasim Afzaal/Dr Kurian
-
-#### Thursday 24
-Dr Kurian/Vladimir Popa-Nimigean/Dr Rafati
-Dr Pang/Nirbhaibir Singh/Dr Jain
-
-#### Friday 25
-Dr Jawad/Yogeshwar Gohil/Dr Vydianath
-Dr Rosewarne/Mahreen Butt/Dr Mahmood
-
-#### Monday 28
-Dr Gupta/Hina Khan/Dr Jawad/
-Dr Kurian/Manvir Rai/Dr Au Yong
-
-#### Tuesday 29
-Dr Khan/Rob Molloy/Dr Jawad
-Dr Vydianath/Fahad Zaman/Dr Au Yong
-
-#### Wednesday 30
-Dr Rafati/Hina Khan/Dr Thomas
-Dr Jawad/Rob Molloy/Dr Gupta
-
-#### Thursday 31
-Dr Kurian/Dr Wadood/Dr Bapusamy
-Dr Qaiyum/Yogeshwar Gohil/Dr Pang
-
-## JULY 2025 ON-CALL
+## AUGUST 2025 ON-CALL
 
 1	Tuesday		5.00pm – 9.00pm	
 	Tuesday  	9.00pm – 09.15am	

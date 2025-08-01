@@ -60,10 +60,10 @@ Dr Kurian, Nirbhaibir Singh, Dr Gupta
 
 #### Thursday 21
 Dr Bapusamy, Ayesha Khan, Dr Chaudhary
-Dr Qaiyum, TBA, Dr Pang
+Dr Qaiyum, Yogeshwar Gohil, Dr Pang
 
 #### Friday 22
-Dr Li/Yogeshwar Gohil/Dr Vydianath
+Dr Li/TBA/Dr Vydianath
 Dr Yahya, Prithvi Peddinti/Dr Rosewarne
 
 #### Monday 25
@@ -71,12 +71,12 @@ Bank Holiday
 Bank Holiday
 
 #### Tuesday 26
-Dr Yahya/TBA/Dr Blakeman
+Dr Yahya/Yogeshwar Gohil/Dr Blakeman
 Dr Vydianath/Ahmed Elnigoumi/Dr Saha
 
 #### Wednesday 27
 Dr Agamy, Vladimir Popa-Nimigean, Dr Rafati
-Dr Gupta, TBA, Dr Kurian
+Dr Gupta, Yogeshwar Gohil, Dr Kurian
 
 #### Thursday 28
 Dr Saha, TBA, Dr Mahmood

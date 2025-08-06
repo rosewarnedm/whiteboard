@@ -23,7 +23,7 @@ Dr Pang, Umar Hanif, Dr Chaudhary
 Dr Khan, Nirbhaibir Singh, Dr Jain
 
 #### Friday 8
-Dr Li, Mahreen Butt, Dr Thomas
+Dr Li, Ayesha Khan, Dr Thomas
 Dr Kurian, Manvir Rai, Dr Rosewarne
 
 #### Monday 11
@@ -59,7 +59,7 @@ Dr Rafati, Rob Molloy, Dr Pang
 Dr Kurian, Nirbhaibir Singh, Dr Gupta
 
 #### Thursday 21
-Dr Bapusamy, Ayesha Khan, Dr Chaudhary
+Dr Bapusamy, Mahreen Butt, Dr Chaudhary
 Dr Qaiyum, Yogeshwar Gohil, Dr Pang
 
 #### Friday 22

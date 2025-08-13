@@ -90,94 +90,98 @@ Dr Rosewarne, Rohan Ahmed, Dr Collins
 
 ## AUGUST 2025 ON-CALL
 
-1	Tuesday		5.00pm – 9.00pm	
-	Tuesday  	9.00pm – 09.15am	
- 
-2	Wednesday  5.00 pm - 9.00 pm 	
-	Wednesday  9.00pm – 09.15am	
+1	Friday 5.00pm – 9.00pm	Qasim Wadood (L) / Dr Jawad  
+	Friday 9.00pm – 09.00am	Dr M Khan / Dr Jawad  
 
-3	Thursday   5.00 pm - 9.00 pm	
-	Thursday   9 pm - 9.15 am 	
+2	Saturday 09.00am – 9.00pm	Dr Y Na / Dr Jawad  
+	Saturday 9.00pm – 09.00am	Dr M Khan / Dr Jawad  
 
-4	Friday    5 pm - 9 pm 		
-	Friday 	  9 pm - 9.15 am	
+3	Sunday 09.00am – 9.00pm	Dr Y Na / Dr Jawad  
+	Sunday 9.00pm – 09.00am	Dr Q Afzaal (L) / Dr Jawad  
 
-5	Saturday 9am – 9.15pm		
-	Saturday 9.00pm – 09.15am	
-  
-6	Sunday 9.00 am – 9.15 pm	
-	Sunday 9.00pm – 09.15am		
- 
-7	Monday 5.00pm – 9.00pm		
-	Monday 9.00pm – 09.15am		
- 
-8	Tuesday 5 pm – 9 pm		
-	Tuesday 9.00pm – 09.15am	
- 
-9	Wednesday 5 pm – 9 pm		
-	Wednesday 9 pm - 9.15 am	
- 
-10	Thursday 5.00pm – 9.00pm	
-	Thursday 9.00pm – 09.15am	
-11	Friday 5.00pm – 9.00pm		
-	Friday 9.00pm – 09.15am		
- 
-12	Saturday 9am – 9.15pm		
-	Saturday 9.00pm – 09.15am	
- 
-13	Sunday 9am – 9.15pm			
-	Sunday 9.00pm – 09.15am		
- 
-14	Monday 5.00pm – 9.00pm		
-	Monday 9.00pm – 09.15am		
- 
-15	Tuesday 5pm – 9 pm 		
-	Tuesday 9.00pm – 09.15am	
- 
-16	Wednesday 5pm – 9pm		
-	Wednesday 9.00pm – 09.15am	
- 
-17	Thursday 5.00pm – 9.00pm	
-	Thursday 9.00pm – 09.15am	
- 
-18	Friday 9 am – 9.00pm		
-	Friday 9.00pm – 09.15am		
- 
-19	Saturday 9am – 9.15pm		
-	Saturday 9.00pm – 09.15am	
- 
-20	Sunday 9 am – 9.15pm		
-	Sunday 9.00pm – 09.15am		
- 
-21	Monday 9 am – 9.00pm		
-	Monday 9.00pm – 09.15am		
- 
-22	Tuesday 5pm – 9pm		
-	Tuesday 9.00pm – 09.15am	
- 
-23	Wednesday 5pm - 9 pm			
-	Wednesday 9.00pm – 09.15am	
- 
-24	Thursday 5.00pm – 9.00pm	
-	Thursday 9.00pm – 09.15am	
- 
-25	Friday 5.00pm – 9.00pm		
-	Friday 9.00pm – 09.15am				
+4	Monday 5.00pm – 9.00pm	Dr M Rai / Dr D Thomas  
+	Monday 9.00pm – 09.15am	Dr V Popa-Nimigean / Dr D Thomas  
 
-26	Saturday 9am – 9.15pm		
-	Saturday 9.00pm – 09.15am	
- 
-27	Sunday 9 am – 9.15pm		
-	Sunday 9.00pm – 09.15am		
+5	Tuesday 5.00pm – 9.00pm	Dr M Rai / Dr W Pang  
+	Tuesday 9.00pm – 09.15am	Dr V Popa-Nimigean / Dr W Pang  
 
-28	Monday 5 pm to 9 am		
-	Monday 9 pm to 9.15 am		
+6	Wednesday 5.00pm – 9.00pm	Dr N Singh / Dr Jawad  
+	Wednesday 9.00pm – 09.15am	Dr V Popa-Nimigean / Dr Jawad  
 
-29	Tuesday 5 pm to 9 pm		
-	Tuesday 9 pm to 9.15 am		
+7	Thursday 5.00pm – 9.00pm	Dr Q Wadood / Dr I Khan  
+	Thursday 9.00pm – 09.15am	Dr V Popa-Nimigean / Dr I Khan  
 
-30	Wednesday 5 pm to 9 pm		
-	Tuesday 9 pm to 9.15 am		
+8	Friday 5.00pm – 9.00pm	Dr Q Wadood / Dr S Saha  
+	Friday 9.00pm – 09.00am	Dr P Peddinti / Dr S Saha  
+
+9	Saturday 09.00am – 9.00pm	Dr F Zaman / Dr S Saha  
+	Saturday 9.00pm – 09.00am	Dr P Peddinti / Dr S Saha  
+
+10	Sunday 09.00am – 9.00pm	Dr M Butt / Dr S Saha  
+	Sunday 9.00pm – 09.00am	Dr P Peddinti / Dr S Saha  
+
+11	Monday 5.00pm – 9.00pm	Dr Q Wadood / Dr R Kurian  
+	Monday 9.00pm – 09.15am	Dr Q Afzaal / Dr R Kurian  
+
+12	Tuesday 5.00pm – 9.00pm	Dr N Singh / Dr P Li  
+	Tuesday 9.00pm – 09.15am	Dr Q Afzaal / Dr P Li  
+
+13	Wednesday 5.00pm – 9.00pm	Dr U Hanif (L) / Dr D Rosewarne  
+	Wednesday 9.00pm – 09.15am	Dr Q Afzaal / Dr D Rosewarne  
+
+14	Thursday 5.00pm – 9.00pm	Dr M Khan (L) / Dr I Khan  
+	Thursday 9.00pm – 09.15am	Dr Q Afzaal / Dr I Khan  
+
+15	Friday 5.00pm – 9.00pm	Dr P Peddinti / Dr S Jain  
+	Friday 9.00pm – 09.00am	Dr M Khan / Dr S Jain  
+
+16	Saturday 09.00am – 9.00pm	Dr El Nigoumi / Dr S Jain  
+	Saturday 9.00pm – 09.00am	Dr M Butt / Dr S Jain  
+
+17	Sunday 09.00am – 9.00pm	Dr El Nigoumi / Dr S Jain  
+	Sunday 9.00pm – 09.00am	Dr M Butt / Dr S Jain  
+
+18	Monday 5.00pm – 9.00pm	Dr F Zaman / Dr A Bapusamy  
+	Monday 9.00pm – 09.15am	Dr R Ahmed / Dr A Bapusamy  
+
+19	Tuesday 5.00pm – 9.00pm	Dr F Zaman / Dr A Gupta  
+	Tuesday 9.00pm – 09.15am	Dr R Ahmed / Dr A Gupta  
+
+20	Wednesday 5.00pm – 9.00pm	Dr R Molloy / Dr G Chaudhary  
+	Wednesday 9.00pm – 09.15am	Dr U Hanif / Dr G Chaudhary  
+
+21	Thursday 5.00pm – 9.00pm	Dr R Molloy / Dr M Qaiyum  
+	Thursday 9.00pm – 09.15am	Maham Khan (L) / Dr M Qaiyum  
+
+22	Friday 5.00pm – 9.00pm	Dr P Peddinti / Dr A Mahmood  
+	Friday 9.00pm – 09.00am	Qasim Wadood (L) / Dr A Mahmood  
+
+23	Saturday 09.00am – 9.00pm	Dr M Butt / Dr A Mahmood  
+	Saturday 9.00pm – 09.00am	Dr Q Wadood (L) / Dr A Mahmood  
+
+24	Sunday 09.00am – 9.00pm	Dr F Zaman / Dr A Mahmood  
+	Sunday 9.00pm – 09.00am	Dr Q Wadood (L) / Dr A Mahmood  
+
+25	Monday 09.00am – 9.00pm	Dr U Hanif (L) / Dr H Azam  
+	Monday 9.00pm – 09.00am	Dr P Peddinti (L) / Dr H Azam  
+
+26	Tuesday 5.00pm – 9.00pm	Dr El Nigoumi / Dr S Vydianath  
+	Tuesday 9.00pm – 09.15am	Dr P Peddinti (L) / Dr S Vydianath  
+
+27	Wednesday 5.00pm – 9.00pm	Dr F Zaman / Dr A Agamy  
+	Wednesday 9.00pm – 09.15am	Dr M Khan / Dr A Agamy  
+
+28	Thursday 5.00pm – 9.00pm	Dr F Zaman / Dr F Rafati  
+	Thursday 9.00pm – 09.15am	Dr M Khan / Dr F Rafati  
+
+29	Friday 5.00pm – 9.00pm	Dr R Molloy / Dr F Syed  
+	Friday 9.00pm – 09.00am	Dr Q Wadood / Dr F Syed  
+
+30	Saturday 09.00am – 9.00pm	Dr V Popa-Nimigean / Dr F Syed  
+	Saturday 9.00pm – 09.00am	Dr Q Wadood / Dr F Syed  
+
+31	Sunday 09.00am – 9.00pm	Dr H Khan / Dr F Syed  
+	Sunday 9.00pm – 09.00am	Dr Q Wadood / Dr F Syed  
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days

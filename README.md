@@ -63,7 +63,7 @@ Dr Bapusamy, Mahreen Butt, Dr Chaudhary
 Dr Qaiyum, Yogeshwar Gohil, Dr Pang
 
 #### Friday 22
-Dr Li/TBA/Dr Vydianath
+Dr Li/Yogeshwar Gohil/Dr Vydianath
 Dr Yahya, Prithvi Peddinti/Dr Rosewarne
 
 #### Monday 25

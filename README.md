@@ -79,12 +79,12 @@ Dr Agamy, Vladimir Popa-Nimigean, Dr Rafati
 Dr Gupta, Yogeshwar Gohil, Dr Kurian
 
 #### Thursday 28
-Dr Saha, TBA, Dr Mahmood
+Dr Saha, Hina Khan, Dr Mahmood
 Dr Pang, Ahmed Elnigoumi, Dr Azam
 
 #### Friday 29
-Dr Syed/Rob Molloy/Dr Agamy
-Dr Rosewarne, Rohan Ahmed, Dr Collins
+Dr Syed/Rohan Ahmed/Dr Agamy
+Dr Rosewarne, Rob Molloy, Dr Collins
 
 
 

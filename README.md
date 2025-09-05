@@ -1,125 +1,96 @@
 
 
-
-
-#### Thursday 28
-Dr Saha, Hina Khan, Dr Mahmood
-Dr Pang, Ahmed Elnigoumi, Dr Azam
-
-#### Friday 29
-Dr Syed/Rohan Ahmed/Dr Agamy
-Dr Rosewarne, Rob Molloy, Dr Collins
-
-
-
-## AUGUST 2025 ON-CALL
-
-
-
-29	Friday 5.00pm – 9.00pm	Dr R Molloy / Dr F Syed  
-	Friday 9.00pm – 09.00am	Dr Q Wadood / Dr F Syed  
-
-30	Saturday 09.00am – 9.00pm	Dr V Popa-Nimigean / Dr F Syed  
-	Saturday 9.00pm – 09.00am	Dr Q Wadood / Dr F Syed  
-
-31	Sunday 09.00am – 9.00pm	Dr H Khan / Dr F Syed  
-	Sunday 9.00pm – 09.00am	Dr Q Wadood / Dr F Syed  
-
-
-
-## Radiology Directorate  
-
-### DUTY SEPTEMBER 2025 - Needs verification by Lisa
+### DUTY SEPTEMBER 2025
 
 #### Monday 1
-Dr Thomas, Ayesha Khan, Dr Au Yong  
-Dr Kurian, Manvir Rai, Dr Jain  
+Dr Jawad off site, Ayesha Khan, Dr Azam 
+Dr Kurian, Rohan Ahmed, Dr Syed 
 
 #### Tuesday 2
-Dr Khan, Hina Khan, Dr Blakeman  
-Dr Vydianath, Umar Hanif, Dr Saha  
+Dr Khan, Nirbhaibir Singh, Dr Jawad  
+Dr Vydianath, Hina Khan, Dr Li
 
 #### Wednesday 3
-Dr Au Yong, Mahreen Butt, Dr Kurian  
-Dr Jawad, Qasim Afzaal, Dr Gupta  
+Dr Bapusamy, Ayesha Khan, Dr Kurian  
+Dr Gupta, Nirbhaibir Singh, Dr Au Yong
 
 #### Thursday 4
-Dr Pang, Umar Hanif, Dr Chaudhary  
-Dr Khan, Nirbhaibir Singh, Dr Jain  
+Dr Pang, Ali Ahmed, Dr Collins  
+Dr Agamy, Maham Khan, Dr Khan  
 
 #### Friday 5
-Dr Li, Ayesha Khan, Dr Thomas  
-Dr Kurian, Manvir Rai, Dr Rosewarne  
+Dr Syed, Yogeshwar Gohil, Dr Li  
+Dr Saha, Fahad Zaman, Dr Mahmood  
 
 #### Monday 8
-Dr Jain, Rohan Ahmed, Dr Jawad  
-Dr Mahmood, Fahad Zaman, Dr Pang  
+Dr Au Yong, Ali Ahmed, Dr Gupta  
+Dr Azam, Yogeshwar Gohil, Dr Pang  
 
 #### Tuesday 9
-Dr Khan, Maham Khan, Dr Blakeman  
-Dr Azam, TBA, Dr Saha  
+Dr Khan, Rohan Ahmed, Dr Blakeman  
+Dr Chaudhary, Fahad Zaman, Dr Au Yong  
 
 #### Wednesday 10
-Dr Thomas, Nirbhaibir Singh, Dr Chaudhary  
-Dr Jawad, Yuuki Na, Dr Bapusamy  
+Dr Rafati, Ayesha Khan, Dr Chaudhary  
+Dr Thomas, Syed Zaidi/Dr Gupta  
 
 #### Thursday 11
-Dr Gupta, Hina Khan, Dr Qaiyum  
-Dr Kurian, Nirbhaibir Singh, Dr Collins  
+Dr Pang, Syed Zaidi, Dr Saha  
+Dr Qaiyum, Maham Khan, Dr Azam  
 
 #### Friday 12
-Dr Li, Ayesha Khan, Dr Jawad  
-Dr Rosewarne, Prithvi Peddinti, Dr Chaudhary  
+Dr Li, Hazel Awarah, Dr Vydianath  
+Dr Rosewarne, Ayesha Khan, Dr Mahmood  
 
 #### Monday 15
-Dr Saha, Qasim Afzaal, Dr Jawad  
-Dr Mahmood, Dr Zaman, Dr Syed  
+Dr Thomas, Nirbhaibir Singh, Dr Agamy  
+Dr Pang, Vladimir Popa-Nimigean, Dr Syed  
 
 #### Tuesday 16
-Dr Yahya, Hina Khan, Dr Rafati  
-Dr Chaudhary, Maham Khan, Dr Qaiyum  
+Dr Yahya, Hina Khan, Dr Khan 
+Dr Vydianath, Vladimir Popa-Nimigean, Dr Li  
 
 #### Wednesday 17
-Dr Rafati, Rob Molloy, Dr Pang  
-Dr Kurian, Nirbhaibir Singh, Dr Gupta  
+Dr Agamy, TBA, Dr Bapusamy 
+Dr Jawad, TBA, Dr Rafati  
 
 #### Thursday 18
-Dr Bapusamy, Mahreen Butt, Dr Chaudhary  
-Dr Qaiyum, Yogeshwar Gohil, Dr Pang  
+Dr Kurian, Nirbhaibir Singh, TBA  
+Dr Qaiyum, Yogeshwar Gohil, Dr Azam  
 
 #### Friday 19
-Dr Li, Yogeshwar Gohil, Dr Vydianath  
-Dr Yahya, Prithvi Peddinti, Dr Rosewarne  
+Dr Syed, TBA, Dr Jain  
+Dr Rosewwarne, TBA, Dr Thomas  
 
 #### Monday 22
-Dr Gupta, Ayesha Khan, Dr Jawad  
-Dr Mahmood, Rohan Ahmed, Dr Agamy  
+Dr Jain, Ayesha Khan, Dr Gupta  
+Dr Mahmood, TBA, Dr Kurian  
 
 #### Tuesday 23
-Dr Khan, Hina Khan, Dr Blakeman  
-Dr Azam, Umar Hanif, Dr Saha  
+Dr Yahya, TBA, Dr Blakeman  
+Dr Li, Tanmay Jadhav, Dr Qaiyum  
 
 #### Wednesday 24
-Dr Thomas, Mahreen Butt, Dr Kurian  
-Dr Jawad, Yuuki Na, Dr Bapusamy  
+Dr Rafati, TBA, Dr Thomas  
+Dr Jawad, Tanmay Jadhav, Dr Khan  
 
 #### Thursday 25
-Dr Pang, Nirbhaibir Singh, Dr Chaudhary  
-Dr Khan, Nirbhaibir Singh, Dr Jain  
+Dr Azam, Hina Khan, Dr Agamy  
+Dr Qaiyum, Vladimir Popa-Nimigean, Dr Jain  
 
 #### Friday 26
-Dr Li, Ayesha Khan, Dr Thomas  
-Dr Kurian, Manvir Rai, Dr Rosewarne  
+Dr Syed, Nihal Chanian, Dr Collins 
+Dr Au Yong, Nihal Chanian. Dr Rosewarne  
 
 #### Monday 29
-Dr Jain, Rohan Ahmed, Dr Jawad  
-Dr Mahmood, Fahad Zaman, Dr Pang  
+Dr Au Yong, Syed Zaidi, Dr Rosewarne 
+Dr Mahmood, TBA, Dr Syed
 
 #### Tuesday 30
-Dr Khan, Maham Khan, Dr Blakeman  
-Dr Azam, TBA, Dr Saha  
+Dr Khan, TBA, Dr Yahya  
+Dr Chaudhary, TBA, Dr Vydianath  
 
-## On-Call Rota — September 2025  - Needs verification by Lisa
+## On-Call Rota — September 2025  - Needs verification by Tina
 
 | Date | Day       | Time Period          | 1st On Call        | 2nd On Call   |
 |------|-----------|----------------------|--------------------|---------------|

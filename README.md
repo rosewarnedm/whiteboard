@@ -36,7 +36,7 @@ Dr Thomas, Syed Zaidi/Dr Gupta
 
 #### Thursday 11
 Dr Pang, Syed Zaidi, Dr Saha  
-Dr Qaiyum, Maham Khan, Dr Azam  
+Dr Qaiyum, Tanmay Jadhav, Dr Azam  
 
 #### Friday 12
 Dr Li, Hazel Awarah, Dr Vydianath  

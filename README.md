@@ -43,8 +43,8 @@ Dr Li, Hazel Awarah, Dr Vydianath
 Dr Rosewarne, Ayesha Khan, Dr Mahmood  
 
 #### Monday 15
-Dr Thomas, Nirbhaibir Singh, Dr Agamy  
-Dr Pang, Vladimir Popa-Nimigean, Dr Syed  
+Dr Thomas, Nirbhaibir Singh, Dr Syed  
+Dr Pang, Vladimir Popa-Nimigean, Dr Rosewarne
 
 #### Tuesday 16
 Dr Yahya, Hina Khan, Dr Khan 
@@ -52,10 +52,10 @@ Dr Vydianath, Vladimir Popa-Nimigean, Dr Li
 
 #### Wednesday 17
 Dr Agamy, TBA, Dr Bapusamy 
-Dr Jawad, TBA, Dr Rafati  
+Dr Jawad, Ahmed Elnigoumi, Dr Rafati  
 
 #### Thursday 18
-Dr Kurian, Nirbhaibir Singh, TBA  
+Dr Kurian, Nirbhaibir Singh, Dr Agamy  
 Dr Qaiyum, Yogeshwar Gohil, Dr Azam  
 
 #### Friday 19
@@ -67,11 +67,11 @@ Dr Jain, Ayesha Khan, Dr Gupta
 Dr Mahmood, TBA, Dr Kurian  
 
 #### Tuesday 23
-Dr Yahya, TBA, Dr Blakeman  
+Dr Yahya, Maham Khan, Dr Blakeman  
 Dr Li, Tanmay Jadhav, Dr Qaiyum  
 
 #### Wednesday 24
-Dr Rafati, TBA, Dr Thomas  
+Dr Rafati, Yogeshwar Gohil, Dr Thomas  
 Dr Jawad, Tanmay Jadhav, Dr Khan  
 
 #### Thursday 25
@@ -83,8 +83,8 @@ Dr Syed, Nihal Chanian, Dr Collins
 Dr Au Yong, Nihal Chanian. Dr Rosewarne  
 
 #### Monday 29
-Dr Au Yong, Syed Zaidi, Dr Rosewarne 
-Dr Mahmood, TBA, Dr Syed
+Dr Au Yong, Syed Zaidi, Dr Syed
+Dr Mahmood, TBA, Dr Azam
 
 #### Tuesday 30
 Dr Khan, TBA, Dr Yahya  

@@ -39,7 +39,7 @@ Dr Pang, Syed Zaidi, Dr Saha
 Dr Qaiyum, Tanmay Jadhav, Dr Azam  
 
 #### Friday 12
-Dr Li, Hazel Awarah, Dr Vydianath  
+Dr Li, Manvir Rai, Dr Vydianath  
 Dr Rosewarne, Ayesha Khan, Dr Mahmood  
 
 #### Monday 15

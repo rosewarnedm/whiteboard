@@ -61,7 +61,7 @@ Dr Kurian, Yogeshwar Gohil, Dr Azam
 
 #### Friday 19
 Dr Syed, Manvir Rai, Dr Jain  
-Dr Rosewwarne, Tanmay Jadhav, Dr Thomas  
+Dr Rosewarne, Tanmay Jadhav, Dr Thomas  
 
 #### Monday 22
 Dr Jain, Ayesha Khan, Dr Gupta  

@@ -56,7 +56,7 @@ Dr Agamy, Yogeshwar Gohil, Dr Bapusamy
 Dr Jawad, Ahmed Elnigoumi, Dr Rafati  
 
 #### Thursday 18
-Dr Qaiyum, Nirbhaibir Singh, Dr Agamy  
+Dr Qaiyum, Fahad Zaman, Dr Agamy  
 Dr Kurian, Yogeshwar Gohil, Dr Azam  
 
 #### Friday 19

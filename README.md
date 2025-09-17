@@ -137,10 +137,10 @@ Dr Chaudhary, TBA, Dr Vydianath
 |      |           | 9.00pm – 9.15am      | Dr M Rai           | Dr D Rosewarne|
 | 21   | Sunday    | 9.00am – 9.15pm      | Dr R Ahmed         | Dr D Rosewarne|
 |      |           | 9.00pm – 9.15am      | Dr M Rai           | Dr D Rosewarne|
-| 22   | Monday    | 5.00pm – 9.00pm      | Dr T Jadhav        | Dr D Thomas   |
-|      |           | 9.00pm – 9.15am      | Dr S Zaidi         | Dr D Thomas   |
-| 23   | Tuesday   | 5.00pm – 9.00pm      | Dr T Jadhav        | Dr S Saha     |
-|      |           | 9.00pm – 9.15am      | Dr S Zaidi         | Dr S Saha     |
+| 22   | Monday    | 5.00pm – 9.00pm      | Dr T Jadhav        | Dr H Azam  |
+|      |           | 9.00pm – 9.15am      | Dr S Zaidi         | Dr H Azam   |
+| 23   | Tuesday   | 5.00pm – 9.00pm      | Dr T Jadhav        | Dr T Au Yong    |
+|      |           | 9.00pm – 9.15am      | Dr S Zaidi         | Dr T Au Yong  |
 | 24   | Wednesday | 5.00pm – 9.00pm      | Dr V Popa-Nimigean | Dr F Syed     |
 |      |           | 9.00pm – 9.15am      | Dr S Zaidi         | Dr F Syed     |
 | 25   | Thursday  | 5.00pm – 9.00pm      | Dr V Popa-Nimigean | Dr A Mahmood  |
@@ -153,8 +153,8 @@ Dr Chaudhary, TBA, Dr Vydianath
 |      |           | 9.00pm – 9.15am      | Dr A Ahmed         | Dr A Gupta    |
 | 29   | Monday    | 5.00pm – 9.00pm      | Dr R Ahmed         | Dr D Thomas   |
 |      |           | 9.00pm – 9.15am      | Dr N Singh         | Dr D Thomas   |
-| 30   | Tuesday   | 5.00pm – 9.00pm      | Dr R Ahmed         | Dr S Vydianath|
-|      |           | 9.00pm – 9.15am      | Dr N Singh         | Dr S Vydianath|
+| 30   | Tuesday   | 5.00pm – 9.00pm      | Dr R Ahmed         | Dr W Pang|
+|      |           | 9.00pm – 9.15am      | Dr N Singh         | Dr W Pang|
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days

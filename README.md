@@ -85,11 +85,11 @@ Dr Au Yong, Nihal Chanian. Dr Rosewarne
 
 #### Monday 29
 Dr Au Yong, Syed Zaidi, Dr Syed
-Dr Mahmood, TBA, Dr Azam
+Dr Mahmood, Manvir Rai, Dr Azam
 
 #### Tuesday 30
-Dr Khan, TBA, Dr Yahya  
-Dr Chaudhary, TBA, Dr Vydianath  
+Dr Khan, Vladimir Popa-Nimigean, Dr Yahya  
+Dr Chaudhary, Fahad Zaman, Dr Vydianath  
 
 ## On-Call Rota — September 2025  - Needs verification by Tina
 

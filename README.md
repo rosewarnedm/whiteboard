@@ -1,95 +1,98 @@
 
 
-### DUTY SEPTEMBER 2025
+### DUTY OCTOBER 2025
 
-#### Monday 1
-Dr Jawad off site, Ayesha Khan, Dr Azam 
-Dr Kurian, Rohan Ahmed, Dr Syed 
+#### Wednesday 1
+Dr Rafati, Ayesha Khan, Dr Au Yong 
+Dr Gupta, Nihan Chanian, Dr Kurian
 
-#### Tuesday 2
-Dr Khan, Nirbhaibir Singh, Dr Jawad  
-Dr Vydianath, Hina Khan, Dr Li
+#### Thursday 2
+Dr Pang, Syed Zaidi, Dr Chaudhary
+Dr Azam, Yogeshwar Gohil, Dr Khan
 
-#### Wednesday 3
-Dr Bapusamy, Ayesha Khan, Dr Kurian  
-Dr Gupta, Nirbhaibir Singh, Dr Au Yong
+#### Friday 3
+Dr Syed, Hina Khan, Dr Rosewarne
+Dr Jawad, Rohan Ahmed, Dr Jain
 
-#### Thursday 4
-Dr Pang, Ali Ahmed, Dr Collins  
-Dr Agamy, Maham Khan, Dr Khan  
+#### Monday 6
+Dr Rosewarne, Syed Zaidi, Dr Syed  
+Dr Saha, Rohan Ahmed, Dr Yahya 
 
-#### Friday 5
-Dr Syed, Yogeshwar Gohil, Dr Li  
-Dr Saha, Fahad Zaman, Dr Mahmood  
+#### Tuesday 7
+Dr Yahya, Vladimir Popa-Nimigean, Dr Blakeman  
+Dr Vydianath, Maham Khan, Dr Qaiyum
 
-#### Monday 8
-Dr Au Yong, Ali Ahmed, Dr Gupta  
-Dr Azam, Yogeshwar Gohil, Dr Pang  
+#### Wednesday 8
+Dr Agamy, Ayesha Khan, Dr Rafati
+Dr Jawad, Syed Zaidi, Dr Gupta
 
-#### Tuesday 9
-Dr Khan, Rohan Ahmed, Dr Blakeman  
-Dr Chaudhary, Fahad Zaman, Dr Au Yong  
+#### Thursday 9
+Dr Saha, Nihal Chanian, Dr Vydianath
+Dr Mahmood, Nihal Chanian, Dr Yahya
 
-#### Wednesday 10
-Dr Rafati, Ayesha Khan, Dr Chaudhary  
-Dr Thomas, Syed Zaidi/Dr Gupta  
+#### Friday 10
+Dr Khan, Nirbhaibir Singh, Dr Vydianath
+Dr Jawad, Yogeshwar Gohil, Dr Li
 
-#### Thursday 11
-Dr Pang, Syed Zaidi, Dr Saha  
-Dr Qaiyum, Tanmay Jadhav, Dr Azam  
+#### Monday 13
+Dr Jain, Hina Khan, Dr Jawad
+Dr Mahmood, Rohan Khan, Dr Pang
 
-#### Friday 12
-Dr Li, Manvir Rai
-Dr Li, Syed Zaidi, Dr Vydianath  
-Dr Rosewarne, Ayesha Khan, Dr Mahmood  
+#### Tuesday 14
+Dr Azam, Vlodamir Popa-Nimigean, Dr Yahya
+Dr Vydianath, Manvir Rai, Dr Li
 
-#### Monday 15
-Dr Thomas, Nirbhaibir Singh, Dr Rosewarne  
-Dr Pang, Vladimir Popa-Nimigean, Dr Syed
+#### Wednesday 15
+Dr Agamy, Ayesha Khan, Dr Gupta
+Dr Kurian, Nirbhaibir Singh, Dr Thomas
 
-#### Tuesday 16
-Dr Yahya, Hina Khan, Dr Khan 
-Dr Vydianath, Vladimir Popa-Nimigean, Dr Li  
+#### Thursday 16
+Dr Qaiyum, Ali Ahmed, Dr Vydianath
+Dr Khan, Tanmay Jadhav, Dr Azam
 
-#### Wednesday 17
-Dr Agamy, Yogeshwar Gohil, Dr Bapusamy 
-Dr Jawad, Ahmed Elnigoumi, Dr Rafati  
+#### Friday 17
+Dr Syed, Nirbhaibir Singh, Dr Khan
+Dr Chaudhary, Ali Ahmed, Dr Mahmood
 
-#### Thursday 18
-Dr Qaiyum, Fahad Zaman, Dr Agamy  
-Dr Kurian, Yogeshwar Gohil, Dr Azam  
+#### Monday 20
+Dr Au Yong, Fahad Zaman, Dr Syed
+Dr Saha, Ahmed Elnigoumi, Dr Mahmood
 
-#### Friday 19
-Dr Syed, Manvir Rai, Dr Jain  
-Dr Rosewarne, Tanmay Jadhav, Dr Thomas  
+#### Tuesday 21
+Dr Yahya, Vladimir Popa-Nimagean, Dr Azam  
+Dr Vydianath, Fahad Zaman, Dr Saha
 
-#### Monday 22
-Dr Jain, Ayesha Khan, Dr Gupta  
-Dr Mahmood, Vladimir Popa-Nimegean, Dr Kurian  
+#### Wednesday 22
+Dr Rafati, Fahad Zaman, Dr Bapusamy
+Dr Thomas, Ahmed Elnigoumi, Dr Gupta
 
-#### Tuesday 23
-Dr Yahya, Maham Khan, Dr Blakeman  
-Dr Li, Tanmay Jadhav, Dr Qaiyum  
+#### Thursday 23
+Dr Qaiyum, Tanmay Jadhav, Dr Yahya 
+Dr Khan, Yogeshwar Gohil, Dr Jain
 
-#### Wednesday 24
-Dr Rafati, Yogeshwar Gohil, Dr Thomas  
-Dr Jawad, Tanmay Jadhav, Dr Khan  
+#### Friday 24
+Dr Li, Manvir Rai, Dr Vydianath
+Dr Bapusamy, Maham Khan, Dr Collins
 
-#### Thursday 25
-Dr Azam, Hina Khan, Dr Agamy  
-Dr Qaiyum, Vladimir Popa-Nimigean, Dr Jain  
+#### Monday 27
+Dr Gupta, Ali Ahmed, Dr Jawad 
+Dr Kurian, TBA, Dr Pang 
 
-#### Friday 26
-Dr Syed, Nihal Chanian, Dr Collins 
-Dr Au Yong, Nihal Chanian. Dr Rosewarne  
+#### Tuesday 28
+Dr Chaudhary, Manvir Rai, Dr Blakeman
+Dr Li, TBA, Dr Saha
 
-#### Monday 29
-Dr Au Yong, Syed Zaidi, Dr Syed
-Dr Mahmood, Manvir Rai, Dr Azam
+#### Wednesday 29
+Dr Agamy, Ali Ahmed, Dr Qaiyum
+Dr Thomas, TBA, Dr Gupta
 
-#### Tuesday 30
-Dr Khan, Vladimir Popa-Nimigean, Dr Yahya  
-Dr Chaudhary, Fahad Zaman, Dr Vydianath  
+#### Thursday 30
+Dr Pang, TBA, Dr Kurian
+Dr Azam, Tanmay Jadhav, Dr Bapusamy 
+
+#### Friday 31
+Dr Li, TBA, Dr Collins
+Dr Rosewarne, Maham Khan, Dr Chaudhary
 
 ## On-Call Rota — September 2025  - Needs verification by Tina
 

@@ -163,28 +163,28 @@ Dr Rosewarne, Maham Khan, Dr Chaudhary
 
 | Date | Day       | Time Period          | 1st On Call               | 2nd On Call   |
 |------|-----------|----------------------|---------------------------|---------------|
-| 1    | Wednesday | 5.00pm – 9.00pm      | M Khan (instead of Tanmay)| Dr A Agamy    |
-|      |           | 9.00pm – 9.15am      | Dr A Agamy                |               |
-| 2    | Thursday  | 5.00pm – 9.00pm      |                           | Dr S Vydianath|
+| 1    | Wednesday | 5.00pm – 9.00pm      | Dr M Khan                 | Dr A Agamy    |
+|      |           | 9.00pm – 9.15am      | Dr N Singh                | Dr A Agamy    |
+| 2    | Thursday  | 5.00pm – 9.00pm      | Dr T Jadhav (L)           | Dr S Vydianath|
 |      |           | 9.00pm – 9.15am      | Dr T Jadhav (L)           | Dr S Vydianath|
-| 3    | Friday    | 5.00pm – 9.00pm      | Dr I Khan (1), Dr R Kurian (2)|           |
-|      |           | 9.00pm – 9.15am      | Dr N Singh (L)            | Dr I Khan, Dr R Kurian|
-| 4    | Saturday  | 9.00am – 9.15pm      | Dr I Khan (1), Dr R Kurian (2)|           |
-|      |           | 9.00pm – 9.15am      | Dr I Khan (1), Dr R Kurian (2)|           |
-| 5    | Sunday    | 9.00am – 9.15pm      | Dr I Khan (1), Dr R Kurian (2)|           |
-|      |           | 9.00pm – 9.15am      | Dr I Khan (1), Dr R Kurian (2)|           |
+| 3    | Friday    | 5.00pm – 9.00pm      | Dr V Popa-Nimigean        |Dr I Khan (A)  |
+|      |           | 9.00pm – 9.15am      | Dr N Singh (L)            |Dr I Khan (A)  |
+| 4    | Saturday  | 9.00am – 9.15pm      | Dr A Khan                 |Dr I Khan (A) Dr R Kurian (B)|
+|      |           | 9.00pm – 9.15am      | Dr F Zaman                |Dr I Khan (A) Dr R Kurian (B)           |
+| 5    | Sunday    | 9.00am – 9.15pm      | Dr A Khan                 |Dr I Khan (A) Dr R Kurian (B)           |
+|      |           | 9.00pm – 9.15am      | Dr F Zaman                |Dr I Khan (A) Dr R Kurian (B)           |
 | 6    | Monday    | 5.00pm – 9.00pm      | Dr Y Gohil (L)            | Dr P Li       |
-|      |           | 9.00pm – 9.15am      | Dr P Li                   |               |
-| 7    | Tuesday   | 5.00pm – 9.00pm      |                           | Dr A Gupta    |
+|      |           | 9.00pm – 9.15am      | Dr M Rai                  |Dr P Li        |
+| 7    | Tuesday   | 5.00pm – 9.00pm      | Dr El Nigoumi             | Dr A Gupta    |
 |      |           | 9.00pm – 9.15am      | Dr N Singh (L)            | Dr A Gupta    |
-| 8    | Wednesday | 5.00pm – 9.00pm      |                           | Dr Jawad      |
-|      |           | 9.00pm – 9.15am      | Locum                     | Dr Jawad      |
+| 8    | Wednesday | 5.00pm – 9.00pm      | Dr R Ahmed                | Dr Jawad      |
+|      |           | 9.00pm – 9.15am      | Dr T Jadhav (L)           | Dr Jawad      |
 | 9    | Thursday  | 5.00pm – 9.00pm      | Dr M Khan (L)             | Dr F Rafati   |
 |      |           | 9.00pm – 9.15am      | Dr N Singh                | Dr F Rafati   |
-| 10   | Friday    | 5.00pm – 9.00pm      | Dr T Au Yong (1), Dr S Vydianath (2)|       |
-|      |           | 9.00pm – 9.15am      | Dr T Au Yong (1), Dr S Vydianath (2)|       |
-| 11   | Saturday  | 9.00am – 9.15pm      | Dr T Au Yong (1), Dr S Vydianath (2)|       |
-|      |           | 9.00pm – 9.15am      | Dr T Au Yong (1), Dr S Vydianath (2)|       |
+| 10   | Friday    | 5.00pm – 9.00pm      | Dr T Jadhav               | Dr T Au Yong (A)     
+|      |           | 9.00pm – 9.15am      | Dr M Khan                 | Dr T Au Yong (A)      |
+| 11   | Saturday  | 9.00am – 9.15pm      | Dr N Chanian                Dr T Au Yong (A) Dr S Vydianath (B)
+|      |           | 9.00pm – 9.15am      | Dr M Khan                   Dr T Au Yong (A) Dr S Vydianath (B)
 | 12   | Sunday    | 9.00am – 9.15pm      | Dr T Au Yong (1), Dr S Vydianath (2)|       |
 |      |           | 9.00pm – 9.15am      | Dr T Au Yong (1), Dr S Vydianath (2)|       |
 | 13   | Monday    | 5.00pm – 9.00pm      | NB (instead of Ayesha)    | Dr H Azam     |

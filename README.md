@@ -4,15 +4,15 @@
 
 #### Wednesday 1
 Dr Rafati, Ayesha Khan, Dr Au Yong 
-Dr Gupta, Nihan Chanian, Dr Kurian
+Dr Gupta, Nihan Chanian, Dr Thomas
 
 #### Thursday 2
 Dr Pang, Syed Zaidi, Dr Chaudhary
 Dr Azam, Yogeshwar Gohil, Dr Khan
 
 #### Friday 3
-Dr Syed, Hina Khan, Dr Rosewarne
-Dr Jawad, Rohan Ahmed, Dr Jain
+Dr Syed, Hina Khan, Dr Jain
+Dr Jawad, Rohan Ahmed, Dr Rosewarne
 
 #### Monday 6
 Dr Rosewarne, Syed Zaidi, Dr Syed  

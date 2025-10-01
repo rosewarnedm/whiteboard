@@ -198,7 +198,7 @@ Dr Rosewarne, Maham Khan, Dr Chaudhary
 | 17   | Friday    | 5.00pm – 9.00pm      | Dr R Ahmed                | Dr H Azam (A)  |
 |      |           | 9.00pm – 9.15am      | Dr H Khan                 | Dr H Azam (A)  |
 | 18   | Saturday  | 9.00am – 9.15pm      | Dr Z Syed                 |  Dr H Azam (A) Dr W Pang (B)|           
-                     9.00pm - 09.15am       Dr H Khan                 |  Dr H Azam (A) Dr W Pang (B)|
+|      |           | 9.00pm - 09.15am      | Dr H Khan                 |  Dr H Azam (A) Dr W Pang (B)|
 | 19   | Sunday    | 9.00am – 9.15pm      | Dr Z Syed                 |  Dr H Azam (A) Dr W Pang (B)|
 |      |           | 9.00pm – 9.15am      | Dr H Khan                 |  Dr H Azam (A) Dr W Pang (B)|
 | 20   | Monday    | 5.00pm – 9.00pm      | Dr N Chanian              | Dr R Kurian   |

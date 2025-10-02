@@ -172,8 +172,6 @@ TBA
 ## REALM meetings
 ### 9.15 – 10.30
 
-Thursday 18 September		Dr Kurian
-
 Friday 31 October		Dr S Jain
 
 Monday 24 November		Dr T Au Yong

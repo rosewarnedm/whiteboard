@@ -4,94 +4,117 @@
 
 #### Wednesday 1
 Dr Rafati, Ayesha Khan, Dr Au Yong 
+
 Dr Gupta, Nihan Chanian, Dr Thomas
 
 #### Thursday 2
 Dr Pang, Syed Zaidi, Dr Chaudhary
+
 Dr Azam, Yogeshwar Gohil, Dr Khan
 
 #### Friday 3
 Dr Syed, Hina Khan, Dr Jain
+
 Dr Jawad, Rohan Ahmed, Dr Rosewarne
 
 #### Monday 6
-Dr Rosewarne, Syed Zaidi, Dr Syed  
+Dr Rosewarne, Syed Zaidi, Dr Syed
+
 Dr Saha, Rohan Ahmed, Dr Yahya 
 
 #### Tuesday 7
 Dr Yahya, Vladimir Popa-Nimigean, Dr Blakeman  
+
 Dr Vydianath, Maham Khan, Dr Qaiyum
 
 #### Wednesday 8
 Dr Agamy, Ayesha Khan, Dr Rafati
+
 Dr Jawad, Syed Zaidi, Dr Gupta
 
 #### Thursday 9
 Dr Saha, Nihal Chanian, Dr Vydianath
+
 Dr Mahmood, Nihal Chanian, Dr Yahya
 
 #### Friday 10
 Dr Khan, Nirbhaibir Singh, Dr Vydianath
+
 Dr Jawad, Yogeshwar Gohil, Dr Li
 
 #### Monday 13
 Dr Jain, Hina Khan, Dr Jawad
+
 Dr Mahmood, Rohan Khan, Dr Pang
 
 #### Tuesday 14
 Dr Azam, Vlodamir Popa-Nimigean, Dr Yahya
+
 Dr Vydianath, Manvir Rai, Dr Li
 
 #### Wednesday 15
 Dr Agamy, Ayesha Khan, Dr Gupta
+
 Dr Kurian, Nirbhaibir Singh, Dr Thomas
 
 #### Thursday 16
 Dr Qaiyum, Ali Ahmed, Dr Vydianath
+
 Dr Khan, Tanmay Jadhav, Dr Azam
 
 #### Friday 17
 Dr Syed, Nirbhaibir Singh, Dr Khan
+
 Dr Chaudhary, Ali Ahmed, Dr Mahmood
 
 #### Monday 20
 Dr Au Yong, Fahad Zaman, Dr Syed
+
 Dr Saha, Ahmed Elnigoumi, Dr Mahmood
 
 #### Tuesday 21
 Dr Yahya, Vladimir Popa-Nimagean, Dr Azam  
+
 Dr Vydianath, Fahad Zaman, Dr Saha
 
 #### Wednesday 22
 Dr Rafati, Fahad Zaman, Dr Bapusamy
+
 Dr Thomas, Ahmed Elnigoumi, Dr Gupta
 
 #### Thursday 23
 Dr Qaiyum, Tanmay Jadhav, Dr Yahya 
+
 Dr Khan, Yogeshwar Gohil, Dr Jain
 
 #### Friday 24
 Dr Li, Manvir Rai, Dr Vydianath
+
 Dr Bapusamy, Maham Khan, Dr Collins
 
 #### Monday 27
-Dr Gupta, Ali Ahmed, Dr Jawad 
+Dr Gupta, Ali Ahmed, Dr Jawad
+
 Dr Kurian, TBA, Dr Pang 
 
 #### Tuesday 28
 Dr Chaudhary, Manvir Rai, Dr Blakeman
+
 Dr Li, TBA, Dr Saha
 
 #### Wednesday 29
 Dr Agamy, Ali Ahmed, Dr Qaiyum
+
 Dr Thomas, TBA, Dr Gupta
 
 #### Thursday 30
 Dr Pang, TBA, Dr Kurian
+
 Dr Azam, Tanmay Jadhav, Dr Bapusamy 
 
 #### Friday 31
 Dr Li, TBA, Dr Collins
+
 Dr Rosewarne, Maham Khan, Dr Chaudhary
 
 

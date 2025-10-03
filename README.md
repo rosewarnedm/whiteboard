@@ -13,12 +13,12 @@ Dr Pang, Syed Zaidi, Dr Chaudhary
 Dr Azam, Yogeshwar Gohil, Dr Khan
 
 #### Friday 3
-Dr Syed, Hina Khan, Dr Jain
+Dr Syed, Hina Khan, Dr Agamy
 
-Dr Jawad, Rohan Ahmed, Dr Rosewarne
+Dr Jawad, Rohan Ahmed, Dr Jain
 
 #### Monday 6
-Dr Rosewarne, Syed Zaidi, Dr Syed
+Dr Rosewarne, Hina Khan, Dr Syed
 
 Dr Saha, Rohan Ahmed, Dr Yahya 
 
@@ -33,9 +33,9 @@ Dr Agamy, Ayesha Khan, Dr Rafati
 Dr Jawad, Syed Zaidi, Dr Gupta
 
 #### Thursday 9
-Dr Saha, Nihal Chanian, Dr Vydianath
+Dr Saha, Ayesha Khan, Dr Vydianath
 
-Dr Mahmood, Nihal Chanian, Dr Yahya
+Dr Mahmood, Syed Zaidi, Dr Yahya
 
 #### Friday 10
 Dr Khan, Nirbhaibir Singh, Dr Vydianath
@@ -53,7 +53,7 @@ Dr Azam, Vlodamir Popa-Nimigean, Dr Yahya
 Dr Vydianath, Manvir Rai, Dr Li
 
 #### Wednesday 15
-Dr Agamy, Ayesha Khan, Dr Gupta
+Dr Agamy, Nihal Chanian, Dr Gupta
 
 Dr Kurian, Nirbhaibir Singh, Dr Thomas
 
@@ -63,7 +63,7 @@ Dr Qaiyum, Ali Ahmed, Dr Vydianath
 Dr Khan, Tanmay Jadhav, Dr Azam
 
 #### Friday 17
-Dr Syed, Nirbhaibir Singh, Dr Khan
+Dr Syed, TBA, Dr Khan
 
 Dr Chaudhary, Ali Ahmed, Dr Mahmood
 
@@ -105,7 +105,7 @@ Dr Li, TBA, Dr Saha
 #### Wednesday 29
 Dr Agamy, Ali Ahmed, Dr Qaiyum
 
-Dr Thomas, TBA, Dr Gupta
+Dr Thomas, Nirbhaibir Singh, Dr Gupta
 
 #### Thursday 30
 Dr Pang, TBA, Dr Kurian

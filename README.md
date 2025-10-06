@@ -18,12 +18,12 @@ Dr Syed, Hina Khan, Dr Agamy
 Dr Jawad, Rohan Ahmed, Dr Jain
 
 #### Monday 6
-Dr Rosewarne, Hina Khan, Dr Syed
+Dr Rosewarne, Hina Khan, Dr Vydianath
 
 Dr Saha, Rohan Ahmed, Dr Yahya 
 
 #### Tuesday 7
-Dr Yahya, Vladimir Popa-Nimigean, Dr Blakeman  
+Dr Au Yong, Vladimir Popa-Nimigean, Dr Blakeman  
 
 Dr Vydianath, Maham Khan, Dr Qaiyum
 

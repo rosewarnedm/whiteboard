@@ -147,7 +147,7 @@ Dr Rosewarne, Maham Khan, Dr Chaudhary
 |      |           | 9.00pm – 9.15am      | Dr M Khan                 | Dr T Au Yong (A) Dr S Vydianath (B)|
 | 12   | Sunday    | 9.00am – 9.15pm      | Dr N Chanian              | Dr T Au Yong (A) Dr S Vydianath (B)|
 |      |           | 9.00pm – 9.15am      | Dr H Khan                 |  Dr T Au Yong (A) Dr S Vydianath (B)|
-| 13   | Monday    | 5.00pm – 9.00pm      |Dr N Singh                 | Dr H Azam     |
+| 13   | Monday    | 5.00pm – 9.00pm      |Dr H Khan                  | Dr H Azam     |
 |      |           | 9.00pm – 9.15am      |Dr F Zaman                 | Dr H Azam     |
 | 14   | Tuesday   | 5.00pm – 9.00pm      | Dr N Singh                | Dr I Khan     |
 |      |           | 9.00pm – 9.15am      | Dr F Zaman                | Dr I Khan     |

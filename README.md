@@ -33,17 +33,17 @@ Dr Agamy, Ayesha Khan, Dr Rafati
 Dr Jawad, Syed Zaidi, Dr Gupta
 
 #### Thursday 9
-Dr Saha, Ayesha Khan, Dr Vydianath
+Dr Saha, Hina Khan, Dr Agamy
 
 Dr Mahmood, Syed Zaidi, Dr Yahya
 
 #### Friday 10
-Dr Khan, Nirbhaibir Singh, Dr Vydianath
+Dr Khan, Tanmay Jadhav, Dr Vydianath
 
 Dr Jawad, Yogeshwar Gohil, Dr Li
 
 #### Monday 13
-Dr Jain, Hina Khan, Dr Jawad
+Dr Jain, Ayesha Khan, Dr Jawad
 
 Dr Mahmood, Rohan Khan, Dr Pang
 

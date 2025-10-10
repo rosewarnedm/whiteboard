@@ -58,12 +58,12 @@ Dr Agamy, Nihal Chanian, Dr Gupta
 Dr Kurian, Nirbhaibir Singh, Dr Thomas
 
 #### Thursday 16
-Dr Qaiyum, Ali Ahmed, Dr Vydianath
+Dr Qaiyum, Ali Ahmed, Dr Rafati
 
 Dr Khan, Tanmay Jadhav, Dr Azam
 
 #### Friday 17
-Dr Syed, TBA, Dr Khan
+Dr Khan, TBA, Dr Collins
 
 Dr Chaudhary, Ali Ahmed, Dr Mahmood
 

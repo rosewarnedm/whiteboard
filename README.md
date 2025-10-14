@@ -50,12 +50,12 @@ Dr Mahmood, Rohan Khan, Dr Pang
 #### Tuesday 14
 Dr Azam, Vlodamir Popa-Nimigean, Dr Yahya
 
-Dr Vydianath, Manvir Rai, Dr Li
+Dr Vydianath, Yogeshwar Gohil, Dr Li
 
 #### Wednesday 15
 Dr Agamy, Nihal Chanian, Dr Gupta
 
-Dr Kurian, Nirbhaibir Singh, Dr Thomas
+Dr Kurian, Nirbhaibir Singh, Dr Au Yong
 
 #### Thursday 16
 Dr Qaiyum, Ali Ahmed, Dr Rafati
@@ -63,7 +63,7 @@ Dr Qaiyum, Ali Ahmed, Dr Rafati
 Dr Khan, Tanmay Jadhav, Dr Azam
 
 #### Friday 17
-Dr Khan, TBA, Dr Collins
+Dr Khan, Maham Khan, Dr Collins
 
 Dr Chaudhary, Ali Ahmed, Dr Mahmood
 
@@ -88,7 +88,7 @@ Dr Qaiyum, Tanmay Jadhav, Dr Yahya
 Dr Khan, Yogeshwar Gohil, Dr Jain
 
 #### Friday 24
-Dr Li, Manvir Rai, Dr Vydianath
+Dr Li, TBA, Dr Vydianath
 
 Dr Bapusamy, Maham Khan, Dr Collins
 
@@ -98,7 +98,7 @@ Dr Gupta, Ali Ahmed, Dr Jawad
 Dr Kurian, TBA, Dr Pang 
 
 #### Tuesday 28
-Dr Chaudhary, Manvir Rai, Dr Blakeman
+Dr Chaudhary, TBA, Dr Blakeman
 
 Dr Li, TBA, Dr Saha
 

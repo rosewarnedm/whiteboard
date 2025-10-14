@@ -151,8 +151,8 @@ Dr Rosewarne, Maham Khan, Dr Chaudhary
 |      |           | 9.00pm – 9.15am      |Dr F Zaman                 | Dr H Azam     |
 | 14   | Tuesday   | 5.00pm – 9.00pm      | Dr N Singh                | Dr T Au Yong  |
 |      |           | 9.00pm – 9.15am      | Dr F Zaman                | Dr T Au Yong  |
-| 15   | Wednesday | 5.00pm – 9.00pm      | Dr El Nigoumi             | Dr F Syed     |
-|      |           | 9.00pm – 9.15am      | Dr F Zaman                | Dr F Syed     |
+| 15   | Wednesday | 5.00pm – 9.00pm      | Dr El Nigoumi             | Dr S Jain (L) |
+|      |           | 9.00pm – 9.15am      | Dr F Zaman                | Dr S Jain (L) |
 | 16   | Thursday  | 5.00pm – 9.00pm      | Dr El Nigoumi             | Dr Jain       |
 |      |           | 9.00pm – 9.15am      | Dr Y Gohil (L)            | Dr Jain       |
 | 17   | Friday    | 5.00pm – 9.00pm      | Dr T Jadhav (L)           | Dr H Azam (A)  |

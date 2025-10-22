@@ -167,7 +167,7 @@ Dr Rosewarne, Maham Khan, Dr Chaudhary
 |      |           | 9.00pm – 9.15am      | Dr A Ahmed                | Dr I Khan     |
 | 22   | Wednesday | 5.00pm – 9.00pm      | Dr A Khan                 | Dr D Thomas   |
 |      |           | 9.00pm – 9.15am      | Dr A Ahmed                | Dr D Thomas   |
-| 23   | Thursday  | 5.00pm – 9.00pm      | Dr A Khan                 | Dr A Mahmood  |
+| 23   | Thursday  | 5.00pm – 9.00pm      | Dr S Zaidi                | Dr A Mahmood  |
 |      |           | 9.00pm – 9.15am      | Dr A Ahmed                | Dr A Mahmood  |
 | 24   | Friday    | 5.00pm – 9.00pm      | Dr El Nigoumi             | Dr G Chaudhary (A)|     
 |      |           | 9.00pm – 9.15am      | Dr V Popa-Nimigean        |Dr G Chaudhary (A) | 
@@ -177,7 +177,7 @@ Dr Rosewarne, Maham Khan, Dr Chaudhary
 |      |           | 9.00pm – 9.15am      | Dr V Popa-Nimigean        | Dr G Chaudhary (A) Dr D Thomas (B)|
 | 27   | Monday    | 5.00pm – 9.00pm      | Dr S Zaidi                | Dr A Bapusamy |           
 |      |           | 9.00pm – 9.15am      | Dr Y Gohil                | Dr A Bapusamy |
-| 28   | Tuesday   | 5.00pm – 9.00pm      | Dr S Zaidi                | Dr G Chaudhary|
+| 28   | Tuesday   | 5.00pm – 9.00pm      | Dr A Khan                 | Dr G Chaudhary|
 |      |           | 9.00pm – 9.15am      | Dr Y Gohil                | Dr G Chaudhary|
 | 29   | Wednesday | 5.00pm – 9.00pm      | Dr A Khan                 | Dr D Rosewarne|
 |      |           | 9.00pm – 9.15am      | Dr Y Gohil                | Dr D Rosewarne|

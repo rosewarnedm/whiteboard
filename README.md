@@ -98,9 +98,9 @@ Dr Gupta, Ali Ahmed, Dr Jawad
 Dr Kurian, TBA, Dr Pang 
 
 #### Tuesday 28
-Dr Chaudhary, TBA, Dr Blakeman
+Dr Chaudhary, Hina Khan, Dr Blakeman
 
-Dr Li, TBA, Dr Saha
+Dr Vydianath, Tanmay Jadhav, Dr Saha
 
 #### Wednesday 29
 Dr Agamy, Ali Ahmed, Dr Qaiyum
@@ -108,12 +108,12 @@ Dr Agamy, Ali Ahmed, Dr Qaiyum
 Dr Thomas, Nirbhaibir Singh, Dr Gupta
 
 #### Thursday 30
-Dr Pang, TBA, Dr Kurian
+Dr Pang, Ali Ahmed, Dr Kurian
 
 Dr Azam, Tanmay Jadhav, Dr Bapusamy 
 
 #### Friday 31
-Dr Li, TBA, Dr Collins
+Dr Li, Ahmed Elnigoumi, Dr Collins
 
 Dr Rosewarne, Maham Khan, Dr Chaudhary
 

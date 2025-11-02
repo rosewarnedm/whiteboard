@@ -2,104 +2,144 @@
 ### DUTY NOVEMBER 2025 - needs checking by Lisa
 
 #### Monday 3
-Dr Pang, Yogeshwar Gohil, Dr Jain
+**DR AM** Dr Pang, Yogeshwar Gohil, Dr Jain
 
-Dr Azam, Vladimir Popa-Nimigean, Dr Saha
+**DR PM** Dr Azam, Vladimir Popa-Nimigean, Dr Saha
+
+**Peripheral CTA** Dr. Condati / Dr Dyer
 
 #### Tuesday 4
-Dr Khan, Ayesha Khan, Dr Yahya
+**DR AM** Dr Khan, Ayesha Khan, Dr Yahya
 
-Dr Vydianath, Vladimir Popa-Nimigean, Dr Azam
+**DR PM** Dr Vydianath, Vladimir Popa-Nimigean, Dr Azam
+
+**Peripheral CTA** Dr. Sarang
 
 #### Wednesday 5
-Dr Chaudhary, Ali Ahmed, Dr Jain
+**DR AM** Dr Chaudhary, Ali Ahmed, Dr Jain
 
-Dr Jawad, Fahad Zaman, Dr Khan
+**DR PM** Dr Jawad, Fahad Zaman, Dr Khan
+
+**Peripheral CTA** Dr. Rangarajan
 
 #### Thursday 6
-Dr Gupta, Tanmay Jadhav, Dr Agamy
+**DR AM** Dr Gupta, Tanmay Jadhav, Dr Agamy
 
-Dr Bapusamy, Fahad Zaman, Dr Khan
+**DR PM** Dr Bapusamy, Fahad Zaman, Dr Khan
+
+**Peripheral CTA** Dr. Collins
 
 #### Friday 7
-Dr Rafati, Fahad Zaman, Dr LI
+**DR AM** Dr Rafati, Fahad Zaman, Dr Li
 
-Dr Syed, Fahad Zaman, Dr Rosewarne
+**DR PM** Dr Syed, Fahad Zaman, Dr Rosewarne
+
+**Peripheral CTA** Dr Dyer
 
 #### Monday 10
-Dr Pang, Ayesha Khan, Dr Syed
+**DR AM** Dr Pang, Ayesha Khan, Dr Syed
 
-Dr Azam, Fahad Zaman, Dr Saha
+**DR PM** Dr Azam, Fahad Zaman, Dr Saha
+
+**Peripheral CTA** Dr. Condati
 
 #### Tuesday 11
-Dr Yahya, Yogeshwar Gohil, Dr Qaiyum
+**DR AM** Dr Yahya, Yogeshwar Gohil, Dr Qaiyum
 
-Dr Chauhdary, Fahad Zaman, Dr Qaiyum
+**DR PM** Dr Chauhdary, Fahad Zaman, Dr Qaiyum
+
+**Peripheral CTA** Dr. Nikkar
 
 #### Wednesday 12
-Dr Rafati, Ayesha Khan, Dr Chaudhary
+**DR AM** Dr Rafati, Ayesha Khan, Dr Chaudhary
 
-Dr Gupta, Ahmed Elnigoumi, Dr Khan
+**DR PM** Dr Gupta, Ahmed Elnigoumi, Dr Khan
+
+**Peripheral CTA** Dr Sirakaya
 
 #### Thursday 13
-Dr Mahmood, Ali Ahmed, Dr Rafati
+**DR AM** Dr Mahmood, Ali Ahmed, Dr Rafati
 
-Dr Pang, Yogeshwar Gohil, Dr Bapusamy
+**DR PM** Dr Pang, Yogeshwar Gohil, Dr Bapusamy
+
+**Peripheral CTA** Dr. Nikkar
 
 #### Friday 14
-Dr Li, Tanmay Jadhav, Dr Syed
+**DR AM** Dr Li, Tanmay Jadhav, Dr Syed
 
-Dr Rosewarne, Syed Zaidi, Dr Qaiyum
+**DR PM** Dr Rosewarne, Syed Zaidi, Dr Qaiyum
+
+**Peripheral CTA** Dr Dyer
 
 #### Monday 17
-Dr Syed, Syed Zaidi, Dr Gupta
+**DR AM** Dr Syed, Syed Zaidi, Dr Gupta
 
-Dr Li, Rohan Ahmed, Dr Pang
+**DR PM** Dr Li, Rohan Ahmed, Dr Pang
+
+**Peripheral CTA** Dr Dyer
 
 #### Tuesday 18
-Dr Yahya, Yogeshwar Gohil, Dr Blakeman
+**DR AM** Dr Yahya, Yogeshwar Gohil, Dr Blakeman
 
-Dr Gupta, Rohan Ahmed, Dr Azam
+**DR PM** Dr Gupta, Rohan Ahmed, Dr Azam
+
+**Peripheral CTA** Dr. Sarang
 
 #### Wednesday 19
-Dr Jain, Rohan Ahmed, Dr Khan
+**DR AM** Dr Jain, Rohan Ahmed, Dr Khan
 
-Dr Jawad, Nirbhaibir Singh, Dr Gupta
+**DR PM** Dr Jawad, Nirbhaibir Singh, Dr Gupta
+
+**Peripheral CTA** Dr. Sarang / Dr Sirakaya
 
 #### Thursday 20
-Dr Kurian, Tanmay Jadhav, Dr Agamy
+**DR AM** Dr Kurian, Tanmay Jadhav, Dr Agamy
 
-Dr Bapusamy, Ahmed Elnigoumi, Dr Collins
+**DR PM** Dr Bapusamy, Ahmed Elnigoumi, Dr Collins
+
+**Peripheral CTA** Dr. Rangarajan
 
 #### Friday 21
-Dr Vydianath, Maham Khan, Dr Rafati
+**DR AM** Dr Vydianath, Maham Khan, Dr Rafati
 
-Dr Jain, Ahmed Elnigoumi, Dr Chaudhary
+**DR PM** Dr Jain, Ahmed Elnigoumi, Dr Chaudhary
+
+**Peripheral CTA** Dr. Collins
 
 #### Monday 24
-Dr Saha, Nihal Chanian, Dr Jawad
+**DR AM** Dr Saha, Nihal Chanian, Dr Jawad
 
-Dr Au Yong, Ahmed Elnigoumi, Dr Pang
+**DR PM** Dr Au Yong, Ahmed Elnigoumi, Dr Pang
+
+**Peripheral CTA** Dr. Condati
 
 #### Tuesday 25
-Dr Yahya, Hina Khan, Dr Blakeman
+**DR AM** Dr Yahya, Hina Khan, Dr Blakeman
 
-Dr Rosewarne, Maham Khan, Dr Bapusamy
+**DR PM** Dr Rosewarne, Maham Khan, Dr Bapusamy
+
+**Peripheral CTA** Dr. Sarang / Dr. Nikkar
 
 #### Wednesday 26
-Dr Chaudhary, Maham Khan, Dr Jawad
+**DR AM** Dr Chaudhary, Maham Khan, Dr Jawad
 
-Dr Thomas, Nirbhaibir Singh, Dr Khan
+**DR PM** Dr Thomas, Nirbhaibir Singh, Dr Khan
+
+**Peripheral CTA** Dr Sirakaya
 
 #### Thursday 27
-Dr Mahmood, Nihal Chanian, Dr Agamy
+**DR AM** Dr Mahmood, Nihal Chanian, Dr Agamy
 
-Dr Bapusamy, Nihal Chanian, Dr Pang
+**DR PM** Dr Bapusamy, Nihal Chanian, Dr Pang
+
+**Peripheral CTA** Dr Sirakaya / Dr. Nikkar
 
 #### Friday 28
-Dr Li, Ali Ahmed, Dr Vydianath
+**DR AM** Dr Li, Ali Ahmed, Dr Vydianath
 
-Dr Mahmood, Nirbhaibir Singh, Dr Collins
+**DR PM** Dr Mahmood, Nirbhaibir Singh, Dr Collins
+
+**Peripheral CTA** Dr. Collins
 
 
 
@@ -169,67 +209,7 @@ Dr Mahmood, Nirbhaibir Singh, Dr Collins
 |      |           | 9.00pm – 9.15am      | Dr N Chanian        | Dr F Syed (A) Dr A Mahmood (B)      |  
 
 
-### CT PERIPHERAL ANGIOGRAM REPORTING NOVEMBER 2025
 
-#### Monday 3
-Dr. Condati / Dr Dyer
-
-#### Tuesday 4
-Dr. Sarang
-
-#### Wednesday 5
-Dr. Rangarajan
-
-#### Thursday 6
-Dr. Collins
-
-#### Friday 7
-Dr Dyer
-
-#### Monday 10
-Dr. Condati
-
-#### Tuesday 11
-Dr. Nikkar
-
-#### Wednesday 12
-Dr Sirakaya
-
-#### Thursday 13
-Dr. Nikkar
-
-#### Friday 14
-Dr Dyer
-
-#### Monday 17
-Dr Dyer
-
-#### Tuesday 18
-Dr. Sarang
-
-#### Wednesday 19
-Dr. Sarang / Dr Sirakaya
-
-#### Thursday 20
-Dr. Rangarajan
-
-#### Friday 21
-Dr. Collins
-
-#### Monday 24
-Dr. Condati
-
-#### Tuesday 25
-Dr. Sarang / Dr. Nikkar
-
-#### Wednesday 26
-Dr Sirakaya
-
-#### Thursday 27
-Dr Sirakaya / Dr. Nikkar
-
-#### Friday 28
-Dr. Collins
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days

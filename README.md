@@ -166,8 +166,70 @@ Dr Mahmood, Nirbhaibir Singh, Dr Collins
 | 29   | Saturday  | 9.00am – 9.15pm      | Dr M Khan           | Dr F Syed (A) Dr A Mahmood (B)      |
 |      |           | 9.00pm – 9.15am      | Dr N Chanian        | Dr F Syed (A) Dr A Mahmood (B)      |
 | 30   | Sunday    | 9.00am – 9.15pm      | Dr M Khan           | Dr F Syed (A) Dr A Mahmood (B)      |
-|      |           | 9.00pm – 9.15am      | Dr N Chanian        | Dr F Syed (A) Dr A Mahmood (B)      |      
+|      |           | 9.00pm – 9.15am      | Dr N Chanian        | Dr F Syed (A) Dr A Mahmood (B)      |  
 
+
+### CT PERIPHERAL ANGIOGRAM REPORTING NOVEMBER 2025
+
+#### Monday 3
+Dr. Condati / Dr Dyer
+
+#### Tuesday 4
+Dr. Sarang
+
+#### Wednesday 5
+Dr. Rangarajan
+
+#### Thursday 6
+Dr. Collins
+
+#### Friday 7
+Dr Dyer
+
+#### Monday 10
+Dr. Condati
+
+#### Tuesday 11
+Dr. Nikkar
+
+#### Wednesday 12
+Dr Sirakaya
+
+#### Thursday 13
+Dr. Nikkar
+
+#### Friday 14
+Dr Dyer
+
+#### Monday 17
+Dr Dyer
+
+#### Tuesday 18
+Dr. Sarang
+
+#### Wednesday 19
+Dr. Sarang / Dr Sirakaya
+
+#### Thursday 20
+Dr. Rangarajan
+
+#### Friday 21
+Dr. Collins
+
+#### Monday 24
+Dr. Condati
+
+#### Tuesday 25
+Dr. Sarang / Dr. Nikkar
+
+#### Wednesday 26
+Dr Sirakaya
+
+#### Thursday 27
+Dr Sirakaya / Dr. Nikkar
+
+#### Friday 28
+Dr. Collins
 
 ## Directorate meetings  
 ### 1pm Monday, 4pm other days

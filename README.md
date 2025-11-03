@@ -16,7 +16,7 @@
 **Peripheral CTA** Dr. Sarang
 
 #### Wednesday 5
-**DR AM** Dr Chaudhary, Ali Ahmed, Dr Jain
+**DR AM** Dr Rafati, Ali Ahmed, Dr Jain
 
 **DR PM** Dr Jawad, Fahad Zaman, Dr Khan
 
@@ -25,12 +25,12 @@
 #### Thursday 6
 **DR AM** Dr Gupta, Tanmay Jadhav, Dr Agamy
 
-**DR PM** Dr Bapusamy, Fahad Zaman, Dr Khan
+**DR PM** Dr Bapusamy, Fahad Zaman, Dr Rafati
 
 **Peripheral CTA** Dr. Collins
 
 #### Friday 7
-**DR AM** Dr Rafati, Fahad Zaman, Dr Li
+**DR AM** Dr Agamy, Fahad Zaman, Dr Li
 
 **DR PM** Dr Syed, Fahad Zaman, Dr Rosewarne
 
@@ -51,7 +51,7 @@
 **Peripheral CTA** Dr. Nikkar
 
 #### Wednesday 12
-**DR AM** Dr Rafati, Ayesha Khan, Dr Chaudhary
+**DR AM** Dr Chaudhary, Ayesha Khan, TBC
 
 **DR PM** Dr Gupta, Ahmed Elnigoumi, Dr Khan
 
@@ -86,21 +86,21 @@
 **Peripheral CTA** Dr. Sarang
 
 #### Wednesday 19
-**DR AM** Dr Jain, Rohan Ahmed, Dr Khan
+**DR AM** Dr Jain, Rohan Ahmed, Dr Rafati
 
 **DR PM** Dr Jawad, Nirbhaibir Singh, Dr Gupta
 
 **Peripheral CTA** Dr. Sarang / Dr Sirakaya
 
 #### Thursday 20
-**DR AM** Dr Kurian, Tanmay Jadhav, Dr Agamy
+**DR AM** TBA, Tanmay Jadhav, Dr Agamy
 
 **DR PM** Dr Bapusamy, Ahmed Elnigoumi, Dr Collins
 
 **Peripheral CTA** Dr. Rangarajan
 
 #### Friday 21
-**DR AM** Dr Vydianath, Maham Khan, Dr Rafati
+**DR AM** Dr Vydianath, Maham Khan, TBA
 
 **DR PM** Dr Jain, Ahmed Elnigoumi, Dr Chaudhary
 
@@ -121,7 +121,7 @@
 **Peripheral CTA** Dr. Sarang / Dr. Nikkar
 
 #### Wednesday 26
-**DR AM** Dr Chaudhary, Maham Khan, Dr Jawad
+**DR AM** TBA, Maham Khan, Dr Jawad
 
 **DR PM** Dr Thomas, Nirbhaibir Singh, Dr Khan
 

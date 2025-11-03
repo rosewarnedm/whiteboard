@@ -1,5 +1,5 @@
 
-### DUTY NOVEMBER 2025 - needs checking by Lisa
+### DUTY NOVEMBER 2025
 
 #### Monday 3
 **DR AM** Dr Pang, Yogeshwar Gohil, Dr Jain

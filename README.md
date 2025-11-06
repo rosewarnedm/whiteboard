@@ -158,13 +158,13 @@
 | 5    | Wednesday | 5.00pm – 9.00pm      | Dr Y Gohil          | Dr G Chaudhary                      |
 |      |           | 9.00pm – 9.15am      | Dr M Khan           | Dr G Chaudhary                      |
 | 6    | Thursday  | 5.00pm – 9.00pm      | Dr Y Gohil          | Dr S Vydianath                      |
-|      |           | 9.00pm – 9.15am      | Dr M Khan           | Dr S Vydianath                      |
+|      |           | 9.00pm – 9.15am      | Dr F Zaman (L)      | Dr S Vydianath                      |
 | 7    | Friday    | 5.00pm – 9.00pm      | Dr N Chanian        | Dr S Yahya (A)                      |
 |      |           | 9.00pm – 9.15am      | Dr R Ahmed          | Dr S Yahya (A)                      |
-| 8    | Saturday  | 9.00am – 9.15pm      | Dr Y Gohil          | Dr I Khan (A) Dr A Agamy (B)        |
+| 8    | Saturday  | 9.00am – 9.15pm      | Dr F Zaman          | Dr I Khan (A) Dr A Agamy (B)        |
 |      |           | 9.00pm – 9.15am      | Dr R Ahmed          | Dr I Khan (A) Dr A Agamy (B)        |
-| 9    | Sunday    | 9.00am – 9.15pm      | Dr Y Gohil          | Dr I Khan (A) Dr S Saha  (B)        |
-|      |           | 9.00pm – 9.15am      | Dr R Ahmed          | Dr I Khan (A) Dr S Saha  (B)        |
+| 9    | Sunday    | 9.00am – 9.15pm      | Dr F Zaman          | Dr I Khan (A) Dr S Saha  (B)        |
+|      |           | 9.00pm – 9.15am      | Dr Y Gohil (L)      | Dr I Khan (A) Dr S Saha  (B)        |
 | 10   | Monday    | 5.00pm – 9.00pm      | Dr M Rai            | Dr F Rafati                         |
 |      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr F Rafati                         |
 | 11   | Tuesday   | 5.00pm – 9.00pm      | Dr M Rai            | Dr W Pang                           |
@@ -189,9 +189,9 @@
 |      |           | 9.00pm – 9.15am      | Dr V Popa-Nimigean  | Dr S Jain                           |
 | 21   | Friday    | 5.00pm – 9.00pm      | Dr N Singh          | Dr A Bapusamy (A)                   |
 |      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr A Bapusamy (A)                   |
-| 22   | Saturday  | 9.00am – 9.15pm      | Dr F Zaman          | Dr A Bapusamy (A) Dr R Kurian (B)   |
+| 22   | Saturday  | 9.00am – 9.15pm      | Dr M Khan           | Dr A Bapusamy (A) Dr R Kurian (B)   |
 |      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr A Bapusamy (A) Dr R Kurian (B)   |
-| 23   | Sunday    | 9.00am – 9.15pm      | Dr F Zaman          | Dr A Bapusamy (A) Dr R Kurian (B)   |
+| 23   | Sunday    | 9.00am – 9.15pm      | Dr M Khan           | Dr A Bapusamy (A) Dr R Kurian (B)   |
 |      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr A Bapusamy (A) Dr R Kurian (B)   |
 | 24   | Monday    | 5.00pm – 9.00pm      | Dr A Ahmed          | Dr T Au Yong                        |
 |      |           | 9.00pm – 9.15am      | Dr T Jadhav         | Dr T Au Yong                        |
@@ -203,9 +203,9 @@
 |      |           | 9.00pm – 9.15am      | Dr T Jadhav         | Dr R Jawad                          |
 | 28   | Friday    | 5.00pm – 9.00pm      | Dr M Rai            | Dr F Syed (A)                       |
 |      |           | 9.00pm – 9.15am      | Dr N Chanian        | Dr F Syed (A)                       |
-| 29   | Saturday  | 9.00am – 9.15pm      | Dr M Khan           | Dr F Syed (A) Dr A Mahmood (B)      |
+| 29   | Saturday  | 9.00am – 9.15pm      | Dr Y Gohil          | Dr F Syed (A) Dr A Mahmood (B)      |
 |      |           | 9.00pm – 9.15am      | Dr N Chanian        | Dr F Syed (A) Dr A Mahmood (B)      |
-| 30   | Sunday    | 9.00am – 9.15pm      | Dr M Khan           | Dr F Syed (A) Dr A Mahmood (B)      |
+| 30   | Sunday    | 9.00am – 9.15pm      | Dr Y Gohil          | Dr F Syed (A) Dr A Mahmood (B)      |
 |      |           | 9.00pm – 9.15am      | Dr N Chanian        | Dr F Syed (A) Dr A Mahmood (B)      |  
 
 

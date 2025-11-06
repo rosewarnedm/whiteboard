@@ -156,7 +156,7 @@
 | 4    | Tuesday   | 5.00pm – 9.00pm      | Dr F Zaman          | Dr D Thomas                         |
 |      |           | 9.00pm – 9.15am      | Dr M Khan           | Dr D Thomas                         |
 | 5    | Wednesday | 5.00pm – 9.00pm      | Dr Y Gohil          | Dr G Chaudhary                      |
-|      |           | 9.00pm – 9.15am      | Dr M Khan           | Dr G Chaudhary                      |
+|      |           | 9.00pm – 9.15am      | Dr F Zaman (L)      | Dr G Chaudhary                      |
 | 6    | Thursday  | 5.00pm – 9.00pm      | Dr Y Gohil          | Dr S Vydianath                      |
 |      |           | 9.00pm – 9.15am      | Dr F Zaman (L)      | Dr S Vydianath                      |
 | 7    | Friday    | 5.00pm – 9.00pm      | Dr N Chanian        | Dr S Yahya (A)                      |

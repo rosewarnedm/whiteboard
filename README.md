@@ -160,19 +160,19 @@
 | 6    | Thursday  | 5.00pm – 9.00pm      | Dr Y Gohil          | Dr S Vydianath                      |
 |      |           | 9.00pm – 9.15am      | Dr F Zaman (L)      | Dr S Vydianath                      |
 | 7    | Friday    | 5.00pm – 9.00pm      | Dr N Chanian        | Dr S Yahya (A)                      |
-|      |           | 9.00pm – 9.15am      | Dr R Ahmed          | Dr S Yahya (A)                      |
+|      |           | 9.00pm – 9.15am      | Dr S Yahya          | Dr S Yahya (A)                      |
 | 8    | Saturday  | 9.00am – 9.15pm      | Dr F Zaman          | Dr I Khan (A) Dr A Agamy (B)        |
 |      |           | 9.00pm – 9.15am      | Dr N Chanian (L)    | Dr I Khan (A) Dr A Agamy (B)        |
 | 9    | Sunday    | 9.00am – 9.15pm      | Dr F Zaman          | Dr I Khan (A) Dr S Saha  (B)        |
 |      |           | 9.00pm – 9.15am      | Dr N Chanian (L)    | Dr I Khan (A) Dr S Saha  (B)        |
 | 10   | Monday    | 5.00pm – 9.00pm      | Dr Y Gohil (L)      | Dr F Rafati                         |
-|      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr F Rafati                         |
+|      |           | 9.00pm – 9.15am      | Dr A Ahmed (L)      | Dr F Rafati                         |
 | 11   | Tuesday   | 5.00pm – 9.00pm      | Dr S Zaidi (L)      | Dr W Pang                           |
-|      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr W Pang                           |
+|      |           | 9.00pm – 9.15am      | Dr N Chanian (L)    | Dr W Pang                           |
 | 12   | Wednesday | 5.00pm – 9.00pm      | Dr M Khan           | Dr A Gupta                          |
-|      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr A Gupta                          |
+|      |           | 9.00pm – 9.15am      | Dr N Singh (L)      | Dr A Gupta                          |
 | 13   | Thursday  | 5.00pm – 9.00pm      | Dr Y Gohil          | Dr M Qaiyum                         |
-|      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr M Qaiyum                         |
+|      |           | 9.00pm – 9.15am      | Dr Y Gohil (L)      | Dr M Qaiyum                         |
 | 14   | Friday    | 5.00pm – 9.00pm      | Dr S Zaidi          | Dr R Jawad (A)                      |
 |      |           | 9.00pm – 9.15am      | Dr El Nigoumi       | Dr R Jawad (A)                      |
 | 15   | Saturday  | 9.00am – 9.15pm      | Dr A Ahmed          | Dr R Jawad (A) Dr S Saha (B)        |

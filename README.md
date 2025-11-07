@@ -162,12 +162,12 @@
 | 7    | Friday    | 5.00pm – 9.00pm      | Dr N Chanian        | Dr S Yahya (A)                      |
 |      |           | 9.00pm – 9.15am      | Dr R Ahmed          | Dr S Yahya (A)                      |
 | 8    | Saturday  | 9.00am – 9.15pm      | Dr F Zaman          | Dr I Khan (A) Dr A Agamy (B)        |
-|      |           | 9.00pm – 9.15am      | Dr R Ahmed          | Dr I Khan (A) Dr A Agamy (B)        |
+|      |           | 9.00pm – 9.15am      | Dr N Chanian (L)    | Dr I Khan (A) Dr A Agamy (B)        |
 | 9    | Sunday    | 9.00am – 9.15pm      | Dr F Zaman          | Dr I Khan (A) Dr S Saha  (B)        |
-|      |           | 9.00pm – 9.15am      | Dr Y Gohil (L)      | Dr I Khan (A) Dr S Saha  (B)        |
-| 10   | Monday    | 5.00pm – 9.00pm      | Dr M Rai            | Dr F Rafati                         |
+|      |           | 9.00pm – 9.15am      | Dr N Chanian (L)    | Dr I Khan (A) Dr S Saha  (B)        |
+| 10   | Monday    | 5.00pm – 9.00pm      | Dr Y Gohil (L)      | Dr F Rafati                         |
 |      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr F Rafati                         |
-| 11   | Tuesday   | 5.00pm – 9.00pm      | Dr M Rai            | Dr W Pang                           |
+| 11   | Tuesday   | 5.00pm – 9.00pm      | Dr S Zaidi (L)      | Dr W Pang                           |
 |      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr W Pang                           |
 | 12   | Wednesday | 5.00pm – 9.00pm      | Dr M Khan           | Dr A Gupta                          |
 |      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr A Gupta                          |

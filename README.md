@@ -30,9 +30,9 @@
 **Peripheral CTA** Dr. Collins
 
 #### Friday 7
-**DR AM** Dr Agamy, Fahad Zaman, Dr Li
+**DR AM** Dr Agamy, Nirbhaibir Singh, Dr Li
 
-**DR PM** Dr Syed, Fahad Zaman, Dr Rosewarne
+**DR PM** Dr Syed, Nirbhaibir Singh, Dr Rosewarne
 
 **Peripheral CTA** Dr Dyer
 

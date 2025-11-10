@@ -37,9 +37,9 @@
 **Peripheral CTA** Dr Dyer
 
 #### Monday 10
-**DR AM** Dr Pang, Ayesha Khan, Dr Syed
+**DR AM** Dr Jawad, Ayesha Khan, Dr Syed
 
-**DR PM** Dr Azam, Fahad Zaman, Dr Saha
+**DR PM** Dr Azam, Ayesha Khan, Dr Saha
 
 **Peripheral CTA** Dr. Condati
 

@@ -121,7 +121,7 @@
 **Peripheral CTA** Dr. Sarang / Dr. Nikkar
 
 #### Wednesday 26
-**DR AM** TBA, Maham Khan, Dr Jawad
+**DR AM** Dr Kurian, Maham Khan, Dr Jawad
 
 **DR PM** Dr Thomas, Nirbhaibir Singh, Dr Khan
 

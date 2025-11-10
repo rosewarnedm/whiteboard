@@ -51,7 +51,7 @@
 **Peripheral CTA** Dr. Nikkar
 
 #### Wednesday 12
-**DR AM** Dr Chaudhary, Ayesha Khan, TBC
+**DR AM** Dr Chaudhary, Fahad Zaman, Dr Au Yong
 
 **DR PM** Dr Gupta, Ahmed Elnigoumi, Dr Khan
 
@@ -93,7 +93,7 @@
 **Peripheral CTA** Dr. Sarang / Dr Sirakaya
 
 #### Thursday 20
-**DR AM** TBA, Tanmay Jadhav, Dr Agamy
+**DR AM** Dr Pang, Tanmay Jadhav, Dr Agamy
 
 **DR PM** Dr Bapusamy, Ahmed Elnigoumi, Dr Collins
 

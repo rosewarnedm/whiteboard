@@ -58,14 +58,14 @@
 **Peripheral CTA** Dr Sirakaya
 
 #### Thursday 13
-**DR AM** Dr Mahmood, Ali Ahmed, Dr Rafati
+**DR AM** Dr Li, Ali Ahmed, Dr Rafati
 
 **DR PM** Dr Pang, Yogeshwar Gohil, Dr Bapusamy
 
 **Peripheral CTA** Dr. Nikkar
 
 #### Friday 14
-**DR AM** Dr Li, Tanmay Jadhav, Dr Syed
+**DR AM** Dr Syed, Tanmay Jadhav, Dr Agamy
 
 **DR PM** Dr Rosewarne, Syed Zaidi, Dr Qaiyum
 

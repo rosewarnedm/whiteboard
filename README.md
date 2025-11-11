@@ -171,7 +171,7 @@
 |      |           | 9.00pm – 9.15am      | Dr N Chanian (L)    | Dr W Pang                           |
 | 12   | Wednesday | 5.00pm – 9.00pm      | Dr M Khan           | Dr A Gupta                          |
 |      |           | 9.00pm – 9.15am      | Dr N Singh (L)      | Dr A Gupta                          |
-| 13   | Thursday  | 5.00pm – 9.00pm      | Dr Y Gohil          | Dr M Qaiyum                         |
+| 13   | Thursday  | 5.00pm – 9.00pm      | Dr N Chanian        | Dr M Qaiyum                         |
 |      |           | 9.00pm – 9.15am      | Dr Y Gohil (L)      | Dr M Qaiyum                         |
 | 14   | Friday    | 5.00pm – 9.00pm      | Dr S Zaidi          | Dr R Jawad (A)                      |
 |      |           | 9.00pm – 9.15am      | Dr El Nigoumi       | Dr R Jawad (A)                      |

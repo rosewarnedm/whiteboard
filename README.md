@@ -53,7 +53,7 @@
 #### Wednesday 12
 **DR AM** Dr Chaudhary, Fahad Zaman, Dr Au Yong
 
-**DR PM** Dr Gupta, Ahmed Elnigoumi, Dr Khan
+**DR PM** Dr Jawad, Ahmed Elnigoumi, Dr Khan
 
 **Peripheral CTA** Dr Sirakaya
 
@@ -81,7 +81,7 @@
 #### Tuesday 18
 **DR AM** Dr Yahya, Yogeshwar Gohil, Dr Blakeman
 
-**DR PM** Dr Gupta, Rohan Ahmed, Dr Azam
+**DR PM** TBA, Rohan Ahmed, Dr Azam
 
 **Peripheral CTA** Dr. Sarang
 

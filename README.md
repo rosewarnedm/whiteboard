@@ -169,8 +169,8 @@
 |      |           | 9.00pm – 9.15am      | Dr A Ahmed (L)      | Dr F Rafati                         |
 | 11   | Tuesday   | 5.00pm – 9.00pm      | Dr S Zaidi (L)      | Dr W Pang                           |
 |      |           | 9.00pm – 9.15am      | Dr N Chanian (L)    | Dr W Pang                           |
-| 12   | Wednesday | 5.00pm – 9.00pm      | Dr M Khan           | Dr A Gupta                          |
-|      |           | 9.00pm – 9.15am      | Dr N Singh (L)      | Dr A Gupta                          |
+| 12   | Wednesday | 5.00pm – 9.00pm      | Dr M Khan           | Dr G Chaudhary (L)                  |
+|      |           | 9.00pm – 9.15am      | Dr N Singh (L)      | Dr G Chaudhary (L)                  |
 | 13   | Thursday  | 5.00pm – 9.00pm      | Dr N Chanian        | Dr M Qaiyum                         |
 |      |           | 9.00pm – 9.15am      | Dr Y Gohil (L)      | Dr M Qaiyum                         |
 | 14   | Friday    | 5.00pm – 9.00pm      | Dr S Zaidi          | Dr R Jawad (A)                      |

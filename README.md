@@ -185,7 +185,7 @@
 |      |           | 9.00pm – 9.15am      | Dr V Popa-Nimigean  | Dr I Khan                           |
 | 19   | Wednesday | 5.00pm – 9.00pm      | Dr S Zaidi (L)      | Dr D Rosewarne                      |
 |      |           | 9.00pm – 9.15am      | Dr V Popa-Nimigean  | Dr D Rosewarne                      |
-| 20   | Thursday  | 5.00pm – 9.00pm      | Dr A Khan (L)       | Dr S Jain                           |
+| 20   | Thursday  | 5.00pm – 9.00pm      | Dr N Chanian (L)    | Dr S Jain                           |
 |      |           | 9.00pm – 9.15am      | Dr V Popa-Nimigean  | Dr S Jain                           |
 | 21   | Friday    | 5.00pm – 9.00pm      | Dr N Singh          | Dr A Bapusamy (A)                   |
 |      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr A Bapusamy (A)                   |

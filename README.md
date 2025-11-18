@@ -181,7 +181,7 @@
 |      |           | 9.00pm – 9.15am      | Dr El Nigoumi       | Dr Jawad (A) Dr A Agamy(B)          |
 | 17   | Monday    | 5.00pm – 9.00pm      | Dr S Zaidi          | Dr F Syed                           |
 |      |           | 9.00pm – 9.15am      | Dr V Popa-Nimigean  | Dr F Syed                           |
-| 18   | Tuesday   | 5.00pm – 9.00pm      | Dr S Zaidi          | Dr I Khan                           |
+| 18   | Tuesday   | 5.00pm – 9.00pm      | Dr N Chanian (L)    | Dr I Khan                           |
 |      |           | 9.00pm – 9.15am      | Dr V Popa-Nimigean  | Dr I Khan                           |
 | 19   | Wednesday | 5.00pm – 9.00pm      | Dr S Zaidi (L)      | Dr D Rosewarne                      |
 |      |           | 9.00pm – 9.15am      | Dr V Popa-Nimigean  | Dr D Rosewarne                      |

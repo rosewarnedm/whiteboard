@@ -88,7 +88,7 @@
 #### Wednesday 19
 **DR AM** Dr Jain, Rohan Ahmed, Dr Rafati
 
-**DR PM** Dr Jawad, Nirbhaibir Singh, Dr Gupta
+**DR PM** Dr Jawad, Nirbhaibir Singh, Dr Yahya
 
 **Peripheral CTA** Dr. Sarang / Dr Sirakaya
 
@@ -100,23 +100,23 @@
 **Peripheral CTA** Dr. Rangarajan
 
 #### Friday 21
-**DR AM** Dr Vydianath, Maham Khan, TBA
+**DR AM** Dr Bapusamy, Yogeshwar Gohil, Dr Syed
 
-**DR PM** Dr Jain, Ahmed Elnigoumi, Dr Chaudhary
+**DR PM** Dr Jain, Ahmed Elnigoumi, Dr Bapusamy
 
 **Peripheral CTA** Dr. Collins
 
 #### Monday 24
 **DR AM** Dr Saha, Nihal Chanian, Dr Jawad
 
-**DR PM** Dr Au Yong, Ahmed Elnigoumi, Dr Pang
+**DR PM** Dr Au Yong, Nihal Chanian, Dr Pang
 
 **Peripheral CTA** Dr. Condati
 
 #### Tuesday 25
 **DR AM** Dr Yahya, Hina Khan, Dr Blakeman
 
-**DR PM** Dr Rosewarne, Maham Khan, Dr Bapusamy
+**DR PM** Dr Rosewarne, Maham Khan, Dr Chauhdary
 
 **Peripheral CTA** Dr. Sarang / Dr. Nikkar
 
@@ -128,9 +128,9 @@
 **Peripheral CTA** Dr Sirakaya
 
 #### Thursday 27
-**DR AM** Dr Mahmood, Nihal Chanian, Dr Agamy
+**DR AM** Dr Mahmood, Yogeshwar Gohil, Dr Agamy
 
-**DR PM** Dr Bapusamy, Nihal Chanian, Dr Pang
+**DR PM** Dr Vydianath, Nihal Chanian, Dr Pang
 
 **Peripheral CTA** Dr Sirakaya / Dr. Nikkar
 

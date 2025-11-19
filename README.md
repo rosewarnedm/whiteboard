@@ -188,11 +188,11 @@
 | 20   | Thursday  | 5.00pm – 9.00pm      | Dr N Chanian (L)    | Dr S Jain                           |
 |      |           | 9.00pm – 9.15am      | Dr V Popa-Nimigean  | Dr S Jain                           |
 | 21   | Friday    | 5.00pm – 9.00pm      | Dr N Singh          | Dr A Bapusamy (A)                   |
-|      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr A Bapusamy (A)                   |
+|      |           | 9.00pm – 9.15am      | Dr N Chanian (L)    | Dr A Bapusamy (A)                   |
 | 22   | Saturday  | 9.00am – 9.15pm      | Dr M Khan           | Dr A Bapusamy (A) Dr R Kurian (B)   |
-|      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr A Bapusamy (A) Dr R Kurian (B)   |
+|      |           | 9.00pm – 9.15am      | Dr N Singh (L)      | Dr A Bapusamy (A) Dr R Kurian (B)   |
 | 23   | Sunday    | 9.00am – 9.15pm      | Dr M Khan           | Dr A Bapusamy (A) Dr R Kurian (B)   |
-|      |           | 9.00pm – 9.15am      | Dr A Khan           | Dr A Bapusamy (A) Dr R Kurian (B)   |
+|      |           | 9.00pm – 9.15am      | Dr T Jadhav (L)     | Dr A Bapusamy (A) Dr R Kurian (B)   |
 | 24   | Monday    | 5.00pm – 9.00pm      | Dr A Ahmed          | Dr T Au Yong                        |
 |      |           | 9.00pm – 9.15am      | Dr T Jadhav         | Dr T Au Yong                        |
 | 25   | Tuesday   | 5.00pm – 9.00pm      | Dr A Ahmed          | Dr S Yahya                          |

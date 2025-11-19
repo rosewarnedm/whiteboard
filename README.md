@@ -201,7 +201,7 @@
 |      |           | 9.00pm – 9.15am      | Dr T Jadhav         | Dr P Li                             |
 | 27   | Thursday  | 5.00pm – 9.00pm      | Dr N Singh          | Dr R Jawad                          |
 |      |           | 9.00pm – 9.15am      | Dr T Jadhav         | Dr R Jawad                          |
-| 28   | Friday    | 5.00pm – 9.00pm      | Dr M Rai            | Dr F Syed (A)                       |
+| 28   | Friday    | 5.00pm – 9.00pm      | Dr Y Gohil (L)      | Dr F Syed (A)                       |
 |      |           | 9.00pm – 9.15am      | Dr N Chanian        | Dr F Syed (A)                       |
 | 29   | Saturday  | 9.00am – 9.15pm      | Dr Y Gohil          | Dr F Syed (A) Dr A Mahmood (B)      |
 |      |           | 9.00pm – 9.15am      | Dr N Chanian        | Dr F Syed (A) Dr A Mahmood (B)      |

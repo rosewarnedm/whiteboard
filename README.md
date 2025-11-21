@@ -46,7 +46,7 @@
 
 **DR AM** Dr Yahya, Hina Khan, Dr Blakeman
 
-**DR PM** Dr Rosewarne, Maham Khan, Dr Chauhdary
+**DR PM** Dr Rosewarne, Nihal Chanian, Dr Chauhdary
 
 **Peripheral CTA** Dr. Sarang / Dr. Nikkar
 
@@ -57,7 +57,7 @@
 
 #### Wednesday 26
 
-**DR AM** Dr Kurian, Maham Khan, Dr Jawad
+**DR AM** Dr Kurian, Maham Khan, Dr Yahya
 
 **DR PM** Dr Thomas, Nirbhaibir Singh, Dr Khan
 
@@ -72,7 +72,7 @@
 
 **DR AM** Dr Mahmood, Yogeshwar Gohil, Dr Agamy
 
-**DR PM** Dr Vydianath, Nihal Chanian, Dr Pang
+**DR PM** Dr Vydianath, Maham Khan, Dr Pang
 
 **Peripheral CTA** Dr Sirakaya / Dr. Nikkar
 

@@ -57,7 +57,7 @@
 
 #### Wednesday 26
 
-**DR AM** Dr Kurian, Maham Khan, Dr Yahya
+**DR AM** Dr Kurian, Maham Khan, Dr Au Yong
 
 **DR PM** Dr Thomas, Nirbhaibir Singh, Dr Khan
 

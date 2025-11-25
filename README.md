@@ -105,7 +105,7 @@
 
 **On-Call 9.00am – 9.15pm** 1st On Call: Dr Y Gohil; 2nd On Call: Dr F Syed (A) Dr A Mahmood (B)
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Chanian; 2nd On Call: Dr F Syed (A) Dr A Mahmood (B)
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Singh (L); 2nd On Call: Dr F Syed (A) Dr A Mahmood (B)
 
 
 

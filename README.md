@@ -70,7 +70,7 @@
 
 #### Thursday 27
 
-**DR AM** Dr Mahmood, Yogeshwar Gohil, Dr Agamy
+**DR AM** Dr Mahmood, Nirbhaibir Singh, Dr Agamy
 
 **DR PM** Dr Vydianath, Maham Khan, Dr Pang
 
@@ -85,7 +85,7 @@
 
 **DR AM** Dr Li, Ali Ahmed, Dr Vydianath
 
-**DR PM** Dr Mahmood, Nirbhaibir Singh, Dr Collins
+**DR PM** Dr Mahmood, Yogeshwar Gohil, Dr Collins
 
 **Peripheral CTA** Dr. Collins
 

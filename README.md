@@ -1,112 +1,359 @@
+### DECEMBER 2025 - needs verification by Lisa/Tina/Collette
 
-### NOVEMBER 2025
+
+#### Monday 1
+
+**DR AM** Dr Au Yong, Ali Ahmed, Dr Khan
+
+**DR PM** Dr Thomas, Ayesha Khan, Dr Syed
+
+**Peripheral CTA** Dr Dyer
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr T Au Yong
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr R Ahmed; 2nd On Call: Dr T Au Yong
 
 
-#### Friday 21
+#### Tuesday 2
 
-**DR AM** Dr Bapusamy, Yogeshwar Gohil, Dr Syed
+**DR AM** Dr Yahya, Ayesha Khan, Dr Rafati
 
-**DR PM** Dr Jain, Ahmed Elnigoumi, Dr Bapusamy
+**DR PM** Dr Vydianath, Vladimir Popa-Nimigean, Dr Au Yong
+
+**Peripheral CTA** Dr. Sarang
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr A Agamy
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr R Ahmed; 2nd On Call: Dr A Agamy
+
+
+#### Wednesday 3
+
+**DR AM** Dr Jain, Ayesha Khan, Dr Chaudhary
+
+**DR PM** Dr Jawad, Yogeshwar Gohil, Dr Thomas
+
+**Peripheral CTA** Dr Dyer
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Ahmed; 2nd On Call: Dr G Chaudhary
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Locum; 2nd On Call: Dr G Chaudhary
+
+
+#### Thursday 4
+
+**DR AM** Dr Agamy, TBA, Mehvish Khatoon
+
+**DR PM** Dr Rosewarne, Tanmay Jadhav, Dr Khan
+
+**Peripheral CTA** Dr. Sirakaya
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Ahmed; 2nd On Call: Dr S Jain
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Locum; 2nd On Call: Dr S Jain
+
+
+#### Friday 5
+
+**DR AM** Dr Qaiyum, Sobia Khan, Dr Vydianath
+
+**DR PM** Dr Kurian, Nirbhaibir Singh, Dr Collins
 
 **Peripheral CTA** Dr. Collins
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr N Singh; 2nd On Call: Dr A Bapusamy (A)
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr Y Gohil; 2nd On Call: Dr S Vydianath (A)
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Chanian (L); 2nd On Call: Dr A Bapusamy (A)
-
-
-#### Saturday 22
-
-**On-Call 9.00am – 9.15pm** 1st On Call: Dr M Khan; 2nd On Call: Dr A Bapusamy (A) Dr R Kurian (B)
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Singh (L); 2nd On Call: Dr A Bapusamy (A) Dr R Kurian (B)
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr S Vydianath (A)
 
 
-#### Sunday 23
+#### Saturday 6
 
-**On-Call 9.00am – 9.15pm** 1st On Call: Dr M Khan; 2nd On Call: Dr A Bapusamy (A) Dr R Kurian (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr S Vydianath (A) Dr G Chaudhary (B)
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr T Jadhav (L); 2nd On Call: Dr A Bapusamy (A) Dr R Kurian (B)
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr S Vydianath (A) Dr G Chaudhary (B)
 
 
-#### Monday 24
+#### Sunday 7
 
-**DR AM** Dr Saha, Nihal Chanian, Dr Jawad
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr S Vydianath (A) Dr G Chaudhary (B)
 
-**DR PM** Dr Au Yong, Nihal Chanian, Dr Pang
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr S Vydianath (A) Dr G Chaudhary (B)
+
+
+#### Monday 8
+
+**DR AM** Dr Jain, Ali Ahmed, Dr Jawad
+
+**DR PM** Dr Azam, Khyle Cole, Dr Saha
+
+**Peripheral CTA** Dr Dyer
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr H Azam
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Locum; 2nd On Call: Dr H Azam
+
+
+#### Tuesday 9
+
+**DR AM** Dr Qaiyum, Vladimir Popa-Nimigean, Dr Blakeman
+
+**DR PM** Dr Yahya, Ahmed Elnigoumi, Dr Azam
+
+**Peripheral CTA** Dr. Sarang
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr W Pang
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr El Nigoumi; 2nd On Call: Dr W Pang
+
+
+#### Wednesday 10
+
+**DR AM** Dr Au Yong, Ali Ahmed, Dr Rafati
+
+**DR PM** Dr Thomas, Syed Zaidi, Dr Kurian
+
+**Peripheral CTA** Dr. Sirakaya
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr A Gupta
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr El Nigoumi; 2nd On Call: Dr A Gupta
+
+
+#### Thursday 11
+
+**DR AM** Dr Mahmood, Ali Gulamhussein, Dr Qaiyum
+
+**DR PM** Dr Kurian, Tanmay Jadhav, Dr Qaiyum
+
+**Peripheral CTA** Dr. Nikkar
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr A Mahmood
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr El Nigoumi; 2nd On Call: Dr A Mahmood
+
+
+#### Friday 12
+
+**DR AM** Dr Li, Yogeshwar Gohil, Dr Syed
+
+**DR PM** Dr Azam, Ayesha Khan, Dr Mahmood
+
+**Peripheral CTA** Dr. Collins
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Ahmed; 2nd On Call: Dr F Rafati (A)
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Singh; 2nd On Call: Dr F Rafati (A)
+
+
+#### Saturday 13
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr F Rafati (A) Dr H Azam (B)
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Singh; 2nd On Call: Dr F Rafati (A) Dr H Azam (B)
+
+
+#### Sunday 14
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr F Rafati (A) Dr H Azam (B)
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Singh; 2nd On Call: Dr F Rafati (A) Dr H Azam (B)
+
+
+#### Monday 15
+
+**DR AM** Dr Saha, Syed Zaidi, Dr Syed
+
+**DR PM** Dr Thomas, Ahmed Elnigoumi, Dr Au Yong
+
+**Peripheral CTA** Dr. Sirakaya
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr R Kurian
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr A Khan; 2nd On Call: Dr R Kurian
+
+
+#### Tuesday 16
+
+**DR AM** Dr Au Yong, Yogeshwar Gohil, Dr Yahya
+
+**DR PM** Dr Vydianath, Ahmed Elnigoumi, Dr Azam
+
+**Peripheral CTA** Dr. Sarang
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr D Thomas
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr A Khan; 2nd On Call: Dr D Thomas
+
+
+#### Wednesday 17
+
+**DR AM** Dr Rafati, Rajat Bhardwaj, Dr Au Yong
+
+**DR PM** Dr Jawad, Dominic Catlow, Dr Agamy
+
+**Peripheral CTA** Dr Dyer
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr D Rosewarne
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr A Khan; 2nd On Call: Dr D Rosewarne
+
+
+#### Thursday 18
+
+**DR AM** Dr Pang, Syed Zaidi, Dr Rafati
+
+**DR PM** Dr Rosewarne, Tanmay Jadhav, Dr Khatoon
+
+**Peripheral CTA** Dr. Nikkar
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr S Vydianath
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr A Khan; 2nd On Call: Dr S Vydianath
+
+
+#### Friday 19
+
+**DR AM** Dr Li, Rohan Ahmed, Dr Syed
+
+**DR PM** Dr Vydianath, Sobia Khan, Dr Mahmood
+
+**Peripheral CTA** Dr. Collins
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Locum; 2nd On Call: Dr S Jain (A)
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr K Cole; 2nd On Call: Dr S Jain (A)
+
+
+#### Saturday 20
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr S Jain (A) Dr T Au Yong (B)
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr K Cole; 2nd On Call: Dr S Jain (A) Dr T Au Yong (B)
+
+
+#### Sunday 21
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr S Jain (A) Dr T Au Yong (B)
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr K Cole; 2nd On Call: Dr S Jain (A) Dr T Au Yong (B)
+
+
+#### Monday 22
+
+**DR AM** Dr Saha, Ali Gulamhussein, Dr Kurian
+
+**DR PM** Dr Li, Rohan Ahmed, Dr Rafati
 
 **Peripheral CTA** Dr. Condati
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Ahmed; 2nd On Call: Dr T Au Yong
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr F Syed
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr T Au Yong
-
-
-#### Tuesday 25
-
-**DR AM** Dr Yahya, Hina Khan, Dr Blakeman
-
-**DR PM** Dr Rosewarne, Nihal Chanian, Dr Chauhdary
-
-**Peripheral CTA** Dr. Sarang / Dr. Nikkar
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Ahmed; 2nd On Call: Dr S Yahya
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr S Yahya
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr F Syed
 
 
-#### Wednesday 26
+#### Tuesday 23
 
-**DR AM** Dr Kurian, Maham Khan, Dr Au Yong
+**DR AM** Dr Yahya, Nirbhaibir Singh, Dr Blakeman
 
-**DR PM** Dr Thomas, Nirbhaibir Singh, Dr Khan
+**DR PM** Dr Vydianath, Vladimir Popa-Nimigean, Dr Azam
 
-**Peripheral CTA** Dr Sirakaya
+**Peripheral CTA** Dr. Nikkar
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr Y Gohil; 2nd On Call: Dr P Li
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr I Khan
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr P Li
-
-
-#### Thursday 27
-
-**DR AM** Dr Mahmood, Nirbhaibir Singh, Dr Agamy
-
-**DR PM** Dr Vydianath, Maham Khan, Dr Pang
-
-**Peripheral CTA** Dr Sirakaya / Dr. Nikkar
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr N Singh; 2nd On Call: Dr R Jawad
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr R Jawad
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr I Khan
 
 
-#### Friday 28
+#### Wednesday 24
 
-**DR AM** Dr Li, Ali Ahmed, Dr Vydianath
+**DR AM** Dr Chaudhary, Rohan Ahmed, Dr Jawad
 
-**DR PM** Dr Mahmood, Yogeshwar Gohil, Dr Collins
+**DR PM** Dr Gupta, Nirbhaibir Singh, TBA
 
-**Peripheral CTA** Dr. Collins
+**Peripheral CTA** Dr. Sirakaya
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr Y Gohil (L); 2nd On Call: Dr F Syed (A)
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr M Qaiyum
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Chanian; 2nd On Call: Dr F Syed (A)
-
-
-#### Saturday 29
-
-**On-Call 9.00am – 9.15pm** 1st On Call: Dr Y Gohil; 2nd On Call: Dr F Syed (A) Dr A Mahmood (B)
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Chanian; 2nd On Call: Dr F Syed (A) Dr A Mahmood (B)
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr M Qaiyum
 
 
-#### Sunday 30
+#### Thursday 25
 
-**On-Call 9.00am – 9.15pm** 1st On Call: Dr Y Gohil; 2nd On Call: Dr F Syed (A) Dr A Mahmood (B)
+**DR AM** Bank Holiday
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Singh (L); 2nd On Call: Dr F Syed (A) Dr A Mahmood (B)
+**DR PM** Bank Holiday
 
+**Peripheral CTA** CHRISTMAS DAY
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr A Agamy (A) Dr R Jawad (B)
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr A Agamy (A) Dr R Jawad (B)
+
+
+#### Friday 26
+
+**DR AM** Bank Holiday
+
+**DR PM** Bank Holiday
+
+**Peripheral CTA** BOXING DAY
+
+**On-Call (BD) 9.00am – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr I Khan (A) Dr S Yahya (B)
+
+**On-Call (BD) 9.00pm – 9.15am** 1st On Call: Dr Y Gohil; 2nd On Call: Dr I Khan (A) Dr S Yahya (B)
+
+
+#### Saturday 27
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr R Ahmed; 2nd On Call: Dr W Pang (A) Dr A Gupta (B)
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr Y Gohil; 2nd On Call: Dr W Pang (A) Dr A Gupta (B)
+
+
+#### Sunday 28
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr R Ahmed; 2nd On Call: Dr W Pang (A) Dr A Gupta (B)
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr Y Gohil; 2nd On Call: Dr W Pang (A) Dr A Gupta (B)
+
+
+#### Monday 29
+
+**DR AM** Dr Syed, Dominic Catlow, Dr Jain
+
+**DR PM** Dr Gupta, Rajat Bhardwaj, Dr Bapusamy
+
+**Peripheral CTA** Dr. Condati
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr A Bapusamy
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Singh; 2nd On Call: Dr A Bapusamy
+
+
+#### Tuesday 30
+
+**DR AM** Dr Pang, Khyle Cole, Dr Blakeman
+
+**DR PM** Dr Rosewarne, Ali Gulamhussein, Dr Chaudhary
+
+**Peripheral CTA** Dr. Sarang
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr S Yahya
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Singh; 2nd On Call: Dr S Yahya
+
+
+#### Wednesday 31
+
+**DR AM** Dr Chaudhary, Rajat Bhardwaj, Dr Jain
+
+**DR PM** Dr Kurian, Dominic Catlow, Dr Pang
+
+**Peripheral CTA** Dr. Nikkar
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr S Saha
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Singh; 2nd On Call: Dr S Saha
 
 
 ## Directorate meetings  
@@ -117,6 +364,5 @@ TBA
 ## REALM meetings
 ### 9.15 – 10.30
 
-Monday 24 November		Dr T Au Yong
 
 Tuesday 16 December		Dr H Azam

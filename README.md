@@ -42,7 +42,7 @@
 
 #### Thursday 4
 
-**DR AM** Dr Agamy, TBA, Mehvish Khatoon
+**DR AM** Dr Agamy, Ali Gulamhussein, Mehvish Khatoon
 
 **DR PM** Dr Rosewarne, Tanmay Jadhav, Dr Khan
 
@@ -121,7 +121,7 @@
 
 #### Thursday 11
 
-**DR AM** Dr Mahmood, Ali Gulamhussein, Dr Qaiyum
+**DR AM** Dr Mahmood, Ali Ahmed, Dr Qaiyum
 
 **DR PM** Dr Kurian, Tanmay Jadhav, Dr Qaiyum
 

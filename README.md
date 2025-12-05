@@ -42,7 +42,7 @@
 
 #### Thursday 4
 
-**DR AM** Dr Agamy, Ali Gulamhussein, Mehvish Khatoon
+**DR AM** Dr Agamy, Ali Ahmed, Mehvish Khatoon
 
 **DR PM** Dr Rosewarne, Tanmay Jadhav, Dr Khan
 
@@ -82,7 +82,7 @@
 
 #### Monday 8
 
-**DR AM** Dr Jain, Ali Ahmed, Dr Jawad
+**DR AM** Dr Jain, Ali Gulamhussein, Dr Jawad
 
 **DR PM** Dr Azam, Khyle Cole, Dr Saha
 
@@ -110,7 +110,7 @@
 
 **DR AM** Dr Au Yong, Ali Ahmed, Dr Rafati
 
-**DR PM** Dr Thomas, Syed Zaidi, Dr Kurian
+**DR PM** Dr Thomas, Syed Zaidi, TBA
 
 **Peripheral CTA** Dr. Sirakaya
 

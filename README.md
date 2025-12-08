@@ -97,7 +97,7 @@
 
 **DR AM** Dr Qaiyum, Vladimir Popa-Nimigean, Dr Blakeman
 
-**DR PM** Dr Yahya, Ahmed Elnigoumi, Dr Azam
+**DR PM** Dr Yahya, Dominic Catlow, Dr Azam
 
 **Peripheral CTA** Dr. Sarang
 
@@ -110,7 +110,7 @@
 
 **DR AM** Dr Au Yong, Ali Ahmed, Dr Rafati
 
-**DR PM** Dr Thomas, Syed Zaidi, TBA
+**DR PM** Dr Thomas, Syed Zaidi, ??Dr Khan
 
 **Peripheral CTA** Dr. Sirakaya
 

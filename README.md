@@ -363,7 +363,7 @@ TBA
 
 ### Individual duties - please verify individually
 
-#### Dr Agamy|
+#### Dr Agamy
 - Wednesday 7th: DR AM
 - Friday 9th: DR AM
 - Tuesday 13th: On call
@@ -373,19 +373,19 @@ TBA
 - Sunday 25th: On call
 - Wednesday 28th: DR AM
 
-#### Dr Au Yong|
+#### Dr Au Yong
 - Monday 5th: DR PM
 - Monday 12th: DR PM
 - Monday 12th: On call
 - Monday 19th: DR PM
 - Monday 26th: DR PM
 
-#### Dr Azam|
+#### Dr Azam
 - Tuesday 6th: DR AM
 - Tuesday 20th: DR AM
 - Tuesday 27th: DR AM
 
-#### Dr Bapusamy|
+#### Dr Bapusamy
 - Friday 2nd: DR AM
 - Saturday 3rd: On call
 - Sunday 4th: On call
@@ -394,44 +394,44 @@ TBA
 - Thursday 15th: DR PM
 - Thursday 22nd: DR PM
 
-#### Dr Blakeman|
+#### Dr Blakeman
 - Tuesday 6th: DR AM
 - Tuesday 13th: DR AM
 - Tuesday 20th: DR AM
 
-#### Dr Chaudhary|
+#### Dr Chaudhary
 - Friday 2nd: DR PM
 - Wednesday 7th: On call
 - Wednesday 14th: DR AM
 
-#### Dr Collins|
+#### Dr Collins
 - Friday 2nd: DR AM
 - Friday 30th: DR PM
 
-#### Dr Gupta|
+#### Dr Gupta
 - Wednesday 7th: DR PM
 - Wednesday 21st: DR AM
 - Wednesday 21st: On call
 - Wednesday 28th: DR PM
 
-#### Dr Jain|
+#### Dr Jain
 - Thursday 15th: On call
 - Monday 19th: DR AM
 - Monday 26th: DR AM
 - Wednesday 28th: DR AM
 
-#### Dr Jawad|
+#### Dr Jawad
 - Wednesday 14th: DR PM
 - Wednesday 21st: DR PM
 - Saturday 31st: On call
 
-#### Dr Khatoon|
+#### Dr Khatoon
 - Monday 5th: DR AM
 - Friday 16th: DR AM
 - Tuesday 20th: DR PM
 - Friday 23rd: DR AM
 
-#### Dr Khan|
+#### Dr Khan
 - Friday 30th: DR AM
 
 #### Dr I Khan|
@@ -439,14 +439,14 @@ TBA
 - Sunday 18th: On call
 - Tuesday 27th: On call
 
-#### Dr Kurian|
+#### Dr Kurian
 - Thursday 1st: On call
 - Thursday 8th: DR PM
 - Thursday 15th: DR PM
 - Thursday 22nd: DR AM
 - Monday 19th: On call
 
-#### Dr Li|
+#### Dr Li
 - Tuesday 6th: DR PM
 - Saturday 10th: On call
 - Sunday 11th: On call
@@ -454,12 +454,12 @@ TBA
 - Friday 16th: DR AM
 - Wednesday 28th: On call
 
-#### Dr Mahmood|
+#### Dr Mahmood
 - Friday 9th: DR PM
 - Thursday 22nd: DR AM
 - Thursday 29th: On call
 
-#### Dr Pang|
+#### Dr Pang
 - Monday 5th: DR AM
 - Tuesday 6th: On call
 - Thursday 8th: DR AM
@@ -478,7 +478,7 @@ TBA
 - Thursday 22nd: On call
 - Thursday 29th: DR PM
 
-#### Dr Rafati|
+#### Dr Rafati
 - Thursday 1st: On call
 - Tuesday 6th: DR PM
 - Wednesday 7th: DR AM
@@ -486,7 +486,7 @@ TBA
 - Monday 26th: On call
 - Thursday 29th: DR AM
 
-#### Dr Rosewarne|
+#### Dr Rosewarne
 - Friday 9th: DR PM
 - Wednesday 14th: On call
 - Friday 16th: DR PM
@@ -495,7 +495,7 @@ TBA
 - Friday 30th: On call
 - Saturday 31st: On call
 
-#### Dr Saha|
+#### Dr Saha
 - Wednesday 7th: DR PM
 - Friday 9th: On call
 - Saturday 10th: On call
@@ -504,14 +504,14 @@ TBA
 - Wednesday 21st: DR PM
 - Wednesday 28th: DR PM
 
-#### Dr Syed|
+#### Dr Syed
 - Monday 5th: On call
 - Monday 12th: DR PM
 - Monday 19th: DR AM
 - Monday 26th: DR AM
 - Friday 30th: DR AM
 
-#### Dr Thomas|
+#### Dr Thomas
 - Friday 2nd: DR PM
 - Friday 2nd: On call
 - Saturday 3rd: On call
@@ -521,14 +521,14 @@ TBA
 - Tuesday 20th: On call
 - Monday 26th: DR PM
 
-#### Dr Vydianath|
+#### Dr Vydianath
 - Thursday 8th: On call
 - Tuesday 13th: DR PM
 - Tuesday 20th: DR PM
 - Friday 23rd: DR AM
 - Tuesday 27th: DR PM
 
-#### Dr Yahya|
+#### Dr Yahya
 - Tuesday 13th: DR AM
 - Saturday 24th: On call
 - Sunday 25th: On call

@@ -1,28 +1,4 @@
 
-
-
-#### Wednesday 31
-
-**DR AM** Dr Chaudhary, Rajat Bhardwaj, Dr Jain
-
-**DR PM** Dr Kurian, Dominic Catlow, Dr Pang
-
-**Peripheral CTA** Dr. Nikkar
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr S Saha
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr A Ahmed (L); 2nd On Call: Dr S Saha
-
-
-## Directorate meetings  
-### 1pm Monday, 4pm other days
-
-TBA
-
-## REALM meetings
-### 9.15 – 10.30
-
-
 ### JANUARY 2026 - needs verification by Lisa/Tina/Collette
 
 
@@ -373,3 +349,15 @@ TBA
 **On-Call 9.00am – 9.00pm** 1st On Call: Dr K Cole; 2nd On Call: Dr D Rosewarne (A) Dr R Jawad (B)
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr D Rosewarne (A) Dr R Jawad (B)
+
+
+
+## Directorate meetings  
+### 1pm Monday, 4pm other days
+
+TBA
+
+## REALM meetings
+### 9.15 – 10.30
+
+

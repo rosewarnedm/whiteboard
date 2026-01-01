@@ -20,7 +20,7 @@
 
 **DR PM** Dr Chaudhary, Dr Thomas
 
-**Peripheral CTA** Ayesha Khan (AM); Dominic Catlow (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr D Thomas (A)
 
@@ -47,7 +47,7 @@
 
 **DR PM** Dr Thomas, Dr Syed
 
-**Peripheral CTA** Khyle Cole (AM); Nirbhaibir Singh (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr R Ahmed; 2nd On Call: Dr F Syed
 
@@ -60,7 +60,7 @@
 
 **DR PM** Dr Li, Dr Bapusamy
 
-**Peripheral CTA** Rajat Bhardwaj (AM); Syed Zaidi (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr R Ahmed; 2nd On Call: Dr W Pang
 
@@ -73,7 +73,7 @@
 
 **DR PM** Dr Gupta, Dr Kurian
 
-**Peripheral CTA** Ali Ahmed (AM); Rohan Ahmed (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr G Chaudhary
 
@@ -86,7 +86,7 @@
 
 **DR PM** Dr Bapusamy, Dr Kurian
 
-**Peripheral CTA** Syed Zaidi (AM); Yogeshwar Gohil (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr S Vydianath
 
@@ -99,7 +99,7 @@
 
 **DR PM** Dr Rosewarne, Dr Collins
 
-**Peripheral CTA** Khyle Cole (AM); Dominic Catlow (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr S Saha (A)
 
@@ -126,7 +126,7 @@
 
 **DR PM** Dr Au Yong, Dr Syed
 
-**Peripheral CTA** Sobia Khan (AM); Dominic Catlow (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav (L); 2nd On Call: Dr T Au Yong
 
@@ -139,7 +139,7 @@
 
 **DR PM** Dr Vydianath, Dr Bapusamy
 
-**Peripheral CTA** Dominic Catlow (AM); Vladimir Popa-Nimigean (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr El Nigoumi; 2nd On Call: Dr A Agamy
 
@@ -152,7 +152,7 @@
 
 **DR PM** Dr Jawad, Dr Gupta
 
-**Peripheral CTA** Rohan Ahmed (AM); Nirbhaibir Singh (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr R Ahmed; 2nd On Call: Dr D Rosewarne
 
@@ -165,7 +165,7 @@
 
 **DR PM** Dr Kurian, Dr Bapusamy
 
-**Peripheral CTA** Ali Gulamhussein (AM); Tanmay Jadhav (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr R Bhardwaj (L); 2nd On Call: Dr S Jain
 
@@ -178,7 +178,7 @@
 
 **DR PM** Dr Saha, Dr Rosewarne
 
-**Peripheral CTA** Khyle Cole (AM); Nirbhaibir Singh (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr M Qaiyum (A)
 
@@ -205,7 +205,7 @@
 
 **DR PM** Dr Au Yong, Dr Jawad
 
-**Peripheral CTA** Rajat Bhardwaj (AM); Ali Gulamhussein (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Khan; 2nd On Call: Dr R Kurian
 
@@ -218,7 +218,7 @@
 
 **DR PM** Dr Vydianath, Dr Khatoon
 
-**Peripheral CTA** Vladimir Popa-Nimigean (AM); Ahmed Elnigoumi (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Khan; 2nd On Call: Dr D Thomas
 
@@ -231,7 +231,7 @@
 
 **DR PM** Dr Gupta, Dr Jawad
 
-**Peripheral CTA** Ayesha Khan (AM); Sobia Khan (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr El Nigoumi; 2nd On Call: Dr A Gupta
 
@@ -244,7 +244,7 @@
 
 **DR PM** Dr Kurian, Dr Bapusamy
 
-**Peripheral CTA** Yogeshwar Gohil (AM); Tanmar Jadhav (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr E Nigoumi; 2nd On Call: Dr M Qaiyum
 
@@ -257,7 +257,7 @@
 
 **DR PM** Dr Agamy, Dr Syed
 
-**Peripheral CTA** Ayesha Khan (AM); Khyle Cole (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr R Ahmed; 2nd On Call: Dr A Agamy (A)
 
@@ -284,7 +284,7 @@
 
 **DR PM** Dr Thomas, Dr Au Yong
 
-**Peripheral CTA** Ali Ahmed (AM); Ali Gulamhussein (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr S Zaidi; 2nd On Call: Dr F Rafati
 
@@ -297,7 +297,7 @@
 
 **DR PM** Dr Vydianath, Dr Yahya
 
-**Peripheral CTA** Vladimir Popa-Nimigean (AM); Syed Zaidi (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr S Zaidi; 2nd On Call: Dr I Khan
 
@@ -310,7 +310,7 @@
 
 **DR PM** Dr Rosewarne, Dr Gupta
 
-**Peripheral CTA** Sobia Khan (AM); Ali Ahmed (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Khan; 2nd On Call: Dr P Li
 
@@ -323,7 +323,7 @@
 
 **DR PM** Dr Kurian, Dr Rafati
 
-**Peripheral CTA** Yogeshwar Gohil (AM); Tanmay Jadhav (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Khan; 2nd On Call: Dr A Mahmood
 
@@ -336,7 +336,7 @@
 
 **DR PM** Dr Thomas, Dr Mahmood
 
-**Peripheral CTA** Rajat Bhardwaj (AM); Ahmed Elnigoumi (PM)
+**Peripheral CTA** To follow
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr El Nigoumi; 2nd On Call: Dr D Rosewarne (A)
 
@@ -373,23 +373,23 @@ TBA
 
 #### Dr Au Yong
 - Monday 12th: DR PM (DR1)
+- Monday 12th: On call
 - Monday 19th: DR PM (DR1)
 - Tuesday 20th: DR AM (DR1)
-- Monday 26th: DR PM (DR1)
-- Monday 12th: On call
+- Monday 26th: DR PM (DR2)
 
 #### Dr Azam
 - Tuesday 27th: DR AM (DR2)
 
 #### Dr Bapusamy
 - Friday 2nd: DR AM (DR1)
+- Saturday 3rd: On call
+- Sunday 4th: On call
 - Tuesday 6th: DR PM (DR2)
 - Thursday 8th: DR PM (DR1)
 - Tuesday 13th: DR PM (DR2)
 - Thursday 15th: DR PM (DR2)
 - Thursday 22nd: DR PM (DR2)
-- Saturday 3rd: On call
-- Sunday 4th: On call
 
 #### Dr Blakeman
 - Tuesday 13th: DR AM (DR2)
@@ -403,20 +403,18 @@ TBA
 #### Dr Collins
 - Friday 2nd: DR AM (DR2)
 - Friday 9th: DR PM (DR2)
-- Friday 30th: DR PM (DR2)
 
 #### Dr Gupta
 - Wednesday 7th: DR PM (DR1)
-- Wednesday 14th: DR PM (DR2)
 - Wednesday 21st: DR PM (DR1)
-- Wednesday 28th: DR PM (DR2)
 - Wednesday 21st: On call
+- Wednesday 28th: DR PM (DR2)
 
 #### Dr Jain
+- Thursday 15th: On call
 - Monday 19th: DR AM (DR2)
 - Monday 26th: DR AM (DR1)
 - Wednesday 28th: DR AM (DR1)
-- Thursday 15th: On call
 
 #### Dr Jawad
 - Wednesday 14th: DR PM (DR1)
@@ -434,7 +432,7 @@ TBA
 - Friday 9th: DR AM (DR1)
 - Friday 30th: DR AM (DR2)
 
-#### Dr I Khan
+#### Dr I Khan|
 - Saturday 17th: On call
 - Sunday 18th: On call
 - Tuesday 27th: On call
@@ -450,28 +448,31 @@ TBA
 
 #### Dr Li
 - Tuesday 6th: DR PM (DR1)
-- Monday 12th: DR AM (DR1)
-- Friday 16th: DR AM (DR1)
 - Saturday 10th: On call
 - Sunday 11th: On call
+- Monday 12th: DR AM (DR1)
+- Friday 16th: DR AM (DR1)
 - Wednesday 28th: On call
 
 #### Dr Mahmood
 - Thursday 8th: DR AM (DR1)
 - Thursday 22nd: DR AM (DR1)
-- Friday 30th: DR PM (DR2)
 - Thursday 29th: On call
+- Friday 30th: DR PM (DR2)
 
 #### Dr Pang
 - Monday 5th: DR AM (DR2)
+- Tuesday 6th: On call
 - Monday 12th: DR AM (DR2)
 - Thursday 15th: DR AM (DR2)
 - Thursday 22nd: DR AM (DR2)
+- Thursday 29th: DR PM (DR1)
 
-#### Dr Qaiyum
+#### Dr Qaiyum|
 - Thursday 8th: DR AM (DR2)
 - Thursday 15th: DR AM (DR1)
 - Wednesday 21st: DR AM (DR1)
+- Thursday 22nd: DR PM (DR1)
 - Thursday 29th: DR AM (DR2)
 - Friday 16th: On call
 - Saturday 17th: On call
@@ -479,60 +480,61 @@ TBA
 - Thursday 22nd: On call
 
 #### Dr Rafati
+- Thursday 1st: On call
 - Tuesday 6th: DR AM (DR2)
 - Wednesday 7th: DR AM (DR1)
 - Wednesday 14th: DR AM (DR2)
-- Thursday 29th: DR PM (DR2)
-- Thursday 1st: On call
 - Monday 26th: On call
+- Thursday 29th: DR PM (DR2)
 
 #### Dr Rosewarne
 - Friday 9th: DR PM (DR1)
-- Friday 16th: DR PM (DR2)
-- Wednesday 28th: DR PM (DR1)
-- Friday 30th: DR PM (DR2)
 - Wednesday 14th: On call
+- Friday 16th: DR PM (DR2)
+- Friday 23rd: DR PM (DR1)
+- Wednesday 28th: DR PM (DR1)
 - Friday 30th: On call
 - Saturday 31st: On call
 
 #### Dr Saha
-- Wednesday 14th: DR PM (DR1)
-- Wednesday 21st: DR AM (DR2)
-- Friday 16th: DR PM (DR1)
 - Friday 9th: On call
 - Saturday 10th: On call
 - Sunday 11th: On call
+- Wednesday 14th: DR PM (DR1)
+- Friday 16th: DR PM (DR1)
+- Wednesday 21st: DR AM (DR2)
 
 #### Dr Syed
+- Monday 5th: On call
 - Monday 5th: DR PM (DR2)
 - Monday 12th: DR PM (DR2)
 - Monday 19th: DR AM (DR1)
 - Friday 23rd: DR PM (DR2)
 - Monday 26th: DR AM (DR2)
 - Friday 30th: DR AM (DR1)
-- Monday 5th: On call
 
 #### Dr Thomas
 - Friday 2nd: DR PM (DR2)
-- Monday 5th: DR PM (DR1)
-- Friday 9th: DR AM (DR2)
-- Monday 26th: DR PM (DR1)
-- Friday 30th: DR PM (DR1)
 - Friday 2nd: On call
 - Saturday 3rd: On call
 - Sunday 4th: On call
+- Monday 5th: DR PM (DR1)
+- Friday 9th: DR AM (DR2)
+- Tuesday 20th: On call
+- Monday 26th: DR PM (DR1)
+- Friday 30th: DR PM (DR1)
 
 #### Dr Vydianath
+- Thursday 8th: On call
 - Tuesday 13th: DR PM (DR1)
 - Tuesday 20th: DR PM (DR1)
 - Friday 23rd: DR AM (DR2)
 - Tuesday 27th: DR PM (DR1)
-- Thursday 8th: On call
 
 #### Dr Yahya
 - Tuesday 13th: DR AM (DR1)
+- Saturday 24th: On call
+- Sunday 25th: On call
 - Tuesday 27th: DR AM (DR1)
 - Tuesday 27th: DR PM (DR2)
 - Thursday 29th: DR AM (DR1)
-- Saturday 24th: On call
-- Sunday 25th: On call

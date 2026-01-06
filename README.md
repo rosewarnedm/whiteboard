@@ -75,7 +75,7 @@
 
 **Peripheral CTA** To follow
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr G Chaudhary
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr V Popa-Nimigean ; 2nd On Call: Dr G Chaudhary
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr K Cole; 2nd On Call: Dr G Chaudhary
 
@@ -88,7 +88,7 @@
 
 **Peripheral CTA** To follow
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr S Vydianath
+**On-Call 5.00pm – 9.00pm** 1st On Call:Dr V Popa-Nimigean ; 2nd On Call: Dr S Vydianath
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr K Cole; 2nd On Call: Dr S Vydianath
 
@@ -207,7 +207,7 @@
 
 **Peripheral CTA** To follow
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Khan; 2nd On Call: Dr R Kurian
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr N Singh; 2nd On Call: Dr R Kurian
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr A Ahmed; 2nd On Call: Dr R Kurian
 
@@ -220,7 +220,7 @@
 
 **Peripheral CTA** To follow
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Khan; 2nd On Call: Dr D Thomas
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr N Singh; 2nd On Call: Dr D Thomas
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr A Ahmed; 2nd On Call: Dr D Thomas
 

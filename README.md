@@ -128,7 +128,7 @@
 
 **Peripheral CTA** To follow
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav (L); 2nd On Call: Dr T Au Yong
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Ahmed (L); 2nd On Call: Dr T Au Yong
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr Y Gohil; 2nd On Call: Dr T Au Yong
 

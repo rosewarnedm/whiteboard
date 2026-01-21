@@ -345,7 +345,7 @@
 
 #### Saturday 31
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr K Cole; 2nd On Call: Dr D Rosewarne (A) Dr R Jawad (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr Y Gohil; 2nd On Call: Dr D Rosewarne (A) Dr R Jawad (B)
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr D Rosewarne (A) Dr R Jawad (B)
 

@@ -266,14 +266,14 @@
 
 #### Saturday 24
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr A Khan; 2nd On Call: Dr A Agamy (A) Dr S Yayha (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr S Zaidi; 2nd On Call: Dr A Agamy (A) Dr S Yayha (B)
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr D Catlow; 2nd On Call: Dr A Agamy (A) Dr S Yayha (B)
 
 
 #### Sunday 25
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr A Khan; 2nd On Call: Dr A Agamy (A) Dr S Yayha (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr Y Gohil; 2nd On Call: Dr A Agamy (A) Dr S Yayha (B)
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr D Catlow; 2nd On Call: Dr A Agamy (A) Dr S Yayha (B)
 
@@ -325,7 +325,7 @@
 
 **Peripheral CTA** To follow
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Khan; 2nd On Call: Dr A Mahmood
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr A Mahmood
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr A Mahmood
 

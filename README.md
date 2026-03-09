@@ -130,7 +130,7 @@
 
 **DR AM** Dr Mahmood, Dr Kurian
 
-**DR PM** Dr Kurian, Dr Bapusamy
+**DR PM** Dr Kurian, Dr Chaudhary
 
 **Peripheral CTA** Dr. Sirakaya
 
@@ -141,9 +141,9 @@
 
 #### Friday 13
 
-**DR AM** Dr Khan, Dr Thomas
+**DR AM** Dr Rosewarne, Dr Thomas
 
-**DR PM** Dr Rosewarne, Dr Mahmood
+**DR PM** Dr Thomas, Dr Mahmood
 
 **Peripheral CTA** Dr. Collins
 
@@ -181,7 +181,7 @@
 
 #### Tuesday 17
 
-**DR AM** Dr Rosewarne, Dr Rafati
+**DR AM** Dr Rosewarne, Dr Blakeman
 
 **DR PM** Dr Yahya, Dr Chaudhary
 
@@ -207,7 +207,7 @@
 
 #### Thursday 19
 
-**DR AM** Dr Pang, Dr Chaudhary
+**DR AM** Dr Pang, Dr Bapusamy
 
 **DR PM** Dr Bapusamy, Dr Rosewarne
 
@@ -260,7 +260,7 @@
 
 #### Tuesday 24
 
-**DR AM** Dr Au Yong, Dr Blakeman
+**DR AM** Dr Au Yong, Dr Rafati
 
 **DR PM** Dr Li, Dr Rosewarne
 
@@ -273,7 +273,7 @@
 
 #### Wednesday 25
 
-**DR AM** Dr Chaudhary, Dr Thomas
+**DR AM** Dr Chaudhary, Dr Khan
 
 **DR PM** Dr Jawad, Dr Pang
 
@@ -288,7 +288,7 @@
 
 **DR AM** Dr Mahmood, Dr Li
 
-**DR PM** Dr Bapusamy, Dr Khan
+**DR PM** Dr Bapusamy, Dr Pang
 
 **Peripheral CTA** Dr. Collins
 

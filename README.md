@@ -1,5 +1,5 @@
 ### MARCH 2026 - needs verification by Tina/Collette
-Duty updated by Lisa 9 March 2026
+Duty updated by Lisa 11 March 2026
 
 #### Sunday 1
 
@@ -130,7 +130,7 @@ Duty updated by Lisa 9 March 2026
 
 **DR AM** Dr Mahmood, Dr Kurian
 
-**DR PM** Dr Kurian, Dr Chaudhary
+**DR PM** Dr Vydianath, Dr Chaudhary
 
 **Peripheral CTA** Dr. Sirakaya
 
@@ -143,7 +143,7 @@ Duty updated by Lisa 9 March 2026
 
 **DR AM** Dr Rosewarne, Dr Thomas
 
-**DR PM** Dr Thomas, Dr Mahmood
+**DR PM** Dr Khan, Dr Mahmood
 
 **Peripheral CTA** Dr. Collins
 
@@ -196,7 +196,7 @@ Duty updated by Lisa 9 March 2026
 
 **DR AM** Dr Rafati, Dr Chaudhary
 
-**DR PM** Dr Gupta, Dr Pang
+**DR PM** Dr Gupta, TBA
 
 **Peripheral CTA** Dr. Dyer
 
@@ -207,9 +207,9 @@ Duty updated by Lisa 9 March 2026
 
 #### Thursday 19
 
-**DR AM** Dr Pang, Dr Bapusamy
+**DR AM** Dr Pang, Dr Yahya
 
-**DR PM** Dr Bapusamy, Dr Rosewarne
+**DR PM** Dr Bapusamy, Dr Rafati
 
 **Peripheral CTA** Dr. Rangarajan
 
@@ -288,7 +288,7 @@ Duty updated by Lisa 9 March 2026
 
 **DR AM** Dr Mahmood, Dr Li
 
-**DR PM** Dr Bapusamy, Dr Pang
+**DR PM** Dr Bapusamy, Dr Rosewarne
 
 **Peripheral CTA** Dr. Collins
 

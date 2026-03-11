@@ -200,7 +200,7 @@ Duty updated by Lisa 11 March 2026
 
 **Peripheral CTA** Dr. Dyer
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr G Chaudhary
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Pahal; 2nd On Call: Dr G Chaudhary
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr N Chanian; 2nd On Call: Dr G Chaudhary
 
@@ -213,7 +213,7 @@ Duty updated by Lisa 11 March 2026
 
 **Peripheral CTA** Dr. Rangarajan
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr S Jain
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Pahal; 2nd On Call: Dr S Jain
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Jain
 
@@ -253,7 +253,7 @@ Duty updated by Lisa 11 March 2026
 
 **Peripheral CTA** Dr. Dyer
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr T Au Yong
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr Ali Ahmed; 2nd On Call: Dr T Au Yong
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr T Au Yong
 
@@ -266,7 +266,7 @@ Duty updated by Lisa 11 March 2026
 
 **Peripheral CTA** Dr. Rangarajan
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr D Thomas
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr Ali Ahmed; 2nd On Call: Dr D Thomas
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr D Thomas
 

@@ -1,5 +1,5 @@
 ### MARCH 2026 - needs verification by Tina/Collette
-Duty updated by Lisa 11 March 2026, On call updated by Tina 11 March 2026
+Duty updated by Lisa 16 March 2026, On call updated by Tina 11 March 2026
 
 #### Sunday 1
 
@@ -196,7 +196,7 @@ Duty updated by Lisa 11 March 2026, On call updated by Tina 11 March 2026
 
 **DR AM** Dr Rafati, Dr Chaudhary
 
-**DR PM** Dr Gupta, TBA
+**DR PM** Dr Gupta, Dr Thomas
 
 **Peripheral CTA** Dr. Dyer
 

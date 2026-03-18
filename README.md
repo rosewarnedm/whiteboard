@@ -1,5 +1,5 @@
 ### MARCH 2026 - needs verification by Tina/Collette
-Duty updated by Lisa 16 March 2026, On call updated by Tina 11 March 2026
+Duty updated by Lisa 18 March 2026, On call updated by Tina 11 March 2026
 
 #### Sunday 1
 
@@ -207,7 +207,7 @@ Duty updated by Lisa 16 March 2026, On call updated by Tina 11 March 2026
 
 #### Thursday 19
 
-**DR AM** Dr Pang, Dr Yahya
+**DR AM** Dr Pang, Dr Rosewarne
 
 **DR PM** Dr Bapusamy, Dr Rafati
 
@@ -301,7 +301,7 @@ Duty updated by Lisa 16 March 2026, On call updated by Tina 11 March 2026
 
 **DR AM** Dr Syed, Dr Jawad
 
-**DR PM** Dr Pang, Dr Rosewarne
+**DR PM** Dr Pang, Dr Yahya
 
 **Peripheral CTA** Dr. Dyer
 

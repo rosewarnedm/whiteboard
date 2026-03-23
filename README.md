@@ -266,9 +266,9 @@ Duty updated by Lisa 18 March 2026, On call updated by Tina 11 March 2026
 
 **Peripheral CTA** Dr. Rangarajan
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr Ali Ahmed; 2nd On Call: Dr D Thomas
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr Ali Ahmed; 2nd On Call: Locum
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr D Thomas
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Locum
 
 
 #### Wednesday 25

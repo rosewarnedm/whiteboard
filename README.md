@@ -354,40 +354,7 @@ TBA
 
 TBA
 
----
 
-## Peripheral CTA / Vascular Reporting Rota — April 2026
-
-### Lower Limb In-Patient Angios
-
-| Date | Day | Reporter |
-|------|-----|----------|
-| 1 | Wednesday | Dr Dyer (JD) |
-| 2 | Thursday | Dr Sirakaya (MS) |
-| 3 | Friday | *Good Friday — Bank Holiday* |
-| 6 | Monday | *Easter Monday — Bank Holiday* |
-| 7 | Tuesday | Dr Nikkar (AN) |
-| 8 | Wednesday | Dr Sirakaya (MS) |
-| 9 | Thursday | Dr Condati (NC) |
-| 10 | Friday | Dr Sarang (ZS) |
-| 13 | Monday | Dr Dyer (JD) |
-| 14 | Tuesday | Dr Sarang (ZS) |
-| 15 | Wednesday | Dr Rangarajan (BR) |
-| 16 | Thursday | Dr Nikkar (AN) |
-| 17 | Friday | Dr Collins (MC) |
-| 20 | Monday | Dr Condati (NC) |
-| 21 | Tuesday | Dr Sarang (ZS) |
-| 22 | Wednesday | Dr Sirakaya (MS) |
-| 23 | Thursday | Dr Rangarajan (BR) |
-| 24 | Friday | Dr Dyer (JD) |
-| 27 | Monday | Dr Condati (NC) |
-| 28 | Tuesday | Dr Nikkar (AN) |
-| 29 | Wednesday | Dr Dyer (JD) |
-| 30 | Thursday | Dr Sirakaya (MS) |
-
-**Key:** MC – Dr Collins · NC – Dr Condati · JD – Dr Dyer · AN – Dr Nikkar · BR – Dr Rangarajan · ZS – Dr Sarang · MS – Dr Sirakaya
-
----
 
 ## Individual duties — please verify individually
 

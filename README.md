@@ -35,23 +35,23 @@ Duty updated by Lisa, On call updated by Tina
 
 **Peripheral CTA** —
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Rad (A) — need cover / Dr R Jawad (B)
+**On-Call 09.00am – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Rad (A) Dr D Rosewarne / Dr R Jawad (B)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr Ali Ahmed; 2nd On Call: Rad (A) — need cover / Dr R Jawad (B)
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr Ali Ahmed; 2nd On Call: Rad (A) Dr D Rosewarne / Dr R Jawad (B)
 
 
 #### Saturday 4
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr A Elnigoumi / Dr S Khan; 2nd On Call: Dr W Pang (A) / Rad (B) — need cover
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr A Elnigoumi; 2nd On Call: Dr W Pang (A) / Rad (B) Dr S Yahya
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr Ali Ahmed; 2nd On Call: Dr W Pang (A) / Rad (B) — need cover
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr Ali Ahmed; 2nd On Call: Dr W Pang (A) / Rad (B) Dr S Yahya
 
 
 #### Sunday 5 *(Easter Sunday)*
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr A Elnigoumi / Dr S Khan; 2nd On Call: Dr W Pang (A) / Rad (B) — need cover
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr S Khan; 2nd On Call: Dr W Pang (A) / Rad (B) Dr S Yahya
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr Ali Ahmed; 2nd On Call: Dr W Pang (A) / Rad (B) — need cover
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr Ali Ahmed; 2nd On Call: Dr W Pang (A) / Rad (B) Dr S Yahya
 
 
 #### Monday 6 *(Easter Monday – Bank Holiday)*
@@ -62,7 +62,7 @@ Duty updated by Lisa, On call updated by Tina
 
 **Peripheral CTA** —
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr Y Na; 2nd On Call: Dr M Qaiyum (A) / Dr R Jawad (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr Y Na; 2nd On Call: Dr M Qaiyum (A) / Dr R Jawad (B)
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr A Pahal; 2nd On Call: Dr M Qaiyum (A) / Dr R Jawad (B)
 
@@ -128,9 +128,9 @@ Duty updated by Lisa, On call updated by Tina
 
 #### Sunday 12
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Yahya (A) / Dr R Kurian (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Yahya (A) / Dr A Gupta (B)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr S Yahya (A) / Dr R Kurian (B)
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr S Yahya (A) / Dr A Gupta (B)
 
 
 #### Monday 13
@@ -246,7 +246,7 @@ Duty updated by Lisa, On call updated by Tina
 
 **Peripheral CTA** Dr. Sirakaya
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Elnigoumi / Dr S Khan; 2nd On Call: Dr A Gupta
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr S Zaidi; 2nd On Call: Dr A Gupta
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr Ali Ahmed; 2nd On Call: Dr A Gupta
 
@@ -272,23 +272,23 @@ Duty updated by Lisa, On call updated by Tina
 
 **Peripheral CTA** Dr. Dyer
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein (L); 2nd On Call: Dr R Jawad (A)
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein (L); 2nd On Call: Dr R Kurian (A)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr D Catlow; 2nd On Call: Dr R Jawad (A)
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr D Catlow; 2nd On Call: Dr R Kurian (A)
 
 
 #### Saturday 25
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr G Bhalla; 2nd On Call: Dr R Jawad (A) / Dr G Chaudhary (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr G Bhalla; 2nd On Call: Dr R Kurian (A) / Dr G Chaudhary (B)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr D Catlow; 2nd On Call: Dr R Jawad (A) / Dr G Chaudhary (B)
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr D Catlow; 2nd On Call: Dr R Kurian (A) / Dr G Chaudhary (B)
 
 
 #### Sunday 26
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr G Bhalla; 2nd On Call: Dr R Jawad (A) / Dr G Chaudhary (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr G Bhalla; 2nd On Call: Dr R Kurian (A) / Dr G Chaudhary (B)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr D Catlow; 2nd On Call: Dr R Jawad (A) / Dr G Chaudhary (B)
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr D Catlow; 2nd On Call: Dr R Kurian (A) / Dr G Chaudhary (B)
 
 
 #### Monday 27
@@ -299,7 +299,7 @@ Duty updated by Lisa, On call updated by Tina
 
 **Peripheral CTA** Dr. Condati
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr S Zaidi; 2nd On Call: Dr F Rafati
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr S Khan; 2nd On Call: Dr F Rafati
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr F Rafati
 
@@ -340,7 +340,7 @@ Duty updated by Lisa, On call updated by Tina
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr M Qaiyum
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr M Qaiyum
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr M Qaiyum
 
 
 

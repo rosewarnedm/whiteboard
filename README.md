@@ -1,4 +1,4 @@
-### APRIL 2026 - needs verification by Lisa/Tina/Collette
+### APRIL 2026 - needs verification by Lisa/Collette
 Duty updated by Lisa, On call updated by Tina
 
 #### Wednesday 1

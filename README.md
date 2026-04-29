@@ -306,7 +306,7 @@ Duty updated by Lisa, On call updated by Tina
 
 #### Tuesday 28
 
-**DR AM** Dr Khatoon, Dr Azam
+**DR AM** Dr Khatoon, Dr Rosewarne
 
 **DR PM** Dr Yahya, Dr Vydianath
 
@@ -334,14 +334,13 @@ Duty updated by Lisa, On call updated by Tina
 
 **DR AM** Dr Bapusamy, Dr Mahmood
 
-**DR PM** Dr Khan, Dr Pang
+**DR PM** Dr Jain, Dr Pang
 
 **Peripheral CTA** Dr. Sirakaya
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr M Qaiyum
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr M Qaiyum
-
 
 
 ## Directorate meetings

@@ -1,5 +1,5 @@
 ### MAY 2026 - needs verification by Lisa/Tina/Collette
-Duty updated by Lisa, On call updated by Tina
+Duty updated by Lisa on 1 May 2026, On call updated by Tina
 
 #### Friday 1
 
@@ -240,7 +240,7 @@ Duty updated by Lisa, On call updated by Tina
 
 #### Friday 22
 
-**DR AM** Dr Syed, Dr Thomas
+**DR AM** Dr Syed, Dr Saha
 
 **DR PM** Dr Mahmood, Dr Khan
 
@@ -306,7 +306,7 @@ Duty updated by Lisa, On call updated by Tina
 
 #### Thursday 28
 
-**DR AM** Dr Pang, Dr Kurian
+**DR AM** Dr Pang, TBA
 
 **DR PM** Dr Qaiyum, Dr Bapusamy
 
@@ -321,7 +321,7 @@ Duty updated by Lisa, On call updated by Tina
 
 **DR AM** Dr Thomas, Dr Agamy
 
-**DR PM** Dr Yahya, Dr Saha
+**DR PM** Dr Yahya, TBA
 
 **Peripheral CTA** Dr. Dyer
 

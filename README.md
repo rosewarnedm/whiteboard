@@ -1,5 +1,5 @@
 ### MAY 2026 - needs verification by Lisa/Tina/Collette
-Duty updated by Lisa on 1 May 2026, On call updated by Tina
+Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 #### Friday 1
 
@@ -137,7 +137,7 @@ Duty updated by Lisa on 1 May 2026, On call updated by Tina
 
 **DR AM** Dr Rafati, Dr Au Yong
 
-**DR PM** Dr Gupta, Dr Rosewarne
+**DR PM** Dr Gupta, Dr Kurian
 
 **Peripheral CTA** Dr. Dyer
 
@@ -306,7 +306,7 @@ Duty updated by Lisa on 1 May 2026, On call updated by Tina
 
 #### Thursday 28
 
-**DR AM** Dr Pang, TBA
+**DR AM** Dr Pang, Dr Rosewarne
 
 **DR PM** Dr Qaiyum, Dr Bapusamy
 
@@ -321,7 +321,7 @@ Duty updated by Lisa on 1 May 2026, On call updated by Tina
 
 **DR AM** Dr Thomas, Dr Agamy
 
-**DR PM** Dr Yahya, TBA
+**DR PM** Dr Yahya, Dr Chaudhary
 
 **Peripheral CTA** Dr. Dyer
 

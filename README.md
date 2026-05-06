@@ -332,16 +332,16 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 #### Saturday 30
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr S Saha (A) / Dr A Gupta (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha (A) / Dr A Gupta (B)
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
 
 
 #### Sunday 31
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr S Saha (A) / Dr A Gupta (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha (A) / Dr A Gupta (B)
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
 
 
 ## Directorate meetings

@@ -13,6 +13,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr P Li (A)
 
+**CT Night Radiographer** Katy Booth
+
 
 #### Saturday 2
 
@@ -20,12 +22,16 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr P Li (A) / Dr H Azam (B)
 
+**CT Night Radiographer** Katy Booth
+
 
 #### Sunday 3
 
 **On-Call 9.00am – 9.00pm** 1st On Call: Dr A Pahal; 2nd On Call: Dr P Li (A) / Dr H Azam (B)
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr P Li (A) / Dr H Azam (B)
+
+**CT Night Radiographer** Kervin Peji
 
 
 #### Monday 4 *(Early May Bank Holiday)*
@@ -40,6 +46,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr A Mahmood (A) / Dr D Thomas (B)
 
+**CT Night Radiographer** Jude Nnadi
+
 
 #### Tuesday 5
 
@@ -52,6 +60,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Bhalla; 2nd On Call: Dr I Khan
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr I Khan
+
+**CT Night Radiographer** Jude Nnadi
 
 
 #### Wednesday 6
@@ -66,6 +76,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr P Li
 
+**CT Night Radiographer** Jude Nnadi
+
 
 #### Thursday 7
 
@@ -78,6 +90,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr S Zaidi; 2nd On Call: Dr M Qaiyum
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr M Qaiyum
+
+**CT Night Radiographer** Amandeep Leer
 
 
 #### Friday 8
@@ -92,6 +106,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr R Jawad (A)
 
+**CT Night Radiographer** Amandeep Leer
+
 
 #### Saturday 9
 
@@ -99,12 +115,16 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr R Jawad (A) / Dr T Au Yong (B)
 
+**CT Night Radiographer** Amandeep Leer
+
 
 #### Sunday 10
 
 **On-Call 9.00am – 9.00pm** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr R Jawad (A) / Dr T Au Yong (B)
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr R Jawad (A) / Dr T Au Yong (B)
+
+**CT Night Radiographer** Sarah Woolley
 
 
 #### Monday 11
@@ -119,6 +139,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr D Catlow; 2nd On Call: Dr F Syed
 
+**CT Night Radiographer** Kervin Peji
+
 
 #### Tuesday 12
 
@@ -131,6 +153,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr A Agamy
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr D Catlow; 2nd On Call: Dr A Agamy
+
+**CT Night Radiographer** Kervin Peji
 
 
 #### Wednesday 13
@@ -145,6 +169,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr D Catlow; 2nd On Call: Dr M Khatoon
 
+**CT Night Radiographer** Kervin Peji
+
 
 #### Thursday 14
 
@@ -157,6 +183,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Pahal; 2nd On Call: Dr S Vydianath
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr D Catlow; 2nd On Call: Dr S Vydianath
+
+**CT Night Radiographer** Amandeep Leer
 
 
 #### Friday 15
@@ -171,6 +199,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian (L); 2nd On Call: Dr F Rafati (A)
 
+**CT Night Radiographer** Amandeep Leer
+
 
 #### Saturday 16
 
@@ -178,12 +208,16 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr F Rafati (A) / Dr A Mahmood (B)
 
+**CT Night Radiographer** Amandeep Leer
+
 
 #### Sunday 17
 
 **On-Call 9.00am – 9.00pm** 1st On Call: Dr Ali Ahmed; 2nd On Call: Dr F Rafati (A) / Dr A Mahmood (B)
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr F Rafati (A) / Dr A Mahmood (B)
+
+**CT Night Radiographer** Ayoola Fagbemi
 
 
 #### Monday 18
@@ -198,6 +232,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr H Azam
 
+**CT Night Radiographer** Jude Nnadi
+
 
 #### Tuesday 19
 
@@ -210,6 +246,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr D Thomas
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr D Thomas
+
+**CT Night Radiographer** Jude Nnadi
 
 
 #### Wednesday 20
@@ -224,6 +262,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr S Saha
 
+**CT Night Radiographer** Jude Nnadi
+
 
 #### Thursday 21
 
@@ -236,6 +276,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr A Mahmood
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr A Mahmood
+
+**CT Night Radiographer** Robinson Corpuz
 
 
 #### Friday 22
@@ -250,6 +292,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr S Khan; 2nd On Call: Dr M Qaiyum (A)
 
+**CT Night Radiographer** Elizabeth Taylor
+
 
 #### Saturday 23
 
@@ -257,12 +301,16 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr S Khan; 2nd On Call: Dr M Qaiyum (A) / Dr I Khan (B)
 
+**CT Night Radiographer** Elizabeth Taylor
+
 
 #### Sunday 24
 
 **On-Call 9.00am – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr M Qaiyum (A) / Dr I Khan (B)
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr S Khan; 2nd On Call: Dr M Qaiyum (A) / Dr I Khan (B)
+
+**CT Night Radiographer** Sarah Woolley
 
 
 #### Monday 25 *(Spring Bank Holiday)*
@@ -277,6 +325,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr A Bapusamy (A) / Dr S Jain (B)
 
+**CT Night Radiographer** *TBC*
+
 
 #### Tuesday 26
 
@@ -289,6 +339,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr Ali Ahmed; 2nd On Call: Dr S Yahya
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr A Elnigoumi; 2nd On Call: Dr S Yahya
+
+**CT Night Radiographer** *TBC*
 
 
 #### Wednesday 27
@@ -303,6 +355,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr A Elnigoumi; 2nd On Call: Dr A Gupta
 
+**CT Night Radiographer** *TBC*
+
 
 #### Thursday 28
 
@@ -315,6 +369,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Bhalla; 2nd On Call: Dr R Jawad
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr A Elnigoumi; 2nd On Call: Dr R Jawad
+
+**CT Night Radiographer** *TBC*
 
 
 #### Friday 29
@@ -329,6 +385,8 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha (A)
 
+**CT Night Radiographer** *TBC*
+
 
 #### Saturday 30
 
@@ -336,12 +394,16 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
 
+**CT Night Radiographer** *TBC*
+
 
 #### Sunday 31
 
 **On-Call 9.00am – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
+
+**CT Night Radiographer** *TBC*
 
 
 ## Directorate meetings

@@ -146,7 +146,7 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **DR AM** Dr Au Yong, Dr Khan
 
-**DR PM** Dr Chaudhary, Dr Vydianath
+**DR PM** Dr Vydianath, Dr Chaudhary
 
 **Peripheral CTA** Dr. Nikkar
 
@@ -189,7 +189,7 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 #### Friday 15
 
-**DR AM** Dr Li, Dr Thomas
+**DR AM** Dr Li, Dr Khatoon
 
 **DR PM** Dr Khan, Dr Jawad
 

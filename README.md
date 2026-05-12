@@ -290,7 +290,7 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Bhalla; 2nd On Call: Dr M Qaiyum (A)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr S Khan; 2nd On Call: Dr M Qaiyum (A)
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr M Qaiyum (A)
 
 **CT Night Radiographer** Elizabeth Taylor
 
@@ -299,7 +299,7 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00am – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr M Qaiyum (A) / Dr I Khan (B)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr S Khan; 2nd On Call: Dr M Qaiyum (A) / Dr I Khan (B)
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr M Qaiyum (A) / Dr I Khan (B)
 
 **CT Night Radiographer** Elizabeth Taylor
 
@@ -308,7 +308,7 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 **On-Call 9.00am – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr M Qaiyum (A) / Dr I Khan (B)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr S Khan; 2nd On Call: Dr M Qaiyum (A) / Dr I Khan (B)
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr M Qaiyum (A) / Dr I Khan (B)
 
 **CT Night Radiographer** Sarah Woolley
 
@@ -390,7 +390,7 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 #### Saturday 30
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr S Khan; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
 
@@ -399,7 +399,7 @@ Duty updated by Lisa on 6 May 2026, On call updated by Tina
 
 #### Sunday 31
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr S Khan; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
 

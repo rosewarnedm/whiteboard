@@ -1,5 +1,5 @@
 ### MAY 2026 - needs verification by Lisa/Collette
-Duty verified by Lisa on 13 May 2026, On call updated by Tina
+Duty verified by Lisa on 15 May 2026, On call updated by Tina
 
 #### Friday 1
 

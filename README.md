@@ -282,7 +282,7 @@ Duty verified by Lisa on 13 May 2026, On call updated by Tina
 
 #### Friday 22
 
-**DR AM** Dr Syed, Dr Saha
+**DR AM** Dr Syed, Dr Khatoon
 
 **DR PM** Dr Mahmood, Dr Khan
 

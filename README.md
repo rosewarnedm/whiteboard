@@ -338,7 +338,7 @@ Duty verified by Lisa on 15 May 2026, On call updated by Tina
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr G MacFarlane; 2nd On Call: Dr S Yahya
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr A Elnigoumi; 2nd On Call: Dr S Yahya
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr S Yahya
 
 **CT Night Radiographer** *TBC*
 
@@ -368,7 +368,7 @@ Duty verified by Lisa on 15 May 2026, On call updated by Tina
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Bhalla; 2nd On Call: Dr R Jawad
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr A Elnigoumi; 2nd On Call: Dr R Jawad
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr R Jawad
 
 **CT Night Radiographer** *TBC*
 

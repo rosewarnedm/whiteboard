@@ -351,9 +351,9 @@ Duty verified by Lisa on 15 May 2026, On call updated by Tina
 
 **Peripheral CTA** Dr. Nikkar
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Pahal; 2nd On Call: Dr A Gupta
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein ; 2nd On Call: Dr A Gupta
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr A Elnigoumi; 2nd On Call: Dr A Gupta
+**On-Call 9.00pm – 9.15am** 1st On Call: Locum; 2nd On Call: Dr A Gupta
 
 **CT Night Radiographer** *TBC*
 
@@ -366,7 +366,7 @@ Duty verified by Lisa on 15 May 2026, On call updated by Tina
 
 **Peripheral CTA** Dr. Sirakaya
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Bhalla; 2nd On Call: Dr R Jawad
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr R Jawad
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr R Jawad
 

@@ -1,5 +1,5 @@
 ### MAY 2026 - needs verification by Lisa/Collette
-Duty verified by Lisa on 15 May 2026, On call updated by Tina
+Duty verified by Lisa on 27 May 2026, On call updated by Tina
 
 #### Friday 1
 
@@ -362,7 +362,7 @@ Duty verified by Lisa on 15 May 2026, On call updated by Tina
 
 **DR AM** Dr Pang, Dr Rosewarne
 
-**DR PM** Dr Qaiyum, Dr Bapusamy
+**DR PM** Dr Qaiyum, Dr Yahya 1 pm to 4 pm/4 pm to 5 pm ALL
 
 **Peripheral CTA** Dr. Sirakaya
 

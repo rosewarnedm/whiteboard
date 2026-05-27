@@ -399,9 +399,9 @@ Duty verified by Lisa on 15 May 2026, On call updated by Tina
 
 #### Sunday 31
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr S Khan; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr S Khan; 2nd On Call: Dr S Saha (A) / Dr D Thomas (B)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha (A) / Dr A Bapusamy (B)
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha (A) / Dr D Thomas (B)
 
 **CT Night Radiographer** *TBC*
 

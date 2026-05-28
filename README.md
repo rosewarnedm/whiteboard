@@ -390,9 +390,9 @@ Duty verified by Lisa on 27 May 2026, On call updated by Tina
 
 #### Saturday 30
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr S Khan; 2nd On Call: Dr S Saha (A) / 09.00am - 2.00pm Dr M Qaiyum (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr S Khan; 2nd On Call: Dr S Saha (A) / **09.00am - 2.00pm** Dr M Qaiyum (B)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha (A) / 09.00am - 2.00pm Dr M Qaiyum (B)
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha (A) / **09.00am - 2.00pm** Dr M Qaiyum (B)
 
 **CT Night Radiographer** *TBC*
 

@@ -40,7 +40,7 @@ Duty verified by Lisa on 27 May 2026, On call updated by Tina
 
 
 ### JUNE 2026
-Duty verified from uploaded rotas (Duty Radiologist, On-Call, Peripheral CTA)
+Needs checking by Tina/Lisa/Collette
 
 #### Monday 1
 

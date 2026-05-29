@@ -427,3 +427,51 @@ TBA
 ### 9.15 – 10.30
 
 TBA
+
+## Calendars
+### June 2026 — per-radiologist DR & on-call shifts
+
+Right-click any name and choose *Save link as…* to download the `.ics` file, then import it into your calendar app.
+
+**Consultants**
+
+- [Dr A Agamy](calendars/Dr%20A%20Agamy.ics)
+- [Dr H Azam](calendars/Dr%20H%20Azam.ics)
+- [Dr A Bapusamy](calendars/Dr%20A%20Bapusamy.ics)
+- [Dr Blakeman](calendars/Dr%20Blakeman.ics)
+- [Dr G Chaudhary](calendars/Dr%20G%20Chaudhary.ics)
+- [Dr K Cole](calendars/Dr%20K%20Cole.ics)
+- [Dr Collins](calendars/Dr%20Collins.ics)
+- [Dr A Gupta](calendars/Dr%20A%20Gupta.ics)
+- [Dr S Jain](calendars/Dr%20S%20Jain.ics)
+- [Dr R Jawad](calendars/Dr%20R%20Jawad.ics)
+- [Dr I Khan](calendars/Dr%20I%20Khan.ics)
+- [Dr M Khatoon](calendars/Dr%20M%20Khatoon.ics)
+- [Dr R Kurian](calendars/Dr%20R%20Kurian.ics)
+- [Dr P Li](calendars/Dr%20P%20Li.ics)
+- [Dr A Mahmood](calendars/Dr%20A%20Mahmood.ics)
+- [Dr W Pang](calendars/Dr%20W%20Pang.ics)
+- [Dr M Qaiyum](calendars/Dr%20M%20Qaiyum.ics)
+- [Dr F Rafati](calendars/Dr%20F%20Rafati.ics)
+- [Dr Rosewarne](calendars/Dr%20Rosewarne.ics)
+- [Dr S Saha](calendars/Dr%20S%20Saha.ics)
+- [Dr F Syed](calendars/Dr%20F%20Syed.ics)
+- [Dr D Thomas](calendars/Dr%20D%20Thomas.ics)
+- [Dr S Vydianath](calendars/Dr%20S%20Vydianath.ics)
+- [Dr S Yahya](calendars/Dr%20S%20Yahya.ics)
+- [Dr T Au Yong](calendars/Dr%20T%20Au%20Yong.ics)
+
+**SpRs / Registrars**
+
+- [Gaurav Bhalla](calendars/Gaurav%20Bhalla.ics)
+- [Rajat Bhardwaj](calendars/Rajat%20Bhardwaj.ics)
+- [Dominic Catlow](calendars/Dominic%20Catlow.ics)
+- [Nihal Chanian](calendars/Nihal%20Chanian.ics)
+- [Ali Gulamhussein](calendars/Ali%20Gulamhussein.ics)
+- [Tanmay Jadhav](calendars/Tanmay%20Jadhav.ics)
+- [Sobia Khan](calendars/Sobia%20Khan.ics)
+- [George Macfarlane](calendars/George%20Macfarlane.ics)
+- [Yuuki Na](calendars/Yuuki%20Na.ics)
+- [Amandeep Pahal](calendars/Amandeep%20Pahal.ics)
+- [Vladimir Popa-Nimigean](calendars/Vladimir%20Popa-Nimigean.ics)
+- [Syed Zaidi](calendars/Syed%20Zaidi.ics)

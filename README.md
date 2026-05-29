@@ -1,376 +1,7 @@
 ### MAY 2026 - needs verification by Lisa/Collette
 Duty verified by Lisa on 27 May 2026, On call updated by Tina
 
-#### Friday 1
 
-**DR AM** Dr Li, Dr Agamy
-
-**DR PM** Dr Mahmood, Dr Thomas
-
-**Peripheral CTA** Dr. Dyer
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein (L); 2nd On Call: Dr P Li (A)
-
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr P Li (A)
-
-**CT Night Radiographer** Katy Booth
-
-
-#### Saturday 2
-
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr A Pahal; 2nd On Call: Dr P Li (A) / Dr H Azam (B)
-
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr P Li (A) / Dr H Azam (B)
-
-**CT Night Radiographer** Katy Booth
-
-
-#### Sunday 3
-
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr A Pahal; 2nd On Call: Dr P Li (A) / Dr H Azam (B)
-
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr P Li (A) / Dr H Azam (B)
-
-**CT Night Radiographer** Kervin Peji
-
-
-#### Monday 4 *(Early May Bank Holiday)*
-
-**DR AM** Bank Holiday
-
-**DR PM** Bank Holiday
-
-**Peripheral CTA** —
-
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr G Bhalla; 2nd On Call: Dr A Mahmood (A) / Dr D Thomas (B)
-
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr A Mahmood (A) / Dr D Thomas (B)
-
-**CT Night Radiographer** Jude Nnadi
-
-
-#### Tuesday 5
-
-**DR AM** Dr Khan, Dr Agamy
-
-**DR PM** Dr Azam, Dr Yahya
-
-**Peripheral CTA** Dr. Nikkar
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Bhalla; 2nd On Call: Dr I Khan
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr I Khan
-
-**CT Night Radiographer** Jude Nnadi
-
-
-#### Wednesday 6
-
-**DR AM** Dr Jain, Dr Rafati
-
-**DR PM** Dr Jawad, Dr Pang
-
-**Peripheral CTA** Dr. Sirakaya
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr S Zaidi; 2nd On Call: Dr P Li
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr P Li
-
-**CT Night Radiographer** Jude Nnadi
-
-
-#### Thursday 7
-
-**DR AM** Dr Kurian, Dr Chaudhary
-
-**DR PM** Dr Pang, Dr Bapusamy
-
-**Peripheral CTA** Dr. Rangarajan
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr S Zaidi; 2nd On Call: Dr M Qaiyum
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr M Qaiyum
-
-**CT Night Radiographer** Amandeep Leer
-
-
-#### Friday 8
-
-**DR AM** Dr Agamy, Dr Syed
-
-**DR PM** Dr Khan, Dr Mahmood
-
-**Peripheral CTA** Dr. Collins
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr N Chanian; 2nd On Call: Dr R Jawad (A)
-
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr R Jawad (A)
-
-**CT Night Radiographer** Amandeep Leer
-
-
-#### Saturday 9
-
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr R Jawad (A) / Dr T Au Yong (B)
-
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr R Jawad (A) / Dr T Au Yong (B)
-
-**CT Night Radiographer** Amandeep Leer
-
-
-#### Sunday 10
-
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr R Jawad (A) / Dr T Au Yong (B)
-
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr R Jawad (A) / Dr T Au Yong (B)
-
-**CT Night Radiographer** Sarah Woolley
-
-
-#### Monday 11
-
-**DR AM** Dr Saha, Dr Jain
-
-**DR PM** Dr Thomas, Dr Kurian
-
-**Peripheral CTA** Dr. Condati
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr F Syed
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr D Catlow; 2nd On Call: Dr F Syed
-
-**CT Night Radiographer** Kervin Peji
-
-
-#### Tuesday 12
-
-**DR AM** Dr Au Yong, Dr Khan
-
-**DR PM** Dr Vydianath, Dr Chaudhary
-
-**Peripheral CTA** Dr. Nikkar
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr A Agamy
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr D Catlow; 2nd On Call: Dr A Agamy
-
-**CT Night Radiographer** Kervin Peji
-
-
-#### Wednesday 13
-
-**DR AM** Dr Rafati, Dr Au Yong
-
-**DR PM** Dr Gupta, Dr Kurian
-
-**Peripheral CTA** Dr. Dyer
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Bhalla; 2nd On Call: Dr M Khatoon
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr D Catlow; 2nd On Call: Dr M Khatoon
-
-**CT Night Radiographer** Kervin Peji
-
-
-#### Thursday 14
-
-**DR AM** Dr Mahmood, Dr Qaiyum
-
-**DR PM** Dr Bapusamy, Dr Collins
-
-**Peripheral CTA** Dr. Collins
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Pahal; 2nd On Call: Dr S Vydianath
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr D Catlow; 2nd On Call: Dr S Vydianath
-
-**CT Night Radiographer** Amandeep Leer
-
-
-#### Friday 15
-
-**DR AM** Dr Li, Dr Khatoon
-
-**DR PM** Dr Khan, Dr Jawad
-
-**Peripheral CTA** Dr. Sarang
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr S Zaidi; 2nd On Call: Dr F Rafati (A)
-
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian (L); 2nd On Call: Dr F Rafati (A)
-
-**CT Night Radiographer** Amandeep Leer
-
-
-#### Saturday 16
-
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr Ali Ahmed; 2nd On Call: Dr F Rafati (A) / Dr A Mahmood (B)
-
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr F Rafati (A) / Dr A Mahmood (B)
-
-**CT Night Radiographer** Amandeep Leer
-
-
-#### Sunday 17
-
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr Ali Ahmed; 2nd On Call: Dr F Rafati (A) / Dr A Mahmood (B)
-
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr F Rafati (A) / Dr A Mahmood (B)
-
-**CT Night Radiographer** Ayoola Fagbemi
-
-
-#### Monday 18
-
-**DR AM** Dr Khatoon, Dr Jawad
-
-**DR PM** Dr Saha, Dr Azam
-
-**Peripheral CTA** Dr. Condati
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr H Azam
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr H Azam
-
-**CT Night Radiographer** Jude Nnadi
-
-
-#### Tuesday 19
-
-**DR AM** Dr Pang, Dr Khatoon
-
-**DR PM** Dr Vydianath, Dr Yahya
-
-**Peripheral CTA** Dr. Sarang
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr D Thomas
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr D Thomas
-
-**CT Night Radiographer** Jude Nnadi
-
-
-#### Wednesday 20
-
-**DR AM** Dr Chaudhary, Dr Agamy
-
-**DR PM** Dr Jawad, Dr Gupta
-
-**Peripheral CTA** Dr. Sirakaya
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr S Saha
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr S Saha
-
-**CT Night Radiographer** Jude Nnadi
-
-
-#### Thursday 21
-
-**DR AM** Dr Qaiyum, Dr Bapusamy
-
-**DR PM** Dr Kurian, Dr Rosewarne
-
-**Peripheral CTA** Dr. Nikkar
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr Ali Ahmed; 2nd On Call: Dr A Mahmood
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr A Mahmood
-
-**CT Night Radiographer** Robinson Corpuz
-
-
-#### Friday 22
-
-**DR AM** Dr Syed, Dr Khatoon
-
-**DR PM** Dr Mahmood, Dr Khan
-
-**Peripheral CTA** Dr. Dyer
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Bhalla; 2nd On Call: Dr M Qaiyum (A)
-
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr M Qaiyum (A)
-
-**CT Night Radiographer** Elizabeth Taylor
-
-
-#### Saturday 23
-
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr M Qaiyum (A) / Dr I Khan (B)
-
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr M Qaiyum (A) / Dr I Khan (B)
-
-**CT Night Radiographer** Elizabeth Taylor
-
-
-#### Sunday 24
-
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr M Qaiyum (A) / Dr I Khan (B)
-
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr M Qaiyum (A) / Dr I Khan (B)
-
-**CT Night Radiographer** Sarah Woolley
-
-
-#### Monday 25 *(Spring Bank Holiday)*
-
-**DR AM** Bank Holiday
-
-**DR PM** Bank Holiday
-
-**Peripheral CTA** —
-
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr Ali Ahmed; 2nd On Call: Dr A Bapusamy (A) / Dr S Jain (B)
-
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr A Bapusamy (A) / Dr S Jain (B)
-
-**CT Night Radiographer** *TBC*
-
-
-#### Tuesday 26
-
-**DR AM** Dr Yahya, Dr Blakeman
-
-**DR PM** Dr Rosewarne, Dr Bapusamy
-
-**Peripheral CTA** Dr. Sarang
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr G MacFarlane; 2nd On Call: Dr S Yahya
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr S Yahya
-
-**CT Night Radiographer** *TBC*
-
-
-#### Wednesday 27
-
-**DR AM** Dr Thomas, Dr Chaudhary
-
-**DR PM** Dr Gupta, Dr Qaiyum
-
-**Peripheral CTA** Dr. Nikkar
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein ; 2nd On Call: Dr A Gupta
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Contact 4 ways; 2nd On Call: Dr A Gupta
-
-**CT Night Radiographer** *TBC*
-
-
-#### Thursday 28
-
-**DR AM** Dr Pang, Dr Rosewarne
-
-**DR PM** Dr Qaiyum, Dr Yahya 1 pm to 4 pm/4 pm to 5 pm ALL
-
-**Peripheral CTA** Dr. Sirakaya
-
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr R Jawad
-
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr R Jawad
-
-**CT Night Radiographer** *TBC*
 
 
 #### Friday 29
@@ -406,6 +37,391 @@ Duty verified by Lisa on 27 May 2026, On call updated by Tina
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha (A) / Dr D Thomas (B)
 
 **CT Night Radiographer** *TBC*
+
+
+### JUNE 2026
+Duty verified from uploaded rotas (Duty Radiologist, On-Call, Peripheral CTA)
+
+#### Monday 1
+
+**DR AM** Dr Jain / Syed Zaidi / Dr Gupta
+
+**DR PM** Dr Thomas / Vladimir Popa-Nimigean / Dr Li
+
+**Peripheral CTA** —
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr H Azam
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr Y Na; 2nd On Call: Dr H Azam
+
+**CT Night Radiographer** *TBC*
+
+#### Tuesday 2
+
+**DR AM** Dr Pang / Ali Gulamhussein / Dr Bapusamy
+
+**DR PM** Dr Vydianath / George Macfarlane / Dr Azam
+
+**Peripheral CTA** Dr Nikkar (AN)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr S Yahya
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr Y Na; 2nd On Call: Dr S Yahya
+
+**CT Night Radiographer** *TBC*
+
+#### Wednesday 3
+
+**DR AM** Dr Rafati / Gaurav Bhalla / Dr Jain
+
+**DR PM** Dr Jawad / George Macfarlane / Dr Gupta
+
+**Peripheral CTA** Dr Sirakaya (MS)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr S Saha
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr A Gulamhussein (L); 2nd On Call: Dr S Saha
+
+**CT Night Radiographer** *TBC*
+
+#### Thursday 4
+
+**DR AM** Dr Rosewarne / Rajat Bhardwaj / Dr Collins
+
+**DR PM** Dr Bapusamy / Ali Gulamhussein / Dr Qaiyum
+
+**Peripheral CTA** Dr Nikkar (AN)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr S Jain
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi (L); 2nd On Call: Dr S Jain
+
+**CT Night Radiographer** *TBC*
+
+#### Friday 5
+
+**DR AM** Dr Syed / Nihal Chanian / Dr Khan
+
+**DR PM** Dr Agamy / Gaurav Bhalla / Dr Chaudhary
+
+**Peripheral CTA** Dr Collins (MC)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Jain (A)
+
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr S Jain (A)
+
+**CT Night Radiographer** *TBC*
+
+#### Saturday 6
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr S Jain (A) / Dr A Gupta (B)
+
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr S Jain (A) / Dr A Gupta (B)
+
+**CT Night Radiographer** *TBC*
+
+#### Sunday 7
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr S Jain (A) / Dr R Kurian (B)
+
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr S Jain (A) / Dr R Kurian (B)
+
+**CT Night Radiographer** *TBC*
+
+#### Monday 8
+
+**DR AM** Dr Au Yong / Sobia Khan / Dr Saha
+
+**DR PM** Dr Yahya / Vladimir Popa-Nimigean / Dr Rafati
+
+**Peripheral CTA** Dr Dyer (JD)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr S Khan; 2nd On Call: Dr T Au Yong
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr T Jadhav (L); 2nd On Call: Dr T Au Yong
+
+**CT Night Radiographer** *TBC*
+
+#### Tuesday 9
+
+**DR AM** Dr Jawad / Dominic Catlow / Dr Blakeman
+
+**DR PM** Dr Li / George Macfarlane / Dr Khatoon
+
+**Peripheral CTA** Dr Sarang (ZS)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr S Khan; 2nd On Call: Dr I Khan
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr I Khan
+
+**CT Night Radiographer** *TBC*
+
+#### Wednesday 10
+
+**DR AM** Dr Agamy / Yuuki Na / Dr Thomas
+
+**DR PM** Dr Gupta / Yuuki Na / Dr Jawad
+
+**Peripheral CTA** Dr Dyer (JD)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr G Chaudhary
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr G Chaudhary
+
+**CT Night Radiographer** *TBC*
+
+#### Thursday 11
+
+**DR AM** Dr Qaiyum / Rajat Bhardwaj / Dr Agamy
+
+**DR PM** Dr Bapusamy / Syed Zaidi / Dr Khan
+
+**Peripheral CTA** Dr Rangarajan (BR)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr R Jawad
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr R Jawad
+
+**CT Night Radiographer** *TBC*
+
+#### Friday 12
+
+**DR AM** Dr Khatoon / George Macfarlane / Dr Li
+
+**DR PM** Dr Mahmood / ST1 / Dr Chaudhary
+
+**Peripheral CTA** Dr Sirakaya (MS)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr N Chanian; 2nd On Call: Dr D Thomas (A)
+
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr G Bhalla; 2nd On Call: Dr D Thomas (A)
+
+**CT Night Radiographer** *TBC*
+
+#### Saturday 13
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr D Thomas (A) / Dr P Li (B)
+
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr G Bhalla; 2nd On Call: Dr D Thomas (A) / Dr P Li (B)
+
+**CT Night Radiographer** *TBC*
+
+#### Sunday 14
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr D Thomas (A) / Dr P Li (B)
+
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr G Bhalla; 2nd On Call: Dr D Thomas (A) / Dr P Li (B)
+
+**CT Night Radiographer** *TBC*
+
+#### Monday 15
+
+**DR AM** Dr Khatoon / Rajat Bhardwaj / Dr Rosewarne
+
+**DR PM** Dr Saha / Tanmay Jadhav / Dr Au Yong
+
+**Peripheral CTA** Dr Dyer (JD)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr F Rafati
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr S Khan; 2nd On Call: Dr F Rafati
+
+**CT Night Radiographer** *TBC*
+
+#### Tuesday 16
+
+**DR AM** Dr Khan / Amandeep Pahal / Dr Yahya
+
+**DR PM** Dr Azam / ST1 / Dr Vydianath
+
+**Peripheral CTA** Dr Sarang (ZS)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr D Thomas
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr S Khan; 2nd On Call: Dr D Thomas
+
+**CT Night Radiographer** *TBC*
+
+#### Wednesday 17
+
+**DR AM** Dr Chaudhary / Amandeep Pahal / Dr Jain
+
+**DR PM** Dr Rosewarne / ST1 / Dr Gupta
+
+**Peripheral CTA** Dr Rangarajan / Dr Sarang (BR / ZS)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr P Li
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr T Jadhav (L); 2nd On Call: Dr P Li
+
+**CT Night Radiographer** *TBC*
+
+#### Thursday 18
+
+**DR AM** Dr Kurian / Dominic Catlow / Dr Mahmood
+
+**DR PM** Dr Khan / Nihal Chanian / Dr Bapusamy
+
+**Peripheral CTA** Dr Sirakaya (MS)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr A Mahmood
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr R Bhardwaj (L); 2nd On Call: Dr A Mahmood
+
+**CT Night Radiographer** *TBC*
+
+#### Friday 19
+
+**DR AM** Dr Syed / Syed Zaidi / Dr Vydianath
+
+**DR PM** Dr Saha / Nihal Chanian / Dr Thomas
+
+**Peripheral CTA** Dr Sarang (ZS)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Pahal; 2nd On Call: Dr S Vydianath (A)
+
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr S Vydianath (A)
+
+**CT Night Radiographer** *TBC*
+
+#### Saturday 20
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr S Vydianath (A) / Dr F Syed (B)
+
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr S Vydianath (A) / Dr F Syed (B)
+
+**CT Night Radiographer** *TBC*
+
+#### Sunday 21
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr S Vydianath (A) / Dr F Syed (B)
+
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr S Vydianath (A) / Dr F Syed (B)
+
+**CT Night Radiographer** *TBC*
+
+#### Monday 22
+
+**DR AM** Dr Jain / Vladimir Popa-Nimigean / Dr Saha
+
+**DR PM** Dr Azam / Tanmay Jadhav / Dr Li
+
+**Peripheral CTA** Dr Dyer (JD)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr A Bapusamy
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Chanian; 2nd On Call: Dr A Bapusamy
+
+**CT Night Radiographer** Hanan Mohamed
+
+#### Tuesday 23
+
+**DR AM** Dr Pang / ST1 / Dr Au Yong
+
+**DR PM** Dr Vydianath / Ali Gulamhussein / Dr Azam
+
+**Peripheral CTA** Dr Sarang (ZS)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr A Agamy
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Chanian; 2nd On Call: Dr A Agamy
+
+**CT Night Radiographer** Hanan Mohamed
+
+#### Wednesday 24
+
+**DR AM** Dr Agamy / Gaurav Bhalla / Dr Thomas
+
+**DR PM** Dr Gupta / Amandeep Pahal / Dr Jawad
+
+**Peripheral CTA** Dr Rangarajan / Dr Dyer (BR / JD)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr K Cole; 2nd On Call: Dr M Khatoon
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Chanian; 2nd On Call: Dr M Khatoon
+
+**CT Night Radiographer** Hanan Mohamed
+
+#### Thursday 25
+
+**DR AM** Dr Mahmood / ST1 / Dr Kurian
+
+**DR PM** Dr Khan / ST1 / Dr Bapusamy
+
+**Peripheral CTA** Dr Rangarajan (BR)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr D Catlow; 2nd On Call: Dr S Vydianath
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Vydianath
+
+**CT Night Radiographer** Kervin Peji
+
+#### Friday 26
+
+**DR AM** Dr Khatoon / Gaurav Bhalla / Dr Agamy
+
+**DR PM** Dr Qaiyum / Ali Gulamhussein / Dr Collins
+
+**Peripheral CTA** Dr Collins (MC)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr M Khatoon (A)
+
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr A Pahal; 2nd On Call: Dr M Khatoon (A)
+
+**CT Night Radiographer** Kervin Peji
+
+#### Saturday 27
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr Y Na; 2nd On Call: Dr M Khatoon (A) / Dr S Yahya (B)
+
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr A Pahal; 2nd On Call: Dr M Khatoon (A) / Dr S Yahya (B)
+
+**CT Night Radiographer** Kervin Peji
+
+#### Sunday 28
+
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr Y Na; 2nd On Call: Dr M Khatoon (A) / Dr S Yahya (B)
+
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr A Pahal; 2nd On Call: Dr M Khatoon (A) / Dr S Yahya (B)
+
+**CT Night Radiographer** Ayoola Fagbemi
+
+#### Monday 29
+
+**DR AM** Dr Thomas / Sobia Khan / Dr Gupta
+
+**DR PM** Dr Saha / Tanmay Jadhav / Dr Azam
+
+**Peripheral CTA** Dr Dyer (JD)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr R Kurian
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr R Kurian
+
+**CT Night Radiographer** Elizabeth Taylor
+
+#### Tuesday 30
+
+**DR AM** Dr Azam / Dominic Catlow / Dr Blakeman
+
+**DR PM** Dr Li / Ali Gulamhussein / Dr Khatoon
+
+**Peripheral CTA** Dr Sarang (ZS)
+
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr W Pang
+
+**On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr W Pang
+
+**CT Night Radiographer** Elizabeth Taylor
+
+---
+
+## Notes
+- CT Night Radiographer for 1–21 June not available in supplied files — marked *TBC*. Please supply the radiographer weekly rota for those weeks.
+- DR AM/PM format: DR1 Consultant / Registrar / DR2 Consultant.
+- Peripheral CTA: names shown are the reporting radiologist for that day (from the Vascular/Peripheral CTA rota). Initials key: MC=Dr Collins, JD=Dr Dyer, AN=Dr Nikkar, BR=Dr Rangarajan, ZS=Dr Sarang, MS=Dr Sirakaya.
+- On-call times: weekday first on-call starts 5.00pm; weekend first on-call starts 9.00am.
+
 
 
 ## Directorate meetings

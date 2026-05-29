@@ -334,13 +334,13 @@ def update_readme(written: list[tuple[str, str]]):
         lines.append("**Consultants**")
         lines.append("")
         for name, fname in consultants:
-            lines.append(f"- [{name}](calendars/{fname.replace(' ', '%20')})")
+            lines.append(f"- [{name}.ics](calendars/{fname.replace(' ', '%20')})")
         lines.append("")
     if sprs:
         lines.append("**SpRs / Registrars**")
         lines.append("")
         for name, fname in sprs:
-            lines.append(f"- [{name}](calendars/{fname.replace(' ', '%20')})")
+            lines.append(f"- [{name}.ics](calendars/{fname.replace(' ', '%20')})")
         lines.append("")
 
     README.write_text(text + "\n".join(lines))

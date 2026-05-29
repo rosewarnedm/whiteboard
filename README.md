@@ -416,12 +416,6 @@ Needs checking by Tina/Lisa/Collette
 
 ---
 
-## Notes
-- CT Night Radiographer for 1–21 June not available in supplied files — marked *TBC*. Please supply the radiographer weekly rota for those weeks.
-- DR AM/PM format: DR1 Consultant / Registrar / DR2 Consultant.
-- Peripheral CTA: names shown are the reporting radiologist for that day (from the Vascular/Peripheral CTA rota). Initials key: MC=Dr Collins, JD=Dr Dyer, AN=Dr Nikkar, BR=Dr Rangarajan, ZS=Dr Sarang, MS=Dr Sirakaya.
-- On-call times: weekday first on-call starts 5.00pm; weekend first on-call starts 9.00am.
-
 
 
 ## Directorate meetings

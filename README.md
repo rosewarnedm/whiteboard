@@ -40,7 +40,7 @@ Duty verified by Lisa on 27 May 2026, On call updated by Tina
 
 
 ### JUNE 2026
-Needs checking by Tina/Lisa/Collette
+Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 #### Monday 1
 
@@ -132,7 +132,7 @@ Needs checking by Tina/Lisa/Collette
 
 **DR AM** Dr Au Yong / Sobia Khan / Dr Saha
 
-**DR PM** Dr Yahya / Vladimir Popa-Nimigean / Dr Rafati
+**DR PM** Dr Yahya / Vladimir Popa-Nimigean / TBA
 
 **Peripheral CTA** Dr Dyer (JD)
 

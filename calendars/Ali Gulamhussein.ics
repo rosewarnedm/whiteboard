@@ -31,12 +31,12 @@ SUMMARY:DR AM — Ali Gulamhussein
 DESCRIPTION:Diagnostic radiology — morning
 END:VEVENT
 BEGIN:VEVENT
-UID:0efeef2ae42e58c1@whiteboard
+UID:9be8027dd26b2b63@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260603T210000
 DTEND;TZID=Europe/London:20260604T091500
-SUMMARY:On-Call 1st (overnight) — Ali Gulamhussein
-DESCRIPTION:1st on-call, 9pm – 9.15am
+SUMMARY:On-Call 1st — Ali Gulamhussein
+DESCRIPTION:1st on-call, 21:00 – 09:15
 END:VEVENT
 BEGIN:VEVENT
 UID:7921059d05a5ad24@whiteboard
@@ -47,20 +47,20 @@ SUMMARY:DR PM — Ali Gulamhussein
 DESCRIPTION:Diagnostic radiology — afternoon
 END:VEVENT
 BEGIN:VEVENT
-UID:ab9fe181d83d62c4@whiteboard
+UID:54d20011ef1e5309@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260617T170000
 DTEND;TZID=Europe/London:20260617T210000
-SUMMARY:On-Call 1st (evening) — Ali Gulamhussein
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Ali Gulamhussein
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
-UID:771a091f8f81b007@whiteboard
+UID:847533e8e7344799@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260618T170000
 DTEND;TZID=Europe/London:20260618T210000
-SUMMARY:On-Call 1st (evening) — Ali Gulamhussein
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Ali Gulamhussein
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
 UID:8f48c9a8fb9bfe45@whiteboard
@@ -79,12 +79,12 @@ SUMMARY:DR PM — Ali Gulamhussein
 DESCRIPTION:Diagnostic radiology — afternoon
 END:VEVENT
 BEGIN:VEVENT
-UID:1a2ad5990d79959d@whiteboard
+UID:0090b24b4cc4faf6@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260626T170000
 DTEND;TZID=Europe/London:20260626T210000
-SUMMARY:On-Call 1st (evening) — Ali Gulamhussein
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Ali Gulamhussein
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
 UID:40bda5394bbf76dc@whiteboard

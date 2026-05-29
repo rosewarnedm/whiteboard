@@ -39,12 +39,12 @@ SUMMARY:DR AM — Amandeep Pahal
 DESCRIPTION:Diagnostic radiology — morning
 END:VEVENT
 BEGIN:VEVENT
-UID:106bcf30e2071f16@whiteboard
+UID:72a8c86e3326a758@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260619T170000
 DTEND;TZID=Europe/London:20260619T210000
-SUMMARY:On-Call 1st (evening) — Amandeep Pahal
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Amandeep Pahal
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
 UID:8e5fbbbfd88d7f61@whiteboard
@@ -55,27 +55,27 @@ SUMMARY:DR PM — Amandeep Pahal
 DESCRIPTION:Diagnostic radiology — afternoon
 END:VEVENT
 BEGIN:VEVENT
-UID:129e649b3b31fcaf@whiteboard
+UID:31c17e62ecaf3dd2@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260626T210000
 DTEND;TZID=Europe/London:20260627T090000
-SUMMARY:On-Call 1st (overnight) — Amandeep Pahal
-DESCRIPTION:1st on-call, 9pm – 9am
+SUMMARY:On-Call 1st — Amandeep Pahal
+DESCRIPTION:1st on-call, 21:00 – 09:00
 END:VEVENT
 BEGIN:VEVENT
-UID:ef3f179b18a6ad02@whiteboard
+UID:3a598e4665ba04af@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260627T210000
 DTEND;TZID=Europe/London:20260628T090000
-SUMMARY:On-Call 1st (overnight) — Amandeep Pahal
-DESCRIPTION:1st on-call, 9pm – 9am
+SUMMARY:On-Call 1st — Amandeep Pahal
+DESCRIPTION:1st on-call, 21:00 – 09:00
 END:VEVENT
 BEGIN:VEVENT
-UID:edd9e65cb90855f5@whiteboard
+UID:930522212f0e252d@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260628T210000
 DTEND;TZID=Europe/London:20260629T090000
-SUMMARY:On-Call 1st (overnight) — Amandeep Pahal
-DESCRIPTION:1st on-call, 9pm – 9am
+SUMMARY:On-Call 1st — Amandeep Pahal
+DESCRIPTION:1st on-call, 21:00 – 09:00
 END:VEVENT
 END:VCALENDAR

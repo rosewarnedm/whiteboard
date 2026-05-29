@@ -39,28 +39,28 @@ SUMMARY:DR PM — Gaurav Bhalla
 DESCRIPTION:Diagnostic radiology — afternoon
 END:VEVENT
 BEGIN:VEVENT
-UID:99862a3d6e493124@whiteboard
+UID:72d5960bdb8f805e@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260612T210000
 DTEND;TZID=Europe/London:20260613T090000
-SUMMARY:On-Call 1st (overnight) — Gaurav Bhalla
-DESCRIPTION:1st on-call, 9pm – 9am
+SUMMARY:On-Call 1st — Gaurav Bhalla
+DESCRIPTION:1st on-call, 21:00 – 09:00
 END:VEVENT
 BEGIN:VEVENT
-UID:3b75860d404ee9fe@whiteboard
+UID:111d700d28739614@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260613T210000
 DTEND;TZID=Europe/London:20260614T090000
-SUMMARY:On-Call 1st (overnight) — Gaurav Bhalla
-DESCRIPTION:1st on-call, 9pm – 9am
+SUMMARY:On-Call 1st — Gaurav Bhalla
+DESCRIPTION:1st on-call, 21:00 – 09:00
 END:VEVENT
 BEGIN:VEVENT
-UID:8244641afe11b191@whiteboard
+UID:772f1c677d329dd3@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260614T210000
 DTEND;TZID=Europe/London:20260615T090000
-SUMMARY:On-Call 1st (overnight) — Gaurav Bhalla
-DESCRIPTION:1st on-call, 9pm – 9am
+SUMMARY:On-Call 1st — Gaurav Bhalla
+DESCRIPTION:1st on-call, 21:00 – 09:00
 END:VEVENT
 BEGIN:VEVENT
 UID:40736f088a04f226@whiteboard

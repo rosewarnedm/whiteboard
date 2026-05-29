@@ -130,6 +130,57 @@ def parse_on_call_people(line: str) -> tuple[list[str], list[str]]:
     return firsts, seconds
 
 
+# On-call windows as they appear in the rota. (start_time, end_time, ends_next_day).
+ONCALL_PATTERNS = [
+    (r"\*\*On-Call\s+5\.00pm\s*[–-]\s*9\.00pm\*\*\s+(.*)", time(17, 0), time(21, 0), False),
+    (r"\*\*On-Call\s+9\.00pm\s*[–-]\s*9\.15am\*\*\s+(.*)", time(21, 0), time(9, 15), True),
+    (r"\*\*On-Call\s+9\.00pm\s*[–-]\s*9\.00am\*\*\s+(.*)", time(21, 0), time(9, 0), True),
+    (r"\*\*On-Call\s+9\.00am\s*[–-]\s*9\.00pm\*\*\s+(.*)", time(9, 0), time(21, 0), False),
+]
+
+
+def parse_oncall_window(d: date, line: str):
+    """Return (start, end, firsts, seconds) for one on-call line, or None."""
+    for pat, t_start, t_end, next_day in ONCALL_PATTERNS:
+        m = re.match(pat, line)
+        if m:
+            start = datetime.combine(d, t_start)
+            end_day = d + timedelta(days=1) if next_day else d
+            end = datetime.combine(end_day, t_end)
+            firsts, seconds = parse_on_call_people(m.group(1))
+            return start, end, firsts, seconds
+    return None
+
+
+def merge_runs(intervals: list[tuple[datetime, datetime]]) -> list[tuple[datetime, datetime]]:
+    """Coalesce contiguous/overlapping (start, end) intervals into maximal blocks."""
+    merged: list[tuple[datetime, datetime]] = []
+    for s, e in sorted(intervals):
+        if merged and s <= merged[-1][1]:
+            merged[-1] = (merged[-1][0], max(merged[-1][1], e))
+        else:
+            merged.append((s, e))
+    return merged
+
+
+def emit_oncall(events, windows):
+    """Emit on-call events, merging each person's adjacent windows into one block.
+
+    The 2nd on-call (consultant) covers every window of the day with the same
+    person, so this yields a single continuous block. The 1st on-call (registrar)
+    changes at the 21:00 handover, so those stay as separate events.
+    """
+    for role_idx, ordinal in ((2, "1st"), (3, "2nd")):
+        per_person: dict[str, list[tuple[datetime, datetime]]] = defaultdict(list)
+        for start, end, *roles in windows:
+            for name in roles[role_idx - 2]:
+                per_person[name].append((start, end))
+        for name, ivals in per_person.items():
+            for s, e in merge_runs(ivals):
+                desc = f"{ordinal} on-call, {s:%H:%M} – {e:%H:%M}"
+                events[name].append((s, e, f"On-Call {ordinal}", desc))
+
+
 def extract_month_block(text: str) -> str:
     start = text.index(MONTH_HEADER)
     rest = text[start:]
@@ -158,6 +209,7 @@ def collect_events():
     events: dict[str, list[tuple[datetime, datetime, str, str]]] = defaultdict(list)
 
     for d, body in iter_days(block):
+        oncall_windows = []
         for line in body.splitlines():
             line = line.strip()
             if not line:
@@ -180,50 +232,13 @@ def collect_events():
                     events[name].append((start, end, "DR PM", "Diagnostic radiology — afternoon"))
                 continue
 
-            # On-Call windows
-            m = re.match(r"\*\*On-Call\s+5\.00pm\s*[–-]\s*9\.00pm\*\*\s+(.*)", line)
-            if m:
-                start = datetime.combine(d, time(17, 0))
-                end = datetime.combine(d, time(21, 0))
-                firsts, seconds = parse_on_call_people(m.group(1))
-                for name in firsts:
-                    events[name].append((start, end, "On-Call 1st (evening)", "1st on-call, 5pm – 9pm"))
-                for name in seconds:
-                    events[name].append((start, end, "On-Call 2nd (evening)", "2nd on-call, 5pm – 9pm"))
+            # On-Call windows — collected per day, then merged per person below.
+            w = parse_oncall_window(d, line)
+            if w:
+                oncall_windows.append(w)
                 continue
 
-            m = re.match(r"\*\*On-Call\s+9\.00pm\s*[–-]\s*9\.15am\*\*\s+(.*)", line)
-            if m:
-                start = datetime.combine(d, time(21, 0))
-                end = datetime.combine(d + timedelta(days=1), time(9, 15))
-                firsts, seconds = parse_on_call_people(m.group(1))
-                for name in firsts:
-                    events[name].append((start, end, "On-Call 1st (overnight)", "1st on-call, 9pm – 9.15am"))
-                for name in seconds:
-                    events[name].append((start, end, "On-Call 2nd (overnight)", "2nd on-call, 9pm – 9.15am"))
-                continue
-
-            m = re.match(r"\*\*On-Call\s+9\.00pm\s*[–-]\s*9\.00am\*\*\s+(.*)", line)
-            if m:
-                start = datetime.combine(d, time(21, 0))
-                end = datetime.combine(d + timedelta(days=1), time(9, 0))
-                firsts, seconds = parse_on_call_people(m.group(1))
-                for name in firsts:
-                    events[name].append((start, end, "On-Call 1st (overnight)", "1st on-call, 9pm – 9am"))
-                for name in seconds:
-                    events[name].append((start, end, "On-Call 2nd (overnight)", "2nd on-call, 9pm – 9am"))
-                continue
-
-            m = re.match(r"\*\*On-Call\s+9\.00am\s*[–-]\s*9\.00pm\*\*\s+(.*)", line)
-            if m:
-                start = datetime.combine(d, time(9, 0))
-                end = datetime.combine(d, time(21, 0))
-                firsts, seconds = parse_on_call_people(m.group(1))
-                for name in firsts:
-                    events[name].append((start, end, "On-Call 1st (day)", "1st on-call, 9am – 9pm"))
-                for name in seconds:
-                    events[name].append((start, end, "On-Call 2nd (day)", "2nd on-call, 9am – 9pm"))
-                continue
+        emit_oncall(events, oncall_windows)
 
     return events
 

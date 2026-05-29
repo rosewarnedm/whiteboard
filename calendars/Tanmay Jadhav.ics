@@ -23,36 +23,36 @@ TZNAME:BST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:00611f9a8a8a922b@whiteboard
+UID:8d268660c46ee7f6@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260608T210000
 DTEND;TZID=Europe/London:20260609T091500
-SUMMARY:On-Call 1st (overnight) — Tanmay Jadhav
-DESCRIPTION:1st on-call, 9pm – 9.15am
+SUMMARY:On-Call 1st — Tanmay Jadhav
+DESCRIPTION:1st on-call, 21:00 – 09:15
 END:VEVENT
 BEGIN:VEVENT
-UID:e0debc7b17e05365@whiteboard
+UID:e2432e5d15ad9c1d@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260609T210000
 DTEND;TZID=Europe/London:20260610T091500
-SUMMARY:On-Call 1st (overnight) — Tanmay Jadhav
-DESCRIPTION:1st on-call, 9pm – 9.15am
+SUMMARY:On-Call 1st — Tanmay Jadhav
+DESCRIPTION:1st on-call, 21:00 – 09:15
 END:VEVENT
 BEGIN:VEVENT
-UID:82c3950627ae2e38@whiteboard
+UID:b0fa2eee28cf8b67@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260610T210000
 DTEND;TZID=Europe/London:20260611T091500
-SUMMARY:On-Call 1st (overnight) — Tanmay Jadhav
-DESCRIPTION:1st on-call, 9pm – 9.15am
+SUMMARY:On-Call 1st — Tanmay Jadhav
+DESCRIPTION:1st on-call, 21:00 – 09:15
 END:VEVENT
 BEGIN:VEVENT
-UID:b92479431387b534@whiteboard
+UID:f8537168dbbe7fd9@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260611T210000
 DTEND;TZID=Europe/London:20260612T091500
-SUMMARY:On-Call 1st (overnight) — Tanmay Jadhav
-DESCRIPTION:1st on-call, 9pm – 9.15am
+SUMMARY:On-Call 1st — Tanmay Jadhav
+DESCRIPTION:1st on-call, 21:00 – 09:15
 END:VEVENT
 BEGIN:VEVENT
 UID:0b659f45b30204ab@whiteboard
@@ -63,12 +63,12 @@ SUMMARY:DR PM — Tanmay Jadhav
 DESCRIPTION:Diagnostic radiology — afternoon
 END:VEVENT
 BEGIN:VEVENT
-UID:0f760dbcee65e8b4@whiteboard
+UID:c38dd2206a735b0b@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260617T210000
 DTEND;TZID=Europe/London:20260618T091500
-SUMMARY:On-Call 1st (overnight) — Tanmay Jadhav
-DESCRIPTION:1st on-call, 9pm – 9.15am
+SUMMARY:On-Call 1st — Tanmay Jadhav
+DESCRIPTION:1st on-call, 21:00 – 09:15
 END:VEVENT
 BEGIN:VEVENT
 UID:154c6c5a531bcf04@whiteboard
@@ -87,19 +87,19 @@ SUMMARY:DR PM — Tanmay Jadhav
 DESCRIPTION:Diagnostic radiology — afternoon
 END:VEVENT
 BEGIN:VEVENT
-UID:2f6ee5893e9c4e50@whiteboard
+UID:b5aece602649c71e@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260629T170000
 DTEND;TZID=Europe/London:20260629T210000
-SUMMARY:On-Call 1st (evening) — Tanmay Jadhav
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Tanmay Jadhav
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
-UID:c409f68de0479d88@whiteboard
+UID:e719cc44a44f373c@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260630T170000
 DTEND;TZID=Europe/London:20260630T210000
-SUMMARY:On-Call 1st (evening) — Tanmay Jadhav
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Tanmay Jadhav
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 END:VCALENDAR

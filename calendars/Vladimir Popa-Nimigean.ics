@@ -39,20 +39,20 @@ SUMMARY:DR PM — Vladimir Popa-Nimigean
 DESCRIPTION:Diagnostic radiology — afternoon
 END:VEVENT
 BEGIN:VEVENT
-UID:e7eba4f1358401f4@whiteboard
+UID:f5275235aba7f15a@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260613T090000
 DTEND;TZID=Europe/London:20260613T210000
-SUMMARY:On-Call 1st (day) — Vladimir Popa-Nimigean
-DESCRIPTION:1st on-call, 9am – 9pm
+SUMMARY:On-Call 1st — Vladimir Popa-Nimigean
+DESCRIPTION:1st on-call, 09:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
-UID:317161be7ed99dc3@whiteboard
+UID:106a40f37aa83efb@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260614T090000
 DTEND;TZID=Europe/London:20260614T210000
-SUMMARY:On-Call 1st (day) — Vladimir Popa-Nimigean
-DESCRIPTION:1st on-call, 9am – 9pm
+SUMMARY:On-Call 1st — Vladimir Popa-Nimigean
+DESCRIPTION:1st on-call, 09:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
 UID:357521f30e7869d8@whiteboard
@@ -63,19 +63,19 @@ SUMMARY:DR AM — Vladimir Popa-Nimigean
 DESCRIPTION:Diagnostic radiology — morning
 END:VEVENT
 BEGIN:VEVENT
-UID:f0415736bed3957e@whiteboard
+UID:79e858b8cb3e6204@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260622T170000
 DTEND;TZID=Europe/London:20260622T210000
-SUMMARY:On-Call 1st (evening) — Vladimir Popa-Nimigean
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Vladimir Popa-Nimigean
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
-UID:9266371aa7eda0d1@whiteboard
+UID:619281762a68b7aa@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260623T170000
 DTEND;TZID=Europe/London:20260623T210000
-SUMMARY:On-Call 1st (evening) — Vladimir Popa-Nimigean
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Vladimir Popa-Nimigean
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 END:VCALENDAR

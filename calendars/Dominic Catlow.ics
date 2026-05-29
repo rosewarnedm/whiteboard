@@ -31,20 +31,20 @@ SUMMARY:DR AM — Dominic Catlow
 DESCRIPTION:Diagnostic radiology — morning
 END:VEVENT
 BEGIN:VEVENT
-UID:3cc0e394b8c58e84@whiteboard
+UID:477d3155d0ea361d@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260615T170000
 DTEND;TZID=Europe/London:20260615T210000
-SUMMARY:On-Call 1st (evening) — Dominic Catlow
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Dominic Catlow
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
-UID:2c62e8af50003f93@whiteboard
+UID:da02bd8196d97640@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260616T170000
 DTEND;TZID=Europe/London:20260616T210000
-SUMMARY:On-Call 1st (evening) — Dominic Catlow
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Dominic Catlow
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
 UID:0a7deb8725aa4a3f@whiteboard
@@ -55,28 +55,28 @@ SUMMARY:DR AM — Dominic Catlow
 DESCRIPTION:Diagnostic radiology — morning
 END:VEVENT
 BEGIN:VEVENT
-UID:ae471a6deaf73c20@whiteboard
+UID:7b4977086930a94c@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260620T090000
 DTEND;TZID=Europe/London:20260620T210000
-SUMMARY:On-Call 1st (day) — Dominic Catlow
-DESCRIPTION:1st on-call, 9am – 9pm
+SUMMARY:On-Call 1st — Dominic Catlow
+DESCRIPTION:1st on-call, 09:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
-UID:98d349dc2ca574cc@whiteboard
+UID:dcd186d9427b7cd7@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260621T090000
 DTEND;TZID=Europe/London:20260621T210000
-SUMMARY:On-Call 1st (day) — Dominic Catlow
-DESCRIPTION:1st on-call, 9am – 9pm
+SUMMARY:On-Call 1st — Dominic Catlow
+DESCRIPTION:1st on-call, 09:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
-UID:eff4069e710d6902@whiteboard
+UID:74f61b50418f286d@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260625T170000
 DTEND;TZID=Europe/London:20260625T210000
-SUMMARY:On-Call 1st (evening) — Dominic Catlow
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Dominic Catlow
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
 UID:8a6b45c566726c12@whiteboard

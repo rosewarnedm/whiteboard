@@ -39,20 +39,12 @@ SUMMARY:DR AM — Dr A Mahmood
 DESCRIPTION:Diagnostic radiology — morning
 END:VEVENT
 BEGIN:VEVENT
-UID:a11a9efb085b110e@whiteboard
+UID:5c1f9c2b136a52cf@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260618T170000
-DTEND;TZID=Europe/London:20260618T210000
-SUMMARY:On-Call 2nd (evening) — Dr A Mahmood
-DESCRIPTION:2nd on-call, 5pm – 9pm
-END:VEVENT
-BEGIN:VEVENT
-UID:4af0196f86d82bdd@whiteboard
-DTSTAMP:20260529T000000Z
-DTSTART;TZID=Europe/London:20260618T210000
 DTEND;TZID=Europe/London:20260619T091500
-SUMMARY:On-Call 2nd (overnight) — Dr A Mahmood
-DESCRIPTION:2nd on-call, 9pm – 9.15am
+SUMMARY:On-Call 2nd — Dr A Mahmood
+DESCRIPTION:2nd on-call, 17:00 – 09:15
 END:VEVENT
 BEGIN:VEVENT
 UID:45b6b4acce341e70@whiteboard

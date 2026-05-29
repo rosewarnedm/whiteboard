@@ -39,20 +39,20 @@ SUMMARY:DR PM — George Macfarlane
 DESCRIPTION:Diagnostic radiology — afternoon
 END:VEVENT
 BEGIN:VEVENT
-UID:5dd363aca91f561a@whiteboard
+UID:936a21ef6a1ca3c4@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260603T170000
 DTEND;TZID=Europe/London:20260603T210000
-SUMMARY:On-Call 1st (evening) — George Macfarlane
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — George Macfarlane
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
-UID:32572ddefa01090b@whiteboard
+UID:d8e26b5c786bc564@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260604T170000
 DTEND;TZID=Europe/London:20260604T210000
-SUMMARY:On-Call 1st (evening) — George Macfarlane
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — George Macfarlane
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
 UID:648bcb85bb1e88cb@whiteboard
@@ -71,27 +71,27 @@ SUMMARY:DR AM — George Macfarlane
 DESCRIPTION:Diagnostic radiology — morning
 END:VEVENT
 BEGIN:VEVENT
-UID:5c9ad73c8dcbf496@whiteboard
+UID:5b0aca43c1c3c3fc@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260619T210000
 DTEND;TZID=Europe/London:20260620T090000
-SUMMARY:On-Call 1st (overnight) — George Macfarlane
-DESCRIPTION:1st on-call, 9pm – 9am
+SUMMARY:On-Call 1st — George Macfarlane
+DESCRIPTION:1st on-call, 21:00 – 09:00
 END:VEVENT
 BEGIN:VEVENT
-UID:55f5dbadfeabd29d@whiteboard
+UID:de315fec3e1254ce@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260620T210000
 DTEND;TZID=Europe/London:20260621T090000
-SUMMARY:On-Call 1st (overnight) — George Macfarlane
-DESCRIPTION:1st on-call, 9pm – 9am
+SUMMARY:On-Call 1st — George Macfarlane
+DESCRIPTION:1st on-call, 21:00 – 09:00
 END:VEVENT
 BEGIN:VEVENT
-UID:93a112bb3228befe@whiteboard
+UID:d7fc31dc8680d59d@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260621T210000
 DTEND;TZID=Europe/London:20260622T090000
-SUMMARY:On-Call 1st (overnight) — George Macfarlane
-DESCRIPTION:1st on-call, 9pm – 9am
+SUMMARY:On-Call 1st — George Macfarlane
+DESCRIPTION:1st on-call, 21:00 – 09:00
 END:VEVENT
 END:VCALENDAR

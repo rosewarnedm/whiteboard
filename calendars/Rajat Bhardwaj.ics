@@ -23,20 +23,20 @@ TZNAME:BST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d18d0f5385031eaf@whiteboard
+UID:b7023be0e68546c2@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260601T170000
 DTEND;TZID=Europe/London:20260601T210000
-SUMMARY:On-Call 1st (evening) — Rajat Bhardwaj
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Rajat Bhardwaj
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
-UID:8cc7b4c74cbcceda@whiteboard
+UID:128d952cd9751251@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260602T170000
 DTEND;TZID=Europe/London:20260602T210000
-SUMMARY:On-Call 1st (evening) — Rajat Bhardwaj
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Rajat Bhardwaj
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
 UID:32643ebed4bd2c0b@whiteboard
@@ -47,28 +47,28 @@ SUMMARY:DR AM — Rajat Bhardwaj
 DESCRIPTION:Diagnostic radiology — morning
 END:VEVENT
 BEGIN:VEVENT
-UID:046cd10f44e45cd1@whiteboard
+UID:a24d7be984d9bed3@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260606T090000
 DTEND;TZID=Europe/London:20260606T210000
-SUMMARY:On-Call 1st (day) — Rajat Bhardwaj
-DESCRIPTION:1st on-call, 9am – 9pm
+SUMMARY:On-Call 1st — Rajat Bhardwaj
+DESCRIPTION:1st on-call, 09:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
-UID:74e338ba286e42fe@whiteboard
+UID:99842edf5ec0513d@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260607T090000
 DTEND;TZID=Europe/London:20260607T210000
-SUMMARY:On-Call 1st (day) — Rajat Bhardwaj
-DESCRIPTION:1st on-call, 9am – 9pm
+SUMMARY:On-Call 1st — Rajat Bhardwaj
+DESCRIPTION:1st on-call, 09:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
-UID:91bdb86baf67441c@whiteboard
+UID:f33efaaa0b8747b4@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260610T170000
 DTEND;TZID=Europe/London:20260610T210000
-SUMMARY:On-Call 1st (evening) — Rajat Bhardwaj
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Rajat Bhardwaj
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
 UID:3d37b31a7707f5a1@whiteboard
@@ -79,12 +79,12 @@ SUMMARY:DR AM — Rajat Bhardwaj
 DESCRIPTION:Diagnostic radiology — morning
 END:VEVENT
 BEGIN:VEVENT
-UID:caf0e11389446817@whiteboard
+UID:f3ece811dea59fa4@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260611T170000
 DTEND;TZID=Europe/London:20260611T210000
-SUMMARY:On-Call 1st (evening) — Rajat Bhardwaj
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Rajat Bhardwaj
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
 UID:d58ad09e00499d10@whiteboard
@@ -95,11 +95,11 @@ SUMMARY:DR AM — Rajat Bhardwaj
 DESCRIPTION:Diagnostic radiology — morning
 END:VEVENT
 BEGIN:VEVENT
-UID:5a15da2a5ce65d99@whiteboard
+UID:bb81b4fb09a148f9@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260618T210000
 DTEND;TZID=Europe/London:20260619T091500
-SUMMARY:On-Call 1st (overnight) — Rajat Bhardwaj
-DESCRIPTION:1st on-call, 9pm – 9.15am
+SUMMARY:On-Call 1st — Rajat Bhardwaj
+DESCRIPTION:1st on-call, 21:00 – 09:15
 END:VEVENT
 END:VCALENDAR

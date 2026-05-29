@@ -31,36 +31,36 @@ SUMMARY:DR AM — Syed Zaidi
 DESCRIPTION:Diagnostic radiology — morning
 END:VEVENT
 BEGIN:VEVENT
-UID:539efc8abc98949b@whiteboard
+UID:71401de7282b2127@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260604T210000
 DTEND;TZID=Europe/London:20260605T091500
-SUMMARY:On-Call 1st (overnight) — Syed Zaidi
-DESCRIPTION:1st on-call, 9pm – 9.15am
+SUMMARY:On-Call 1st — Syed Zaidi
+DESCRIPTION:1st on-call, 21:00 – 09:15
 END:VEVENT
 BEGIN:VEVENT
-UID:5f49c27092875883@whiteboard
+UID:729ed26b9ea5cf94@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260605T210000
 DTEND;TZID=Europe/London:20260606T090000
-SUMMARY:On-Call 1st (overnight) — Syed Zaidi
-DESCRIPTION:1st on-call, 9pm – 9am
+SUMMARY:On-Call 1st — Syed Zaidi
+DESCRIPTION:1st on-call, 21:00 – 09:00
 END:VEVENT
 BEGIN:VEVENT
-UID:baedaa14e01cd747@whiteboard
+UID:a63a19939eaee623@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260606T210000
 DTEND;TZID=Europe/London:20260607T090000
-SUMMARY:On-Call 1st (overnight) — Syed Zaidi
-DESCRIPTION:1st on-call, 9pm – 9am
+SUMMARY:On-Call 1st — Syed Zaidi
+DESCRIPTION:1st on-call, 21:00 – 09:00
 END:VEVENT
 BEGIN:VEVENT
-UID:6f0c64babebf5072@whiteboard
+UID:faee5cb7a64a7292@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260607T210000
 DTEND;TZID=Europe/London:20260608T090000
-SUMMARY:On-Call 1st (overnight) — Syed Zaidi
-DESCRIPTION:1st on-call, 9pm – 9am
+SUMMARY:On-Call 1st — Syed Zaidi
+DESCRIPTION:1st on-call, 21:00 – 09:00
 END:VEVENT
 BEGIN:VEVENT
 UID:fc1faa20373377c2@whiteboard
@@ -79,19 +79,19 @@ SUMMARY:DR AM — Syed Zaidi
 DESCRIPTION:Diagnostic radiology — morning
 END:VEVENT
 BEGIN:VEVENT
-UID:827d4633bff2587d@whiteboard
+UID:247fcb9074a5d9c2@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260629T210000
 DTEND;TZID=Europe/London:20260630T091500
-SUMMARY:On-Call 1st (overnight) — Syed Zaidi
-DESCRIPTION:1st on-call, 9pm – 9.15am
+SUMMARY:On-Call 1st — Syed Zaidi
+DESCRIPTION:1st on-call, 21:00 – 09:15
 END:VEVENT
 BEGIN:VEVENT
-UID:79284951357f088f@whiteboard
+UID:7990ddc471cb324d@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260630T210000
 DTEND;TZID=Europe/London:20260701T091500
-SUMMARY:On-Call 1st (overnight) — Syed Zaidi
-DESCRIPTION:1st on-call, 9pm – 9.15am
+SUMMARY:On-Call 1st — Syed Zaidi
+DESCRIPTION:1st on-call, 21:00 – 09:15
 END:VEVENT
 END:VCALENDAR

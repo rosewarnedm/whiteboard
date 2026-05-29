@@ -31,36 +31,36 @@ SUMMARY:DR AM — Sobia Khan
 DESCRIPTION:Diagnostic radiology — morning
 END:VEVENT
 BEGIN:VEVENT
-UID:ea688aebe6da0d3b@whiteboard
+UID:5654eaa47b8f12dd@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260608T170000
 DTEND;TZID=Europe/London:20260608T210000
-SUMMARY:On-Call 1st (evening) — Sobia Khan
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Sobia Khan
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
-UID:5e75888045263d1e@whiteboard
+UID:120df0147248f36b@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260609T170000
 DTEND;TZID=Europe/London:20260609T210000
-SUMMARY:On-Call 1st (evening) — Sobia Khan
-DESCRIPTION:1st on-call, 5pm – 9pm
+SUMMARY:On-Call 1st — Sobia Khan
+DESCRIPTION:1st on-call, 17:00 – 21:00
 END:VEVENT
 BEGIN:VEVENT
-UID:bf6cbd2765cd4f95@whiteboard
+UID:95aafde27ce63a28@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260615T210000
 DTEND;TZID=Europe/London:20260616T091500
-SUMMARY:On-Call 1st (overnight) — Sobia Khan
-DESCRIPTION:1st on-call, 9pm – 9.15am
+SUMMARY:On-Call 1st — Sobia Khan
+DESCRIPTION:1st on-call, 21:00 – 09:15
 END:VEVENT
 BEGIN:VEVENT
-UID:a9625e254ab93a35@whiteboard
+UID:2e925b28b950981a@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260616T210000
 DTEND;TZID=Europe/London:20260617T091500
-SUMMARY:On-Call 1st (overnight) — Sobia Khan
-DESCRIPTION:1st on-call, 9pm – 9.15am
+SUMMARY:On-Call 1st — Sobia Khan
+DESCRIPTION:1st on-call, 21:00 – 09:15
 END:VEVENT
 BEGIN:VEVENT
 UID:83f95eeaadd72e75@whiteboard

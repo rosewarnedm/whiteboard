@@ -91,7 +91,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 **DR AM** Dr Au Yong / Sobia Khan / Dr Saha
 
-**DR PM** Dr Yahya / Vladimir Popa-Nimigean / TBA
+**DR PM** Dr Yahya / Vladimir Popa-Nimigean / Dr Kurian
 
 **Peripheral CTA** Dr Dyer (JD)
 

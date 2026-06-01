@@ -289,7 +289,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 #### Wednesday 24
 
-**DR AM** Dr Agamy / Gaurav Bhalla / Dr Thomas
+**DR AM** Dr Rafati / Gaurav Bhalla / Dr Thomas
 
 **DR PM** Dr Gupta / Amandeep Pahal / Dr Jawad
 

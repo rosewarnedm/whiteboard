@@ -23,27 +23,27 @@ TZNAME:BST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3a88ea1ab2803bd0@whiteboard
+UID:5de964b4a9546e07@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260604T130000
 DTEND;TZID=Europe/London:20260604T170000
-SUMMARY:DR PM — Dr M Qaiyum
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR2) — Dr M Qaiyum
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR2)
 END:VEVENT
 BEGIN:VEVENT
-UID:0ecd258639aabbcb@whiteboard
+UID:fab3e748b5356e79@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260611T090000
 DTEND;TZID=Europe/London:20260611T130000
-SUMMARY:DR AM — Dr M Qaiyum
-DESCRIPTION:Diagnostic radiology — morning
+SUMMARY:DR AM (DR1) — Dr M Qaiyum
+DESCRIPTION:Diagnostic radiology — morning (Duty Consultant DR1)
 END:VEVENT
 BEGIN:VEVENT
-UID:bb6dd6cf4b4e4d23@whiteboard
+UID:1480fbb057d9ab76@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260626T130000
 DTEND;TZID=Europe/London:20260626T170000
-SUMMARY:DR PM — Dr M Qaiyum
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR1) — Dr M Qaiyum
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR1)
 END:VEVENT
 END:VCALENDAR

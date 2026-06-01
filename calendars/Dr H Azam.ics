@@ -31,51 +31,51 @@ SUMMARY:On-Call 2nd — Dr H Azam
 DESCRIPTION:2nd on-call, 17:00 – 09:15
 END:VEVENT
 BEGIN:VEVENT
-UID:c9186de4e390aa38@whiteboard
+UID:4ce170d1570d396a@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260602T130000
 DTEND;TZID=Europe/London:20260602T170000
-SUMMARY:DR PM — Dr H Azam
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR2) — Dr H Azam
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR2)
 END:VEVENT
 BEGIN:VEVENT
-UID:3a47c6ba293426fa@whiteboard
+UID:f393273a0a101744@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260616T130000
 DTEND;TZID=Europe/London:20260616T170000
-SUMMARY:DR PM — Dr H Azam
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR1) — Dr H Azam
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR1)
 END:VEVENT
 BEGIN:VEVENT
-UID:30b865d2f769c377@whiteboard
+UID:e4c3cb0c00f50ece@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260622T130000
 DTEND;TZID=Europe/London:20260622T170000
-SUMMARY:DR PM — Dr H Azam
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR1) — Dr H Azam
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR1)
 END:VEVENT
 BEGIN:VEVENT
-UID:baa57cb3dd7d9273@whiteboard
+UID:feedd8caaae6ed67@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260623T130000
 DTEND;TZID=Europe/London:20260623T170000
-SUMMARY:DR PM — Dr H Azam
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR2) — Dr H Azam
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR2)
 END:VEVENT
 BEGIN:VEVENT
-UID:4127563e771f80d3@whiteboard
+UID:2f33818096491d0b@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260629T130000
 DTEND;TZID=Europe/London:20260629T170000
-SUMMARY:DR PM — Dr H Azam
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR2) — Dr H Azam
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR2)
 END:VEVENT
 BEGIN:VEVENT
-UID:c3d22466988672c0@whiteboard
+UID:3c14a2a4d632abc1@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260630T090000
 DTEND;TZID=Europe/London:20260630T130000
-SUMMARY:DR AM — Dr H Azam
-DESCRIPTION:Diagnostic radiology — morning
+SUMMARY:DR AM (DR1) — Dr H Azam
+DESCRIPTION:Diagnostic radiology — morning (Duty Consultant DR1)
 END:VEVENT
 END:VCALENDAR

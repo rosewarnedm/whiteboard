@@ -23,20 +23,20 @@ TZNAME:BST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6e3211a4f09d38c3@whiteboard
+UID:e91bca6fba8239f2@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260612T130000
 DTEND;TZID=Europe/London:20260612T170000
-SUMMARY:DR PM — Dr A Mahmood
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR1) — Dr A Mahmood
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR1)
 END:VEVENT
 BEGIN:VEVENT
-UID:0da1994f4f5dfe5c@whiteboard
+UID:89d2f333ddf17945@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260618T090000
 DTEND;TZID=Europe/London:20260618T130000
-SUMMARY:DR AM — Dr A Mahmood
-DESCRIPTION:Diagnostic radiology — morning
+SUMMARY:DR AM (DR2) — Dr A Mahmood
+DESCRIPTION:Diagnostic radiology — morning (Duty Consultant DR2)
 END:VEVENT
 BEGIN:VEVENT
 UID:5c1f9c2b136a52cf@whiteboard
@@ -47,11 +47,11 @@ SUMMARY:On-Call 2nd — Dr A Mahmood
 DESCRIPTION:2nd on-call, 17:00 – 09:15
 END:VEVENT
 BEGIN:VEVENT
-UID:45b6b4acce341e70@whiteboard
+UID:ed8c61589abeb263@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260625T090000
 DTEND;TZID=Europe/London:20260625T130000
-SUMMARY:DR AM — Dr A Mahmood
-DESCRIPTION:Diagnostic radiology — morning
+SUMMARY:DR AM (DR1) — Dr A Mahmood
+DESCRIPTION:Diagnostic radiology — morning (Duty Consultant DR1)
 END:VEVENT
 END:VCALENDAR

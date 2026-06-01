@@ -23,59 +23,59 @@ TZNAME:BST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6ed72a865e3ac976@whiteboard
+UID:db1f3b79a0931fc3@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260601T090000
 DTEND;TZID=Europe/London:20260601T130000
-SUMMARY:DR AM — Dr A Gupta
-DESCRIPTION:Diagnostic radiology — morning
+SUMMARY:DR AM (DR2) — Dr A Gupta
+DESCRIPTION:Diagnostic radiology — morning (Duty Consultant DR2)
 END:VEVENT
 BEGIN:VEVENT
-UID:13ece38aca716bc9@whiteboard
+UID:0d3724001ec0b9aa@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260603T130000
 DTEND;TZID=Europe/London:20260603T170000
-SUMMARY:DR PM — Dr A Gupta
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR2) — Dr A Gupta
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR2)
 END:VEVENT
 BEGIN:VEVENT
-UID:7dc236bad3405a63@whiteboard
+UID:38386a5b3162d00a@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260606T090000
 DTEND;TZID=Europe/London:20260607T090000
-SUMMARY:On-Call 2nd — Dr A Gupta
-DESCRIPTION:2nd on-call, 09:00 – 09:00
+SUMMARY:On-Call 2nd (Rad B) — Dr A Gupta
+DESCRIPTION:2nd on-call Rad B, 09:00 – 09:00
 END:VEVENT
 BEGIN:VEVENT
-UID:66d23877c349bcc4@whiteboard
+UID:fa300fe2c9e18dfc@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260610T130000
 DTEND;TZID=Europe/London:20260610T170000
-SUMMARY:DR PM — Dr A Gupta
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR1) — Dr A Gupta
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR1)
 END:VEVENT
 BEGIN:VEVENT
-UID:9cdd2f3fb52ed6bd@whiteboard
+UID:7bbdfb90a0bd9454@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260617T130000
 DTEND;TZID=Europe/London:20260617T170000
-SUMMARY:DR PM — Dr A Gupta
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR2) — Dr A Gupta
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR2)
 END:VEVENT
 BEGIN:VEVENT
-UID:bcbc70f880f5eb64@whiteboard
+UID:260af7e8a01f7829@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260624T130000
 DTEND;TZID=Europe/London:20260624T170000
-SUMMARY:DR PM — Dr A Gupta
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR1) — Dr A Gupta
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR1)
 END:VEVENT
 BEGIN:VEVENT
-UID:cb06e224a1cab88a@whiteboard
+UID:f1ab324b57b78853@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260629T090000
 DTEND;TZID=Europe/London:20260629T130000
-SUMMARY:DR AM — Dr A Gupta
-DESCRIPTION:Diagnostic radiology — morning
+SUMMARY:DR AM (DR2) — Dr A Gupta
+DESCRIPTION:Diagnostic radiology — morning (Duty Consultant DR2)
 END:VEVENT
 END:VCALENDAR

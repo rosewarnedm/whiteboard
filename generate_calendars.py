@@ -52,6 +52,12 @@ NAME_MAP: dict[str, str] = {
     "Dr Rosewarne": "Dr Rosewarne",
     "Dr Collins": "Dr Collins",
     "Dr Blakeman": "Dr Blakeman",
+    # Peripheral CTA consultants (appear surname-only in the CTA slot)
+    "Dr Nikkar": "Dr Nikkar",
+    "Dr Sirakaya": "Dr Sirakaya",
+    "Dr Dyer": "Dr Dyer",
+    "Dr Sarang": "Dr Sarang",
+    "Dr Rangarajan": "Dr Rangarajan",
     # SpRs / Registrars
     "Syed Zaidi": "Syed Zaidi", "Dr S Zaidi": "Syed Zaidi",
     "Vladimir Popa-Nimigean": "Vladimir Popa-Nimigean",
@@ -89,8 +95,47 @@ def canon(raw: str) -> str | None:
     return s
 
 
-def parse_people(segment: str) -> list[str]:
-    """Pull names out of a slash-separated DR slot like 'Dr X / SpR Y / Dr Z'."""
+def parse_people_labeled(segment: str) -> list[tuple[str, str | None]]:
+    """Parse a DR slot, tagging duty consultants by position.
+
+    DR AM/PM slots read 'Dr X / SpR Y / Dr Z': the first listed radiologist is
+    the duty consultant DR1, the last is the duty consultant DR2, and anyone in
+    between (typically the registrar/SpR) carries no DR label.
+    """
+    parts = segment.split("/")
+    n = len(parts)
+    out: list[tuple[str, str | None]] = []
+    for i, part in enumerate(parts):
+        c = canon(part)
+        if not c:
+            continue
+        if i == 0:
+            label = "DR1"
+        elif i == n - 1 and n >= 2:
+            label = "DR2"
+        else:
+            label = None
+        out.append((c, label))
+    return out
+
+
+_DR_LABEL_DESC = {
+    "DR1": " (Duty Consultant DR1)",
+    "DR2": " (Duty Consultant DR2)",
+}
+
+
+def dr_slot_summary(slot: str, base_desc: str, label: str | None) -> tuple[str, str]:
+    """Build the (summary, description) for a DR AM/PM event given its DR1/DR2 label."""
+    if label:
+        return f"{slot} ({label})", base_desc + _DR_LABEL_DESC[label]
+    return slot, base_desc
+
+
+def parse_cta_people(segment: str) -> list[str]:
+    """Parse a Peripheral CTA slot, e.g. 'Dr Dyer (JD)' or 'Dr Rangarajan / Dr Sarang (BR / ZS)'."""
+    # Drop a trailing initials parenthetical, which may itself contain a slash.
+    segment = re.sub(r"\s*\([^)]*\)\s*$", "", segment).strip()
     out = []
     for part in segment.split("/"):
         c = canon(part)
@@ -105,27 +150,35 @@ _ON_CALL_RE = re.compile(
 )
 
 
-def parse_on_call_people(line: str) -> tuple[list[str], list[str]]:
-    """Return (first_on_call_names, second_on_call_names) from one On-Call line."""
+def parse_on_call_people(
+    line: str,
+) -> tuple[list[tuple[str, str | None]], list[tuple[str, str | None]]]:
+    """Return (first_on_call, second_on_call) as lists of (name, group).
+
+    `group` is "Rad A"/"Rad B" for the 2nd on-call consultants who carry an
+    (A)/(B) marker (the A and B split that runs at weekends), else None.
+    """
     m = _ON_CALL_RE.search(line)
     if not m:
         return [], []
 
-    def split_second(s: str) -> list[str]:
+    def split_second(s: str) -> list[tuple[str, str | None]]:
         # Drop any inline weekend sub-window like "**09.00am - 2.00pm**".
         s = re.sub(r"\*\*[^*]+\*\*", " ", s)
         # Split on "/" (A vs B groups) — every named consultant in the segment is on.
-        names = []
+        people: list[tuple[str, str | None]] = []
         for chunk in re.split(r"[/]", s):
             chunk = chunk.strip()
             if not chunk:
                 continue
+            gm = re.search(r"\(([AB])\)", chunk)
+            group = f"Rad {gm.group(1)}" if gm else None
             c = canon(chunk)
             if c:
-                names.append(c)
-        return names
+                people.append((c, group))
+        return people
 
-    firsts = [c for c in (canon(m.group("first")),) if c]
+    firsts = [(c, None) for c in (canon(m.group("first")),) if c]
     seconds = split_second(m.group("second"))
     return firsts, seconds
 
@@ -171,14 +224,16 @@ def emit_oncall(events, windows):
     changes at the 21:00 handover, so those stay as separate events.
     """
     for role_idx, ordinal in ((2, "1st"), (3, "2nd")):
-        per_person: dict[str, list[tuple[datetime, datetime]]] = defaultdict(list)
+        # Key on (name, group) so a Rad A and Rad B consultant don't merge together.
+        per_person: dict[tuple[str, str | None], list[tuple[datetime, datetime]]] = defaultdict(list)
         for start, end, *roles in windows:
-            for name in roles[role_idx - 2]:
-                per_person[name].append((start, end))
-        for name, ivals in per_person.items():
+            for name, group in roles[role_idx - 2]:
+                per_person[(name, group)].append((start, end))
+        for (name, group), ivals in per_person.items():
+            tag = f" ({group})" if group else ""
             for s, e in merge_runs(ivals):
-                desc = f"{ordinal} on-call, {s:%H:%M} – {e:%H:%M}"
-                events[name].append((s, e, f"On-Call {ordinal}", desc))
+                desc = f"{ordinal} on-call{(' ' + group) if group else ''}, {s:%H:%M} – {e:%H:%M}"
+                events[name].append((s, e, f"On-Call {ordinal}{tag}", desc))
 
 
 def extract_month_block(text: str) -> str:
@@ -220,16 +275,29 @@ def collect_events():
             if m:
                 start = datetime.combine(d, time(9, 0))
                 end = datetime.combine(d, time(13, 0))
-                for name in parse_people(m.group(1)):
-                    events[name].append((start, end, "DR AM", "Diagnostic radiology — morning"))
+                for name, label in parse_people_labeled(m.group(1)):
+                    summary, desc = dr_slot_summary("DR AM", "Diagnostic radiology — morning", label)
+                    events[name].append((start, end, summary, desc))
                 continue
 
             m = re.match(r"\*\*DR PM\*\*\s+(.*)", line)
             if m:
                 start = datetime.combine(d, time(13, 0))
                 end = datetime.combine(d, time(17, 0))
-                for name in parse_people(m.group(1)):
-                    events[name].append((start, end, "DR PM", "Diagnostic radiology — afternoon"))
+                for name, label in parse_people_labeled(m.group(1)):
+                    summary, desc = dr_slot_summary("DR PM", "Diagnostic radiology — afternoon", label)
+                    events[name].append((start, end, summary, desc))
+                continue
+
+            # Peripheral CTA slot (no rota time given — treated as a full working day).
+            m = re.match(r"\*\*Peripheral CTA\*\*\s+(.*)", line)
+            if m:
+                start = datetime.combine(d, time(9, 0))
+                end = datetime.combine(d, time(17, 0))
+                for name in parse_cta_people(m.group(1)):
+                    events[name].append(
+                        (start, end, "Peripheral CTA", "Peripheral CT angiography duty")
+                    )
                 continue
 
             # On-Call windows — collected per day, then merged per person below.

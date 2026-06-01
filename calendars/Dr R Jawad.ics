@@ -23,28 +23,28 @@ TZNAME:BST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:afa85609fccaa197@whiteboard
+UID:db06e1fb63e8b69e@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260603T130000
 DTEND;TZID=Europe/London:20260603T170000
-SUMMARY:DR PM — Dr R Jawad
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR1) — Dr R Jawad
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR1)
 END:VEVENT
 BEGIN:VEVENT
-UID:384715b3cd1b38c4@whiteboard
+UID:497a7a957f862888@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260609T090000
 DTEND;TZID=Europe/London:20260609T130000
-SUMMARY:DR AM — Dr R Jawad
-DESCRIPTION:Diagnostic radiology — morning
+SUMMARY:DR AM (DR1) — Dr R Jawad
+DESCRIPTION:Diagnostic radiology — morning (Duty Consultant DR1)
 END:VEVENT
 BEGIN:VEVENT
-UID:7b2f39f8ea66afd4@whiteboard
+UID:fe5c1651a81b07c4@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260610T130000
 DTEND;TZID=Europe/London:20260610T170000
-SUMMARY:DR PM — Dr R Jawad
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR2) — Dr R Jawad
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR2)
 END:VEVENT
 BEGIN:VEVENT
 UID:4ce089e7c230c388@whiteboard
@@ -55,11 +55,11 @@ SUMMARY:On-Call 2nd — Dr R Jawad
 DESCRIPTION:2nd on-call, 17:00 – 09:15
 END:VEVENT
 BEGIN:VEVENT
-UID:200b90d7c90df4bc@whiteboard
+UID:2208ba2722206e97@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260624T130000
 DTEND;TZID=Europe/London:20260624T170000
-SUMMARY:DR PM — Dr R Jawad
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR2) — Dr R Jawad
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR2)
 END:VEVENT
 END:VCALENDAR

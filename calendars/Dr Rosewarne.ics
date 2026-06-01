@@ -23,27 +23,27 @@ TZNAME:BST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5bea3359cec141ed@whiteboard
+UID:70483ef7bdcd5f01@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260604T090000
 DTEND;TZID=Europe/London:20260604T130000
-SUMMARY:DR AM — Dr Rosewarne
-DESCRIPTION:Diagnostic radiology — morning
+SUMMARY:DR AM (DR1) — Dr Rosewarne
+DESCRIPTION:Diagnostic radiology — morning (Duty Consultant DR1)
 END:VEVENT
 BEGIN:VEVENT
-UID:e1d4f4382b19915f@whiteboard
+UID:42f1b7130305bfbf@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260615T090000
 DTEND;TZID=Europe/London:20260615T130000
-SUMMARY:DR AM — Dr Rosewarne
-DESCRIPTION:Diagnostic radiology — morning
+SUMMARY:DR AM (DR2) — Dr Rosewarne
+DESCRIPTION:Diagnostic radiology — morning (Duty Consultant DR2)
 END:VEVENT
 BEGIN:VEVENT
-UID:cb9f4d5b81f0ba02@whiteboard
+UID:d9f911fedbc0a353@whiteboard
 DTSTAMP:20260529T000000Z
 DTSTART;TZID=Europe/London:20260617T130000
 DTEND;TZID=Europe/London:20260617T170000
-SUMMARY:DR PM — Dr Rosewarne
-DESCRIPTION:Diagnostic radiology — afternoon
+SUMMARY:DR PM (DR1) — Dr Rosewarne
+DESCRIPTION:Diagnostic radiology — afternoon (Duty Consultant DR1)
 END:VEVENT
 END:VCALENDAR

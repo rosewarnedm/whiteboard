@@ -51,7 +51,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 **Peripheral CTA** Dr Nikkar (AN)
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr S Jain
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Jain
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi (L); 2nd On Call: Dr S Jain
 

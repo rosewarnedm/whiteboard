@@ -73,17 +73,17 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 #### Saturday 6
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr S Jain (A) / Dr A Gupta (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr S Jain (A) / Dr R Kurian (B)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr S Jain (A) / Dr A Gupta (B)
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr S Jain (A) / Dr R Kurian (B)
 
 **CT Night Radiographer** *TBC*
 
 #### Sunday 7
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr S Jain (A) / Dr R Kurian (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr S Jain (A) / Dr A Gupta (B)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr S Jain (A) / Dr R Kurian (B)
+**On-Call 9.00pm – 9.00am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr S Jain (A) / Dr A Gupta (B)
 
 **CT Night Radiographer** *TBC*
 

@@ -131,7 +131,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 #### Thursday 11
 
-**DR AM** Dr Qaiyum / Rajat Bhardwaj / Dr Agamy
+**DR AM** Dr Qaiyum / George MacFarlane / Dr Agamy
 
 **DR PM** Dr Bapusamy / Syed Zaidi / Dr Khan
 
@@ -145,7 +145,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 #### Friday 12
 
-**DR AM** Dr Khatoon / George Macfarlane / Dr Li
+**DR AM** Dr Khatoon / Rajat Bhardwaj / Dr Li
 
 **DR PM** Dr Mahmood / ST1 / Dr Chaudhary
 

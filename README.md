@@ -123,7 +123,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 **Peripheral CTA** Dr Dyer (JD)
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr G Chaudhary
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr G Chaudhary
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr T Jadhav; 2nd On Call: Dr G Chaudhary
 

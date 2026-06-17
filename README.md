@@ -205,7 +205,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 **DR AM** Dr Chaudhary / Amandeep Pahal / Dr Jain
 
-**DR PM** Dr Rosewarne / ST1 / Dr Gupta
+**DR PM** Dr Rosewarne / Yukki Na / Dr Gupta
 
 **Peripheral CTA** Dr Rangarajan / Dr Sarang (BR / ZS)
 

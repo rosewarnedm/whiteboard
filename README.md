@@ -275,7 +275,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 #### Tuesday 23
 
-**DR AM** Dr Pang / ST1 / Dr Au Yong
+**DR AM** Dr Pang / ST1 / Dr Rosewarne
 
 **DR PM** Dr Vydianath / Ali Gulamhussein / Dr Azam
 
@@ -291,7 +291,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 **DR AM** Dr Rafati / Gaurav Bhalla / Dr Thomas
 
-**DR PM** Dr Gupta / Amandeep Pahal / Dr Jawad
+**DR PM** Dr Gupta / ST1 / Dr Jawad
 
 **Peripheral CTA** Dr Rangarajan / Dr Dyer (BR / JD)
 
@@ -303,7 +303,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 #### Thursday 25
 
-**DR AM** Dr Mahmood / ST1 / Dr Kurian
+**DR AM** Dr Mahmood / ST1 / Dr Agamy
 
 **DR PM** Dr Khan / ST1 / Dr Bapusamy
 
@@ -317,7 +317,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 #### Friday 26
 
-**DR AM** Dr Khatoon / Gaurav Bhalla / Dr Agamy
+**DR AM** Dr Khatoon / Gaurav Bhalla / Dr Khan
 
 **DR PM** Dr Qaiyum / Ali Gulamhussein / Dr Collins
 
@@ -347,7 +347,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 #### Monday 29
 
-**DR AM** Dr Thomas / Sobia Khan / Dr Gupta
+**DR AM** Dr Thomas / Sobia Khan / Dr Khatoon
 
 **DR PM** Dr Saha / Tanmay Jadhav / Dr Azam
 

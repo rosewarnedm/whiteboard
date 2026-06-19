@@ -347,7 +347,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 #### Monday 29
 
-**DR AM** Dr Thomas / Sobia Khan / Dr Khatoon
+**DR AM** Dr Thomas / Sobia Khan / Dr Au Yong
 
 **DR PM** Dr Saha / Tanmay Jadhav / Dr Azam
 

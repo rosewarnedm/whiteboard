@@ -275,9 +275,9 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 #### Tuesday 23
 
-**DR AM** Dr Pang / ST1 / Dr Rosewarne
+**DR AM** Dr Pang / Powel Sokal / Dr Rosewarne
 
-**DR PM** Dr Vydianath / Ali Gulamhussein / Dr Azam
+**DR PM** Dr Vydianath / Powel Sokal / Dr Azam
 
 **Peripheral CTA** Dr Sarang (ZS)
 

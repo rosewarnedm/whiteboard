@@ -269,7 +269,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr A Bapusamy
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Chanian; 2nd On Call: Dr A Bapusamy
+**On-Call 9.00pm – 9.15am** 1st On Call: 4 Ways; 2nd On Call: Dr A Bapusamy
 
 **CT Night Radiographer** Hanan Mohamed
 
@@ -283,7 +283,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr A Agamy
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr N Chanian; 2nd On Call: Dr A Agamy
+**On-Call 9.00pm – 9.15am** 1st On Call: 4 Ways; 2nd On Call: Dr A Agamy
 
 **CT Night Radiographer** Hanan Mohamed
 

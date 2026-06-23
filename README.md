@@ -295,7 +295,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 **Peripheral CTA** Dr Rangarajan / Dr Dyer (BR / JD)
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr K Cole; 2nd On Call: Dr M Khatoon
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Pahal; 2nd On Call: Dr M Khatoon
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr N Chanian; 2nd On Call: Dr M Khatoon
 

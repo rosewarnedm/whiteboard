@@ -291,7 +291,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 **DR AM** Dr Rafati / Gaurav Bhalla / Dr Thomas
 
-**DR PM** Dr Gupta / ST1 / Dr Jawad
+**DR PM** Dr Gupta / Mehrab Durrani / Dr Jawad
 
 **Peripheral CTA** Dr Rangarajan / Dr Dyer (BR / JD)
 

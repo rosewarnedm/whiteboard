@@ -303,9 +303,9 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 #### Thursday 25
 
-**DR AM** Dr Mahmood / ST1 / Dr Agamy
+**DR AM** Dr Mahmood / Mimi Li / Dr Agamy
 
-**DR PM** Dr Khan / ST1 / Dr Bapusamy
+**DR PM** Dr Khan / Mehrab Durrani / Dr Bapusamy
 
 **Peripheral CTA** Dr Rangarajan (BR)
 

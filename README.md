@@ -319,7 +319,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 **DR AM** Dr Khatoon / Gaurav Bhalla / Dr Khan
 
-**DR PM** Dr Qaiyum / Ali Gulamhussein / Dr Collins
+**DR PM** Dr Qaiyum / Mimi Li / Dr Collins
 
 **Peripheral CTA** Dr Collins (MC)
 

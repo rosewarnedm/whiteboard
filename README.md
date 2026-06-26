@@ -331,7 +331,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 #### Saturday 27
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr Y Na; 2nd On Call: Dr M Khatoon (A) / Dr S Yahya (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: Dr S Zaidi; 2nd On Call: Dr M Khatoon (A) / Dr S Yahya (B)
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr A Pahal; 2nd On Call: Dr M Khatoon (A) / Dr S Yahya (B)
 
@@ -339,7 +339,7 @@ Needs checking by Tina/Lisa/Collette.  Duty verified by Lisa on 31 May 2026
 
 #### Sunday 28
 
-**On-Call 9.00am – 9.00pm** 1st On Call: Dr Y Na; 2nd On Call: Dr M Khatoon (A) / Dr S Yahya (B)
+**On-Call 9.00am – 9.00pm** 1st On Call: No Registrar 2nd On Call: Dr M Khatoon (A) / Dr S Yahya (B)
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr A Pahal; 2nd On Call: Dr M Khatoon (A) / Dr S Yahya (B)
 

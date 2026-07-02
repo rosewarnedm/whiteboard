@@ -13,7 +13,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr S Saha
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Elizabeth Taylor
 
 #### Thursday 2
 
@@ -27,7 +27,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr S Zaidi; 2nd On Call: Dr M Qaiyum
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Jude Nnadi
 
 #### Friday 3
 
@@ -41,7 +41,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr K Cole; 2nd On Call: Dr T Au Yong (A)
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Jude Nnadi
 
 #### Saturday 4
 
@@ -49,7 +49,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr K Cole; 2nd On Call: Dr T Au Yong (A) / Dr R Jawad (B)
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Jude Nnadi
 
 #### Sunday 5
 
@@ -57,7 +57,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr K Cole; 2nd On Call: Dr T Au Yong (A) / Dr R Jawad (B)
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Ayoola Fagbemi
 
 #### Monday 6
 
@@ -71,7 +71,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr G Bhalla; 2nd On Call: Dr F Syed
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Amandeep Leer
 
 #### Tuesday 7
 
@@ -85,7 +85,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr G Bhalla; 2nd On Call: Dr I Khan
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Amandeep Leer
 
 #### Wednesday 8
 
@@ -99,7 +99,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr G Bhalla; 2nd On Call: Dr S Saha
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Amandeep Leer
 
 #### Thursday 9
 
@@ -113,7 +113,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr G Bhalla; 2nd On Call: Dr R Jawad
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Thomas Joseph
 
 #### Friday 10
 
@@ -127,7 +127,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr A Agamy (A)
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Allie Capener
 
 #### Saturday 11
 
@@ -135,7 +135,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr A Agamy (A) / Dr W Pang (B)
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Allie Capener
 
 #### Sunday 12
 
@@ -143,7 +143,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr A Agamy (A) / Dr W Pang (B)
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Allie Capener
 
 #### Monday 13
 
@@ -157,7 +157,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr F Rafati
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Thomas Joseph
 
 #### Tuesday 14
 
@@ -171,7 +171,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr D Thomas
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Thomas Joseph
 
 #### Wednesday 15
 
@@ -185,7 +185,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr P Li
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Thomas Joseph
 
 #### Thursday 16
 
@@ -199,7 +199,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr G Chaudhary
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Jude Nnadi
 
 #### Friday 17
 
@@ -213,7 +213,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr A Mahmood (A)
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Jude Nnadi
 
 #### Saturday 18
 
@@ -221,7 +221,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr A Mahmood (A) / Dr S Yahya (B)
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Jude Nnadi
 
 #### Sunday 19
 
@@ -229,7 +229,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr R Bhardwaj; 2nd On Call: Dr A Mahmood (A) / Dr S Yahya (B)
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Osman Elshehawi
 
 #### Monday 20
 
@@ -243,7 +243,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr A Pahal; 2nd On Call: Dr A Bapusamy
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Osman Elshehawi
 
 #### Tuesday 21
 
@@ -257,7 +257,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr A Pahal; 2nd On Call: Dr A Agamy
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Osman Elshehawi
 
 #### Wednesday 22
 
@@ -271,7 +271,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr A Pahal; 2nd On Call: Dr A Gupta
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Jude Nnadi
 
 #### Thursday 23
 
@@ -285,7 +285,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr A Pahal; 2nd On Call: Dr S Jain
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Jude Nnadi
 
 #### Friday 24
 
@@ -299,7 +299,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr D Catlow; 2nd On Call: Dr H Azam (A)
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Jude Nnadi
 
 #### Saturday 25
 
@@ -307,7 +307,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr D Catlow; 2nd On Call: Dr H Azam (A) / Dr F Rafati (B)
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Leonard Gonzales
 
 #### Sunday 26
 
@@ -315,7 +315,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr D Catlow; 2nd On Call: Dr H Azam (A) / Dr F Rafati (B)
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Leonard Gonzales
 
 #### Monday 27
 
@@ -329,7 +329,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr K Cole; 2nd On Call: Dr R Kurian
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Leonard Gonzales
 
 #### Tuesday 28
 
@@ -343,7 +343,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr K Cole; 2nd On Call: Dr W Pang
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Robinson Corpuz
 
 #### Wednesday 29
 
@@ -357,7 +357,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr K Cole; 2nd On Call: Dr D Rosewarne
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Robinson Corpuz
 
 #### Thursday 30
 
@@ -371,7 +371,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr K Cole; 2nd On Call: Dr S Vydianath
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** Robinson Corpuz
 
 #### Friday 31
 
@@ -385,7 +385,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr G Chaudhary (A) / Dr M Qaiyum (B)
 
-**CT Night Radiographer** *TBC*
+**CT Night Radiographer** April De Guzman
 
 ---
 

@@ -1,5 +1,5 @@
 ### JULY 2026
-NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
+NEEDS CHECKING — not yet verified by Lisa/Collette.
 
 #### Wednesday 1
 

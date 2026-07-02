@@ -79,6 +79,9 @@ NAME_MAP: dict[str, str] = {
     "Mimi Li": "Mimi Li", "Dr M Li": "Mimi Li",
     "Powel Sokal": "Powel Sokal", "Dr P Sokal": "Powel Sokal",
     "Mehrab Durrani": "Mehrab Durrani", "Dr M Durrani": "Mehrab Durrani",
+    # El Nigoumi is a specialty trainee (ST), not a consultant — no first name in
+    # the source, so track surname-only under SpRs rather than as "Dr El Nigoumi".
+    "El Nigoumi": "El Nigoumi", "Dr El Nigoumi": "El Nigoumi",
 }
 
 SKIP_NAMES = {"ST1", "TBC", "TBA", "Locum", "—", "-"}

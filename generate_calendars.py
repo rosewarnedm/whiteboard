@@ -1,7 +1,7 @@
 """Generate per-radiologist .ics files for the current month's rota in README.md.
 
 Parses DR AM/PM and On-Call entries under the latest "### MONTH YYYY" section
-(currently JUNE 2026), writes one calendar per radiologist into ./calendars,
+(currently JULY 2026), writes one calendar per radiologist into ./calendars,
 and rewrites the trailing "## Calendars" block of README.md with download links.
 """
 
@@ -19,9 +19,9 @@ ROOT = Path(__file__).resolve().parent
 README = ROOT / "README.md"
 OUT_DIR = ROOT / "calendars"
 
-MONTH_HEADER = "### JUNE 2026"
+MONTH_HEADER = "### JULY 2026"
 YEAR = 2026
-MONTH = 6
+MONTH = 7
 
 # Canonicalise the many spellings a single doctor appears under (DR slots use
 # "Dr Surname", on-call entries use "Dr X Surname", SpRs sometimes go by full name).
@@ -45,11 +45,10 @@ NAME_MAP: dict[str, str] = {
     "Dr Agamy": "Dr A Agamy", "Dr A Agamy": "Dr A Agamy",
     "Dr Jawad": "Dr R Jawad", "Dr R Jawad": "Dr R Jawad",
     "Dr Pang": "Dr W Pang", "Dr W Pang": "Dr W Pang",
-    "Dr Cole": "Dr K Cole", "Dr K Cole": "Dr K Cole",
     "Dr Syed": "Dr F Syed", "Dr F Syed": "Dr F Syed",
     "Dr Gupta": "Dr A Gupta", "Dr A Gupta": "Dr A Gupta",
     "Dr Qaiyum": "Dr M Qaiyum", "Dr M Qaiyum": "Dr M Qaiyum",
-    "Dr Rosewarne": "Dr Rosewarne",
+    "Dr Rosewarne": "Dr Rosewarne", "Dr D Rosewarne": "Dr Rosewarne",
     "Dr Collins": "Dr Collins",
     "Dr Blakeman": "Dr Blakeman",
     # Peripheral CTA consultants (appear surname-only in the CTA slot)
@@ -74,9 +73,15 @@ NAME_MAP: dict[str, str] = {
     "Yuuki Na": "Yuuki Na", "Dr Y Na": "Yuuki Na",
     "Tanmay Jadhav": "Tanmay Jadhav", "Dr T Jadhav": "Tanmay Jadhav",
     "Amandeep Pahal": "Amandeep Pahal", "Dr A Pahal": "Amandeep Pahal",
+    # Khyle Cole is a registrar (SpR), not a consultant — the DR rota spells him
+    # "Khyle Cole", the on-call rota "Dr K Cole"; both map to the one SpR name.
+    "Khyle Cole": "Khyle Cole", "Dr K Cole": "Khyle Cole", "Dr Cole": "Khyle Cole",
+    "Mimi Li": "Mimi Li", "Dr M Li": "Mimi Li",
+    "Powel Sokal": "Powel Sokal", "Dr P Sokal": "Powel Sokal",
+    "Mehrab Durrani": "Mehrab Durrani", "Dr M Durrani": "Mehrab Durrani",
 }
 
-SKIP_NAMES = {"ST1", "TBC", "TBA", "—", "-"}
+SKIP_NAMES = {"ST1", "TBC", "TBA", "Locum", "—", "-"}
 
 # Stable timestamp so re-runs don't churn UIDs/DTSTAMP.
 DTSTAMP = "20260529T000000Z"

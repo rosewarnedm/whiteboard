@@ -95,7 +95,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **Peripheral CTA** Dr Sirakaya (MS)
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr S Saha
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Saha
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr G Bhalla; 2nd On Call: Dr S Saha
 
@@ -109,7 +109,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **Peripheral CTA** Dr Rangarajan (BR)
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr R Jawad
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr N Chanian; 2nd On Call: Dr R Jawad
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr G Bhalla; 2nd On Call: Dr R Jawad
 
@@ -153,7 +153,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **Peripheral CTA** Dr Dyer (JD)
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Locum; 2nd On Call: Dr F Rafati
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav (L); 2nd On Call: Dr F Rafati
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr F Rafati
 
@@ -167,7 +167,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **Peripheral CTA** Dr Sarang (ZS)
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Locum; 2nd On Call: Dr D Thomas
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr D Catlow (L) 2nd On Call: Dr D Thomas
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr D Thomas
 
@@ -195,7 +195,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **Peripheral CTA** Dr Sirakaya (MS)
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Locum; 2nd On Call: Dr G Chaudhary
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr A Pahal (L); 2nd On Call: Dr G Chaudhary
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr G Macfarlane; 2nd On Call: Dr G Chaudhary
 
@@ -295,7 +295,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **Peripheral CTA** Dr Sirakaya (MS)
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Locum; 2nd On Call: Dr H Azam (A)
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr S Zaidi (L); 2nd On Call: Dr H Azam (A)
 
 **On-Call 9.00pm – 9.00am** 1st On Call: Dr D Catlow; 2nd On Call: Dr H Azam (A)
 
@@ -353,7 +353,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **Peripheral CTA** Dr Dyer (JD)
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr N Chanian; 2nd On Call: Dr D Rosewarne
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr D Rosewarne
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr K Cole; 2nd On Call: Dr D Rosewarne
 
@@ -367,7 +367,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette/Tina.
 
 **Peripheral CTA** Dr Sirakaya (MS)
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr N Chanian; 2nd On Call: Dr S Vydianath
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr T Jadhav; 2nd On Call: Dr S Vydianath
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr K Cole; 2nd On Call: Dr S Vydianath
 

@@ -3,7 +3,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette.
 
 #### Wednesday 1
 
-**DR AM** Dr Chaudhary / Ali Gulamhussein / Dr Au Yong
+**DR AM** Dr Chaudhary / Yuuki Na / Dr Au Yong
 
 **DR PM** Dr Rosewarne / Vladimir Popa-Nimigean / Dr Kurian
 
@@ -61,7 +61,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette.
 
 #### Monday 6
 
-**DR AM** Dr Saha / Sobia Khan / Dr Jawad
+**DR AM** Dr Saha / Sobia Khan / Dr Pang
 
 **DR PM** Dr Kurian / Syed Zaidi / Dr Au Yong
 
@@ -119,7 +119,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette.
 
 **DR AM** Dr Syed / Ali Gulamhussein / Dr Collins
 
-**DR PM** Dr Thomas / Mehrab Durrani / Dr Mahmood
+**DR PM** Dr Thomas / Mimi Li / Dr Mahmood
 
 **Peripheral CTA** Dr Collins (MC)
 
@@ -147,7 +147,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette.
 
 #### Monday 13
 
-**DR AM** Dr Jain / Syed Zaidi / Dr Pang
+**DR AM** Dr Jain / Syed Zaidi / Dr Jawad
 
 **DR PM** Dr Au Yong / Vladimir Popa-Nimigean / Dr Kurian
 
@@ -289,7 +289,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette.
 
 #### Friday 24
 
-**DR AM** Dr Li / Khyle Cole / Dr Khatoon
+**DR AM** Dr Li / Khyle Cole / TBA
 
 **DR PM** Dr Mahmood / Powel Sokal / Dr Khan
 
@@ -375,7 +375,7 @@ NEEDS CHECKING — not yet verified by Lisa/Collette.
 
 #### Friday 31
 
-**DR AM** Dr Vydianath / Mimi Li / Dr Thomas
+**DR AM** Dr Vydianath / Ali Gulamhussein / Dr Thomas
 
 **DR PM** Dr Khan / Mehrab Durrani / Dr Collins
 

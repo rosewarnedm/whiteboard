@@ -69,7 +69,7 @@ NEEDS CHECKING — Duty rota checked by Lisa on 3 July.  not yet verified Collet
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr Y Na; 2nd On Call: Dr F Syed
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr G Bhalla; 2nd On Call: Dr F Syed
+**On-Call 9.00pm – 9.15am** 1st On Call: 4 Ways; 2nd On Call: Dr F Syed
 
 **CT Night Radiographer** Amandeep Leer
 
@@ -83,7 +83,7 @@ NEEDS CHECKING — Duty rota checked by Lisa on 3 July.  not yet verified Collet
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr Y Na; 2nd On Call: Dr I Khan
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr G Bhalla; 2nd On Call: Dr I Khan
+**On-Call 9.00pm – 9.15am** 1st On Call: 4 Ways; 2nd On Call: Dr I Khan
 
 **CT Night Radiographer** Amandeep Leer
 

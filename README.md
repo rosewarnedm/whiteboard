@@ -111,7 +111,7 @@ NEEDS CHECKING — Duty rota checked by Lisa on 3 July.  not yet verified Collet
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr N Chanian; 2nd On Call: Dr R Jawad
 
-**On-Call 9.00pm – 9.15am** 1st On Call: Dr G Bhalla; 2nd On Call: Dr R Jawad
+**On-Call 9.00pm – 9.15am** 1st On Call: 4 Ways; 2nd On Call: Dr R Jawad
 
 **CT Night Radiographer** Thomas Joseph
 

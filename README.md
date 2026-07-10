@@ -161,7 +161,7 @@ NEEDS CHECKING — Duty rota checked by Lisa on 3 July.  not yet verified Collet
 
 #### Tuesday 14
 
-**DR AM** Dr Yahya / Sobia Khan / Dr Agamy
+**DR AM** Dr Yahya / Mehrab Durrani / Dr Agamy
 
 **DR PM** Dr Vydianath / Rajat Bhardwaj / Dr Khatoon
 
@@ -189,7 +189,7 @@ NEEDS CHECKING — Duty rota checked by Lisa on 3 July.  not yet verified Collet
 
 #### Thursday 16
 
-**DR AM** Dr Pang / Mimi Li / Dr Yahya
+**DR AM** Dr Jawad 9 am to 11.30 am, Dr Pang from 11.30/ Mimi Li / Dr Yahya
 
 **DR PM** Dr Bapusamy / Amandeep Pahal / Dr Rafati
 

@@ -1,5 +1,5 @@
 ### JULY 2026
-NEEDS CHECKING — Duty rota checked by Lisa on 3 July.  not yet verified Collette.
+NEEDS CHECKING — Duty rota checked by Lisa on 13 July.  not yet verified Collette.
 
 #### Wednesday 1
 
@@ -177,7 +177,7 @@ NEEDS CHECKING — Duty rota checked by Lisa on 3 July.  not yet verified Collet
 
 **DR AM** Dr Agamy / Amandeep Pahal / Dr Chaudhary
 
-**DR PM** Dr Jawad / Yuuki Na / Dr Gupta
+**DR PM** Dr Jawad / Yuuki Na / Dr Rosewarne
 
 **Peripheral CTA** Dr Sarang / Dr Dyer (ZS / JD)
 

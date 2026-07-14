@@ -125,7 +125,7 @@ NEEDS CHECKING — Duty rota checked by Lisa on 13 July.  not yet verified Colle
 
 **On-Call 5.00pm – 9.00pm** 1st On Call: Dr V Popa-Nimigean; 2nd On Call: Dr A Agamy (A)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr A Agamy (A)
+**On-Call 9.00pm – 9.00am** 1st On Call: 4 Ways; 2nd On Call: Dr A Agamy (A)
 
 **CT Night Radiographer** Allie Capener
 
@@ -133,7 +133,7 @@ NEEDS CHECKING — Duty rota checked by Lisa on 13 July.  not yet verified Colle
 
 **On-Call 9.00am – 9.00pm** 1st On Call: Dr A Pahal; 2nd On Call: Dr A Agamy (A) / Dr W Pang (B)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr A Agamy (A) / Dr W Pang (B)
+**On-Call 9.00pm – 9.00am** 1st On Call: 4 Ways; 2nd On Call: Dr A Agamy (A) / Dr W Pang (B)
 
 **CT Night Radiographer** Allie Capener
 
@@ -141,7 +141,7 @@ NEEDS CHECKING — Duty rota checked by Lisa on 13 July.  not yet verified Colle
 
 **On-Call 9.00am – 9.00pm** 1st On Call: Dr A Pahal; 2nd On Call: Dr A Agamy (A) / Dr W Pang (B)
 
-**On-Call 9.00pm – 9.00am** 1st On Call: Dr A Gulamhussein; 2nd On Call: Dr A Agamy (A) / Dr W Pang (B)
+**On-Call 9.00pm – 9.00am** 1st On Call: 4 Ways; 2nd On Call: Dr A Agamy (A) / Dr W Pang (B)
 
 **CT Night Radiographer** Allie Capener
 
@@ -163,7 +163,7 @@ NEEDS CHECKING — Duty rota checked by Lisa on 13 July.  not yet verified Colle
 
 **DR AM** Dr Yahya / Mehrab Durrani / Dr Agamy
 
-**DR PM** Dr Vydianath / Rajat Bhardwaj / Dr Khatoon
+**DR PM** Dr Vydianath / 1-3pm Dominic Catlow, 3pm-5pm Syed Zaidi / Dr Khatoon
 
 **Peripheral CTA** Dr Sarang (ZS)
 

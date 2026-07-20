@@ -247,7 +247,7 @@ NEEDS CHECKING — Duty rota checked by Lisa on 20 July.  not yet verified Colle
 
 #### Tuesday 21
 
-**DR AM** Dr Khan / Dominic Catlow / Dr Blakeman
+**DR AM** Dr Khan / Mimi Li / Dr Blakeman
 
 **DR PM** Dr Vydianath / Powel Sokal / Dr Azam
 
@@ -375,7 +375,7 @@ NEEDS CHECKING — Duty rota checked by Lisa on 20 July.  not yet verified Colle
 
 #### Friday 31
 
-**DR AM** Dr Vydianath / Ali Gulamhussein / Dr Thomas
+**DR AM** Dr Vydianath / Dominic Catlow / Dr Thomas
 
 **DR PM** Dr Khan / Mehrab Durrani / Dr Collins
 

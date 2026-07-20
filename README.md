@@ -1,5 +1,5 @@
 ### JULY 2026
-NEEDS CHECKING — Duty rota checked by Lisa on 13 July.  not yet verified Collette.
+NEEDS CHECKING — Duty rota checked by Lisa on 20 July.  not yet verified Collette.
 
 #### Wednesday 1
 

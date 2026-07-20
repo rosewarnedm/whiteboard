@@ -239,7 +239,7 @@ NEEDS CHECKING — Duty rota checked by Lisa on 13 July.  not yet verified Colle
 
 **Peripheral CTA** Dr Dyer (JD)
 
-**On-Call 5.00pm – 9.00pm** 1st On Call: Dr K Cole; 2nd On Call: Dr A Bapusamy
+**On-Call 5.00pm – 9.00pm** 1st On Call: Dr G Bhalla; 2nd On Call: Dr A Bapusamy
 
 **On-Call 9.00pm – 9.15am** 1st On Call: Dr A Pahal; 2nd On Call: Dr A Bapusamy
 
@@ -289,9 +289,9 @@ NEEDS CHECKING — Duty rota checked by Lisa on 13 July.  not yet verified Colle
 
 #### Friday 24
 
-**DR AM** Dr Li / Khyle Cole / TBA
+**DR AM** Dr Li / Khyle Cole / Dr Khan
 
-**DR PM** Dr Mahmood / Powel Sokal / Dr Khan
+**DR PM** Dr Mahmood / Powel Sokal / Dr Bapusamy
 
 **Peripheral CTA** Dr Sirakaya (MS)
 
